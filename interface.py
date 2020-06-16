@@ -6,7 +6,10 @@ except:
     from app.botAIapi.marionbotapi.main import *
 import time
 
-load_weights = tl.files.load_npz(name='saved/model_16-06-2020_2.npz')
+try:
+    load_weights = tl.files.load_npz(name='saved/model_16-06-2020_2.npz')
+except:
+    load_weights = tl.files.load_npz(name='app/botAIapi/marionbotapi/saved/model_16-06-2020_2.npz')
 tl.files.assign_weights(load_weights, model_)
 
 def answer(input):
