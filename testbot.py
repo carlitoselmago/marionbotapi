@@ -9,10 +9,9 @@ tl.files.assign_weights(load_weights, model_)
 
 #model = tl.files.load_npz(path='saved', name='model_15-06-2020.npz')
 
-print()
 
 def respond(input):
-    sentence = inference("Hello Marion!!!", 3)
+    sentence = inference(input, 3)
     response=' '.join(sentence)
     return response
 
