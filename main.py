@@ -15,13 +15,14 @@ from tensorlayer.cost import cross_entropy_seq, cross_entropy_seq_with_mask
 from tqdm import tqdm
 from sklearn.utils import shuffle
 try:
+    deployed=False
     from data.twitter import data
 except:
     from app.botAIapi.marionbotapi.data.twitter import data
+    deployed=True
 from tensorlayer.models.seq2seq import Seq2seq
 from tensorlayer.models.seq2seq_with_attention import Seq2seqLuongAttention
-import os
-
+import sys,os
 
 
 def initial_setup(data_corpus):
@@ -54,7 +55,10 @@ def inference(seed, top_n):
 
 #if __name__ == "__main__":
 data_corpus = "marion"
-
+if deployed:
+    filename = sys.argv[0]
+    folder=os.path.abspath(filename+"/..")
+    data_corpus = folder+"/marion"
 #data preprocessing
 metadata, trainX, trainY, testX, testY, validX, validY = initial_setup(data_corpus)
 
