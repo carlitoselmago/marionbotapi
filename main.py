@@ -26,7 +26,10 @@ import sys,os
 
 
 def initial_setup(data_corpus):
-    metadata, idx_q, idx_a = data.load_data(PATH='data/{}/'.format(data_corpus))
+    try:
+        metadata, idx_q, idx_a = data.load_data(PATH='data/{}/'.format(data_corpus))
+    except:
+        metadata, idx_q, idx_a = data.load_data(PATH='app/botAIapi/marionbotapi/data/{}/'.format(data_corpus))
     #print(metadata, idx_q, idx_a)
     (trainX, trainY), (testX, testY), (validX, validY) = data.split_dataset(idx_q, idx_a)
     trainX = tl.prepro.remove_pad_sequences(trainX.tolist())
@@ -55,10 +58,7 @@ def inference(seed, top_n):
 
 #if __name__ == "__main__":
 data_corpus = "marion"
-if deployed:
-    filename = sys.argv[0]
-    folder=os.path.abspath(filename+"/..")
-    data_corpus = folder+"/marion"
+
 #data preprocessing
 metadata, trainX, trainY, testX, testY, validX, validY = initial_setup(data_corpus)
 
