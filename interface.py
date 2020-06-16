@@ -1,6 +1,9 @@
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
-from main import *
+try:
+    from main import *
+except:
+    from app.botAIapi.marionbotapi.main import *
 import time
 
 load_weights = tl.files.load_npz(name='saved/model_16-06-2020_2.npz')
