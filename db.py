@@ -230,8 +230,11 @@ class db():
 
     def getAllConversations(self):
         chats=self.getChats()
-
+        print("chats",len(chats))
+        nummessages=0
         conversations=[]
+
+        blacklisted=["http"]
 
         for chat in chats:
             msgs=self.getMessages(chat["id"],False)
@@ -240,12 +243,28 @@ class db():
             speaking=1 #marion
 
             for msg in msgs:
-                conversation.append(msg["text"])
+                block=[]
+                texto=msg["text"]
+                block.append("")
+                if msg["from"]==1:
+                    block.append("MARION:")
+                else:
+                    block.append("LOCUTOR:")
+
+                block.append(texto)
+                nummessages+=1
+                shouldpass=True
+                for b in blacklisted:
+                    if b.upper() in texto.upper():
+                        shouldpass=False
+
+                if shouldpass:
+                    conversation.extend(block)
             conversations.append(conversation)
             #print (conversation)
             #print (msgs)
 
-
+        print("nummessages",nummessages)
         return conversations
         #print(chats)
         #chatid=

@@ -5,8 +5,8 @@ con=db.getConnection()
 
 conversations=db.getAllConversations()[0]
 
-with open('data/chat.txt', 'w') as f:
+with open('data/marion/chatDB.txt', 'w') as f:
     for item in conversations:
-        print (item)
+        #print (item)
 
         f.write("%s\n" % item.strip())
