@@ -1,4 +1,4 @@
-
+﻿
 LOCUTOR:
 Bonjour.
 
@@ -884,8 +884,11 @@ Ah oui. On découvre un regard nouveau sur les outils numériques sur lesquels n
 MARION:
 Si on veut, oui !
 
+LOCUTOR:
+Est-ce une manière de faire prendre conscience qu'Internet n'est pas un lieu neutre ? 
+
 MARION:
-Est-ce une manière de faire prendre conscience qu'Internet n'est pas un lieu neutre ?Internet n’est évidemment pas un lieu neutre, et je ne prétends l’apprendre à personne. 
+Internet n’est évidemment pas un lieu neutre, et je ne prétends l’apprendre à personne. 
 
 LOCUTOR:
 Alors, peut-être raconte-moi dans quel contexte tu travailles ?
@@ -897,7 +900,7 @@ LOCUTOR:
 Par exemple ?
 
 MARION:
- Je suis passée (via Street View) dans des rues en Allemagne où les habitants avaient quasiment tous demandé le floutage de leur maison, c'était très beau, comme dans une sorte de brouillard numérique.
+Je suis passée (via Street View) dans des rues en Allemagne où les habitants avaient quasiment tous demandé le floutage de leur maison, c'était très beau, comme dans une sorte de brouillard numérique.
 
 LOCUTOR:
 D’accord !
@@ -923,8 +926,11 @@ Ah oui.
 MARION:
 D’où mon envie d’y trouver une brèche, un angle d’approche étrange ou inattendu.
 
+LOCUTOR:
+Tu montres une facette d'internet qui efface l'humain et sa personne : tout visage est flouté par un algorithme, tout objet est revendu, peu importe le propriétaire et son lien affectif. 
+
 MARION:
-Tu montres une facette d'internet qui efface l'humain et sa personne : tout visage est flouté par un algorithme, tout objet est revendu, peu importe le propriétaire et son lien affectif.Sur Le Bon Coin il faut tout de même s’enregistrer, avoir un compte, donc ce n’est pas vraiment anonyme. On arrive à apercevoir un bout de vie de la personne qui vend son objet, ne serait-ce que par ce qu’on voit, sur la photo, autour de l’objet vendu : un intérieur domestique, des objets personnels, un jardin... 
+Sur Le Bon Coin il faut tout de même s’enregistrer, avoir un compte, donc ce n’est pas vraiment anonyme. On arrive à apercevoir un bout de vie de la personne qui vend son objet, ne serait-ce que par ce qu’on voit, sur la photo, autour de l’objet vendu : un intérieur domestique, des objets personnels, un jardin... 
 
 LOCUTOR:
 D’accord !
@@ -932,8 +938,11 @@ D’accord !
 MARION:
 Et dans les annonces aussi, on a du personnel : indiquer “cause décès” ou “cause divorce” sur une annonce, c’est finalement céder une information très personnelle dans un but commercial.
 
+LOCUTOR:
+Et dans tes autres projets ? 
+
 MARION:
-Et dans tes autres projets ?Dans Anonymous Gods, on voit la propension qu’a Street View aujourd’hui à flouter pour garantir l’anonymat. Mais au fond, Google a tellement de données personnelles sur chacun de nous qu’il me paraît naïf de penser que la protection de notre anonymat fasse partie de leurs priorités.
+Dans Anonymous Gods, on voit la propension qu’a Street View aujourd’hui à flouter pour garantir l’anonymat. Mais au fond, Google a tellement de données personnelles sur chacun de nous qu’il me paraît naïf de penser que la protection de notre anonymat fasse partie de leurs priorités.
 
 LOCUTOR:
 Au contraire, dans Feel Like Home, tu montres avec humour le danger de l'exposition sur internet. 
@@ -945,10 +954,7 @@ LOCUTOR:
 Mais ne trouves-tu pas ces deux aspects d'Internet totalement paradoxal ? 
 
 MARION:
-Que veux-tu dire ?
-
-MARION:
-Suite à la parution de l’annonce de la location de la chambre sur Airbnb, Paula a effectué une demande de réservation, et nous lui avons demandé de nous ajouter en ami sur Facebook avant de l'accepter comme locataire. 
+Que veux-tu dire ? Suite à la parution de l’annonce de la location de la chambre sur Airbnb, Paula a effectué une demande de réservation, et nous lui avons demandé de nous ajouter en ami sur Facebook avant de l'accepter comme locataire. 
 
 LOCUTOR:
 Ah, elle était obligée de le faire !
@@ -1025,10 +1031,13 @@ C'est le profil Facebook du locataire qui donne le la du projet.
 LOCUTOR:
 Quel est le moment le plus important du projet ?
 
-LOCUTOR:
-Le moment clef reste celui de l’entrée dans la chambre.A l’heure actuelle, nous nous surexposons alors que l'homme devient une donnée fondue dans la masse.
+MARION:
+Le moment clef reste celui de l’entrée dans la chambre.
 
 LOCUTOR:
+A l’heure actuelle, nous nous surexposons alors que l'homme devient une donnée fondue dans la masse.
+
+MARION:
 Tout le monde n’est pas dans une logique de surexposition mais ceux qui le font le font tous pour des raisons différentes : envie de se démarquer, construction de son identité, diffusion de son travail... Le personal branding fait partie du quotidien de beaucoup de monde, c’est évident.  
 
 LOCUTOR:
@@ -1133,7 +1142,7 @@ Avec Ruta Por España, tu crées un récit fictif de voyage à l'aide de presta
 LOCUTOR:
 Est-ce une manière de montrer que même un carnet de bord peut être tronqué par internet ?
 
-LOCUTOR:
+MARION:
 La plupart du temps c’est vraiment sous-payé pour la prestation offerte. Donc dans cet espèce de panorama de la sous-traitance mondiale à moindre prix, j’ai cherché des écrivains du monde entier afin qu’ils me donnent un point de vue romancé sur mes aventures imaginaires en Espagne.  
 
 LOCUTOR:
@@ -1154,14 +1163,14 @@ Comment t’es-tu organisée ?
 MARION:
 C'était très simple, je leur attribuais une ville, un chapitre, je leur fournissais une image comme indice, la seule règle était de ne pas me faire mourir afin que je puisse continuer le voyage avec un minimum de cohérence.
 
-MARION:
+LOCUTOR:
 Qu'est-ce qu'on obtient, pour 5 dollars, d’un écrivain sur Fiverr ? 
 
 MARION:
 Parfois quelques lignes, parfois plusieurs pages, très souvent du copier-coller.
 
 LOCUTOR:
-Beaucoup de voyages fictifs, pourtant, tu voyages ! 
+Beaucoup de voyages fictifs, et pourtant, tu voyages ! 
 
 MARION:
 Oui, trop à mon goût parfois, même si ça sonne terriblement privilégié de dire ceci.
@@ -1188,7 +1197,7 @@ LOCUTOR:
 Autre critique que je retrouve dans ton travail, celle du monde aseptisé de Disneyland Paris et des infrastructures construites autour de celui-ci.
 
 MARION:
- Ce n’est pas vraiment une critique. 
+Ce n’est pas vraiment une critique. 
 
 LOCUTOR:
 Une étude alors ?
@@ -2373,4 +2382,5 @@ LOCUTOR:
 As-tu un collaborateur récurrent ?
 
 MARION:
-J’ai collaboré à plusieurs reprises avec différents artistes, mais la personne avec qui je travaille le plus souvent est assurément l’artiste et musicien catalan Carlos Carbonell.
+J’ai collaboré à plusieurs reprises avec différents artistes, mais la personne avec qui je travaille le plus souvent est assurément l’artiste et musicien catalan Carlos Carbonell. C’est un génie !
+

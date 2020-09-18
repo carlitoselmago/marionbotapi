@@ -6,7 +6,7 @@ import codecs
 
 textos=[]
 
-blacklisted=["sent an attachment","http","@","+34","+33","0034","0033","Click for","roger de","lluria".".pdf",".doc"]
+blacklisted=["sent an attachment","http","@","+34","+33","0034","0033","Click for","roger de","lluria",".pdf",".doc"]
 
 for filename in sorted(glob.glob('fb/*.html')):
     print(filename)
@@ -51,8 +51,6 @@ for filename in sorted(glob.glob('fb/*.html')):
 
 
     print("total blocks:",blockcount)
-
-
 
 
 with open("fb.txt", 'w') as out:

@@ -1,0 +1,3251 @@
+1
+00:00:22,240 --> 00:00:23,832
+<i>Je dois dire une chose...</i>
+
+2
+00:00:26,600 --> 00:00:28,511
+<i>Cela fait partie de la création.</i>
+
+3
+00:00:28,760 --> 00:00:30,830
+<i>Cela me dépasse, et de loin.</i>
+
+4
+00:00:34,320 --> 00:00:36,834
+<i>Mais sans moi nul n'en saurait rien.</i>
+
+5
+00:00:37,360 --> 00:00:39,430
+<i>Car cela n'existerait pas.</i>
+
+6
+00:00:41,480 --> 00:00:44,472
+<i>Personne ne saurait</i>
+<i>qui était Lajos Balatony,</i>
+
+7
+00:00:44,720 --> 00:00:49,510
+<i>d'où il venait, où il allait, qui</i>
+<i>étaient son père ou son grand-père.</i>
+
+8
+00:00:50,880 --> 00:00:55,590
+<i>C'est important, car nous assistons
+ici à la fin de quelque chose.</i>
+
+9
+00:00:56,880 --> 00:01:00,350
+<i>Or, s'il y a une fin,</i>
+<i>le début importe tout autant.</i>
+
+10
+00:01:00,640 --> 00:01:03,473
+TAXIDERMIE
+
+11
+00:03:55,040 --> 00:03:56,189
+Morosgoványi !
+
+12
+00:03:56,920 --> 00:03:58,433
+À vos ordres !
+
+13
+00:04:23,160 --> 00:04:26,311
+Quel jour sommes-nous aujourd'hui,
+Morosgoványi ?
+
+14
+00:04:26,520 --> 00:04:28,033
+Samedi, mon lieutenant.
+
+15
+00:04:28,640 --> 00:04:30,551
+Le deuxième samedi du mois.
+
+16
+00:04:30,800 --> 00:04:32,950
+Samedi du bain, mon lieutenant.
+
+17
+00:04:37,120 --> 00:04:39,839
+Quelles sont les obligations
+d'une ordonnance
+
+18
+00:04:40,280 --> 00:04:42,953
+un samedi de bain, Morosgoványi ?
+
+19
+00:04:43,160 --> 00:04:45,833
+L'ordonnance a l'obligation
+
+20
+00:04:46,040 --> 00:04:48,952
+d'installer dans la cuisine
+bien chauffée
+
+21
+00:04:49,160 --> 00:04:51,390
+l'auge faisant office de baignoire,
+
+22
+00:04:51,640 --> 00:04:55,189
+de la stabiliser par quatre
+ou six cales selon les besoins,
+
+23
+00:04:55,400 --> 00:04:57,789
+puis, à l'aide de seaux
+dédiés à cette fin,
+
+24
+00:04:58,000 --> 00:05:01,629
+de la remplir d'eau bouillie,
+à la température voulue
+
+25
+00:05:01,840 --> 00:05:03,831
+selon les désirs et la personne.
+
+26
+00:05:04,080 --> 00:05:07,470
+Qu'est-ce qui fait bouillir l'eau,
+Morosgoványi ?
+
+27
+00:05:07,680 --> 00:05:09,910
+C'est le feu, mon lieutenant.
+
+28
+00:05:10,120 --> 00:05:13,908
+C'est dans le coin
+est-sud-est de la cour
+
+29
+00:05:14,120 --> 00:05:16,918
+à l'emplacement dit du feu,
+que le feu
+
+30
+00:05:17,440 --> 00:05:18,714
+doit être installé.
+
+31
+00:05:18,920 --> 00:05:19,830
+Après ?
+
+32
+00:05:21,000 --> 00:05:25,039
+Après avoir coupé du bois
+aux dimensions voulues.
+
+33
+00:05:25,640 --> 00:05:27,471
+Les dimensions voulues ?
+
+34
+00:05:28,000 --> 00:05:30,150
+Vingt sur cinq sur cinq.
+
+35
+00:05:32,120 --> 00:05:33,792
+Centimètres.
+
+36
+00:05:35,280 --> 00:05:36,554
+Après ?
+
+37
+00:05:36,760 --> 00:05:38,990
+Après vous avoir accompagné...
+
+38
+00:05:39,200 --> 00:05:40,519
+Après ?
+
+39
+00:05:41,120 --> 00:05:44,590
+Après avoir gonflé
+les pneus du vélo.
+
+40
+00:05:44,960 --> 00:05:47,474
+- Après ?
+- La corvée de chiottes.
+
+41
+00:05:47,720 --> 00:05:49,870
+- Après ?
+- Le fumier sorti.
+
+42
+00:05:50,520 --> 00:05:51,953
+Après ?
+
+43
+00:05:52,200 --> 00:05:53,474
+La paille rentrée.
+
+44
+00:05:53,680 --> 00:05:56,194
+À l'envers, Morosgoványi,
+à l'envers.
+
+45
+00:05:57,040 --> 00:05:58,109
+À vos ordres !
+
+46
+00:06:02,880 --> 00:06:03,790
+Après ?
+
+47
+00:06:04,280 --> 00:06:06,919
+Les boutons du capitaine astiqués.
+
+48
+00:06:07,120 --> 00:06:08,030
+Après ?
+
+49
+00:06:08,240 --> 00:06:11,312
+L'exécution des manœuvres du jour.
+
+50
+00:06:11,560 --> 00:06:12,390
+Après ?
+
+51
+00:06:12,560 --> 00:06:15,154
+Le cochon nourri.
+
+52
+00:06:19,160 --> 00:06:20,479
+Correct.
+
+53
+00:06:21,680 --> 00:06:22,829
+Et ?
+
+54
+00:06:23,840 --> 00:06:27,310
+Que ne doit pas faire l'ordonnance,
+Morosgoványi ?
+
+55
+00:06:27,560 --> 00:06:31,269
+Mon lieutenant, en aucune
+circonstance il ne doit épier.
+
+56
+00:06:31,520 --> 00:06:33,033
+Et s'il épie ?
+
+57
+00:06:33,360 --> 00:06:35,590
+Une balle dans son sale bec !
+
+58
+00:06:35,800 --> 00:06:38,360
+Dans son bec de lièvre,
+Morosgoványi !
+
+59
+00:06:38,560 --> 00:06:40,710
+À vos ordres, mon lieutenant !
+
+60
+00:07:05,200 --> 00:07:06,679
+Attends, pas si vite !
+
+61
+00:07:06,880 --> 00:07:08,871
+C'est trop, c'est trop.
+
+62
+00:07:09,440 --> 00:07:11,271
+Attends, pas si vite !
+
+63
+00:07:12,040 --> 00:07:13,553
+Encore un peu.
+
+64
+00:07:14,320 --> 00:07:16,390
+Bon, bon ! C'est trop !
+
+65
+00:07:18,280 --> 00:07:19,599
+Allez, sors d'ici !
+
+66
+00:07:20,120 --> 00:07:23,112
+T'as rien de mieux à faire ?
+Allez, sors !
+
+67
+00:07:23,480 --> 00:07:24,754
+Qu'as-tu à sourire ?
+
+68
+00:08:08,840 --> 00:08:10,671
+C'est ça, l'essentiel.
+
+69
+00:08:11,320 --> 00:08:13,390
+Il a raison, le poète.
+
+70
+00:08:14,200 --> 00:08:17,351
+Ça sert à quoi une bite
+qui se dresse ?
+
+71
+00:08:17,800 --> 00:08:19,472
+Qui peut savoir?
+
+72
+00:08:19,680 --> 00:08:21,591
+N'est-ce pas, Morosgoványi ?
+
+73
+00:08:21,800 --> 00:08:23,199
+Oui, mon lieutenant.
+
+74
+00:08:29,160 --> 00:08:31,754
+En outre, je demande, Morosgoványi,
+
+75
+00:08:31,960 --> 00:08:34,110
+carrément, directement,
+
+76
+00:08:34,640 --> 00:08:36,710
+existe-t-il plus important
+
+77
+00:08:37,040 --> 00:08:39,349
+que le con d'une femme ?
+
+78
+00:08:40,040 --> 00:08:42,600
+Vous appelez ça comme vous voulez,
+
+79
+00:08:43,280 --> 00:08:44,872
+c'est tout de même le con
+
+80
+00:08:48,120 --> 00:08:51,192
+qui est le dénominateur commun.
+
+81
+00:08:52,240 --> 00:08:53,832
+Pas vrai ?
+
+82
+00:08:54,960 --> 00:08:56,473
+Et si c'est pas le cas,
+
+83
+00:08:57,000 --> 00:08:58,911
+c'est parce que c'est non,
+
+84
+00:09:00,280 --> 00:09:01,952
+ou parce que c'est laid.
+
+85
+00:09:03,240 --> 00:09:05,151
+C'est ça, oui.
+
+86
+00:09:05,920 --> 00:09:07,239
+Mal lavé.
+
+87
+00:09:08,400 --> 00:09:09,310
+Disons,
+
+88
+00:09:09,480 --> 00:09:10,469
+dégueulasse.
+
+89
+00:09:10,720 --> 00:09:11,630
+À vos ordres.
+
+90
+00:09:12,280 --> 00:09:14,510
+Je suis d'accord pour dire
+
+91
+00:09:14,800 --> 00:09:17,473
+que sous la plume des poètes
+
+92
+00:09:17,680 --> 00:09:20,911
+c'est le calice de l'amour
+
+93
+00:09:22,000 --> 00:09:23,911
+ou un lys couvert de rosée...
+
+94
+00:09:24,600 --> 00:09:26,033
+Ou, disons...
+
+95
+00:09:26,640 --> 00:09:27,550
+la minette.
+
+96
+00:09:29,280 --> 00:09:31,191
+Aucun doute là-dessus.
+
+97
+00:09:32,040 --> 00:09:34,110
+Ou, comme c'est dans la chanson...
+
+98
+00:09:35,000 --> 00:09:36,353
+Comment c'est déjà ?
+
+99
+00:09:36,680 --> 00:09:39,990
+<i>Si tu étais bouton de rose,</i>
+
+100
+00:09:40,560 --> 00:09:42,073
+<i>je serais l'abeille...</i>
+
+101
+00:09:45,320 --> 00:09:47,311
+<i>Je volerais vers toi en bourdonnant.</i>
+
+102
+00:09:48,520 --> 00:09:50,590
+Mais ce ne sont que des mots. 
+
+103
+00:09:51,320 --> 00:09:52,594
+Pour sûr !
+
+104
+00:09:53,320 --> 00:09:56,153
+Par courtoisie, par politesse.
+
+105
+00:09:57,280 --> 00:09:59,430
+Carle plus souvent, on n'entend
+
+106
+00:09:59,680 --> 00:10:02,069
+que bel et bien le con,
+
+107
+00:10:02,320 --> 00:10:04,072
+c'est à ça qu'on pense.
+
+108
+00:10:04,760 --> 00:10:06,273
+Tu me comprends ?
+
+109
+00:10:07,640 --> 00:10:08,550
+Le con !
+
+110
+00:10:11,040 --> 00:10:13,110
+Car, écoute-moi, Vendel.
+
+111
+00:10:20,600 --> 00:10:22,670
+Moi, j'ai une théorie...
+
+112
+00:10:23,760 --> 00:10:26,832
+C'est pas le con
+qui tourne autour du monde,
+
+113
+00:10:27,040 --> 00:10:31,670
+c'est le monde qui tourne
+autour du con.
+
+114
+00:10:33,000 --> 00:10:34,399
+Erno ! Le déjeuner !
+
+115
+00:10:35,120 --> 00:10:36,951
+Vous êtes bien bavard !
+
+116
+00:10:37,280 --> 00:10:38,269
+Déguerpissez !
+
+117
+00:12:00,720 --> 00:12:03,359
+Leona, pas maintenant !
+
+118
+00:12:08,800 --> 00:12:10,199
+Attrape-moi !
+
+119
+00:12:34,280 --> 00:12:37,511
+Allez, viens vite !
+
+120
+00:12:49,400 --> 00:12:51,868
+Viens, lance, allez !
+
+121
+00:13:57,160 --> 00:13:58,832
+Les filles !
+
+122
+00:14:00,560 --> 00:14:02,073
+Allez-vous coucher !
+
+123
+00:14:04,920 --> 00:14:06,319
+Les filles !
+
+124
+00:14:07,560 --> 00:14:09,551
+Au lit !
+
+125
+00:14:22,960 --> 00:14:24,439
+Mademoiselle !
+
+126
+00:14:26,160 --> 00:14:27,479
+Dors tranquille !
+
+127
+00:14:32,440 --> 00:14:34,431
+Ne crains rien pour ta ligne,
+
+128
+00:14:35,160 --> 00:14:37,799
+je veux te voir bien grosse.
+
+129
+00:14:39,480 --> 00:14:41,471
+Fais de beaux rêves.
+
+130
+00:14:46,400 --> 00:14:49,870
+<i>Une pauvre petite</i>
+
+131
+00:14:50,120 --> 00:14:52,509
+<i>orpheline,</i>
+
+132
+00:14:54,440 --> 00:14:59,468
+<i>elle n'a pas de père ni de mère</i>
+
+133
+00:14:59,800 --> 00:15:03,110
+<i>pour l'aimer.</i>
+
+134
+00:15:04,560 --> 00:15:08,189
+<i>Elle n'a qu'une seule amie,</i>
+
+135
+00:15:08,560 --> 00:15:11,632
+<i>la solitude.</i>
+
+136
+00:15:12,600 --> 00:15:17,628
+<i>Elle lave son linge au ruisseau</i>
+
+137
+00:15:18,440 --> 00:15:22,513
+<i>matin et soir.</i>
+
+138
+00:15:23,400 --> 00:15:26,631
+<i>Sa marâtre</i>
+
+139
+00:15:26,840 --> 00:15:29,832
+<i>la rabroue sans cesse.</i>
+
+140
+00:15:30,600 --> 00:15:34,434
+<i>La pauvre orpheline</i>
+
+141
+00:15:34,960 --> 00:15:37,520
+<i>a une triste existence.</i>
+
+142
+00:15:39,880 --> 00:15:42,872
+<i>Au petit ruisseau</i>
+
+143
+00:15:43,080 --> 00:15:46,709
+<i>la jeune fille</i>
+
+144
+00:15:47,240 --> 00:15:49,800
+<i>son linge blanc</i>
+
+145
+00:15:50,000 --> 00:15:53,709
+<i>lave, lave.</i>
+
+146
+00:17:14,200 --> 00:17:18,079
+<i>La petite fille aux allumettes</i>
+
+147
+00:17:46,280 --> 00:17:48,350
+N'aie pas peur de moi !
+
+148
+00:18:01,160 --> 00:18:03,390
+Mais tu trembles.
+
+149
+00:18:10,760 --> 00:18:14,389
+Veux-tu que pour toi
+je parsème le ciel d'étoiles ?
+
+150
+00:18:14,600 --> 00:18:15,953
+Oui.
+
+151
+00:18:18,880 --> 00:18:20,472
+Tu aimerais ?
+
+152
+00:18:20,840 --> 00:18:22,068
+Oui.
+
+153
+00:18:26,120 --> 00:18:28,111
+Tu aimerais vraiment ?
+
+154
+00:18:28,520 --> 00:18:31,353
+- Oui.
+- Des étoiles par millions...
+
+155
+00:18:32,480 --> 00:18:34,471
+Mais alors tu dois m'aider.
+
+156
+00:18:36,880 --> 00:18:38,552
+Donne-moi ta main.
+
+157
+00:18:39,280 --> 00:18:40,759
+Oui, là.
+
+158
+00:18:43,560 --> 00:18:45,869
+Je vole !
+
+159
+00:19:52,400 --> 00:19:54,072
+Santé !
+
+160
+00:19:54,800 --> 00:19:56,119
+Messieurs !
+
+161
+00:19:56,320 --> 00:19:58,550
+A nous ! À la victoire finale !
+
+162
+00:20:59,480 --> 00:21:01,869
+Alors, ça vient ?
+
+163
+00:21:37,040 --> 00:21:39,110
+La provision de chandelles,
+
+164
+00:21:39,600 --> 00:21:41,352
+Morosgoványi.
+
+165
+00:22:39,920 --> 00:22:41,194
+Morosgoványi !
+
+166
+00:22:48,680 --> 00:22:54,038
+Madame ne va pas attraper froid
+en sortant du lit comme ça ?
+
+167
+00:22:54,920 --> 00:22:57,753
+Le froid dépendra de vous, Vendel,
+
+168
+00:22:58,320 --> 00:23:00,311
+si vous êtes adroit.
+
+169
+00:23:06,480 --> 00:23:08,471
+Grattez, Morosgoványi,
+
+170
+00:23:10,320 --> 00:23:12,151
+grattez !
+
+171
+00:23:13,600 --> 00:23:15,431
+Grattez donc !
+
+172
+00:23:20,640 --> 00:23:22,039
+Grattez donc !
+
+173
+00:23:22,640 --> 00:23:23,550
+Grattez !
+
+174
+00:23:32,720 --> 00:23:34,312
+Vous me déshabillez, bêta ?
+
+175
+00:23:35,440 --> 00:23:36,953
+C'est l'hiver.
+
+176
+00:23:40,360 --> 00:23:42,032
+Faut pas exposer
+
+177
+00:23:42,480 --> 00:23:44,550
+l'attirail d'une femme au froid,
+
+178
+00:23:45,000 --> 00:23:49,152
+Morosgoványi,
+il faut lui donner de la chaleur.
+
+179
+00:23:49,640 --> 00:23:51,153
+À vos ordres.
+
+180
+00:23:53,200 --> 00:23:54,110
+Toi.
+
+181
+00:24:04,320 --> 00:24:07,312
+Attends, je vais vomir mes tripes !
+
+182
+00:24:08,440 --> 00:24:10,954
+Je vais te baiser, Irma !
+
+183
+00:24:12,280 --> 00:24:13,793
+Tu en dis des choses !
+
+184
+00:24:17,280 --> 00:24:19,669
+Et comment ! Nom de Dieu !
+
+185
+00:24:30,400 --> 00:24:34,279
+Baise mon con,
+enfonce ta pine dedans à fond.
+
+186
+00:24:34,520 --> 00:24:38,752
+Baise mon con,
+enfonce ta pine dedans à fond.
+
+187
+00:24:44,920 --> 00:24:47,229
+Ma truie engraissée, ma mignonne.
+
+188
+00:24:47,560 --> 00:24:48,549
+Ma truie à moi.
+
+189
+00:24:50,600 --> 00:24:51,749
+Ma truie,
+
+190
+00:24:52,000 --> 00:24:53,399
+ma cochonne,
+
+191
+00:24:54,120 --> 00:24:55,109
+mon porcelet.
+
+192
+00:24:55,360 --> 00:24:57,032
+Ma mignonne !
+
+193
+00:24:58,720 --> 00:25:00,199
+Dis-moi, Leona, Vilma !
+
+194
+00:25:01,000 --> 00:25:01,910
+Dis-moi Irma,
+
+195
+00:25:03,360 --> 00:25:05,669
+dis-moi, ma petite Irma !
+
+196
+00:25:06,160 --> 00:25:07,070
+Toi !
+
+197
+00:25:07,840 --> 00:25:09,353
+Crions !
+
+198
+00:25:09,800 --> 00:25:10,869
+Ensemble !
+
+199
+00:25:11,480 --> 00:25:12,959
+Et rigolons !
+
+200
+00:25:13,600 --> 00:25:14,874
+Ensemble !
+
+201
+00:25:15,120 --> 00:25:18,999
+Et grognons !
+La vie est trop courte !
+
+202
+00:25:19,600 --> 00:25:21,192
+Et enfonce-la !
+
+203
+00:25:21,440 --> 00:25:23,351
+Enfonce-la !
+
+204
+00:25:23,560 --> 00:25:24,879
+Enfonce !
+
+205
+00:25:25,080 --> 00:25:27,071
+Autant que tu peux !
+
+206
+00:25:47,240 --> 00:25:48,832
+Morosgoványi !
+
+207
+00:25:53,120 --> 00:25:54,030
+À vos ordres !
+
+208
+00:28:21,760 --> 00:28:25,070
+Mon petit Kálmán, mon enfant !
+
+209
+00:28:45,400 --> 00:28:47,914
+<i>À l'instant même,</i>
+
+210
+00:28:48,120 --> 00:28:52,033
+<i>si on en croit la balance,</i>
+
+211
+00:28:52,240 --> 00:28:55,869
+<i>en 2e position,</i>
+<i>devant Hristo Mehmedov,</i>
+
+212
+00:28:56,080 --> 00:28:58,833
+<i>talonnant</i>
+<i>le champion soviétique Douharine,</i>
+
+213
+00:28:59,040 --> 00:29:01,713
+<i>se place notre jeune</i>
+<i>Kálmán Balatony</i>,
+
+214
+00:29:03,120 --> 00:29:04,348
+<i>juste derrière...</i>
+
+215
+00:29:04,600 --> 00:29:07,910
+Vas-y, la seconde place
+est déjà sûre...
+
+216
+00:29:08,160 --> 00:29:10,469
+<i>Béla Miszlényi est à la 4e place.</i>
+
+217
+00:29:11,160 --> 00:29:15,233
+<i>L'athlète du 12e régiment</i>
+<i>du front de libération bulgare</i>
+
+218
+00:29:15,440 --> 00:29:18,193
+<i>tient le rythme dicté</i>
+<i>par les 2 Hongrois</i>,
+
+219
+00:29:18,400 --> 00:29:21,870
+<i>à cet instant on ne peut pas</i>
+<i>prévoir le résultat.</i>
+
+220
+00:29:22,120 --> 00:29:25,032
+<i>La 1re place</i>
+<i>est déjà définitive, mais</i>
+
+221
+00:29:25,280 --> 00:29:28,750
+<i>l'incertitude persiste</i>
+<i>quant aux 2e, 3e et 4e places.</i>
+
+222
+00:29:28,960 --> 00:29:31,110
+<i>Voici la situation à présent:</i>
+
+223
+00:29:31,400 --> 00:29:35,393
+<i>Premier Ivan Douharine,</i>
+<i>suivi de Kálmán Balatony pour Honvéd !</i>
+
+224
+00:29:35,640 --> 00:29:40,031
+<i>Allez, Kálmán ! Allez, Honvéd !</i>
+<i>Puis Mehmedov, puis Béla Miszlényi.</i>
+
+225
+00:29:41,280 --> 00:29:43,271
+Allez, les Hongrois !
+
+226
+00:29:45,680 --> 00:29:49,673
+Allez, Balatony ! Allez, Miszlényi !
+
+227
+00:29:49,880 --> 00:29:53,429
+Allez, les Hongrois !
+
+228
+00:29:54,680 --> 00:29:58,070
+<i>Balatony pourra-t-il tenir</i>
+<i>cette délicate 2e place</i> ?
+
+229
+00:29:58,920 --> 00:30:01,992
+<i>Il peut !</i>
+<i>58 secondes avant la fin</i>,
+
+230
+00:30:02,480 --> 00:30:04,232
+<i>Balatony
+<i>entame un finish incroyable.</i>
+
+231
+00:30:04,480 --> 00:30:05,993
+<i>Miszlényi fait de même.</i>
+
+232
+00:30:06,280 --> 00:30:07,349
+<i>Miszlényi est 3e.</i>
+
+233
+00:30:07,600 --> 00:30:08,669
+Bouffez, les gars !
+
+234
+00:30:08,920 --> 00:30:12,469
+<i>Balatony n'est plus</i>
+<i>qu'à 1 centième de Douharine !</i>
+
+235
+00:30:12,760 --> 00:30:15,672
+<i>Mais le Bulgare l'emporte.</i>
+
+236
+00:31:29,800 --> 00:31:31,074
+Elle te plaît, hein ?
+
+237
+00:31:32,680 --> 00:31:34,193
+Laisse-la tomber.
+
+238
+00:31:34,640 --> 00:31:36,710
+T'as pas arrêté de la reluquer.
+
+239
+00:31:36,920 --> 00:31:38,512
+Je suis quand même 2e.
+
+240
+00:31:38,720 --> 00:31:40,233
+C'est un peu grâce à moi.
+
+241
+00:31:41,880 --> 00:31:43,029
+Petit poussin !
+
+242
+00:31:46,200 --> 00:31:48,589
+La compète est bien plus importante.
+
+243
+00:31:52,120 --> 00:31:54,031
+Elle sera ma femme.
+
+244
+00:31:54,640 --> 00:31:55,709
+T'es dingue ?
+
+245
+00:31:56,120 --> 00:31:57,189
+Tu la connais même pas.
+
+246
+00:31:57,440 --> 00:31:58,953
+Tu fixes quoi, connard ?
+
+247
+00:32:00,880 --> 00:32:03,553
+T'as oublié où t'es, poussin ?
+
+248
+00:32:03,960 --> 00:32:06,713
+Alors ouvre les yeux !
+
+249
+00:32:07,280 --> 00:32:09,748
+T'as enfin tes chances,
+tu vas pas tout foirer !
+
+250
+00:32:10,600 --> 00:32:12,511
+Qu'est-ce qui compte, hein ?
+
+251
+00:32:13,320 --> 00:32:14,389
+Le 2e va à Oslo !
+
+252
+00:32:15,240 --> 00:32:16,229
+T'es cinglé ?
+
+253
+00:32:16,440 --> 00:32:17,919
+- Je suis 2e.
+- Comment ?
+
+254
+00:32:18,440 --> 00:32:22,319
+De justesse ! Déconne pas,
+regarde ton plat et bouffe !
+
+255
+00:32:22,520 --> 00:32:23,953
+Ta bouche,
+
+256
+00:32:24,160 --> 00:32:27,789
+elle te sert à manger,
+pas à rouler des pelles.
+
+257
+00:32:28,520 --> 00:32:30,033
+Compris ?
+
+258
+00:32:30,400 --> 00:32:31,310
+Oui, compris.
+
+259
+00:32:31,560 --> 00:32:33,152
+J'espère !
+
+260
+00:32:34,040 --> 00:32:37,191
+Les lipides c'est sec, dangereux,
+
+261
+00:32:38,000 --> 00:32:40,230
+truffé de cochonneries,
+de gaze, de coton.
+
+262
+00:32:40,480 --> 00:32:43,233
+Du lubrifiant
+seulement pour 3 vidanges.
+
+263
+00:32:44,080 --> 00:32:45,354
+Compris ?
+
+264
+00:32:47,200 --> 00:32:48,269
+Béla !
+
+265
+00:32:48,680 --> 00:32:50,750
+Béla, tu soutiens Kálmán.
+
+266
+00:32:50,960 --> 00:32:53,349
+Aie l'œil sur le Russe.
+T'as intérêt.
+
+267
+00:32:53,600 --> 00:32:56,068
+Le Soviétique premier,
+nous seconds !
+
+268
+00:32:58,760 --> 00:33:01,479
+Allez Honvéd ! Allez les Hongrois !
+
+269
+00:33:20,040 --> 00:33:24,079
+Le Bulgare a tout fait !
+Le coup de Vassiliev, le Garmeyer...
+
+270
+00:33:24,840 --> 00:33:26,273
+Qu'est-ce qui cloche ?
+
+271
+00:33:26,480 --> 00:33:29,552
+Le Garmeyer ?
+Pour une soupe de fayots ?
+
+272
+00:33:29,960 --> 00:33:31,473
+-T'as pas remarqué ?
+- Non.
+
+273
+00:33:31,720 --> 00:33:32,994
+Et pourquoi ?
+
+274
+00:33:33,360 --> 00:33:35,590
+L'arbitre aussi reluque la nana !
+
+275
+00:33:35,880 --> 00:33:37,632
+Mais je vais te dire, moi,
+
+276
+00:33:37,840 --> 00:33:41,469
+tu ne pourras être que 3e,
+or la championne sera au champion.
+
+277
+00:33:49,160 --> 00:33:50,309
+D'accord.
+
+278
+00:33:50,560 --> 00:33:52,312
+La championne au champion !
+
+279
+00:33:55,040 --> 00:33:56,314
+<i>Solide !</i>
+
+280
+00:33:56,560 --> 00:33:59,711
+<i>Plus solide que l'acier l</i>
+
+281
+00:34:01,840 --> 00:34:04,912
+<i>À la Spartakiade des armées amies</i>,
+<i>nous saluons</i>
+
+282
+00:34:05,160 --> 00:34:07,993
+<i>la camarade Gizella Aczél</i>,
+<i>de la filière viande,</i>
+
+283
+00:34:08,240 --> 00:34:13,439
+<i>vainqueur en haricots-saucisses à</i>
+<i>la Rencontre Mondiale de la Jeunesse,</i>
+
+284
+00:34:13,640 --> 00:34:17,189
+<i>ainsi qu'une autre célébrité</i>
+<i>de la bouffe sportive</i>,
+
+285
+00:34:17,400 --> 00:34:21,791
+<i>la camarade mongole Bulgana Bat</i>
+<i>médaille d'or à Pékin en œuf dur.</i>
+
+286
+00:34:24,520 --> 00:34:26,033
+À vos marques !
+
+287
+00:34:32,200 --> 00:34:33,952
+Prêts !
+
+288
+00:34:37,720 --> 00:34:38,948
+Partez !
+
+289
+00:34:43,840 --> 00:34:46,559
+<i>Les gars se lancent</i>
+<i>pour la 2e reprise.</i>
+
+290
+00:34:46,760 --> 00:34:50,389
+<i>La star du Spartacus</i>
+<i>est talonnée par les deux Hongrois.</i>
+
+291
+00:34:51,160 --> 00:34:53,390
+<i>L'issue de la 2e reprise</i>
+<i>est incertaine,</i>
+
+292
+00:34:53,640 --> 00:34:56,871
+<i>avec la véronaise de cheval</i>
+<i>des Soviétiques...</i>
+
+293
+00:34:57,120 --> 00:34:58,030
+Allez, les Hongrois !
+
+294
+00:35:00,000 --> 00:35:01,479
+Tempo, c'est bon.
+
+295
+00:35:01,680 --> 00:35:03,193
+T'es premier, vas-y !
+
+296
+00:35:06,120 --> 00:35:07,553
+<i>Pas possible !</i>
+
+297
+00:35:09,400 --> 00:35:11,709
+<i>La balance de Balatony</i>
+<i>montre 23,5 g</i>
+
+298
+00:35:11,960 --> 00:35:15,032
+<i>ou même 23,7 g en moins</i>
+<i>que celle de Douharine.</i>
+
+299
+00:35:16,560 --> 00:35:19,950
+<i>Balatony à la 1re place,</i>
+<i>un moment historique !</i>
+
+300
+00:35:20,200 --> 00:35:21,952
+<i>Il fait bon être Hongrois !</i>
+
+301
+00:35:22,440 --> 00:35:25,193
+<i>Un tournant</i>
+<i>dans la bouffe sportive !</i>
+
+302
+00:35:26,960 --> 00:35:29,428
+Allez Balatony ! Allez Miszlényi !
+
+303
+00:35:35,640 --> 00:35:37,312
+Allez Balatony !
+
+304
+00:35:37,960 --> 00:35:39,109
+La cuiller !
+
+305
+00:35:43,720 --> 00:35:46,393
+<i>Kálmán a la bouche bloquée !</i>
+
+306
+00:35:46,600 --> 00:35:49,398
+<i>Les autres mangent,</i>
+<i>carle chrono tourne.</i>
+
+307
+00:35:49,600 --> 00:35:50,874
+<i>Balatony ! Kálmán !</i>
+
+308
+00:35:51,360 --> 00:35:52,679
+<i>Camarade !</i>
+
+309
+00:35:52,920 --> 00:35:55,992
+<i>Que fais-tu</i> ?
+<i>C'est pas encore perdu ! Allons !</i>
+
+310
+00:35:57,680 --> 00:36:00,831
+<i>C'est grave. La bouche est bloquée.</i>
+
+311
+00:36:01,120 --> 00:36:02,519
+Je crains même que...
+
+312
+00:36:09,760 --> 00:36:12,832
+Cuba, c'est le paradis socialiste !
+
+313
+00:36:13,040 --> 00:36:14,519
+Ya des oranges partout,
+
+314
+00:36:15,240 --> 00:36:18,391
+on fait pas la queue,
+elles tombent des arbres.
+
+315
+00:36:18,640 --> 00:36:20,232
+Salut, salut !
+
+316
+00:36:22,800 --> 00:36:25,314
+Alors fiston, comment tu vas ?
+
+317
+00:36:26,080 --> 00:36:27,229
+Tu reprends des couleurs...
+
+318
+00:36:27,480 --> 00:36:29,311
+Salut, tricheur !
+
+319
+00:36:30,960 --> 00:36:32,439
+Des fraises au sirop.
+
+320
+00:36:33,480 --> 00:36:34,833
+Tes préférées.
+
+321
+00:36:36,440 --> 00:36:37,350
+Béla Miszlényi.
+
+322
+00:36:37,600 --> 00:36:39,352
+Gizella Aczél. Félicitations.
+
+323
+00:36:41,280 --> 00:36:43,794
+Nous vous connaissons,
+camarade Aczél.
+
+324
+00:36:44,000 --> 00:36:48,152
+Vous êtes brillante, or ce qui compte
+c'est les résultats.
+
+325
+00:36:48,400 --> 00:36:51,392
+Béla a fini second,
+derrière Douharine.
+
+326
+00:36:51,600 --> 00:36:54,592
+Et ceci n'est pas sans conséquence.
+
+327
+00:36:54,800 --> 00:36:56,552
+La Norvège, c'est ça ?
+
+328
+00:36:57,840 --> 00:37:00,638
+La Norvège.
+J'irai au championnat d'Europe.
+
+329
+00:37:02,080 --> 00:37:04,310
+L'essentiel est de te voi rentier.
+
+330
+00:37:05,440 --> 00:37:08,273
+C'est le champion qui dit ça
+
+331
+00:37:08,560 --> 00:37:09,549
+à la championne.
+
+332
+00:37:09,760 --> 00:37:10,670
+Pas vrai, Kálmán ?
+
+333
+00:37:14,440 --> 00:37:15,350
+Voici des bananes.
+
+334
+00:37:16,360 --> 00:37:17,509
+Bien mûres,
+
+335
+00:37:18,160 --> 00:37:19,229
+très bonnes.
+
+336
+00:37:22,160 --> 00:37:24,549
+- Pour vous, camarade ?
+- Non, merci.
+
+337
+00:37:24,880 --> 00:37:25,869
+Je vous dépose ?
+
+338
+00:37:26,400 --> 00:37:27,879
+J'ai une voiture.
+
+339
+00:37:28,120 --> 00:37:29,599
+On peut partir.
+
+340
+00:37:30,520 --> 00:37:32,829
+Ou vous discutez
+encore un peu, Kálmán ?
+
+341
+00:37:35,480 --> 00:37:37,710
+Allez fiston,
+ne te laisse pas aller.
+
+342
+00:37:45,040 --> 00:37:47,429
+Alors, au revoir, Kálmán.
+
+343
+00:37:47,720 --> 00:37:49,551
+Guérissez bien.
+
+344
+00:38:02,320 --> 00:38:04,550
+La mariée est à vendre !
+
+345
+00:38:04,760 --> 00:38:07,752
+Accélérez, accélérez, Messieurs !
+
+346
+00:38:07,960 --> 00:38:09,439
+Soyez pas radins !
+
+347
+00:38:09,640 --> 00:38:13,553
+Souris, Mathias, c'est des noces,
+pas un enterrement !
+
+348
+00:38:13,760 --> 00:38:16,558
+La mariée est à vendre !
+
+349
+00:38:17,240 --> 00:38:19,470
+Plus vite, Mathias !
+
+350
+00:38:21,160 --> 00:38:23,993
+Tu traînes ! Tu vas prendre racine !
+
+351
+00:38:24,200 --> 00:38:26,270
+Merci, Juliska.
+
+352
+00:38:26,640 --> 00:38:29,438
+Hé, Laci, crache-le ton argent !
+
+353
+00:38:29,640 --> 00:38:34,031
+C'est ça, on en prend pas,
+on en met !
+
+354
+00:38:34,280 --> 00:38:37,511
+La mariée est à vendre !
+
+355
+00:38:46,320 --> 00:38:47,673
+Sauvons-nous !
+
+356
+00:38:52,240 --> 00:38:53,150
+D'accord.
+
+357
+00:38:59,440 --> 00:39:01,670
+La mariée se sauve !
+
+358
+00:39:04,640 --> 00:39:05,550
+- Béla ?
+- Béla !
+
+359
+00:39:05,720 --> 00:39:07,790
+Putain, le sale menteur !
+
+360
+00:39:14,160 --> 00:39:17,709
+- Où elle est ?
+- Pas si vite, il faut la mériter !
+
+361
+00:39:18,680 --> 00:39:21,353
+Première épreuve : le chant.
+
+362
+00:39:24,760 --> 00:39:26,671
+Tout doux, fiston !
+
+363
+00:39:26,920 --> 00:39:28,353
+En Norvège,
+
+364
+00:39:29,280 --> 00:39:30,872
+mais viens avec moi.
+
+365
+00:39:37,080 --> 00:39:38,752
+Je te désire, Gizi !
+
+366
+00:39:40,480 --> 00:39:42,789
+Je veux vivre avec toi.
+
+367
+00:39:45,720 --> 00:39:47,312
+Je t'aime, Gizi.
+
+368
+00:40:01,160 --> 00:40:06,951
+<i>C'est trop tôt pour se quitter,</i>
+
+369
+00:40:08,960 --> 00:40:14,910
+<i>Je n'ai eu personne d'autre que toi,</i>
+
+370
+00:40:16,320 --> 00:40:19,710
+<i>Tu m'as pris le sommeil,</i>
+
+371
+00:40:20,200 --> 00:40:23,988
+<i>Je revois ton visage</i>,
+
+372
+00:40:24,600 --> 00:40:30,391
+<i>Je suis toujours hanté</i>
+<i>par une pensée douloureuse :</i>
+
+373
+00:40:31,320 --> 00:40:36,269
+<i>Penseras-tu à moi</i>
+<i>une fois la nuit passée</i> ?
+
+374
+00:40:39,280 --> 00:40:40,554
+<i>Notre sommeil...</i>
+
+375
+00:40:44,240 --> 00:40:48,074
+Gizi, nous partons pour la Norvège !
+
+376
+00:40:49,000 --> 00:40:50,831
+Gizi, tu es à moi, Gizi !
+
+377
+00:40:51,840 --> 00:40:53,671
+Je t'ai gagnée, Gizi !
+
+378
+00:40:54,040 --> 00:40:55,632
+En Norvège !
+
+379
+00:40:57,280 --> 00:41:01,671
+<i>...que tu n'as aimé personne</i>
+<i>d'autre autant que moi.</i>
+
+380
+00:41:05,200 --> 00:41:10,354
+<i>Penseras-tu à moi</i>
+<i>une fois la nuit passée</i> ?
+
+381
+00:41:13,040 --> 00:41:18,114
+<i>Ne détruis pas nos rêves,</i>
+
+382
+00:41:20,680 --> 00:41:23,592
+<i>Mens,</i>
+<i>dis que ça te fait mal aussi...</i>
+
+383
+00:41:26,480 --> 00:41:29,233
+Pista, Józsi, allons !
+
+384
+00:41:32,080 --> 00:41:35,629
+Pali, traîne pas, à la machine !
+
+385
+00:41:40,400 --> 00:41:42,709
+Comment tu tiens ce tuyau, toi ?
+
+386
+00:41:49,240 --> 00:41:50,559
+Excusez-moi.
+
+387
+00:41:52,400 --> 00:41:53,753
+Bonjour.
+
+388
+00:41:53,960 --> 00:41:56,030
+Le camarade Szakács m'a dit...
+
+389
+00:41:56,680 --> 00:41:58,432
+C'était convenu...
+
+390
+00:41:59,640 --> 00:42:00,789
+Mets-toi là.
+
+391
+00:42:06,160 --> 00:42:10,472
+Menu, dessert, semoule au lait.
+
+392
+00:42:25,040 --> 00:42:26,712
+Vous aurez du cacao dessus.
+
+393
+00:42:32,160 --> 00:42:33,673
+Tiens-toi droit !
+
+394
+00:42:36,560 --> 00:42:37,879
+Cuiller en l'air !
+
+395
+00:42:38,360 --> 00:42:39,713
+Toi aussi, c'est ça.
+
+396
+00:42:46,840 --> 00:42:48,193
+Ta cuiller ?
+
+397
+00:42:50,280 --> 00:42:52,032
+attention, à vos marques !
+
+398
+00:42:53,000 --> 00:42:54,319
+Semoule,
+
+399
+00:42:54,520 --> 00:42:55,953
+épaisse,
+
+400
+00:42:56,200 --> 00:42:57,474
+aux grumeaux.
+
+401
+00:43:01,200 --> 00:43:03,714
+On fait travailler ses coudes,
+
+402
+00:43:03,960 --> 00:43:05,029
+on avale pas de travers.
+
+403
+00:43:08,120 --> 00:43:11,192
+Allons, il reste dix secondes,
+
+404
+00:43:11,600 --> 00:43:12,589
+neuf,
+
+405
+00:43:12,800 --> 00:43:14,392
+huit, sept, six, cinq...
+
+406
+00:43:15,040 --> 00:43:16,439
+J'ai fini !
+
+407
+00:43:21,040 --> 00:43:23,031
+Je peux pas le croire !
+
+408
+00:44:00,840 --> 00:44:02,353
+Kirill Gottmann.
+
+409
+00:44:05,440 --> 00:44:06,839
+Kzystof Dihar.
+
+410
+00:44:07,560 --> 00:44:09,312
+Jan BeherKekes.
+
+411
+00:44:11,840 --> 00:44:13,353
+Béla Miszlényi.
+
+412
+00:44:15,240 --> 00:44:16,389
+J'peux pas !
+
+413
+00:44:22,040 --> 00:44:24,270
+C'est plus le même monde !
+
+414
+00:44:26,240 --> 00:44:29,152
+C'est plus pour des gens
+comme moi !
+
+415
+00:44:29,880 --> 00:44:33,190
+Écouter ci, écouter ça,
+tantôt ci, tantôt ça !
+
+416
+00:44:33,560 --> 00:44:35,790
+La Bulgarie et l'URSS raflent tout.
+
+417
+00:44:36,040 --> 00:44:38,508
+- Et Béla Miszlényi.
+- Je l'emmerde !
+
+418
+00:44:40,400 --> 00:44:42,630
+On lui a toujours torché le cul.
+
+419
+00:44:43,200 --> 00:44:45,350
+"Mister Miszlényi, please !"
+
+420
+00:44:46,320 --> 00:44:47,992
+Dilatation de l'œsophage.
+
+421
+00:44:48,240 --> 00:44:50,151
+On est loin de ça !
+
+422
+00:44:53,000 --> 00:44:54,228
+Petit poussin...
+
+423
+00:45:29,440 --> 00:45:31,032
+Vous vous rappelez ?
+
+424
+00:45:32,040 --> 00:45:34,190
+Avec le chocolat <i>Inota,</i>
+
+425
+00:45:35,160 --> 00:45:37,071
+encore à l'état liquide,
+
+426
+00:45:37,560 --> 00:45:40,950
+ni moulée ni découpée,
+et encore chaude...
+
+427
+00:45:41,720 --> 00:45:43,551
+Je devais être en sixième.
+
+428
+00:45:44,480 --> 00:45:48,189
+Un ouvrier nous a dit
+qu'on pouvait en manger à satiété,
+
+429
+00:45:48,960 --> 00:45:51,110
+mais rien dans les poches
+ou le cartable.
+
+430
+00:45:53,600 --> 00:45:55,431
+Il y avait une fille, Ibolya,
+
+431
+00:45:55,840 --> 00:45:57,990
+je voulais l'impressionner,
+
+432
+00:45:58,200 --> 00:46:00,191
+lui montrer ce que je valais,
+
+433
+00:46:00,680 --> 00:46:03,752
+qu'il n'y avait pas
+que le solfège ou la gym.
+
+434
+00:46:04,520 --> 00:46:06,511
+"Vous avez une cuiller
+et du soda ?"
+
+435
+00:46:07,480 --> 00:46:10,074
+J'ai compté dans ma tête.
+
+436
+00:46:10,280 --> 00:46:13,272
+Au premier coup,
+j'ai dû faire 2,20 kg.
+
+437
+00:46:14,880 --> 00:46:17,269
+J'ai eu là ma première ivresse.
+
+438
+00:46:18,000 --> 00:46:19,752
+Ce vibrant bien-être
+
+439
+00:46:20,120 --> 00:46:22,873
+d'avoir un volume
+plus grand que ma taille.
+
+440
+00:46:23,080 --> 00:46:25,310
+Tu te dilates sans cesse du dedans,
+
+441
+00:46:25,640 --> 00:46:27,392
+sans cesse tu grandis,
+
+442
+00:46:27,720 --> 00:46:30,871
+s'ouvrent des cavernes
+inconnues et je...
+
+443
+00:46:31,680 --> 00:46:34,069
+Un môme haut comme trois pommes
+
+444
+00:46:34,320 --> 00:46:36,151
+qui touche à l'essentiel !
+
+445
+00:46:36,800 --> 00:46:39,439
+Je voulais parier
+200 cerises au rhum,
+
+446
+00:46:39,640 --> 00:46:41,631
+c'était chose rare à l'époque,
+
+447
+00:46:41,840 --> 00:46:45,071
+même à Noël, ça partait
+à l'exportation.
+
+448
+00:46:45,680 --> 00:46:48,478
+Mais il m'a dit, fini,
+fallait partir.
+
+449
+00:46:48,720 --> 00:46:50,950
+T'es qu'un putain de menteur,
+j'ai dit.
+
+450
+00:46:51,200 --> 00:46:52,633
+Il a pas osé me taper,
+
+451
+00:46:53,320 --> 00:46:55,629
+il est parti appeler le vigile.
+
+452
+00:46:56,720 --> 00:46:58,073
+Et moi, j'ai dit ?
+
+453
+00:47:00,320 --> 00:47:03,471
+De laisser tomber
+ces minus de la filière viande.
+
+454
+00:47:03,680 --> 00:47:06,433
+Après les entraînements,
+ticket de tram
+
+455
+00:47:07,000 --> 00:47:10,709
+et goûter, pain au salami,
+sirop après les compètes.
+
+456
+00:47:10,920 --> 00:47:12,353
+Je redis pareil.
+
+457
+00:47:13,080 --> 00:47:14,911
+Et on ne conteste pas.
+
+458
+00:47:15,440 --> 00:47:17,590
+Travailler dur, s'exercer !
+
+459
+00:47:18,200 --> 00:47:20,589
+Quand la vitesse
+comptera de nouveau,
+
+460
+00:47:21,080 --> 00:47:23,548
+quand le CIO
+nous aura enfin reconnus,
+
+461
+00:47:24,080 --> 00:47:26,469
+nous montrerons au monde entier
+
+462
+00:47:27,800 --> 00:47:29,950
+que Kálmán Balatony
+
+463
+00:47:30,760 --> 00:47:32,113
+vaut de l'or !
+
+464
+00:47:47,560 --> 00:47:50,074
+Chère camarade,
+bienvenue à l'hôpital,
+
+465
+00:47:50,280 --> 00:47:53,033
+la salle porte le nom
+de l'épouse du martyr Szamueli,
+
+466
+00:47:53,240 --> 00:47:55,959
+voici le cabinet de gynécologie,
+
+467
+00:47:56,160 --> 00:47:59,869
+nos médecins sont patients
+et leurs examens sans douleur.
+
+468
+00:48:01,000 --> 00:48:03,673
+Grâce à l'excellence
+de nos travailleurs...
+
+469
+00:48:25,360 --> 00:48:27,510
+Alors, camarade Gizella,
+
+470
+00:48:29,440 --> 00:48:31,908
+on se fait transférer aux légumes.
+
+471
+00:48:35,520 --> 00:48:37,829
+On pisse un coup
+et on fait une prise de sang,
+
+472
+00:48:38,080 --> 00:48:39,229
+d'accord ?
+
+473
+00:48:41,600 --> 00:48:42,919
+Je vous félicite !
+
+474
+00:48:47,280 --> 00:48:49,953
+Docteur, il y a un hic.
+
+475
+00:48:52,120 --> 00:48:53,348
+Les légumes.
+
+476
+00:48:54,240 --> 00:48:56,549
+Gizi est chez les viandes.
+
+477
+00:48:57,560 --> 00:48:58,549
+Les légumes.
+
+478
+00:48:59,200 --> 00:49:01,270
+- C'est la 2e division.
+- Sans prime de calories.
+
+479
+00:49:01,520 --> 00:49:04,592
+J'y peux rien.
+Une femme enceinte est transférée.
+
+480
+00:49:15,520 --> 00:49:16,430
+Kyste ou myome ?
+
+481
+00:49:16,640 --> 00:49:18,153
+- Kyste.
+- Myome.
+
+482
+00:50:22,480 --> 00:50:23,549
+Tibor.
+
+483
+00:50:24,240 --> 00:50:25,389
+Ilonka.
+
+484
+00:50:27,440 --> 00:50:28,714
+János.
+
+485
+00:50:32,160 --> 00:50:33,434
+Ou Piroska.
+
+486
+00:50:34,800 --> 00:50:37,109
+Ou Miklós.
+
+487
+00:50:38,640 --> 00:50:39,709
+Lajos.
+
+488
+00:50:41,840 --> 00:50:43,751
+Madame Aczél !
+
+489
+00:50:44,240 --> 00:50:45,514
+Gizike !
+
+490
+00:50:48,200 --> 00:50:51,351
+On nous a dit à l'hôtel
+qu'on vous trouverait ici.
+
+491
+00:50:51,560 --> 00:50:55,348
+Le camarade Svigadourine invite
+la célèbre championne et son mari
+
+492
+00:50:55,560 --> 00:50:57,630
+pour une croisière.
+
+493
+00:50:58,960 --> 00:51:00,439
+Et puis,
+
+494
+00:51:01,240 --> 00:51:05,791
+il a annoncé que vous donneriez
+
+495
+00:51:06,040 --> 00:51:08,952
+une petite démonstration.
+
+496
+00:51:13,200 --> 00:51:15,509
+45 kg de caviar rouge
+
+497
+00:51:15,760 --> 00:51:17,159
+en 20 minutes
+
+498
+00:51:17,360 --> 00:51:21,194
+en l'honneur du 20e anniversaire
+de notre libération !
+
+499
+00:51:23,280 --> 00:51:25,191
+On en est à une minute.
+
+500
+00:51:25,520 --> 00:51:29,229
+Donc 45 kg en 20 minutes, d'accord ?
+
+501
+00:51:51,960 --> 00:51:54,872
+J'ai l'estomac
+complètement barbouillé.
+
+502
+00:51:55,480 --> 00:51:57,471
+Normal, tu viens de vomir.
+
+503
+00:52:00,240 --> 00:52:03,550
+Je suis aussi en sueur
+qu'Ili Fibinger à l'Opéra.
+
+504
+00:52:04,040 --> 00:52:07,191
+Pas de bêtises, c'était différent.
+
+505
+00:52:07,560 --> 00:52:10,120
+Le foie gras s'était bloqué
+dans sa gorge.
+
+506
+00:52:10,360 --> 00:52:13,591
+Je sais pas,
+mais ça ne va pas du tout.
+
+507
+00:52:14,000 --> 00:52:17,549
+Tu vas quand même pas pleurer,
+toi, la championne des viandes ?
+
+508
+00:52:23,320 --> 00:52:24,469
+Écoute,
+
+509
+00:52:24,680 --> 00:52:27,752
+comment c'était les fayots
+chez Fidel Castro ?
+
+510
+00:52:28,560 --> 00:52:30,391
+Ce grand homme a applaudi
+
+511
+00:52:30,640 --> 00:52:33,359
+si fort qu'il a failli tomber
+de l'estrade.
+
+512
+00:52:37,920 --> 00:52:40,673
+Je vais dire au médecin
+de tout arrêter.
+
+513
+00:52:40,920 --> 00:52:42,990
+La santé avant tout.
+
+514
+00:52:43,680 --> 00:52:46,353
+Alors, c'est fichu
+pour le voyage à Sotchi !
+
+515
+00:52:50,520 --> 00:52:54,593
+Courage ! Attends,
+je vais te souffler dedans.
+
+516
+00:53:38,680 --> 00:53:40,591
+Chers camarades !
+
+517
+00:53:42,840 --> 00:53:47,630
+Aujourd'hui,
+alors que nous avons besoin
+
+518
+00:53:47,880 --> 00:53:50,110
+d'encore plus de bras
+
+519
+00:53:51,080 --> 00:53:54,231
+pour étayer
+les superstructures du communisme...
+
+520
+00:54:03,680 --> 00:54:07,912
+...le plus important, c'est la vraie
+amitié et la sincère fraternité,
+
+521
+00:54:08,240 --> 00:54:10,470
+et je vous remercie vivement
+
+522
+00:54:10,880 --> 00:54:14,031
+Pour cette fête commémorative.
+
+523
+00:54:28,360 --> 00:54:30,032
+Tu te sens mal, chérie ?
+
+524
+00:54:31,320 --> 00:54:32,799
+Bois un peu de cognac !
+
+525
+00:54:33,440 --> 00:54:35,749
+Depuis les juniors,
+j'ai pas été si mal.
+
+526
+00:55:05,240 --> 00:55:06,719
+Celui-là, en haut.
+
+527
+00:55:12,280 --> 00:55:13,190
+C'est lui, Lajos ?
+
+528
+00:55:13,440 --> 00:55:15,670
+Oui. Un beau bébé.
+
+529
+00:55:15,920 --> 00:55:18,229
+- Un peu chétif.
+- Tant pis.
+
+530
+00:55:20,400 --> 00:55:21,833
+Il est comme il est.
+
+531
+00:55:23,040 --> 00:55:24,951
+Nous l'élèverons, chérie.
+
+532
+00:56:38,360 --> 00:56:42,399
+Lajos Balatony - TAXIDERMISTE
+
+533
+00:57:23,400 --> 00:57:24,913
+30 kg de margarine,
+
+534
+00:57:25,560 --> 00:57:27,312
+800 barres de chocolat.
+
+535
+00:57:30,680 --> 00:57:31,829
+Et une sucette.
+
+536
+00:57:33,040 --> 00:57:36,430
+- Vous terminez à quelle heure ?
+- 38526 forints.
+
+537
+00:57:52,520 --> 00:57:53,873
+Vous revenez demain ?
+
+538
+00:57:54,120 --> 00:57:55,712
+10 petits pains ?
+
+539
+00:58:41,120 --> 00:58:44,430
+Allons,
+qu'est-ce que tu traînasses ?
+
+540
+00:58:46,240 --> 00:58:47,992
+Ils y sont les 15 kg ?
+
+541
+00:58:48,640 --> 00:58:50,551
+Tu vas pas les priver !
+
+542
+00:59:03,080 --> 00:59:06,959
+Margarine. Adhérente,
+grasse, végétale.
+
+543
+00:59:11,160 --> 00:59:13,230
+Allez-y, vous pouvez bouffer.
+
+544
+00:59:14,960 --> 00:59:16,791
+Allez, Gréta, dépêchons !
+
+545
+00:59:17,000 --> 00:59:20,151
+Mâche plus vite,
+avale pas de travers.
+
+546
+00:59:20,400 --> 00:59:22,311
+Il faudrait déjà avoir mangé...
+
+547
+00:59:24,920 --> 00:59:26,990
+les 15 kg.
+
+548
+00:59:32,880 --> 00:59:35,030
+Pour lui ça valait la peine,
+
+549
+00:59:36,080 --> 00:59:37,672
+il grossit bien.
+
+550
+00:59:39,080 --> 00:59:42,072
+Il profite bien de tout le travail.
+
+551
+00:59:42,280 --> 00:59:44,589
+Le travail... de certains.
+
+552
+00:59:46,160 --> 00:59:49,072
+Te fatigue pas,
+je supporte pas de te voir.
+
+553
+00:59:52,160 --> 00:59:54,833
+- Alors ne me regarde pas.
+- C'est ça.
+
+554
+00:59:55,080 --> 00:59:57,230
+C'est eux la fierté de mes yeux !
+
+555
+00:59:58,240 --> 01:00:01,471
+J'aimerais tant gratouiller
+Leur ventre poilu.
+
+556
+01:00:04,200 --> 01:00:06,509
+T'es superbe, toi !
+
+557
+01:00:09,840 --> 01:00:10,829
+Permets-le moi.
+
+558
+01:00:11,360 --> 01:00:12,429
+Juste un peu.
+
+559
+01:00:13,040 --> 01:00:14,553
+Pas question.
+
+560
+01:00:16,520 --> 01:00:17,509
+Plus tard,
+
+561
+01:00:18,720 --> 01:00:21,029
+je l'ouvrirai. Tu verras.
+
+562
+01:00:22,000 --> 01:00:23,399
+Quand ça se déchirera,
+
+563
+01:00:24,360 --> 01:00:26,510
+quand je verrai que ça se déchire,
+
+564
+01:00:26,840 --> 01:00:29,400
+je me laverai, je me mettrai propre,
+
+565
+01:00:30,600 --> 01:00:33,068
+j'ouvrirai la porte pour la Gizi.
+
+566
+01:00:35,000 --> 01:00:36,991
+Pour ça il faudra te lever.
+
+567
+01:00:38,080 --> 01:00:39,308
+Tu verras.
+
+568
+01:00:42,880 --> 01:00:44,029
+Encore cette merde ?
+
+569
+01:00:46,400 --> 01:00:48,072
+Les moins que rien.
+
+570
+01:00:49,080 --> 01:00:50,832
+Crains rien, j'y suis.
+
+571
+01:00:51,360 --> 01:00:52,349
+Tu me crois ?
+
+572
+01:00:52,600 --> 01:00:54,192
+C'est probable.
+
+573
+01:00:54,520 --> 01:00:55,794
+Des merdes.
+
+574
+01:00:56,560 --> 01:00:58,152
+Des moins que rien.
+
+575
+01:00:59,600 --> 01:01:01,192
+Ils bouffent.
+
+576
+01:01:04,160 --> 01:01:05,309
+Des merdes.
+
+577
+01:01:05,560 --> 01:01:08,472
+Moi, je le serais déjà devenu.
+
+578
+01:01:08,680 --> 01:01:10,159
+Devenu quoi ?
+
+579
+01:01:10,360 --> 01:01:12,032
+Vedette internationale !
+
+580
+01:01:13,480 --> 01:01:16,392
+Vous ne ferez pas de moi un clown.
+
+581
+01:01:16,640 --> 01:01:17,550
+Qui ça ?
+
+582
+01:01:21,120 --> 01:01:23,429
+- Je sers le gibier?
+- Los Angeles ?
+
+583
+01:01:24,160 --> 01:01:26,720
+- J'y suis jamais allé.
+- Tu n'iras pas.
+
+584
+01:01:26,960 --> 01:01:29,520
+Les Roumains y sont allés,
+Pour sûr !
+
+585
+01:01:33,480 --> 01:01:35,152
+Regarde là, maintenant.
+
+586
+01:02:59,240 --> 01:03:01,151
+- Vous désirez ?
+- Bonjour.
+
+587
+01:03:03,160 --> 01:03:05,549
+Vous m'avez été
+recommandé pour ça.
+
+588
+01:03:05,800 --> 01:03:07,313
+Sauvage ou domestique ?
+
+589
+01:03:09,040 --> 01:03:10,359
+Je ne sais pas,
+
+590
+01:03:10,920 --> 01:03:12,069
+domestique ?
+
+591
+01:03:21,440 --> 01:03:22,509
+À quel nom ?
+
+592
+01:03:26,120 --> 01:03:27,269
+Regöczy.
+
+593
+01:03:29,360 --> 01:03:30,873
+Andor Regöczy.
+
+594
+01:03:33,240 --> 01:03:34,389
+Professeur Regöczy.
+
+595
+01:03:57,720 --> 01:03:58,630
+Combien ?
+
+596
+01:04:00,160 --> 01:04:01,559
+Ce n'est pas à vendre.
+
+597
+01:04:09,000 --> 01:04:11,389
+38526.
+
+598
+01:04:31,320 --> 01:04:34,232
+Quand vous respecterez
+le plan d'entraînement,
+
+599
+01:04:34,440 --> 01:04:36,670
+vous aurez de la viande.
+
+600
+01:04:36,880 --> 01:04:38,472
+Chaque chose en son temps.
+
+601
+01:04:38,720 --> 01:04:40,233
+Vous aurez du fromage de tête
+
+602
+01:04:40,760 --> 01:04:42,352
+ou du lard industriel,
+
+603
+01:04:42,560 --> 01:04:45,358
+sauf si vous bouffez ce Lajos,
+
+604
+01:04:46,040 --> 01:04:48,873
+encore qu'il y a pas
+beaucoup à bouffer.
+
+605
+01:04:49,280 --> 01:04:51,111
+Mes petits chatons chéris !
+
+606
+01:04:52,200 --> 01:04:53,519
+Soyez braves.
+
+607
+01:04:54,400 --> 01:04:56,550
+Grandissez bien.
+
+608
+01:04:57,960 --> 01:05:01,350
+C'est vous mon numéro mondial !
+
+609
+01:05:02,480 --> 01:05:05,711
+On pourrait être à la télé.
+
+610
+01:05:05,960 --> 01:05:07,359
+Eh oui !
+
+611
+01:05:08,520 --> 01:05:11,193
+S'il y avait quelqu'un
+
+612
+01:05:12,040 --> 01:05:13,951
+pour s'en occuper,
+
+613
+01:05:14,560 --> 01:05:15,709
+pas vrai ?
+
+614
+01:05:16,160 --> 01:05:17,912
+Tu es intelligente, Gizi.
+
+615
+01:05:20,400 --> 01:05:24,109
+Moi aussi, j'ai commencé
+par le gras.
+
+616
+01:05:24,920 --> 01:05:26,069
+Dans le temps.
+
+617
+01:05:26,560 --> 01:05:28,471
+C'est comme ça qu'il fallait.
+
+618
+01:05:30,120 --> 01:05:32,270
+Alors, petit chaton,
+
+619
+01:05:32,800 --> 01:05:34,313
+mange bien tout.
+
+620
+01:05:45,280 --> 01:05:46,554
+Si tu ôtais le papier !
+
+621
+01:05:47,360 --> 01:05:48,429
+Bon, alors
+
+622
+01:05:49,160 --> 01:05:50,593
+regarde bien.
+
+623
+01:05:54,240 --> 01:05:55,389
+Tu vois ?
+
+624
+01:05:57,840 --> 01:05:59,159
+Même le papier alu ?
+
+625
+01:06:01,480 --> 01:06:02,913
+Ça descend.
+
+626
+01:06:09,000 --> 01:06:11,389
+Déballées, 400 barres à l'heure,
+
+627
+01:06:12,880 --> 01:06:14,871
+mais avec l'alu,
+
+628
+01:06:16,480 --> 01:06:17,913
+570.
+
+629
+01:06:23,880 --> 01:06:25,233
+Et ça ressort ?
+
+630
+01:06:25,440 --> 01:06:26,509
+Ça s'intègre.
+
+631
+01:06:27,600 --> 01:06:29,192
+Chez moi, c'est jamais arrivé
+
+632
+01:06:29,480 --> 01:06:32,790
+que quelque chose
+refuse de s'intégrer.
+
+633
+01:06:33,720 --> 01:06:36,234
+Ça trouve son rôle dans l'organisme.
+
+634
+01:06:38,680 --> 01:06:39,590
+Bon, regarde.
+
+635
+01:06:43,720 --> 01:06:44,709
+Chronomètre.
+
+636
+01:06:57,600 --> 01:06:59,192
+C'est peine perdue.
+
+637
+01:07:11,840 --> 01:07:13,068
+Espèce de kyste !
+
+638
+01:07:29,080 --> 01:07:30,433
+T'as dit quoi ?
+
+639
+01:07:31,880 --> 01:07:32,710
+Papa !
+
+640
+01:07:32,880 --> 01:07:34,711
+Pige que j'ai honte de toi.
+
+641
+01:07:42,640 --> 01:07:43,959
+De moi ?
+
+642
+01:07:44,160 --> 01:07:45,673
+Moi, tu me fais vomir.
+
+643
+01:07:47,000 --> 01:07:49,309
+J'ai rien fait d'autre que te...
+
+644
+01:07:49,560 --> 01:07:50,788
+Tu viens pourquoi ?
+
+645
+01:07:51,000 --> 01:07:52,513
+Pas besoin de me servir !
+
+646
+01:07:53,440 --> 01:07:54,953
+Écorcheur de charogne !
+
+647
+01:07:56,320 --> 01:07:57,469
+Entendu.
+
+648
+01:07:58,880 --> 01:08:00,711
+C'est tout. À ton avis,
+
+649
+01:08:00,920 --> 01:08:03,229
+comment tu t'en tirerais sans moi ?
+
+650
+01:08:03,440 --> 01:08:04,509
+Tu crèverais de faim
+
+651
+01:08:04,760 --> 01:08:07,479
+tout comme tes cons
+de chats sportifs.
+
+652
+01:08:07,680 --> 01:08:10,752
+Ta merde te boufferait.
+T'irais même pas chier tout seul.
+
+653
+01:08:11,240 --> 01:08:12,639
+Je me débrouille.
+
+654
+01:08:12,840 --> 01:08:14,831
+Pas besoin de me rendre service.
+
+655
+01:08:15,120 --> 01:08:17,759
+Comment tu ferais ? Sous toi ?
+
+656
+01:08:18,080 --> 01:08:19,149
+Fous le camp !
+
+657
+01:08:21,800 --> 01:08:25,349
+Tu vois bien
+que tu as fait fuir tout le monde !
+
+658
+01:08:26,160 --> 01:08:28,310
+Je suis le seul pauvre con à venir.
+
+659
+01:08:28,560 --> 01:08:29,913
+Je viendrai plus.
+
+660
+01:08:31,680 --> 01:08:35,309
+Qui payerait toute cette bouffe
+Pour toi et tes chats ?
+
+661
+01:08:35,640 --> 01:08:37,073
+Putain de ta mère !
+
+662
+01:08:43,520 --> 01:08:45,192
+Maman avait raison.
+
+663
+01:08:45,800 --> 01:08:48,872
+Elle a eu raison
+de te laisser tomber et de filer.
+
+664
+01:08:49,800 --> 01:08:52,314
+De pas vouloir rester
+
+665
+01:08:52,520 --> 01:08:55,080
+dans le trou de ton gros cul,
+
+666
+01:08:56,120 --> 01:08:58,111
+et pourrir avec toi.
+
+667
+01:08:58,320 --> 01:08:59,753
+Ici tout pourrit.
+
+668
+01:08:59,960 --> 01:09:02,793
+Tout. Mais moi, j'ai pas envie !
+
+669
+01:09:03,200 --> 01:09:07,432
+Mets-toi ça dans la tête,
+moins que rien !
+
+670
+01:09:07,680 --> 01:09:11,468
+Je t'aplatis la gueule, petit con.
+Pour qui tu te prends ?
+
+671
+01:09:11,680 --> 01:09:13,750
+Viens donc, tu veux me gifler?
+
+672
+01:09:13,960 --> 01:09:16,349
+Vas-y, gifle-moi !
+
+673
+01:09:16,800 --> 01:09:18,313
+Mieux vaut tard que jamais.
+
+674
+01:09:19,080 --> 01:09:20,149
+Une gifle du père.
+
+675
+01:09:22,360 --> 01:09:23,509
+Pour une fois.
+
+676
+01:09:23,760 --> 01:09:24,749
+Vas-y !
+
+677
+01:09:25,040 --> 01:09:26,792
+Gifle-moi, je te permets.
+
+678
+01:09:31,680 --> 01:09:34,069
+Tu mérites même pas une gifle.
+
+679
+01:09:34,360 --> 01:09:35,839
+- Petit con !
+- Sac de merde.
+
+680
+01:09:38,360 --> 01:09:42,194
+Tu parles à une vedette
+internationale.
+
+681
+01:09:43,320 --> 01:09:44,912
+Juste pour que tu comprennes :
+
+682
+01:09:45,160 --> 01:09:49,711
+Igor Voxtongonov
+a fait 3 minutes 21...
+
+683
+01:09:49,960 --> 01:09:52,554
+Toi, ferme ta gueule !
+
+684
+01:09:52,960 --> 01:09:54,552
+Écorcheur de charogne !
+
+685
+01:09:55,520 --> 01:09:58,671
+Tu sais pas qui je suis !
+Ce que j'ai enduré !
+
+686
+01:10:00,040 --> 01:10:01,519
+J'ai travaillé dur !
+
+687
+01:10:01,760 --> 01:10:03,830
+J'ai travaillé pour réussir.
+
+688
+01:10:04,240 --> 01:10:05,992
+Tu sais à qui tu parles, avorton ?
+
+689
+01:10:06,240 --> 01:10:08,231
+Un vomi porte mon nom !
+
+690
+01:10:09,120 --> 01:10:10,269
+Crève !
+
+691
+01:10:11,720 --> 01:10:13,392
+Petit poussin !
+
+692
+01:10:20,120 --> 01:10:21,633
+Cabine infrarouge,
+
+693
+01:10:21,880 --> 01:10:26,192
+sauna et turbo solarium au sous-sol,
+
+694
+01:10:26,720 --> 01:10:30,110
+recreation-room
+près de la salle d'aérobic,
+
+695
+01:10:30,600 --> 01:10:33,114
+massage dorsal de désintoxication,
+
+696
+01:10:33,320 --> 01:10:35,629
+massage ayurvédique de la tête,
+
+697
+01:10:35,880 --> 01:10:39,190
+massage sportif de musculation
+suédois et thaï,
+
+698
+01:10:39,440 --> 01:10:41,112
+en outre personnalisé...
+
+699
+01:10:41,880 --> 01:10:45,270
+On préconise donc d'exécuter
+cet exercice 20 fois.
+
+700
+01:10:45,480 --> 01:10:46,993
+Tu peux en faire moins.
+
+701
+01:10:47,200 --> 01:10:50,829
+Si tu te sens fatigué,
+offre-toi une petite pause.
+
+702
+01:10:52,000 --> 01:10:54,912
+Ne force pas au début,
+observe tes muscles,
+
+703
+01:10:55,120 --> 01:10:56,792
+suis ta respiration.
+
+704
+01:10:57,040 --> 01:10:58,951
+Inspiration, expiration.
+
+705
+01:10:59,640 --> 01:11:00,629
+C'est ça.
+
+706
+01:11:00,840 --> 01:11:01,829
+Très bien.
+
+707
+01:11:07,600 --> 01:11:09,511
+Ne force pas, reste souple.
+
+708
+01:11:09,760 --> 01:11:12,149
+Tu peux ralentir un peu.
+
+709
+01:11:12,480 --> 01:11:14,630
+Sens ton corps et tes muscles.
+
+710
+01:11:14,840 --> 01:11:17,673
+C'est pour les pectoraux,
+ça fait des merveilles.
+
+711
+01:11:17,880 --> 01:11:20,110
+Tu constateras la différence.
+
+712
+01:11:21,800 --> 01:11:24,519
+Tout à l'heure,
+dans les vestiaires, tu verras.
+
+713
+01:11:26,000 --> 01:11:28,230
+Encore 5 fois et on arrête.
+
+714
+01:11:31,840 --> 01:11:33,432
+Bien, très bien.
+
+715
+01:11:33,840 --> 01:11:34,989
+Moins vite.
+
+716
+01:11:37,000 --> 01:11:39,594
+Garde l'écartement entre les bras.
+
+717
+01:11:41,320 --> 01:11:42,594
+C'est bien.
+
+718
+01:11:44,040 --> 01:11:45,439
+Assez pour aujourd'hui.
+
+719
+01:11:53,160 --> 01:11:54,434
+Arrête.
+
+720
+01:12:05,320 --> 01:12:06,309
+Stop !
+
+721
+01:13:03,760 --> 01:13:06,228
+385<i>2</i>6.
+
+722
+01:13:07,040 --> 01:13:09,270
+Je rends 1474.
+
+723
+01:13:12,920 --> 01:13:14,433
+Voici le ticket.
+
+724
+01:13:15,560 --> 01:13:16,470
+Au revoir.
+
+725
+01:13:18,760 --> 01:13:19,829
+Papa !
+
+726
+01:13:32,520 --> 01:13:33,589
+C'est moi !
+
+727
+01:13:37,000 --> 01:13:37,989
+Je suis là !
+
+728
+01:14:32,760 --> 01:14:35,149
+Colombe, qu'as-tu fait, salope ?
+
+729
+01:15:53,680 --> 01:15:55,591
+Papa, tu vas être beau.
+
+730
+01:21:07,600 --> 01:21:08,749
+Excusez-moi.
+
+731
+01:22:12,840 --> 01:22:13,909
+Ya quelqu'un ?
+
+732
+01:22:27,400 --> 01:22:28,719
+Excusez-moi.
+
+733
+01:23:03,760 --> 01:23:05,591
+<i>Je suis arrivé à la cave...</i>
+
+734
+01:23:07,840 --> 01:23:10,638
+<i>Des bras l'entouraient,</i>
+<i>une araignée de fer.</i>
+
+735
+01:23:12,520 --> 01:23:13,919
+<i>Il s'était dépecé.</i>
+
+736
+01:23:15,160 --> 01:23:19,631
+Seule la machine le maintenait
+en vie. Elle qui l'avait détruit...
+
+737
+01:23:20,960 --> 01:23:22,871
+Elle le refaisait vivre.
+
+738
+01:23:25,000 --> 01:23:26,592
+J'ai vu
+
+739
+01:23:26,840 --> 01:23:28,990
+la mécanique se mettre en branle,
+
+740
+01:23:31,200 --> 01:23:33,111
+le bras qui tenait le cœur
+
+741
+01:23:34,840 --> 01:23:37,912
+se retourner sous son propre poids,
+
+742
+01:23:40,880 --> 01:23:43,030
+puis atteindre le verrou à bascule
+
+743
+01:23:43,840 --> 01:23:47,071
+qui relâchait la lame
+retenue jusque-là.
+
+744
+01:23:49,960 --> 01:23:52,872
+Et la tête s'est séparée du corps,
+
+745
+01:23:55,040 --> 01:23:56,712
+et juste l'instant d'après
+
+746
+01:23:57,560 --> 01:23:59,949
+le bras qui avant travaillait encore
+
+747
+01:24:00,800 --> 01:24:01,949
+est tombé de l'épaule.
+
+748
+01:24:02,520 --> 01:24:05,353
+Bien sûr il y a toujours
+des imperfections,
+
+749
+01:24:06,200 --> 01:24:08,111
+deux en l'occurrence :
+
+750
+01:24:09,720 --> 01:24:10,630
+la tête et le bras.
+
+751
+01:24:14,560 --> 01:24:15,913
+Il était un torse.
+
+752
+01:24:17,960 --> 01:24:19,313
+Archaïque.
+
+753
+01:24:22,280 --> 01:24:23,599
+Si on peut dire,
+
+754
+01:24:25,040 --> 01:24:27,349
+il y a quand même une lacune.
+
+755
+01:24:27,560 --> 01:24:29,312
+Il existe des choses
+
+756
+01:24:29,560 --> 01:24:31,232
+que l'on ne peut conserver
+
+757
+01:24:32,160 --> 01:24:35,152
+dans aucune solution.
+
+758
+01:24:37,080 --> 01:24:39,150
+On peut empailler son père,
+
+759
+01:24:39,440 --> 01:24:41,590
+symboliquement toute sa famille,
+
+760
+01:24:43,680 --> 01:24:48,800
+mais pas ce qu'on a ressenti en
+voyant la lame s'approcher de sa tête.
+
+761
+01:24:51,320 --> 01:24:52,912
+C'est une sensation
+
+762
+01:24:54,200 --> 01:24:55,792
+qu'on ne peut pas empailler.
+
+763
+01:24:57,840 --> 01:25:00,513
+Cela fait partie
+de l'histoire authentique
+
+764
+01:25:00,720 --> 01:25:03,109
+de Lajos Balatony,
+
+765
+01:25:06,280 --> 01:25:07,952
+et c'est même l'essentiel.
+
+766
+01:25:10,600 --> 01:25:13,751
+Bien sûr, chacun a son idée
+de ce qui est important.
+
+767
+01:25:16,440 --> 01:25:18,032
+Pour certains, c'est l'espace,
+
+768
+01:25:20,520 --> 01:25:22,909
+pour d'autres, c'est le temps.
+
+

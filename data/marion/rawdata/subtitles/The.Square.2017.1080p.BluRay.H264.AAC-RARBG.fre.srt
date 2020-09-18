@@ -1,0 +1,6899 @@
+﻿1
+00:01:05,272 --> 00:01:06,821
+Êtes-vous réveillé ?
+
+2
+00:01:09,338 --> 00:01:11,526
+Christian ?
+
+3
+00:01:11,705 --> 00:01:13,164
+Quoi ?
+
+4
+00:01:13,334 --> 00:01:14,393
+Avez-vous besoin
+de quelque chose ?
+
+5
+00:01:14,573 --> 00:01:16,161
+C'est l'heure de
+votre prochaine interview.
+
+6
+00:01:16,331 --> 00:01:18,389
+Quoi ?
+
+7
+00:01:18,539 --> 00:01:20,557
+C'est l'heure de
+votre prochaine interview.
+
+8
+00:01:20,737 --> 00:01:23,294
+Euh, oui.
+Vous voulez quelques minutes ?
+
+9
+00:01:24,063 --> 00:01:25,052
+Un verre d'eau ?
+
+10
+00:01:25,202 --> 00:01:27,720
+Accordez-moi juste
+quelques minutes.
+
+11
+00:01:28,239 --> 00:01:30,926
+On se retrouve dans la galerie 1.
+D'accord.
+
+12
+00:01:36,800 --> 00:01:38,698
+On doit faire un test son.
+
+13
+00:01:38,868 --> 00:01:41,026
+Qu'avez-vous mangé
+au petit déjeuner ?
+
+14
+00:01:42,864 --> 00:01:47,060
+J'ai mangé du pain,
+du fromage et des céréales.
+
+15
+00:01:48,269 --> 00:01:51,926
+Mmm, un œuf.
+Je vais juste...
+
+16
+00:01:52,105 --> 00:01:56,501
+Du jus, du café.
+On est prêts ?
+
+17
+00:01:57,730 --> 00:01:58,928
+Bonjour.
+Christian.
+
+18
+00:01:59,068 --> 00:02:00,726
+Re-bonjour.
+
+19
+00:02:01,236 --> 00:02:02,864
+Alors, tout va bien ?
+
+20
+00:02:03,604 --> 00:02:04,723
+Bien.
+Super.
+
+21
+00:02:04,932 --> 00:02:06,201
+Et vous ?
+Très bien.
+
+22
+00:02:06,371 --> 00:02:07,560
+Merveilleux.
+Oui.
+
+23
+00:02:07,899 --> 00:02:09,727
+Prenez une chaise.
+Oui.
+
+24
+00:02:09,897 --> 00:02:12,495
+Et nous pouvons...
+commencer.
+
+25
+00:02:14,773 --> 00:02:17,001
+Sa checklist sera là-bas ?
+
+26
+00:02:19,099 --> 00:02:20,697
+Oui.
+
+27
+00:02:20,937 --> 00:02:23,993
+Désolé.
+C'est rien.
+
+28
+00:02:28,869 --> 00:02:31,126
+Intéressant.
+Oui.
+
+29
+00:02:31,705 --> 00:02:33,663
+Vous avez du son ?
+Oui, c'est bon.
+
+30
+00:02:33,803 --> 00:02:35,322
+Et vous êtes bien installé ?
+Mm-hm.
+
+31
+00:02:35,501 --> 00:02:37,020
+Enfin, ça...
+Oh mon Dieu.
+
+32
+00:02:37,200 --> 00:02:39,188
+C'est rien.
+
+33
+00:02:41,765 --> 00:02:43,893
+Non, c'est juste...
+Non c'est...
+
+34
+00:02:46,171 --> 00:02:47,899
+Désolée,
+juste un instant.
+
+35
+00:02:52,435 --> 00:02:53,764
+OK.
+
+36
+00:02:54,602 --> 00:02:55,462
+Ça tourne ?
+
+37
+00:02:55,572 --> 00:02:56,630
+Je peux recommencer ?
+Oui.
+
+38
+00:02:56,730 --> 00:02:58,998
+Oui, si vous pouvez recommencer.
+
+39
+00:02:59,168 --> 00:03:00,926
+Merci.
+
+40
+00:03:02,704 --> 00:03:04,223
+Vous êtes prête ?
+Oui.
+
+41
+00:03:04,432 --> 00:03:05,522
+Oui.
+Ça tourne.
+
+42
+00:03:05,632 --> 00:03:06,570
+Vous êtes prêt ?
+
+43
+00:03:06,700 --> 00:03:08,328
+Et vous ?
+Oui.
+
+44
+00:03:13,704 --> 00:03:15,002
+Bien.
+
+45
+00:03:17,070 --> 00:03:19,328
+Euh, ma première...
+
+46
+00:03:19,438 --> 00:03:21,226
+question est d'ordre général.
+
+47
+00:03:21,606 --> 00:03:26,501
+Quels sont les plus grands défis
+lorsque l'on dirige un musée comme celui-ci ?
+
+48
+00:03:27,530 --> 00:03:30,367
+Je déteste le dire
+mais c'est certainement l'argent.
+
+49
+00:03:30,597 --> 00:03:33,394
+Collecter suffisamment de fonds.
+
+50
+00:03:33,534 --> 00:03:36,501
+Nous sommes un musée
+d'art moderne et contemporain.
+
+51
+00:03:37,170 --> 00:03:40,827
+Donc nous devons présenter
+l'art le plus actuel qui soit,
+
+52
+00:03:41,066 --> 00:03:43,294
+le futur,
+l'art entièrement avant-gardiste.
+
+53
+00:03:43,403 --> 00:03:44,493
+et ça est coûteux.
+
+54
+00:03:44,603 --> 00:03:46,661
+Et la concurrence est féroce,
+
+55
+00:03:46,931 --> 00:03:48,559
+car nous avons des acheteurs
+et des collectionneurs
+
+56
+00:03:48,699 --> 00:03:50,187
+du monde entier
+avec tellement d'argent
+
+57
+00:03:50,497 --> 00:03:52,595
+que c'est à peine croyable.
+Ils dépensent plus en une après-midi
+
+58
+00:03:52,805 --> 00:03:54,733
+que nous dépensons en une année.
+Mm.
+
+59
+00:03:55,033 --> 00:03:56,761
+Tandis que, si nous
+achetons cette œuvre d'art
+
+60
+00:03:56,901 --> 00:03:58,659
+nous serons dans la
+mesure de l'exposer ici.
+
+61
+00:03:58,799 --> 00:04:01,465
+Pour un large public,
+tout Stockholm et la Suède
+
+62
+00:04:01,565 --> 00:04:03,394
+et peut-être
+même les touristes.
+
+63
+00:04:03,933 --> 00:04:07,030
+Donc je pense que c'est
+véritablement une obligation pour nous
+
+64
+00:04:07,569 --> 00:04:10,497
+de, hmm...
+d'être compétitifs
+
+65
+00:04:10,637 --> 00:04:13,723
+et de présenter...
+l'art qui est absolument...
+
+66
+00:04:13,903 --> 00:04:16,301
+Je suis d'accord.
+Je suis totalement d'accord.
+
+67
+00:04:16,431 --> 00:04:18,528
+C'est fondamental. Oui.
+Mm-hm.
+
+68
+00:04:18,698 --> 00:04:20,896
+Bon... parce que je voulais
+vous poser une question
+
+69
+00:04:21,036 --> 00:04:22,934
+à propos de quelque chose
+que j'ai lu sur votre site web.
+
+70
+00:04:23,164 --> 00:04:24,932
+Très bien.
+...et que je n'ai pas compris.
+
+71
+00:04:25,172 --> 00:04:26,860
+Et j'aurai espéré que vous
+auriez pu m'aider à comprendre.
+
+72
+00:04:27,000 --> 00:04:28,398
+Mm-hm.
+Oui.
+
+73
+00:04:28,568 --> 00:04:30,326
+Vous permettez
+que je vous le lise ?
+
+74
+00:04:30,566 --> 00:04:32,224
+Allez-y.
+Oui.
+
+75
+00:04:32,804 --> 00:04:35,032
+Hmm, 30-31 Mai.
+
+76
+00:04:35,432 --> 00:04:37,560
+"Exposition/Non-exposition.
+
+77
+00:04:37,770 --> 00:04:40,167
+Une conversation du soir
+qui explore les dynamiques
+
+78
+00:04:40,396 --> 00:04:42,065
+de "l'expositionnable"
+
+79
+00:04:42,205 --> 00:04:43,394
+et la construction
+du publiquement propre
+
+80
+00:04:43,564 --> 00:04:45,062
+dans l'esprit du "Lieu/Non-lieu"
+
+81
+00:04:45,202 --> 00:04:46,530
+<i>de Robert Smithson.</i>
+
+82
+00:04:46,930 --> 00:04:48,558
+Du non-lieu au lieu,
+
+83
+00:04:48,698 --> 00:04:49,927
+de la non-exposition
+à l'exposition,
+
+84
+00:04:50,167 --> 00:04:53,034
+quels sont les topos
+de l'exposition/non-exposition
+
+85
+00:04:53,164 --> 00:04:55,891
+dans les moments encombrés
+de la méga exposition ?"
+
+86
+00:05:00,736 --> 00:05:01,705
+Puis-je ?
+
+87
+00:05:01,805 --> 00:05:03,234
+Vous voulez le lire ?
+Oui.
+
+88
+00:05:03,404 --> 00:05:06,201
+Hmm...
+Oui, simplement je ne...
+
+89
+00:05:06,371 --> 00:05:09,457
+Je suis désolée, à l'évidence
+je ne suis pas aussi érudite que vous.
+
+90
+00:05:11,166 --> 00:05:12,935
+J'espérais simplement
+que vous pouviez...
+
+91
+00:05:13,563 --> 00:05:15,401
+Bon, ça, euh...
+
+92
+00:05:17,499 --> 00:05:19,937
+Ça concernait
+quelques soirées en mai
+
+93
+00:05:20,037 --> 00:05:22,195
+où nous discutions, euh...
+
+94
+00:05:27,629 --> 00:05:29,897
+Quand... quand...
+
+95
+00:05:30,167 --> 00:05:32,894
+Je veux dire, si vous placez
+un objet dans un musée
+
+96
+00:05:33,364 --> 00:05:36,491
+est-ce que ça en fait
+une œuvre d'art ?
+
+97
+00:05:36,631 --> 00:05:37,500
+Hm.
+
+98
+00:05:37,599 --> 00:05:39,468
+Par exemple,
+si on prenait votre sac,
+
+99
+00:05:39,568 --> 00:05:41,466
+et qu'on le plaçait ici...
+
+100
+00:05:43,634 --> 00:05:46,001
+est-ce que ça
+en ferait de l'art ?
+
+101
+00:05:46,231 --> 00:05:47,829
+Ah.
+
+102
+00:05:51,606 --> 00:05:53,004
+OK.
+
+103
+00:05:53,164 --> 00:05:54,562
+Est-ce que ça répond
+à votre question ?
+
+104
+00:05:54,732 --> 00:05:57,330
+Oui, effectivement.
+Je crois. Oui.
+
+105
+00:05:59,238 --> 00:06:03,134
+Bien, c'est tout ce
+que nous avons.
+
+106
+00:08:01,435 --> 00:08:04,333
+J'ai besoin d'un
+coup de main par ici...
+
+107
+00:08:13,103 --> 00:08:16,930
+Le Carré est un sanctuaire
+de confiance et de bienveillance.
+
+108
+00:08:17,070 --> 00:08:19,197
+À l'intérieur de ses frontières,
+nous partageons tous
+
+109
+00:08:19,337 --> 00:08:22,065
+les mêmes
+droits et devoirs.
+
+110
+00:08:43,604 --> 00:08:46,190
+Voulez-vous sauver
+une vie humaine ?
+
+111
+00:08:47,600 --> 00:08:48,928
+Voulez-vous sauver
+une vie humaine ?
+
+112
+00:08:49,098 --> 00:08:50,926
+Pas tout de suite.
+
+113
+00:08:51,806 --> 00:08:54,922
+Voulez-vous sauver
+une vie humaine ?
+
+114
+00:08:56,070 --> 00:08:58,658
+Voulez-vous sauver
+une vie humaine ?
+
+115
+00:08:58,868 --> 00:09:00,027
+Voulez-vous sauver
+une vie humaine ?
+
+116
+00:09:00,166 --> 00:09:03,654
+Pardon ?
+
+117
+00:09:18,868 --> 00:09:20,896
+À l'aide !
+
+118
+00:09:26,171 --> 00:09:28,329
+À l'aide !
+
+119
+00:09:30,766 --> 00:09:32,755
+À l'aide !
+
+120
+00:09:35,401 --> 00:09:36,661
+À l'aide !
+
+121
+00:09:36,771 --> 00:09:39,067
+Vous devez m'aider,
+il va me tuer !
+
+122
+00:09:39,237 --> 00:09:41,135
+Hé, calmez-vous.
+Il va me tuer.
+
+123
+00:09:41,235 --> 00:09:42,065
+Aidez-moi !
+S'il vous plaît !
+
+124
+00:09:42,235 --> 00:09:43,493
+Quel est le problème ?
+Aidez-moi,
+
+125
+00:09:43,603 --> 00:09:45,901
+il va me tuer !
+
+126
+00:09:46,031 --> 00:09:47,799
+Ressaisis-toi !
+
+127
+00:09:48,039 --> 00:09:51,365
+Il va aussi vous tuer !
+Calme-toi ! Tais-toi !
+
+128
+00:09:58,698 --> 00:10:01,535
+Hé, un peu de soutien ici !
+Mais je ne...
+
+129
+00:10:01,765 --> 00:10:08,458
+OK, qu'est-ce qui se passe ?
+Quelqu'un hurle là-bas.
+
+130
+00:10:08,598 --> 00:10:10,466
+Je ne vois personne.
+Il va nous tuer !
+
+131
+00:10:10,596 --> 00:10:12,934
+Tu veux te calmer !
+Il va nous tuer !
+
+132
+00:10:17,100 --> 00:10:20,296
+Non, non.... !
+Non, ne...
+
+133
+00:10:22,604 --> 00:10:26,120
+Bon Dieu !
+Calme-toi putain !
+
+134
+00:10:26,500 --> 00:10:30,526
+J'en avais pas après vous les gars !
+Bon Dieu !
+
+135
+00:10:31,605 --> 00:10:33,693
+Passez une bonne
+journée les gars.
+
+136
+00:10:37,629 --> 00:10:41,066
+Quel idiot !
+Mais quel idiot !
+
+137
+00:10:42,734 --> 00:10:46,191
+Quel idiot !
+Mais c'était quoi ça ?
+
+138
+00:10:47,269 --> 00:10:49,997
+C'était dingue...
+
+139
+00:10:50,636 --> 00:10:54,223
+Mais quel putain d'idiot ! Jésus...
+
+140
+00:10:54,503 --> 00:10:55,761
+Tout va bien ?
+Oui.
+
+141
+00:10:55,971 --> 00:10:58,489
+Est-ce que tu sens ton cœur ?
+Oui.
+
+142
+00:10:59,267 --> 00:11:01,525
+Mon cœur va...
+
+143
+00:11:01,765 --> 00:11:04,563
+Bien joué, de m'avoir sollicité.
+
+144
+00:11:04,971 --> 00:11:06,591
+J'ai juste réagi.
+
+145
+00:11:08,069 --> 00:11:11,505
+Demander de l'aide,
+c'était très malin.
+
+146
+00:11:11,805 --> 00:11:16,061
+J'ai eu peur, et toi ?
+Ben...
+
+147
+00:11:16,770 --> 00:11:19,167
+Merde.
+
+148
+00:11:21,166 --> 00:11:24,193
+OK...
+Oui, d'accord.
+
+149
+00:11:25,571 --> 00:11:29,128
+Prends soin de toi !
+Bonne journée.
+
+150
+00:12:04,362 --> 00:12:07,300
+Excusez-moi, pourrais-je
+emprunter votre portable ?
+
+151
+00:12:07,869 --> 00:12:09,357
+Pouvez-vous m'aider
+s'il vous plaît ?
+
+152
+00:12:09,497 --> 00:12:11,295
+Pourrais-je emprunter
+votre portable ?
+
+153
+00:12:12,335 --> 00:12:13,893
+J'ai juste besoin
+d'un coup de main.
+
+154
+00:12:34,363 --> 00:12:35,561
+Excusez-moi.
+
+155
+00:12:35,801 --> 00:12:37,999
+Vous allez voir l'exposition ?
+
+156
+00:12:38,898 --> 00:12:41,765
+Oui.
+Le château est par là.
+
+157
+00:12:42,265 --> 00:12:43,493
+Oh.
+
+158
+00:13:03,533 --> 00:13:05,292
+Avez-vous déjà vu d'autres
+œuvres de cet artiste ?
+
+159
+00:13:05,432 --> 00:13:07,130
+Non.
+
+160
+00:13:15,032 --> 00:13:18,298
+C'est à ça que
+"Le Carré" ressemble.
+
+161
+00:13:18,538 --> 00:13:19,996
+D'accord.
+
+162
+00:13:22,204 --> 00:13:27,459
+Et l'exposition ouvrira
+le 15 septembre.
+
+163
+00:13:27,599 --> 00:13:29,657
+C'est exact.
+J'ai réservé
+
+164
+00:13:29,897 --> 00:13:31,525
+les panneaux publicitaires habituels,
+
+165
+00:13:31,965 --> 00:13:37,160
+et des encarts publicitaires dans
+deux des principaux quotidiens.
+
+166
+00:13:37,529 --> 00:13:39,867
+OK.
+
+167
+00:13:40,366 --> 00:13:41,595
+Donc nous avons déjà
+fait un travail préparatoire.
+
+168
+00:13:41,735 --> 00:13:43,363
+D'accord. Vous voyez...
+
+169
+00:13:47,969 --> 00:13:51,665
+Écoutez, c'est un
+très beau projet
+
+170
+00:13:51,765 --> 00:13:54,533
+qui soulève des
+problématiques importantes.
+
+171
+00:13:55,431 --> 00:13:58,489
+Cependant, du point
+de vue de la com',
+
+172
+00:13:58,897 --> 00:14:01,125
+les valeurs sont
+trop générales.
+
+173
+00:14:01,605 --> 00:14:03,533
+Nous devons discuter
+de la différence
+
+174
+00:14:03,703 --> 00:14:07,689
+entre l'art et le marketing.
+
+175
+00:14:08,538 --> 00:14:09,897
+Je suis totalement d'accord.
+
+176
+00:14:10,167 --> 00:14:15,291
+Pour chaque nouveau projet, nous devons
+analyser son implication dans l'actualité.
+
+177
+00:14:17,030 --> 00:14:22,554
+Qu'est-ce qui permet à
+cette exposition de sortir du lot ?
+
+178
+00:14:22,734 --> 00:14:24,562
+Y a-t-il des controverses impliquées ?
+
+179
+00:14:24,732 --> 00:14:27,200
+Peut-on la lier à des effets de mode
+ou des événements actuels ?
+
+180
+00:14:27,769 --> 00:14:30,996
+Sinon, vous êtes limités
+aux panneaux publicitaires.
+
+181
+00:14:31,236 --> 00:14:35,222
+Ça devient compliqué de
+susciter un intérêt à l'international.
+
+182
+00:14:35,631 --> 00:14:37,530
+C'est alors que vous
+atteindrez la "Vulture Culture".
+
+183
+00:14:37,798 --> 00:14:40,286
+Pour que les journalistes
+écrivent à ce sujet,
+
+184
+00:14:40,396 --> 00:14:42,664
+vous aurez besoin
+de controverse.
+
+185
+00:14:43,364 --> 00:14:48,458
+Seulement, ce projet n'est
+pas vraiment surprenant.
+
+186
+00:14:49,198 --> 00:14:53,863
+En tant que journaliste,
+je veux créer ma propre perspective.
+
+187
+00:14:54,972 --> 00:14:58,528
+Comme la plupart des gens,
+je veux exprimer une opinion
+
+188
+00:14:58,738 --> 00:15:01,395
+qui me soit pas juste
+issue d'un consensus.
+
+189
+00:15:01,965 --> 00:15:04,232
+Je ne posterais jamais
+un statut Facebook comme
+
+190
+00:15:04,362 --> 00:15:06,131
+"Daniel souhaite la paix sur Terre."
+
+191
+00:15:07,099 --> 00:15:09,567
+Donc...
+Attendez.
+
+192
+00:15:09,697 --> 00:15:13,723
+Il y a plus en jeu dans cette
+exposition qu'un statut Facebook.
+
+193
+00:15:14,263 --> 00:15:15,701
+Bien sûr.
+
+194
+00:15:15,931 --> 00:15:18,229
+Sa force provient
+de sa simplicité.
+
+195
+00:15:18,439 --> 00:15:22,165
+C'est à ce sujet là que
+nous devrions communiquer.
+
+196
+00:15:22,634 --> 00:15:25,501
+Absolument,
+laissez-moi juste lire ça.
+
+197
+00:15:25,801 --> 00:15:28,029
+"Le Carré est un sanctuaire
+de confiance et de bienveillance.
+
+198
+00:15:28,199 --> 00:15:29,897
+À l'intérieur de ses frontières,
+
+199
+00:15:30,037 --> 00:15:32,764
+nous partageons tous les
+mêmes droits et devoirs".
+
+200
+00:15:34,163 --> 00:15:36,291
+Personne ne peut être
+en désaccord avec ça.
+
+201
+00:15:36,430 --> 00:15:39,197
+Alors pourquoi, en tant que journaliste,
+devrais-je m'en soucier ?
+
+202
+00:15:39,367 --> 00:15:42,394
+Bon...
+Vous avez fait tomber ça.
+
+203
+00:15:42,704 --> 00:15:47,159
+Ce que je dis c'est que l'intérêt
+ne réside pas dans la déclaration.
+
+204
+00:15:47,329 --> 00:15:48,768
+L'important c'est...
+
+205
+00:15:48,968 --> 00:15:52,404
+ce que ce carré
+active dans son audience.
+
+206
+00:15:52,534 --> 00:15:53,503
+Nous comprenons.
+
+207
+00:15:53,603 --> 00:15:55,591
+C'est ça que nous
+voulons communiquer.
+
+208
+00:15:55,801 --> 00:15:57,888
+Puis-je clarifier
+quelque chose ?
+
+209
+00:15:58,198 --> 00:16:03,224
+Les gars ne contestent
+pas la légitimité du projet.
+
+210
+00:16:03,434 --> 00:16:06,200
+Aussi longtemps que nous
+sommes d'accord sur le contenu.
+
+211
+00:16:06,430 --> 00:16:09,488
+Et ils ne remettent pas en question
+ce que vous cherchez à explorer.
+
+212
+00:16:09,796 --> 00:16:12,664
+Ils essayent tout simplement d'expliquer
+comment fonctionne le paysage médiatique,
+
+213
+00:16:13,064 --> 00:16:16,860
+et ce qu'il en coûte
+pour avoir un impact.
+
+214
+00:16:19,098 --> 00:16:22,654
+J'ai réfléchi...
+
+215
+00:16:23,363 --> 00:16:28,888
+Pourquoi ne pas faire quelque chose
+comme le Ice Bucket Challenge ?
+
+216
+00:16:29,337 --> 00:16:33,163
+Oui, c'est une bonne idée.
+Qu'est-ce que c'est ?
+
+217
+00:16:33,733 --> 00:16:36,500
+Ce fut un succès viral...
+
+218
+00:16:36,700 --> 00:16:37,689
+Bon,
+
+219
+00:16:37,899 --> 00:16:44,701
+des gens ordinaires ou des
+célébrités se sont filmés
+
+220
+00:16:44,931 --> 00:16:48,767
+recevant des seaux d'eau
+glacée sur tout leur corps.
+
+221
+00:16:49,437 --> 00:16:51,765
+Et c'est devenu viral.
+
+222
+00:16:51,935 --> 00:16:53,763
+C'était un phénomène !
+
+223
+00:16:53,903 --> 00:16:55,871
+C'était partout.
+
+224
+00:16:56,101 --> 00:16:58,468
+D'accord,
+mais quel était l'intérêt ?
+
+225
+00:16:58,698 --> 00:17:00,167
+Il n'y en avait pas.
+
+226
+00:17:00,267 --> 00:17:03,533
+Ça semble vieux jeu
+formulé comme ça.
+
+227
+00:17:03,963 --> 00:17:08,458
+Ça a permit de financer la recherche sur la SLA.
+Ça a généré 1 million de couronnes,
+
+228
+00:17:08,798 --> 00:17:11,895
+donc ça a été une
+campagne très fructueuse,
+
+229
+00:17:12,034 --> 00:17:15,062
+mais ça ne serait
+pas viable ici.
+
+230
+00:17:15,601 --> 00:17:19,996
+Votre niveau d'ambition est élevé.
+Notre niveau d'ambition est élevé.
+
+231
+00:17:20,696 --> 00:17:24,292
+Ensemble, nous devrions chercher
+à être plus ambitieux.
+
+232
+00:17:24,732 --> 00:17:26,200
+Je suis d'accord.
+
+233
+00:17:26,330 --> 00:17:27,998
+Et c'est ça que
+nous essayons d'expliquer.
+
+234
+00:17:28,168 --> 00:17:31,934
+On doit prendre
+une longueur d'avance.
+
+235
+00:17:32,104 --> 00:17:35,590
+Faire quelque chose de nouveau.
+Et ces gars savent comment.
+
+236
+00:17:35,870 --> 00:17:40,196
+Ils sont nés dans cette arène
+qui ne cesse d'évoluer.
+
+237
+00:17:40,366 --> 00:17:46,030
+C'est leur propre terrain.
+Parfait.
+
+238
+00:17:46,430 --> 00:17:48,928
+On a tout
+ce dont on a besoin,
+
+239
+00:17:49,098 --> 00:17:52,824
+alors retournons
+à nos tables de travail.
+
+240
+00:17:52,964 --> 00:17:55,461
+La semaine prochaine
+nous présenterons nos idées
+
+241
+00:17:55,601 --> 00:17:57,399
+et nous agirons
+en conséquence.
+
+242
+00:17:57,569 --> 00:17:59,697
+Ça paraît bien.
+
+243
+00:17:59,867 --> 00:18:02,234
+Bien,
+ça semble excitant.
+
+244
+00:18:02,404 --> 00:18:06,360
+On peut les garder ?
+Bien sûr.
+
+245
+00:18:06,530 --> 00:18:11,025
+Ça va être super Christian.
+Alors quoi de neuf ?
+
+246
+00:18:11,195 --> 00:18:14,223
+Il vient de m'arriver
+un truc fou.
+
+247
+00:18:14,363 --> 00:18:15,351
+Quoi ?
+
+248
+00:18:15,531 --> 00:18:17,519
+Il vient de m'arriver
+un truc fou.
+
+249
+00:18:17,769 --> 00:18:18,667
+Aujourd'hui ?
+
+250
+00:18:18,797 --> 00:18:21,465
+Écoutez, je veux que vous
+entendiez tous ça.
+
+251
+00:18:22,205 --> 00:18:25,131
+C'est absolument incroyable.
+
+252
+00:18:25,701 --> 00:18:29,397
+Et après que Christian ait dit
+au revoir à l'autre gars,
+
+253
+00:18:29,567 --> 00:18:32,394
+il vérifie ses poches
+et son portefeuille,
+
+254
+00:18:32,564 --> 00:18:34,832
+son portable et ses boutons
+de manchettes ont disparu.
+
+255
+00:18:34,931 --> 00:18:36,200
+Vous rigolez !
+
+256
+00:18:36,330 --> 00:18:39,457
+Je ne comprends pas
+comment ils ont fait.
+
+257
+00:18:43,962 --> 00:18:46,370
+Et maintenant mon
+portable est là-bas.
+
+258
+00:18:46,530 --> 00:18:49,986
+C'est à côté.
+Et nous sommes ici.
+
+259
+00:18:50,166 --> 00:18:51,655
+Tellement surréaliste...
+
+260
+00:18:51,804 --> 00:18:54,232
+Bonjour...
+
+261
+00:18:54,402 --> 00:18:56,660
+Elna, viens voir ça.
+
+262
+00:18:56,800 --> 00:18:59,666
+Il me faut une copie
+du communiqué de presse.
+
+263
+00:18:59,796 --> 00:19:01,396
+Viens là.
+
+264
+00:19:03,433 --> 00:19:08,838
+Tu sais ce que c'est ?
+Non.
+
+265
+00:19:08,968 --> 00:19:12,404
+Bien sûr que tu ne sais pas.
+Ben, c'est mon portable.
+
+266
+00:19:12,564 --> 00:19:17,659
+En venant au travail ce matin,
+j'ai été volé.
+
+267
+00:19:17,799 --> 00:19:21,665
+Ils ont pris mon portable,
+ils ont pris mon portefeuille,
+
+268
+00:19:21,805 --> 00:19:26,130
+et ils ont même pris
+mes boutons de manchettes !
+
+269
+00:19:26,270 --> 00:19:29,127
+J'ai pas la moindre idée
+de comment ils ont fait.
+
+270
+00:19:29,267 --> 00:19:31,195
+Alors qu'est-ce
+que tu en dis ?
+
+271
+00:19:35,271 --> 00:19:37,929
+C'était ton portable professionnel ?
+
+272
+00:19:39,637 --> 00:19:42,533
+C'était mon seul téléphone.
+
+273
+00:19:42,703 --> 00:19:46,719
+Professionnel ou privé,
+c'est le portable que j'utilise.
+
+274
+00:19:50,536 --> 00:19:53,903
+C'est presque l'heure, n'est-ce pas ?
+Oui.
+
+275
+00:19:54,063 --> 00:19:57,399
+On se voit là-bas.
+J'arrive.
+
+276
+00:19:57,569 --> 00:20:00,466
+Tu peux... ?
+Bien sûr.
+
+277
+00:20:00,596 --> 00:20:03,393
+On discutera un peu plus
+tard de la prochaine étape.
+
+278
+00:20:03,563 --> 00:20:04,901
+Oui.
+
+279
+00:20:11,904 --> 00:20:15,062
+Nous allons vous présenter
+l'artiste et sociologue
+
+280
+00:20:15,201 --> 00:20:17,758
+argentin,
+Lola Arias.
+
+281
+00:20:18,638 --> 00:20:21,564
+L'art de Lola est inspiré
+de Nicolas Bourriaud,
+
+282
+00:20:21,734 --> 00:20:25,172
+et ses pensées sur
+l'esthétique relationnelle.
+
+283
+00:20:25,332 --> 00:20:28,858
+En résumé,
+l'esthétique relationnelle explore
+
+284
+00:20:29,038 --> 00:20:33,164
+comment nous sommes liés
+aux autres dans un contexte social.
+
+285
+00:20:38,498 --> 00:20:40,396
+Veuillez m'excuser,
+ça semble très rigide.
+
+286
+00:20:41,435 --> 00:20:45,461
+Puis-je reprendre
+du début ?
+
+287
+00:20:46,600 --> 00:20:49,197
+Ça ne vous dérange pas ?
+Cool.
+
+288
+00:20:51,735 --> 00:20:55,321
+Je vais ranger mes notes...
+Je n'en ai pas besoin.
+
+289
+00:20:55,871 --> 00:20:58,837
+Les lunettes non plus...
+
+290
+00:21:00,266 --> 00:21:04,133
+Parce que le projet dont j'aimerais vous parler...
+
+291
+00:21:05,071 --> 00:21:07,859
+Représente tant pour moi
+que j'aimerais vous parler
+
+292
+00:21:07,969 --> 00:21:09,457
+du fond du cœur.
+
+293
+00:21:10,337 --> 00:21:13,533
+C'est une nuit
+très particulière.
+
+294
+00:21:13,733 --> 00:21:17,169
+Notre musée a reçu
+une donation de la part
+
+295
+00:21:17,429 --> 00:21:22,334
+de la fondation d'Anna-Stina et Gunnar :
+50 millions de couronnes.
+
+296
+00:21:31,165 --> 00:21:34,292
+Maintenant, j'aimerais laisser la parole à notre
+conservateur en chef, Christian,
+
+297
+00:21:34,432 --> 00:21:37,299
+pour qu'il vous parle
+de notre première acquisition
+
+298
+00:21:37,429 --> 00:21:41,235
+avec cette donation, une œuvre connue
+sous le nom de "Le Carré",
+
+299
+00:21:41,405 --> 00:21:45,201
+que vous avez
+dû voir en entrant ici.
+
+300
+00:21:45,371 --> 00:21:49,886
+Une exposition en accord avec
+cette création aura également lieu.
+
+301
+00:21:50,066 --> 00:21:52,034
+Merci d'être avec nous,
+Christian.
+
+302
+00:21:58,038 --> 00:22:00,726
+Chers amis du musée,
+
+303
+00:22:01,904 --> 00:22:04,762
+nous allons présenter
+le sociologue et artiste
+
+304
+00:22:04,902 --> 00:22:07,229
+argentin Lola Arias,
+
+305
+00:22:07,369 --> 00:22:09,357
+et sa création "Le Carré".
+
+306
+00:22:10,696 --> 00:22:14,462
+L'art de Lola s'inspire
+de Nicolas Bourriaud,
+
+307
+00:22:14,971 --> 00:22:18,128
+et ses pensées sur
+l'esthétique relationnelle...
+
+308
+00:22:19,697 --> 00:22:21,565
+Qu'est-ce qu'il
+y a de si drôle ?
+
+309
+00:22:21,705 --> 00:22:25,501
+Oh, un portable sonne ?
+C'est pour moi ?
+
+310
+00:22:28,697 --> 00:22:30,186
+Attendons de voir.
+
+311
+00:22:31,505 --> 00:22:33,903
+Erik ?
+C'est pour moi ?
+
+312
+00:22:34,431 --> 00:22:38,767
+Ma mère appelle en
+général à cette heure-ci.
+
+313
+00:22:42,763 --> 00:22:44,063
+
+
+314
+00:22:44,202 --> 00:22:47,359
+Puis-je profiter de cette
+occasion pour recommencer ?
+
+315
+00:22:47,939 --> 00:22:54,302
+Ça semblait un peu trop rigide.
+Laissez-moi juste enlever le micro.
+
+316
+00:23:01,635 --> 00:23:05,291
+J'aimerais que vous fassiez
+quelque chose pour moi.
+
+317
+00:23:05,770 --> 00:23:07,738
+Vous en êtes ? OK.
+
+318
+00:23:07,898 --> 00:23:12,124
+Je vous demande
+d'imaginer que vous êtes
+
+319
+00:23:12,564 --> 00:23:15,231
+sur une place publique
+en ville.
+
+320
+00:23:16,100 --> 00:23:17,688
+À Odenplan par exemple,
+
+321
+00:23:17,868 --> 00:23:22,924
+ou toute autre place
+de grande ville.
+
+322
+00:23:23,602 --> 00:23:25,730
+Vous y êtes là ?
+OK.
+
+323
+00:23:25,870 --> 00:23:29,766
+C'est un jour comme les autres et
+il y a beaucoup de monde en mouvement.
+
+324
+00:23:30,096 --> 00:23:31,295
+Vous regardez à vos pieds
+
+325
+00:23:31,405 --> 00:23:34,562
+et voyez que vous vous
+tenez à l'intérieur d'un carré,
+
+326
+00:23:35,271 --> 00:23:39,287
+Un carré de 4 x 4 m
+clairement défini.
+
+327
+00:23:40,696 --> 00:23:44,192
+Voici ce qu'est
+physiquement "Le Carré".
+
+328
+00:23:44,602 --> 00:23:49,157
+C'est comme un cadre vide
+attendant d'être rempli.
+
+329
+00:23:49,337 --> 00:23:53,703
+Lola Arias compare "Le Carré"
+à un passage piéton.
+
+330
+00:23:53,863 --> 00:24:00,765
+Un passage piéton
+implique un contrat explicite :
+
+331
+00:24:00,935 --> 00:24:03,493
+Les conducteurs doivent
+faire attention aux piétons.
+
+332
+00:24:03,633 --> 00:24:07,399
+De la même manière,
+il y a un contrat
+
+333
+00:24:07,569 --> 00:24:11,055
+engendré par "Le Carré",
+pour prendre soin des autres.
+
+334
+00:24:12,803 --> 00:24:14,322
+On s'entraide mutuellement.
+
+335
+00:24:14,571 --> 00:24:18,827
+Si vous entrez dans l'espace
+et que vous appelez à l'aide,
+
+336
+00:24:18,967 --> 00:24:21,934
+tous les gens passant par là
+ont l'obligation de vous aider.
+
+337
+00:24:25,071 --> 00:24:26,360
+"J'ai faim.
+
+338
+00:24:26,869 --> 00:24:30,236
+Vous auriez la gentillesse
+de m'offrir un repas ?"
+
+339
+00:24:32,933 --> 00:24:34,991
+"Pouvez-vous
+m'apprendre à nager ?"
+
+340
+00:24:38,338 --> 00:24:42,464
+"Mon père vient de mourir
+et je n'ai personne à qui parler.
+
+341
+00:24:42,604 --> 00:24:46,400
+Pouvez-vous m'accorder
+30 minutes de votre temps ?"
+
+342
+00:24:51,095 --> 00:24:55,121
+Certains d'entre vous pourraient
+nous traiter de naïfs.
+
+343
+00:24:55,271 --> 00:24:57,998
+Ou même d'utopistes.
+
+344
+00:25:15,771 --> 00:25:17,359
+Merci.
+
+345
+00:25:20,435 --> 00:25:21,925
+Merci.
+
+346
+00:25:23,503 --> 00:25:26,899
+L'exposition ouvrira ses
+portes à la fin de l'été,
+
+347
+00:25:27,069 --> 00:25:29,557
+et vous ne pourrez manquer
+ça pour rien au monde.
+
+348
+00:25:29,737 --> 00:25:35,291
+Et maintenant j'espère que vous avez faim.
+On vous a préparé quelque chose.
+
+349
+00:25:35,431 --> 00:25:39,697
+Jonas,
+je vous laisse présenter le menu ?
+
+350
+00:25:39,867 --> 00:25:42,493
+Je suis certain que vous saurez
+faire ça bien mieux que moi.
+
+351
+00:25:44,362 --> 00:25:46,360
+Hey !
+Hey.
+
+352
+00:25:46,529 --> 00:25:49,587
+Nous vous avons préparé
+un fabuleux buffet.
+
+353
+00:25:49,766 --> 00:25:52,204
+Du poulet nourri au maïs
+enrobé de champignons,
+
+354
+00:25:52,364 --> 00:25:55,131
+des asperges marinées
+dans l'huile de truffe...
+
+355
+00:25:57,329 --> 00:26:00,326
+Et du céleri rôti
+à la perfection...
+
+356
+00:26:00,696 --> 00:26:03,662
+Pas de précipitation
+s'il vous plaît.
+
+357
+00:26:03,802 --> 00:26:05,560
+Arrêtez-vous !
+
+358
+00:26:10,266 --> 00:26:12,324
+Il y a également une sauce.
+
+359
+00:26:12,504 --> 00:26:14,902
+Le jus du poulet déglacé
+au vinaigre balsamique,
+
+360
+00:26:15,032 --> 00:26:16,660
+miel et sauge.
+
+361
+00:26:17,029 --> 00:26:18,468
+Bonne dégustation !
+
+362
+00:26:27,099 --> 00:26:30,556
+Je peux te demander quelque chose ?
+Le GPS dans ma voiture...
+
+363
+00:26:30,735 --> 00:26:31,704
+Oui.
+
+364
+00:26:31,864 --> 00:26:34,701
+Il y a toujours une marge
+d'erreur de 50 m.
+
+365
+00:26:34,871 --> 00:26:39,696
+On peut se fier à cette localisation ?
+C'est là.
+
+366
+00:26:39,866 --> 00:26:44,032
+Il y a peut être un décalage de 10 m au plus.
+C'est trop.
+
+367
+00:26:44,202 --> 00:26:47,069
+On ne sait peut-être
+pas quel appartement,
+
+368
+00:26:47,229 --> 00:26:49,357
+mais on peut être certains
+que c'est ce bâtiment.
+
+369
+00:26:49,537 --> 00:26:52,463
+Écoute, j'ai une idée.
+
+370
+00:26:52,603 --> 00:26:55,121
+Ecrivons une lettre de menace
+
+371
+00:26:55,271 --> 00:26:58,058
+que nous allons
+distribuer dans l'immeuble,
+
+372
+00:26:58,237 --> 00:27:01,135
+en les mettant dans
+les boîtes aux lettres.
+
+373
+00:27:01,265 --> 00:27:03,922
+De cette manière, on est sûrs
+de contacter celui qui a fait ça.
+
+374
+00:27:04,102 --> 00:27:05,761
+Il doit y avoir 15 étages.
+
+375
+00:27:05,930 --> 00:27:09,387
+Et alors ? C'est pas un problème.
+8 appartements à chaque étage...
+
+376
+00:27:09,567 --> 00:27:12,054
+Je vais le faire.
+T'inquiète pas.
+
+377
+00:27:12,234 --> 00:27:15,291
+On va pas un peu loin
+avec des menaces ?
+
+378
+00:27:15,431 --> 00:27:18,488
+"À la personne qui m'a volé,
+
+379
+00:27:18,637 --> 00:27:21,065
+Je vais te casser la gueule si
+tu ne me rends pas mes affaires."
+
+380
+00:27:21,235 --> 00:27:25,221
+Non, non.
+Voyons, c'est bien trop violent.
+
+381
+00:27:25,400 --> 00:27:30,166
+Ces gens là sont des criminels,
+c'est leur quotidien.
+
+382
+00:27:30,336 --> 00:27:33,662
+Ça ne justifie pas que nous nous
+comportions de la même manière.
+
+383
+00:27:33,802 --> 00:27:36,560
+Arrête de faire ton Suédois !
+
+384
+00:27:36,730 --> 00:27:38,328
+Laisse tomber le
+politiquement correct.
+
+385
+00:27:38,498 --> 00:27:41,894
+Ils devraient payer
+pour ce qu'ils ont fait.
+
+386
+00:27:46,530 --> 00:27:52,224
+"Comme vous pouvez le constater,
+nous savons qui vous êtes et où vous vivez,
+
+387
+00:27:52,404 --> 00:27:56,859
+sinon vous n'auriez
+pas reçu cette lettre."
+
+388
+00:27:57,029 --> 00:28:00,595
+Pas mal.
+Pas mal du tout.
+
+389
+00:28:00,765 --> 00:28:04,991
+Et ensuite ils...
+Attends !
+
+390
+00:28:05,171 --> 00:28:08,757
+"Nous savons qui vous êtes
+et manifestement où vous vivez,
+
+391
+00:28:08,937 --> 00:28:12,763
+sinon on aurait jamais
+pu vous contacter."
+
+392
+00:28:21,235 --> 00:28:23,163
+Nouveau paragraphe.
+
+393
+00:28:23,333 --> 00:28:24,761
+
+
+394
+00:28:24,931 --> 00:28:30,385
+"Rendez-moi mon portefeuille, mon portable,
+et mes boutons de manchettes
+
+395
+00:28:30,565 --> 00:28:34,022
+qui appartenaient à mon grand père."
+
+396
+00:28:34,202 --> 00:28:36,559
+C'était ceux de
+mon grand père.
+
+397
+00:28:37,199 --> 00:28:40,186
+Je vais écrire pendant que tu manges.
+Bien sûr.
+
+398
+00:28:41,565 --> 00:28:46,400
+Ça te dérange si je remplace la police Comic Sans ?
+Trouvons quelque chose de moins enfantin.
+
+399
+00:28:46,569 --> 00:28:51,594
+C'est pas moi qui l'ai choisi.
+C'est LA police des années 90.
+
+400
+00:28:52,064 --> 00:28:54,122
+Maintenant ça ressemble
+déjà moins
+
+401
+00:28:54,332 --> 00:28:56,819
+à une invitation à
+un goûter d'anniversaire.
+
+402
+00:28:56,969 --> 00:29:00,196
+Après tout, c'est une menace !
+C'est dingue !
+
+403
+00:29:03,402 --> 00:29:06,370
+Vas-y. Continue.
+Juste un instant.
+
+404
+00:29:07,028 --> 00:29:08,558
+"Mon portable"...
+
+405
+00:29:08,738 --> 00:29:12,164
+"...et les boutons de manchettes de
+mon grand père sous 24 heures"...
+
+406
+00:29:12,334 --> 00:29:17,228
+T'as oublié le "mon"
+avant grand père.
+
+407
+00:29:19,566 --> 00:29:23,003
+"Mon portefeuille, mon portable, et les boutons
+de manchettes de grand père"...
+
+408
+00:29:24,731 --> 00:29:30,755
+Ça devient une histoire t-r-è-s personnelle.
+
+409
+00:29:30,935 --> 00:29:35,201
+"... au 7-Eleven de la gare
+
+410
+00:29:35,371 --> 00:29:37,199
+ou vous aurez affaire à nous..."
+
+411
+00:29:37,369 --> 00:29:38,697
+On rajoute un crane ?
+
+412
+00:29:38,867 --> 00:29:43,703
+Pas de smiley,
+c'est réservé aux textos.
+
+413
+00:29:43,862 --> 00:29:48,057
+T'as raison, ça fait trop enfantin.
+Imprimons cette merde !
+
+414
+00:29:48,237 --> 00:29:53,033
+C'est parti !
+50 copies.
+
+415
+00:29:58,197 --> 00:30:02,823
+Ils roulent comme des malades !
+
+416
+00:30:05,630 --> 00:30:07,029
+Tu peux mettre
+un peu de musique ?
+
+417
+00:30:07,169 --> 00:30:08,897
+Bien sûr.
+
+418
+00:30:09,067 --> 00:30:12,394
+Que dis tu d'un tube
+planétaire de l'époque...
+
+419
+00:30:14,601 --> 00:30:15,900
+Gasoline !
+
+420
+00:30:16,070 --> 00:30:20,596
+T'as rien de plus gai ?
+
+421
+00:30:24,971 --> 00:30:27,198
+Ça c'est plus gai.
+
+422
+00:30:27,798 --> 00:30:32,234
+Cool, t'as du Justice.
+Piste 5.
+
+423
+00:30:32,404 --> 00:30:37,458
+Quoi ?
+Justice. Piste 5.
+
+424
+00:30:37,598 --> 00:30:39,756
+Mets la.
+C'est génial. Balance.
+
+425
+00:30:39,936 --> 00:30:42,124
+OK.
+
+426
+00:30:43,702 --> 00:30:47,228
+Oui.
+
+427
+00:30:47,398 --> 00:30:48,987
+Allez, balance le son.
+
+428
+00:30:49,167 --> 00:30:51,694
+Ça fait un siècle que
+j'ai plus écouté Justice.
+
+429
+00:30:57,868 --> 00:31:00,595
+Le paradoxe,
+c'est qu'ils s'appellent Justice.
+
+430
+00:31:00,765 --> 00:31:02,353
+Et on est là pour quoi ?
+
+431
+00:31:02,533 --> 00:31:08,557
+C'est pas un paradoxe.
+Bon, peut-être pas...
+
+432
+00:31:08,737 --> 00:31:11,065
+Mais on est là pour la justice,
+n'est-ce pas ?
+
+433
+00:31:11,235 --> 00:31:12,753
+Oui.
+
+434
+00:31:12,933 --> 00:31:17,199
+Elle passe au bon moment !
+Certainement.
+
+435
+00:31:17,369 --> 00:31:20,385
+T'es prêt ?
+Monte le son !
+
+436
+00:31:22,903 --> 00:31:26,129
+Ça déchire non ?
+
+437
+00:31:29,167 --> 00:31:35,291
+Voilà ce qui arrive quand on
+s'amuse à voler ton portable.
+
+438
+00:31:35,430 --> 00:31:39,556
+On arrive avec la cavalerie !
+On va leur tomber dessus avec un marteau.
+
+439
+00:31:39,736 --> 00:31:44,561
+Un grand, gros marteau.
+Pour la justice...
+
+440
+00:31:44,731 --> 00:31:46,669
+Dans une Tesla.
+
+441
+00:31:49,766 --> 00:31:54,162
+La Tesla de la justice !
+T'es fou.
+
+442
+00:32:07,228 --> 00:32:10,396
+- OK.
+- OK.
+
+443
+00:32:27,498 --> 00:32:31,524
+T'y vas ?
+L'un de nous doit surveiller la voiture.
+
+444
+00:32:31,704 --> 00:32:33,133
+Je m'en charge.
+
+445
+00:32:34,401 --> 00:32:38,387
+Tu vas faire quoi ?
+Je vais surveiller la voiture.
+
+446
+00:32:41,764 --> 00:32:43,821
+Je vais surveiller la voiture.
+
+447
+00:32:50,095 --> 00:32:56,229
+C'est un peu gênant, mais...
+
+448
+00:32:56,399 --> 00:33:00,126
+Tu sais que je suis quasiment
+une personnalité publique ?
+
+449
+00:33:00,265 --> 00:33:02,923
+Oui, oui.
+Le gens me connaissent.
+
+450
+00:33:03,103 --> 00:33:07,898
+Il y a un gros risque
+qu'on me reconnaisse.
+
+451
+00:33:08,068 --> 00:33:09,586
+Pas ici.
+
+452
+00:33:09,766 --> 00:33:12,733
+Ils ne sauront pas
+qui tu es.
+
+453
+00:33:13,033 --> 00:33:14,501
+C'est vrai.
+
+454
+00:33:14,631 --> 00:33:18,068
+Mais c'est pas moi
+qui ait été volé.
+
+455
+00:33:18,238 --> 00:33:21,324
+Mais c'était ton idée.
+Oh, oui, ça l'était.
+
+456
+00:33:21,504 --> 00:33:25,690
+T'as proposé d'écrire une lettre.
+N'est-ce pas ?
+
+457
+00:33:25,870 --> 00:33:32,234
+J'ai simplement voulu t'aider.
+Alors je vois pas pourquoi...
+
+458
+00:33:32,404 --> 00:33:36,659
+Viens on laisse tomber tout ça,
+c'est pas grave.
+
+459
+00:33:38,068 --> 00:33:40,196
+Partons d'ici.
+
+460
+00:33:49,596 --> 00:33:51,934
+Donne-moi ta veste.
+
+461
+00:33:52,104 --> 00:33:55,730
+Je peux pas aller
+là-dedans avec ce costume.
+
+462
+00:33:55,900 --> 00:33:58,837
+Passe-moi ta veste,
+poule mouillée.
+
+463
+00:33:58,967 --> 00:34:02,593
+Ça n'a rien à voir.
+
+464
+00:34:02,763 --> 00:34:05,031
+T'es une poule mouillée !
+
+465
+00:34:05,201 --> 00:34:07,857
+Attends. Désolé...
+
+466
+00:34:17,429 --> 00:34:21,993
+Tu te souviens avoir dit que tu te
+chargeais de déposer les lettres ?
+
+467
+00:34:22,163 --> 00:34:24,131
+J'aurai jamais dit ça.
+Tu l'as dit.
+
+468
+00:34:24,261 --> 00:34:27,828
+"C'est super facile, il suffit de..."
+
+469
+00:34:29,396 --> 00:34:31,564
+Tu l'as dit.
+Toi.
+
+470
+00:34:31,734 --> 00:34:35,320
+Mais je n'ai jamais dit que
+j'allais le faire moi-même.
+
+471
+00:34:35,500 --> 00:34:41,334
+En tant que patron, je suis curieux de
+savoir si je peux te faire confiance.
+
+472
+00:34:41,504 --> 00:34:45,730
+Si tu promets de faire quelque chose,
+est-ce que je peux compter sur toi ?
+
+473
+00:34:45,900 --> 00:34:48,368
+Bien sûr que tu peux.
+Vraiment ?
+
+474
+00:34:48,538 --> 00:34:52,554
+Je veux bien passer l'éponge
+pour cette fois ci, mais à l'avenir ?
+
+475
+00:34:52,732 --> 00:34:55,200
+Tu peux compter sur moi.
+Oui, oui.
+
+476
+00:34:55,630 --> 00:34:57,028
+C'est bien.
+
+477
+00:35:11,035 --> 00:35:14,062
+Fils de pute...
+
+478
+00:35:14,231 --> 00:35:16,719
+<i>Treizième étage.</i>
+
+479
+00:35:31,604 --> 00:35:33,891
+<i>En descente.</i>
+
+480
+00:37:24,361 --> 00:37:27,358
+Hé ho !
+
+481
+00:38:05,270 --> 00:38:06,998
+Merde.
+
+482
+00:38:16,869 --> 00:38:19,296
+C'est de la pure folie.
+
+483
+00:38:33,033 --> 00:38:34,501
+Allez !
+
+484
+00:38:44,531 --> 00:38:47,019
+Oh, putain !
+
+485
+00:38:47,198 --> 00:38:51,924
+Oui, c'est ma voiture,
+mais j'ai pas le temps.
+
+486
+00:38:52,103 --> 00:38:55,590
+C'est une belle voiture.
+Tu peux la démarrer ?
+
+487
+00:38:55,770 --> 00:38:58,287
+Quoi ?
+Démarre-la. Démarre...
+
+488
+00:38:59,866 --> 00:39:03,892
+Vous pouvez éviter
+de la toucher ?
+
+489
+00:39:04,062 --> 00:39:07,728
+Vous risquez de la rayer.
+Je ne fais rien.
+
+490
+00:39:07,898 --> 00:39:09,836
+Je veux juste
+que tu la démarres.
+
+491
+00:39:09,966 --> 00:39:12,992
+Non, j'ai pas envie.
+
+492
+00:39:13,162 --> 00:39:17,928
+Allez, fais pas ton boulet,
+j'ai jamais eu l'occasion d'en voir une avant.
+
+493
+00:39:18,098 --> 00:39:23,052
+C'est juste une voiture ordinaire.
+Rien de particulier, à mourir d'ennui.
+
+494
+00:39:23,232 --> 00:39:25,530
+Passez une bonne soirée.
+
+495
+00:39:37,937 --> 00:39:39,156
+Nom de Dieu !
+
+496
+00:39:39,266 --> 00:39:41,234
+Qu'est-ce que tu fous ?
+
+497
+00:39:42,033 --> 00:39:44,001
+Qu'est-ce que tu fous ?
+Ce qui me plaît.
+
+498
+00:39:44,161 --> 00:39:48,357
+Écoute,
+arrête cette merde...
+
+499
+00:39:48,537 --> 00:39:50,125
+Go ! Go !
+Quoi ?
+
+500
+00:39:50,265 --> 00:39:53,921
+Très bien ! Grimpe !
+
+501
+00:40:25,230 --> 00:40:28,567
+J'ai l'impression qu'on
+a touché quelque chose.
+
+502
+00:40:28,736 --> 00:40:31,294
+Oui, j'ai l'impression en effet...
+
+503
+00:40:41,704 --> 00:40:46,359
+Tu pourrais t'arrêter...
+pour que je puisse jeter un œil ?
+
+504
+00:41:46,269 --> 00:41:52,293
+S'il vous plaît, j'ai trois enfants
+et du diabète. Une couronne ?
+
+505
+00:41:54,101 --> 00:41:58,187
+Excusez-moi...
+S'il vous plaît, une couronne ?
+
+506
+00:42:00,764 --> 00:42:06,928
+Merci madame.
+Un brin de monnaie ? Merci.
+
+507
+00:42:07,328 --> 00:42:12,194
+Merci madame.
+S'il vous plaît gentille madame.
+
+508
+00:42:14,800 --> 00:42:19,066
+Bonjour, aidez-moi...
+Une couronne s'il vous plaît.
+
+509
+00:42:20,934 --> 00:42:25,760
+Bonjour, aidez-moi...
+Une couronne s'il vous plaît.
+
+510
+00:42:25,929 --> 00:42:29,226
+Merci.
+Aidez-moi s'il vous plaît.
+
+511
+00:42:31,064 --> 00:42:33,292
+Voulez-vous sauver
+une vie humaine ?
+
+512
+00:42:35,600 --> 00:42:39,156
+Voulez-vous sauver
+une vie humaine ?
+
+513
+00:42:39,336 --> 00:42:42,303
+Voulez-vous sauver
+une vie humaine ?
+
+514
+00:42:54,801 --> 00:42:56,819
+Bonjour.
+Salut.
+
+515
+00:42:57,767 --> 00:42:59,027
+Comment ça va aujourd'hui ?
+
+516
+00:43:01,304 --> 00:43:02,793
+Argent...
+
+517
+00:43:03,502 --> 00:43:06,469
+Désolé,
+j'ai pas de monnaie.
+
+518
+00:43:06,599 --> 00:43:10,035
+Mais je peux t'acheter
+quelque chose à manger.
+
+519
+00:43:10,195 --> 00:43:12,133
+Un ciabatta au poulet.
+
+520
+00:43:14,361 --> 00:43:18,027
+Quoi ?
+Un ciabatta au poulet.
+
+521
+00:43:19,796 --> 00:43:23,202
+OK, un ciabatta au poulet.
+Oui.
+
+522
+00:43:24,900 --> 00:43:26,918
+Hey...
+Oui ?
+
+523
+00:43:30,166 --> 00:43:31,724
+Qu'est-ce que tu as dit ?
+
+524
+00:43:33,802 --> 00:43:36,030
+"Sans oignons ?"
+Oui.
+
+525
+00:43:40,165 --> 00:43:41,534
+OK.
+
+526
+00:43:44,131 --> 00:43:45,570
+Hey.
+Hey.
+
+527
+00:43:45,730 --> 00:43:47,997
+J'aimerais une
+carte SIM prépayée
+
+528
+00:43:48,167 --> 00:43:50,535
+et un ciabatta au poulet.
+
+529
+00:43:55,869 --> 00:43:58,697
+Est-ce que quelqu'un aurait
+déposé un paquet ou une lettre
+
+530
+00:43:58,866 --> 00:44:01,334
+adressé à "Christian" ?
+
+531
+00:44:03,162 --> 00:44:04,501
+Peggy ?
+
+532
+00:44:06,129 --> 00:44:08,327
+Peggy ?
+Oui ?
+
+533
+00:44:08,497 --> 00:44:10,985
+Est-ce que quelqu'un
+a déposé un paquet ?
+
+534
+00:44:11,164 --> 00:44:14,001
+Un paquet ?
+
+535
+00:44:14,161 --> 00:44:17,687
+Un paquet ou une
+lettre pour Christian ?
+
+536
+00:44:18,567 --> 00:44:20,995
+Non.
+Rien ?
+
+537
+00:44:23,731 --> 00:44:26,129
+Désolé.
+OK.
+
+538
+00:44:27,997 --> 00:44:29,486
+Passez une bonne journée.
+
+539
+00:44:29,635 --> 00:44:34,501
+Voilà ton ciabatta.
+T'enlèvera les oignons toi-même.
+
+540
+00:44:34,631 --> 00:44:36,928
+Hé. Hé !
+
+541
+00:45:11,234 --> 00:45:12,393
+Monsieur ?
+
+542
+00:45:12,562 --> 00:45:15,060
+Pas de photo.
+
+543
+00:45:15,230 --> 00:45:17,857
+<i>Le point de départ
+de cette installation</i>
+
+544
+00:45:18,037 --> 00:45:21,524
+<i>comme probablement
+toutes mes œuvres des... </i>
+
+545
+00:45:21,703 --> 00:45:23,761
+...six dernières années...
+
+546
+00:45:25,230 --> 00:45:26,928
+Euh...
+
+547
+00:45:27,098 --> 00:45:30,725
+Mon point de départ a
+été mon entourage proche
+
+548
+00:45:30,894 --> 00:45:34,161
+et, euh...
+
+549
+00:45:34,331 --> 00:45:36,659
+et reprend les objets de
+la vie de tous les jours
+
+550
+00:45:36,799 --> 00:45:42,893
+pour explorer la signification de la
+réaction d'une personne face à l'art.
+
+551
+00:45:43,063 --> 00:45:46,999
+Par là, je veux dire qu'il y a
+des exemples bien spécifiques
+
+552
+00:45:47,168 --> 00:45:51,194
+qui mettraient en lumière
+les objets du quotidien
+
+553
+00:45:51,363 --> 00:45:54,161
+que l'on ne remarquerait
+pas habituellement
+
+554
+00:45:54,331 --> 00:45:56,359
+dans leur contexte original.
+
+555
+00:45:56,529 --> 00:45:58,727
+Je me suis intéressé,
+par exemple, à
+
+556
+00:46:00,095 --> 00:46:03,691
+ce qui se passe lorsqu'une
+peinture de paysage
+
+557
+00:46:03,861 --> 00:46:05,200
+est exposée
+dans une galerie.
+
+558
+00:46:05,370 --> 00:46:08,856
+Dans quelle mesure
+est lié le paysage à...
+
+559
+00:46:09,036 --> 00:46:10,594
+l'espace de la galerie,
+
+560
+00:46:10,764 --> 00:46:14,460
+Comment cet espace est
+rattaché à l'espace
+
+561
+00:46:14,600 --> 00:46:18,756
+qui se trouve dans nos têtes ?
+Dans notre psychisme, de telle sorte que...
+
+562
+00:46:19,096 --> 00:46:22,033
+Bite, nom de dieu !
+
+563
+00:46:30,095 --> 00:46:31,394
+
+
+564
+00:46:31,564 --> 00:46:33,222
+Vous nous parliez
+de paysages,
+
+565
+00:46:33,402 --> 00:46:37,198
+et ça me fait penser
+à feu Robert Smithson,
+
+566
+00:46:37,368 --> 00:46:41,064
+qui, dans les années 60 et 70,
+était très célèbre pour ses...
+
+567
+00:46:41,234 --> 00:46:42,662
+Ordures !
+
+568
+00:46:42,802 --> 00:46:47,388
+… ses photographies et,
+hum... et ses paysages.
+
+569
+00:46:47,568 --> 00:46:53,402
+Et… il utilisait des matériaux tels que
+la terre, la pierre et des feuilles
+
+570
+00:46:53,561 --> 00:46:55,859
+et les mélangeait avec
+d'autres matériaux, comme...
+
+571
+00:46:56,029 --> 00:46:58,297
+Montre nous tes seins !
+
+572
+00:47:00,964 --> 00:47:05,329
+Veuillez nous excuser,
+mon mari a le syndrome de La Tourette.
+
+573
+00:47:05,499 --> 00:47:08,867
+D'autres matériaux comme...
+Tourette ?
+
+574
+00:47:10,395 --> 00:47:12,593
+Je vous en prie, continuez.
+Oui...
+
+575
+00:47:12,763 --> 00:47:14,731
+Alors cette œuvre est crée,
+
+576
+00:47:14,901 --> 00:47:16,829
+lorsque vous parlez d'Earth Art...
+
+577
+00:47:16,968 --> 00:47:19,455
+Pute !
+
+578
+00:47:19,595 --> 00:47:23,501
+En introduisant des matériaux
+tels que du béton, du métal
+
+579
+00:47:23,631 --> 00:47:27,118
+des pierres, de la terre et des feuilles,
+y a-t-il quelque chose...
+
+580
+00:47:27,268 --> 00:47:31,324
+Peut-on y voir une sorte de signature
+attachée à votre travail ? Je veux dire...
+
+581
+00:47:31,504 --> 00:47:34,331
+Va chier !
+Assez.
+
+582
+00:47:36,598 --> 00:47:40,394
+Désolé. Désolé...
+
+583
+00:47:40,564 --> 00:47:44,520
+Smithson était en fait
+un ami à l'époque où j'étais...
+
+584
+00:47:46,398 --> 00:47:48,456
+Il s'intéressait à l'esthétique
+
+585
+00:47:48,596 --> 00:47:51,864
+de la terre et aux
+éléments de la terre,
+
+586
+00:47:52,034 --> 00:47:53,592
+et je m'intéresse à
+l'utilisation de ces éléments,
+
+587
+00:47:53,802 --> 00:47:55,700
+mais pas à leur esthétique.
+Ordure !
+
+588
+00:47:55,870 --> 00:47:58,796
+Suceur de bite ! Pute !
+
+589
+00:47:59,396 --> 00:48:02,452
+C'est scandaleux.
+Je suis désolé.
+
+590
+00:48:02,602 --> 00:48:04,900
+Si tous ceux qui
+peuvent rester silencieux,
+
+591
+00:48:05,070 --> 00:48:07,128
+s'il vous plaît,
+essayez de garder le silence.
+
+592
+00:48:07,268 --> 00:48:10,195
+Ta gueule !
+Casse-toi ! Va chier !
+
+593
+00:48:10,365 --> 00:48:12,023
+Si ça ne dérange pas l'artiste...
+
+594
+00:48:12,203 --> 00:48:14,391
+Nous avons cette chance unique
+
+595
+00:48:14,570 --> 00:48:19,056
+de rencontrer ce formidable artiste...
+
+596
+00:48:19,236 --> 00:48:21,493
+Montre-nous tes seins !
+
+597
+00:48:21,633 --> 00:48:25,499
+Continuons.
+Tout le monde est le bienvenu,
+
+598
+00:48:25,629 --> 00:48:28,327
+quelle que soit son opinion...
+
+599
+00:48:29,765 --> 00:48:32,663
+Hum, oui...
+
+600
+00:48:32,803 --> 00:48:35,769
+Avez-vous vu
+l'exposition en bas ?
+
+601
+00:48:35,929 --> 00:48:38,397
+Vous l'avez vu ?
+Vous avez aimé ?
+
+602
+00:48:38,567 --> 00:48:40,035
+Ordure !
+
+603
+00:48:40,195 --> 00:48:41,463
+OK.
+
+604
+00:48:41,603 --> 00:48:43,122
+J'ai aimé.
+OK.
+
+605
+00:48:43,261 --> 00:48:45,229
+Qu'est-ce que
+vous voulez dire ?
+
+606
+00:48:46,429 --> 00:48:47,727
+Casse toi ! Va chier !
+Suce des bites !
+
+607
+00:48:50,794 --> 00:48:52,593
+On n'entend rien.
+
+608
+00:48:52,802 --> 00:48:56,319
+L'ambiance le fait stresser...
+
+609
+00:48:57,697 --> 00:48:59,286
+Ta gueule ! Casse toi !
+
+610
+00:49:00,335 --> 00:49:02,233
+Chatte gonflée !
+
+611
+00:49:03,062 --> 00:49:05,899
+Essayez d'être tolérant.
+
+612
+00:49:06,628 --> 00:49:08,526
+Cet homme souffre
+
+613
+00:49:08,696 --> 00:49:10,165
+d'un désordre
+neuro-psychiatrique.
+
+614
+00:49:10,694 --> 00:49:15,160
+C'est n'est pas volontaire,
+alors soyez tolérant.
+
+615
+00:49:17,328 --> 00:49:18,456
+Euh, oui.
+
+616
+00:49:18,596 --> 00:49:19,896
+Vous êtes le bienvenu ici.
+
+617
+00:49:20,064 --> 00:49:22,392
+Je ne vois pas de raison
+suffisante pour ne pas poursuivre.
+
+618
+00:50:25,030 --> 00:50:26,299
+putain !
+
+619
+00:50:57,867 --> 00:50:59,695
+Qu'est-ce qui se passe ?
+
+620
+00:51:06,898 --> 00:51:09,056
+Algot, viens.
+
+621
+00:51:17,527 --> 00:51:20,195
+Elle est cinglée...
+
+622
+00:51:32,803 --> 00:51:37,057
+Bonjour, je m'appelle Christian.
+Vous m'avez appelé ?
+
+623
+00:52:22,762 --> 00:52:25,699
+Ca, c'est le comble !
+
+624
+00:52:38,496 --> 00:52:40,654
+Incroyable.
+
+625
+00:52:54,929 --> 00:52:57,597
+Argent ?
+
+626
+00:52:57,767 --> 00:53:00,754
+Voilà pour toi.
+Merci.
+
+627
+00:53:00,933 --> 00:53:06,559
+Et ça...
+Merci.
+
+628
+00:53:06,728 --> 00:53:08,217
+Merci...
+
+629
+00:54:27,027 --> 00:54:30,555
+Votre attention tout le monde...
+
+630
+00:54:30,734 --> 00:54:34,560
+C'est un lieu très spécial.
+Juste derrière...
+
+631
+00:54:34,730 --> 00:54:38,566
+Je suis sérieux,
+c'est le Palais Royal.
+
+632
+00:54:38,736 --> 00:54:43,132
+De l'autre côté se trouvent les anciens
+appartements privés du roi et de la reine.
+
+633
+00:54:43,261 --> 00:54:46,758
+Et quelqu'un qui est
+là ce soir a les clés...
+
+634
+00:54:48,366 --> 00:54:55,030
+On pensait y faire un tour
+et jeter un œil.
+
+635
+00:54:56,768 --> 00:54:59,496
+Oh, merde !
+Nous avons...
+
+636
+00:55:00,434 --> 00:55:01,554
+N'oubliez pas de
+faire très attention
+
+637
+00:55:01,703 --> 00:55:03,462
+avec les tableaux.
+
+638
+00:55:32,632 --> 00:55:37,897
+Josefina !
+Viens...
+
+639
+00:56:01,903 --> 00:56:03,691
+Vous connaissez ce morceau ?
+
+640
+00:56:13,361 --> 00:56:14,590
+Non.
+
+641
+00:56:31,732 --> 00:56:32,862
+Vous voulez vous assoir ?
+
+642
+00:56:33,002 --> 00:56:34,460
+Non, allez-y.
+
+643
+00:57:34,870 --> 00:57:36,928
+Chatte !
+
+644
+00:57:42,932 --> 00:57:44,990
+Shh ! Chatte !
+
+645
+00:57:50,534 --> 00:57:52,832
+Excusez-moi ?
+
+646
+00:57:52,962 --> 00:57:55,190
+Chatte.
+
+647
+00:57:55,370 --> 00:57:58,336
+Vous venez
+de dire "chatte" ?
+
+648
+00:57:58,496 --> 00:57:59,894
+Shh !
+
+649
+00:58:00,064 --> 00:58:02,002
+Chatte.
+
+650
+00:58:05,230 --> 00:58:06,758
+OK.
+
+651
+00:58:06,928 --> 00:58:08,026
+Oui, vous vous souvenez du...
+
+652
+00:58:08,196 --> 00:58:10,224
+Chut !
+
+653
+00:58:12,032 --> 00:58:13,331
+
+
+654
+00:58:14,730 --> 00:58:16,858
+Vous voulez y aller ?
+Non.
+
+655
+00:58:43,501 --> 00:58:46,518
+Je ne coucherai pas
+avec elle ce soir.
+
+656
+00:59:41,932 --> 00:59:45,020
+Euh... Ann ?
+
+657
+00:59:47,797 --> 00:59:49,355
+Ann.
+
+658
+01:00:24,969 --> 01:00:27,297
+Très bien.
+
+659
+01:01:13,861 --> 01:01:15,988
+Donne-le moi.
+
+660
+01:01:48,166 --> 01:01:49,495
+Voilà.
+
+661
+01:01:49,635 --> 01:01:51,153
+Je l'ai mis.
+OK.
+
+662
+01:01:51,333 --> 01:01:52,732
+Hmm ?
+
+663
+01:03:40,434 --> 01:03:42,832
+T'as joui ?
+
+664
+01:03:42,932 --> 01:03:45,988
+Oh, oui. Oui.
+
+665
+01:03:46,168 --> 01:03:47,926
+Cool.
+
+666
+01:04:05,569 --> 01:04:07,537
+Donne le-moi.
+
+667
+01:04:08,865 --> 01:04:10,763
+- Quoi ?
+- Laisse-moi le prendre.
+
+668
+01:04:11,803 --> 01:04:13,231
+Non, ça va.
+Je m'en occupe.
+
+669
+01:04:13,401 --> 01:04:15,029
+- Donne-le moi.
+- Non, c'est cool.
+
+670
+01:04:15,199 --> 01:04:16,757
+Je vais...
+
+671
+01:04:16,927 --> 01:04:19,365
+- Je vais le faire moi-même.
+- Donne le-moi Christian.
+
+672
+01:04:23,861 --> 01:04:25,699
+Non.
+
+673
+01:04:25,869 --> 01:04:28,855
+Non.
+Je vais le faire moi-même.
+
+674
+01:04:31,363 --> 01:04:32,661
+Je vais dans la
+salle de bain, donc...
+
+675
+01:04:32,801 --> 01:04:35,389
+Je vais le jeter moi-même.
+Ça va.
+
+676
+01:04:35,569 --> 01:04:37,727
+— OK.
+— Merci.
+
+677
+01:04:56,698 --> 01:04:58,566
+Jette-le.
+
+678
+01:05:12,632 --> 01:05:14,830
+Mon Dieu,
+tu as vraiment...
+
+679
+01:05:14,970 --> 01:05:19,056
+Hmm. Tu as vraiment une grande
+estime de toi, n'est-ce pas ?
+
+680
+01:05:22,502 --> 01:05:23,730
+Non.
+
+681
+01:05:25,329 --> 01:05:28,196
+Je n'arrive pas à croire
+que tu m'en penses capable.
+
+682
+01:05:28,366 --> 01:05:30,224
+Capable de ?
+
+683
+01:05:31,233 --> 01:05:33,131
+Tu sais ce que je veux dire.
+
+684
+01:05:33,661 --> 01:05:34,889
+Et ça serait quoi ?
+
+685
+01:05:35,369 --> 01:05:37,097
+À toi de me dire.
+
+686
+01:05:37,227 --> 01:05:38,725
+- Je ne sais rien.
+- Oh que si.
+
+687
+01:05:38,865 --> 01:05:40,623
+- Non ! Non.
+- Tu me mens.
+
+688
+01:05:40,763 --> 01:05:42,162
+- Je ne mens pas.
+- Si, tu mens.
+
+689
+01:05:42,332 --> 01:05:44,320
+"Non, je ne mens pas."
+Si, tu mens.
+
+690
+01:05:44,829 --> 01:05:47,057
+- Je ne mens pas.
+- Dis-moi. À quoi tu penses ?
+
+691
+01:05:47,467 --> 01:05:49,055
+Oh, mon Dieu,
+tu agis bizarrement maintenant.
+
+692
+01:05:49,195 --> 01:05:50,563
+- Non, pas du tout !
+- Oh que si.
+
+693
+01:05:50,733 --> 01:05:53,161
+À la seconde où on a fini,
+tu te jettes sur le préservatif.
+
+694
+01:05:53,401 --> 01:05:55,159
+- Je voulais être sympa.
+- "Je peux l'avoir ?"
+
+695
+01:05:55,329 --> 01:05:56,857
+- Quoi ? Tu veux...
+- Lâche-le.
+
+696
+01:05:56,967 --> 01:05:58,226
+Toi, lâche.
+C'est à moi.
+
+697
+01:05:58,435 --> 01:06:00,493
+C'est pas à toi. Lâche.
+
+698
+01:06:00,633 --> 01:06:01,533
+- Non.
+- Si,
+
+699
+01:06:01,633 --> 01:06:02,691
+tu te comportes
+comme un enfant.
+
+700
+01:06:02,861 --> 01:06:04,200
+- Je ne lâcherai pas.
+- Lâche !
+
+701
+01:06:04,330 --> 01:06:06,298
+- Non !
+- Je vais lâcher si tu n'arrêtes pas.
+
+702
+01:06:06,497 --> 01:06:07,827
+- Lâche, alors.
+- Toi, lâche.
+
+703
+01:06:07,966 --> 01:06:09,625
+- Ça va casser.
+- Oui, en effet.
+
+704
+01:06:09,735 --> 01:06:11,133
+- Lâche.
+- Donne-le moi.
+
+705
+01:07:45,399 --> 01:07:46,388
+Bonjour ?
+
+706
+01:07:46,528 --> 01:07:48,496
+<i>Bonjour,
+c'est bien Christian ?</i>
+
+707
+01:07:48,636 --> 01:07:50,034
+Oui.
+
+708
+01:07:50,194 --> 01:07:53,221
+<i>C'est le 7-Eleven
+de la gare à l'appareil.</i>
+
+709
+01:07:53,700 --> 01:07:56,058
+<i>Je vous appelle
+parce qu'un paquet </i>
+
+710
+01:07:56,328 --> 01:07:58,196
+<i>est arrivé pour vous.</i>
+
+711
+01:08:00,064 --> 01:08:04,460
+Il doit y avoir erreur,
+
+712
+01:08:04,570 --> 01:08:05,858
+je suis passé le prendre hier.
+
+713
+01:08:07,028 --> 01:08:10,124
+<i>Celui-là vient juste d'arriver.</i>
+
+714
+01:08:10,494 --> 01:08:11,862
+<i>Je le tiens dans les mains
+en ce moment même.</i>
+
+715
+01:08:12,602 --> 01:08:15,328
+<i>Il y a écris "Christian" dessus
+donc ça doit être pour vous.</i>
+
+716
+01:08:15,528 --> 01:08:18,326
+<i>Et il a été déposé aujourd'hui ?
+Oui, aujourd'hui.</i>
+
+717
+01:08:20,594 --> 01:08:24,050
+C'est étrange...
+Pouvez-vous l'ouvrir pour moi ?
+
+718
+01:08:24,729 --> 01:08:28,925
+<i>Vous voulez que je l'ouvre ?
+Si c'est possible, oui.</i>
+
+719
+01:08:32,731 --> 01:08:34,759
+<i>Il y a un bout de papier
+à l'intérieur.</i>
+
+720
+01:08:36,228 --> 01:08:37,287
+Y a quelque chose d'écrit ?
+
+721
+01:08:37,427 --> 01:08:38,795
+<i>Oui, vous voulez
+que je vous le lise ?</i>
+
+722
+01:08:38,965 --> 01:08:39,825
+Oui, s'il vous plaît.
+
+723
+01:08:40,593 --> 01:08:42,361
+<i>"Vous m'avez accusé
+d'être un voleur.</i>
+
+724
+01:08:43,061 --> 01:08:44,859
+<i>Faites vos excuses
+à ma famille et moi,</i>
+
+725
+01:08:45,199 --> 01:08:47,187
+<i>ou vous allez
+connaître le chaos."</i>
+
+726
+01:08:51,533 --> 01:08:54,359
+Oh, que le diable m'emporte...
+Vous avez dit "chaos" ?
+
+727
+01:08:54,929 --> 01:08:59,335
+<i>Oui.
+"Ou vous allez connaître le C-H-A-O-S."</i>
+
+728
+01:08:59,495 --> 01:09:03,561
+Oui. Bien, je passerai 
+le récupérer dès que possible.
+
+729
+01:09:03,730 --> 01:09:07,327
+<i>Un numéro de téléphone est noté,
+vous voulez que je vous le donne ?</i>
+
+730
+01:09:07,497 --> 01:09:11,992
+Non, c'est pas grave,
+je vais passer et récupérer le colis.
+
+731
+01:09:12,232 --> 01:09:15,029
+<i>Merci d'avoir appelé.
+Bien, au revoir.</i>
+
+732
+01:09:21,762 --> 01:09:23,730
+Tu comptes te coiffer ?
+
+733
+01:09:23,960 --> 01:09:25,328
+C'est ce qui est prévu.
+
+734
+01:09:30,234 --> 01:09:32,202
+OK.
+C'est l'heure ?
+
+735
+01:09:33,600 --> 01:09:35,828
+Un, deux, trois...
+
+736
+01:09:41,093 --> 01:09:42,762
+Oui !
+
+737
+01:09:47,936 --> 01:09:49,055
+<i>Quoi de neuf !</i>
+
+738
+01:09:49,494 --> 01:09:51,293
+Comment tu le sens ?
+
+739
+01:09:51,403 --> 01:09:52,691
+Bien.
+
+740
+01:09:52,961 --> 01:09:55,019
+On approche du but.
+
+741
+01:09:55,698 --> 01:09:58,455
+Je suis impatiente de voir
+ce que vous avez préparé.
+
+742
+01:09:58,765 --> 01:10:02,461
+- Bien. Tout le monde est prêt ?
+- Absolument.
+
+743
+01:10:03,061 --> 01:10:07,017
+Je suis heureux d'être là.
+Contente aussi de vous avoir ici.
+
+744
+01:10:07,227 --> 01:10:09,755
+Ce projet soulève d'intéressants
+
+745
+01:10:10,094 --> 01:10:12,931
+enjeux actuels et humanitaires.
+
+746
+01:10:14,059 --> 01:10:16,467
+Mais notre mission ici
+
+747
+01:10:16,727 --> 01:10:21,133
+est de nous tailler une place
+dans l'encombrement médiatique.
+
+748
+01:10:21,263 --> 01:10:24,989
+Vous ne concourez pas
+contre d'autres musées,
+
+749
+01:10:25,169 --> 01:10:27,826
+mais contre les désastres,
+le terrorisme,
+
+750
+01:10:28,066 --> 01:10:30,823
+et les réactions controversées
+des politiciens d'extrême-droite.
+
+751
+01:10:31,093 --> 01:10:34,220
+Gardez ça en mémoire,
+restez calme,
+
+752
+01:10:34,399 --> 01:10:37,856
+et Daniel va vous parler
+de notre idée.
+
+753
+01:10:38,036 --> 01:10:39,584
+OK.
+
+754
+01:10:39,764 --> 01:10:41,193
+Oui.
+
+755
+01:10:41,902 --> 01:10:45,199
+Un support vidéo,
+voilà ce qu'on recommande.
+
+756
+01:10:45,628 --> 01:10:48,396
+Lorsque vous réalisez des vidéos aujourd'hui,
+vous devez garder à l'esprit
+
+757
+01:10:48,596 --> 01:10:51,592
+que les personnes ont une
+capacité d'attention très courte.
+
+758
+01:10:52,162 --> 01:10:56,828
+Si le spectateur n'accroche pas
+dans les deux secondes, il zappe.
+
+759
+01:10:57,766 --> 01:11:01,822
+En 10-15 secondes, maximum,
+on doit aussi créer
+
+760
+01:11:01,932 --> 01:11:04,760
+quelque chose de tellement
+puissant ou intéressant
+
+761
+01:11:04,929 --> 01:11:08,486
+que les gens voudront
+le partager sur Facebook,
+
+762
+01:11:08,765 --> 01:11:11,852
+les réseaux sociaux, la presse
+et donc que ça devienne viral.
+
+763
+01:11:13,800 --> 01:11:15,888
+On a mené une étude de marché
+
+764
+01:11:16,068 --> 01:11:20,493
+sur ce qui est le plus partagé
+sur les réseaux sociaux.
+
+765
+01:11:21,093 --> 01:11:23,361
+C'est généralement
+des groupes vulnérables.
+
+766
+01:11:24,260 --> 01:11:28,565
+Les gens postent à propos
+des femmes, des handicapés,
+
+767
+01:11:28,735 --> 01:11:33,890
+les racialisés, les LGBTQ...
+C'est une liste non exhaustive,
+
+768
+01:11:34,060 --> 01:11:36,397
+mais il y a un groupe
+qui affecte les gens
+
+769
+01:11:36,567 --> 01:11:40,523
+Les mendiants.
+
+770
+01:11:40,693 --> 01:11:44,189
+Donc on aimerait utiliser
+un mendiant dans cette vidéo,
+
+771
+01:11:44,359 --> 01:11:48,295
+et pour que ce soit encore plus
+spectaculaire, un mendiant enfant.
+
+772
+01:11:50,493 --> 01:11:56,327
+De plus, le mendiant aura
+les cheveux blonds.
+
+773
+01:11:56,497 --> 01:11:59,125
+Imaginez-vous un Suédois...
+
+774
+01:11:59,395 --> 01:12:01,423
+Qu'est-ce que vous pensez de... ?
+
+775
+01:12:04,829 --> 01:12:10,823
+La vidéo commence dans la cour intérieure
+du Palace. Le Carré est visible.
+
+776
+01:12:11,862 --> 01:12:14,989
+Donc il y a placement de produit
+dès la première image.
+
+777
+01:12:16,228 --> 01:12:18,066
+Face à cette création artistique...
+
+778
+01:12:18,436 --> 01:12:21,022
+on perçoit le lever du jour
+et le Carré scintille
+
+779
+01:12:21,192 --> 01:12:23,930
+de sa promesse de confiance,
+
+780
+01:12:24,200 --> 01:12:28,656
+de bienveillance, et de courage moral
+et tout ces trucs cool...
+
+781
+01:12:28,796 --> 01:12:31,852
+Ensuite on voit une petite fille
+s'approcher du Carré.
+
+782
+01:12:32,032 --> 01:12:36,358
+Elle frissonne.
+Elle est toute seule. Elle pleure.
+
+783
+01:12:36,528 --> 01:12:38,466
+Elle est enroulée
+dans une couverture sale
+
+784
+01:12:38,595 --> 01:12:40,394
+et on comprend
+qu'elle est à la rue.
+
+785
+01:12:40,563 --> 01:12:44,160
+Ces images sont puissantes donc
+nous avons l'attention du spectateur.
+
+786
+01:12:45,798 --> 01:12:47,386
+La fille continue à marcher...
+
+787
+01:12:51,602 --> 01:12:55,399
+- Excusez-moi ?
+- Désolée, continuez.
+
+788
+01:12:58,435 --> 01:12:59,724
+Des images puissantes...
+
+789
+01:12:59,934 --> 01:13:01,403
+Vous vous demandez
+où je veux en venir.
+
+790
+01:13:01,862 --> 01:13:03,989
+Elle pleure
+pendant qu'elle marche...
+
+791
+01:13:08,735 --> 01:13:10,063
+Elle entre dans le Carré...
+
+792
+01:13:18,036 --> 01:13:20,723
+Et là, l'inattendu survient.
+
+793
+01:13:22,301 --> 01:13:25,558
+L'opposé total à tout
+ce que le Carré représente.
+
+794
+01:13:26,527 --> 01:13:31,392
+L'effet surprise va générer
+l'attention dont on a besoin,
+
+795
+01:13:31,562 --> 01:13:36,797
+créant la plateforme parfaite
+pour exprimer votre message.
+
+796
+01:13:37,067 --> 01:13:40,464
+Tous ces enjeux et valeurs
+que votre exposition
+
+797
+01:13:40,593 --> 01:13:42,562
+cherche à soulever.
+
+798
+01:13:51,092 --> 01:13:52,820
+- Hmm ?
+- Excitant...
+
+799
+01:13:52,960 --> 01:13:55,398
+Et pas du tout ce
+à quoi je m'attendais.
+
+800
+01:13:55,568 --> 01:13:57,896
+- C'est bien.
+Une approche novatrice.
+
+801
+01:13:58,066 --> 01:14:01,762
+C'était notre objectif principal.
+
+802
+01:14:01,932 --> 01:14:06,527
+Alors, comment ça finit ?
+
+803
+01:14:06,697 --> 01:14:09,324
+Comment ça finit exactement ?
+
+804
+01:14:09,934 --> 01:14:16,387
+Bon, on a pas encore
+déterminé l'issue exacte,
+
+805
+01:14:16,897 --> 01:14:19,724
+mais dans tous les cas,
+
+806
+01:14:19,894 --> 01:14:22,691
+la fille sera blessée dans le Carré.
+
+807
+01:14:25,598 --> 01:14:28,495
+Qu'est-ce que vous entendez
+par "sera blessée" ?
+
+808
+01:14:28,765 --> 01:14:32,391
+Ben, c'est la dernière chose à laquelle
+s'attendent les téléspectateurs,
+
+809
+01:14:32,561 --> 01:14:34,189
+et l'inverse de...
+
+810
+01:14:34,359 --> 01:14:37,357
+-Bonjour.
+Super ! Entre.
+
+811
+01:14:37,527 --> 01:14:42,051
+Michael, je peux t'embêter
+une seconde ?
+
+812
+01:14:42,231 --> 01:14:44,889
+Christian, ce serait
+bien que tu sois là.
+
+813
+01:14:45,229 --> 01:14:47,327
+Ce serait bien
+que tu sois là.
+
+814
+01:14:50,863 --> 01:14:52,731
+On reprend là
+où on s'était arrêtés.
+
+815
+01:14:52,961 --> 01:14:54,989
+Il doit participer
+à la prise de décision.
+
+816
+01:14:55,728 --> 01:14:58,355
+Ça a l'air bien.
+
+817
+01:14:58,765 --> 01:15:03,720
+C'est la bonne approche.
+Allez-y, à vous de jouer.
+
+818
+01:15:03,860 --> 01:15:05,298
+Je pourrais y jeter
+un coup d'œil...
+
+819
+01:15:05,398 --> 01:15:07,196
+Faut que j'y aille.
+
+820
+01:15:07,366 --> 01:15:09,124
+- Salut.
+- Mais...
+
+821
+01:15:13,030 --> 01:15:16,826
+OK, on fera un récap' plus tard.
+Passons à la suite.
+
+822
+01:15:16,966 --> 01:15:19,294
+Explique nous s'il te plaît.
+
+823
+01:15:19,434 --> 01:15:21,362
+Ce qui se passe ici
+
+824
+01:15:21,502 --> 01:15:23,860
+est exactement ce que
+nous cherchons à réaliser.
+
+825
+01:15:24,160 --> 01:15:27,756
+Des questions comme
+celles-là reflètent
+
+826
+01:15:28,535 --> 01:15:31,722
+la manière dont le public
+et les médias réagiront.
+
+827
+01:15:31,962 --> 01:15:33,021
+C'est ce que je crains.
+
+828
+01:15:33,160 --> 01:15:34,459
+Ne le sois pas...
+
+829
+01:15:34,599 --> 01:15:38,755
+Excusez-moi...
+Comment tu t'appelles ?
+
+830
+01:15:39,264 --> 01:15:40,923
+Ho hé...
+
+831
+01:15:41,402 --> 01:15:43,131
+-Oui, toi.
+-Nicki.
+
+832
+01:15:43,261 --> 01:15:44,859
+Tu as ton permis ?
+
+833
+01:15:45,029 --> 01:15:45,858
+Oui.
+
+834
+01:15:46,028 --> 01:15:47,327
+Viens.
+
+835
+01:15:48,036 --> 01:15:50,463
+- Tout de suite ?
+- Oui. S'il te plaît.
+
+836
+01:15:56,767 --> 01:15:59,395
+On s'est bien sûr
+
+837
+01:15:59,863 --> 01:16:02,851
+préparés à la gestion de crise.
+
+838
+01:16:03,361 --> 01:16:05,389
+Ça fait partie de
+notre analyse du risque,
+
+839
+01:16:05,529 --> 01:16:09,584
+pour être prêts face à
+tout problème externe.
+
+840
+01:16:09,764 --> 01:16:12,531
+Les mêmes inquiétudes
+que je peux ressentir ici.
+
+841
+01:16:12,701 --> 01:16:14,719
+Nous savons les gérer.
+
+842
+01:17:01,502 --> 01:17:04,829
+M'énerve pas !
+Sois pas stupide !
+
+843
+01:17:04,969 --> 01:17:07,326
+Je sais pas
+de quoi tu parles.
+
+844
+01:17:07,566 --> 01:17:08,695
+Y a écrit "Christian" ici.
+
+845
+01:17:08,795 --> 01:17:10,923
+- Et là.
+- Oui, mais...
+
+846
+01:17:11,093 --> 01:17:17,327
+- Oh. C'est toi Christian ?
+- Non, c'est mon patron.
+
+847
+01:17:17,965 --> 01:17:19,325
+- Ton patron ?
+- Écoute...
+
+848
+01:17:19,434 --> 01:17:21,293
+- Il est où ton stupide patron ?
+- Écoute...
+
+849
+01:17:21,433 --> 01:17:24,989
+- Il est où ton patron débile ?
+- Baisse d'un ton.
+
+850
+01:17:25,628 --> 01:17:27,825
+Tout ça ne me concerne
+absolument pas...
+
+851
+01:17:27,965 --> 01:17:31,692
+- Je veux son numéro de téléphone.
+- Je peux pas te le donner.
+
+852
+01:17:31,861 --> 01:17:36,317
+Pourquoi pas ?
+Regarde ce qu'il m'a fait, je dois lui parler.
+
+853
+01:17:36,497 --> 01:17:39,764
+Je suis vraiment désolé,
+on a fait une erreur.
+
+854
+01:17:39,933 --> 01:17:45,458
+Quoi ? Pourquoi vous avez écrit ça ?
+Mes parents pensent que je suis un voleur.
+
+855
+01:17:45,598 --> 01:17:49,654
+J'ai plus le droit de jouer au foot,
+ou à quoi que ce soit !
+Et tout ça par votre faute !
+
+856
+01:17:49,794 --> 01:17:52,701
+- Hé, écoute...
+- C'est vous qui avez déposé ça
+dans ma boîte aux lettres.
+
+857
+01:17:52,861 --> 01:17:56,158
+C'était pas moi,
+c'était mon patron.
+
+858
+01:17:56,327 --> 01:17:59,824
+Non, c'est toi !
+Tu mens. C'est toi Christian.
+
+859
+01:17:59,964 --> 01:18:03,990
+- Il me ment !
+- Calme toi.
+
+860
+01:18:04,160 --> 01:18:06,597
+Regarde ce qu'il a mis
+dans notre boîte aux lettres !
+
+861
+01:18:07,496 --> 01:18:09,224
+Maintenant mes parents
+me prennent pour un voleur.
+
+862
+01:18:09,564 --> 01:18:12,162
+Mon patron s'est fait voler...
+
+863
+01:18:12,262 --> 01:18:14,748
+J'ai juste encore le droit de
+rester à la maison et pourrir !
+
+864
+01:18:15,368 --> 01:18:18,994
+Ils ont volé son portable
+et son portefeuille...
+
+865
+01:18:19,164 --> 01:18:21,222
+Alors il a déposé un message
+dans toutes les boîtes aux lettres.
+
+866
+01:18:21,402 --> 01:18:24,699
+-Qu'est-ce qui te fait rire ?
+-Ben, c'est...
+
+867
+01:18:24,869 --> 01:18:27,196
+- Bâtard ! Ferme-la.
+- Tranquille...
+
+868
+01:18:27,366 --> 01:18:32,391
+- Tu peux pas régler tes problèmes ici.
+- Regardez ce qu'il a écrit.
+
+869
+01:18:32,561 --> 01:18:34,000
+J'ai pas le droit
+d'être en colère ?
+
+870
+01:18:34,159 --> 01:18:38,225
+Je ne sais pas
+qui a raison ici.
+
+871
+01:18:38,395 --> 01:18:42,591
+Il dit que son patron
+s'appelle Christian.
+
+872
+01:18:42,761 --> 01:18:47,027
+Et il prétend ne pas
+comprendre mon suédois...
+
+873
+01:18:47,197 --> 01:18:51,532
+Traduis, comme ça
+l'autre idiot peut comprendre.
+
+874
+01:18:51,701 --> 01:18:53,859
+Ne me traite pas d'idiot.
+
+875
+01:18:54,029 --> 01:18:56,057
+- Donne-moi son numéro !
+- Calme toi !
+
+876
+01:18:57,527 --> 01:19:01,293
+- Hé, qu'est-ce que tu fais ?
+- Hé ! Qu'est-ce que tu fais ?
+
+877
+01:19:03,530 --> 01:19:05,827
+C'est quoi ton problème ?
+
+878
+01:19:05,967 --> 01:19:09,834
+Qu'est-ce que tu veux que je fasse ?
+C'est pas moi qui ai fait ça !
+
+879
+01:19:31,262 --> 01:19:33,290
+-Jesus !
+-Qu'est-ce que vous foutez ?
+
+880
+01:19:33,430 --> 01:19:35,188
+Je suis désolée.
+
+881
+01:19:35,368 --> 01:19:37,126
+- Tu m'as fait peur.
+- TU m'as fait peur.
+
+882
+01:19:37,266 --> 01:19:39,194
+- Désolé...
+- Christian ?
+
+883
+01:19:39,364 --> 01:19:41,732
+- Mon Dieu !
+- Je suis désolée, mais...
+
+884
+01:19:41,902 --> 01:19:45,298
+- C'est pas le bon moment.
+- C'est une urgence.
+
+885
+01:19:45,428 --> 01:19:47,526
+- Quoi ?
+- Excuse-moi. Désolée.
+
+886
+01:19:47,696 --> 01:19:51,562
+- C'est pas grave.
+- Très bien...
+
+887
+01:19:51,962 --> 01:19:55,588
+Un des agents d'entretien
+a trouvé malin de balayer
+
+888
+01:19:55,928 --> 01:19:58,695
+une partie de l'exposition Gijoni.
+
+889
+01:19:59,264 --> 01:20:03,160
+- Les tas sont différents maintenant.
+- Tu me fais marcher ?
+
+890
+01:20:03,330 --> 01:20:06,317
+- Hmm.
+- Il a jeté les tas ?
+
+891
+01:20:06,497 --> 01:20:08,865
+Non, mais ils sont
+différents maintenant.
+
+892
+01:20:09,035 --> 01:20:14,189
+Et on a trouvé un sac
+rempli de gravier.
+
+893
+01:20:14,359 --> 01:20:15,987
+Donc je vais appeler
+la compagnie d'assurance.
+
+894
+01:20:16,227 --> 01:20:20,993
+Non, non !
+Non, ne fais pas ça.
+
+895
+01:20:21,861 --> 01:20:26,317
+Où se trouve le gravier ?
+Le gravier qui a été balayé ?
+
+896
+01:20:26,497 --> 01:20:28,725
+Dans un sac ?
+Bien.
+
+897
+01:20:28,895 --> 01:20:32,731
+Et on a des photos,
+n'est-ce pas ?
+
+898
+01:20:32,901 --> 01:20:35,827
+- Mmhmm.
+- Voilà ce qu'on va faire :
+
+899
+01:20:35,967 --> 01:20:40,993
+Retrouve-moi en bas dans 5 minutes,
+avec les photos et le gravier,
+
+900
+01:20:41,162 --> 01:20:45,328
+et nous allons arranger ça.
+Sans en parler à personne.
+
+901
+01:20:45,498 --> 01:20:47,986
+Elle ne comprend rien,
+c'est une Américaine.
+
+902
+01:20:48,165 --> 01:20:51,192
+Tu es sérieux ?
+On va refaire les tas ?
+
+903
+01:20:51,362 --> 01:20:54,529
+Mais oui,
+ça va bien se passer.
+
+904
+01:20:54,699 --> 01:20:56,667
+On va arranger ça.
+
+905
+01:20:58,036 --> 01:20:59,724
+- OK.
+- Mm-hm ?
+
+906
+01:20:59,894 --> 01:21:04,060
+Oui. OK.
+
+907
+01:21:11,702 --> 01:21:14,888
+Tu te souviens ce qui s'est
+passé entre nous l'autre soir ?
+
+908
+01:21:15,068 --> 01:21:16,028
+On était ici.
+
+909
+01:21:16,198 --> 01:21:18,525
+Oui, enfin, après ça.
+
+910
+01:21:18,695 --> 01:21:21,692
+- On est partis.
+- Oui. Et ensuite ?
+
+911
+01:21:21,862 --> 01:21:24,659
+- On est montés dans une voiture.
+- Mm-hm.
+
+912
+01:21:25,228 --> 01:21:27,566
+On est allés chez toi.
+
+913
+01:21:32,201 --> 01:21:33,630
+Non ?
+
+914
+01:21:34,669 --> 01:21:36,927
+- J'oublie quelque chose ?
+- Mm-mm.
+
+915
+01:21:38,265 --> 01:21:40,283
+T'as ouvert une bouteille de vin,
+on s'est installés.
+
+916
+01:21:40,433 --> 01:21:42,521
+On a parlé,
+on a passé un bon moment.
+
+917
+01:21:42,701 --> 01:21:44,529
+Et après que s'est-il passé ?
+
+918
+01:21:48,495 --> 01:21:50,433
+Tu comptes en venir
+à quelque chose ?
+
+919
+01:21:50,593 --> 01:21:51,721
+- Oui.
+- Tu comptes en venir à...
+
+920
+01:21:51,901 --> 01:21:52,761
+Une chose bien spécifique.
+
+921
+01:21:52,931 --> 01:21:54,299
+Pourquoi tu te jettes
+pas à l'eau ?
+
+922
+01:21:54,399 --> 01:21:55,488
+Parce que je veux
+t'entendre le dire.
+
+923
+01:21:55,627 --> 01:21:57,117
+Je veux que tu t'en souviennes.
+
+924
+01:22:03,330 --> 01:22:04,959
+Pourquoi c'est si compliqué
+pour toi de le dire ?
+
+925
+01:22:05,128 --> 01:22:06,617
+Viens.
+
+926
+01:22:08,735 --> 01:22:10,353
+Pourquoi c'est si...
+
+927
+01:22:10,533 --> 01:22:12,930
+Je ne comprends pas pourquoi
+c'est si dur pour toi de le dire.
+
+928
+01:22:13,100 --> 01:22:16,657
+- On a couché ensemble.
+- Super, oui.
+
+929
+01:22:16,796 --> 01:22:18,495
+Pourquoi tu ne l'as pas
+simplement dit toi-même ?
+
+930
+01:22:18,635 --> 01:22:20,183
+C'est toi qui ne
+voulais pas le dire.
+
+931
+01:22:33,230 --> 01:22:36,168
+OK, tu étais en moi,
+voilà ce qu'il s'est passé.
+
+932
+01:22:36,327 --> 01:22:38,724
+- Oui, je suis...
+- Tu étais en moi.
+
+933
+01:22:38,894 --> 01:22:41,332
+-J'en suis conscient.
+-OK, bien.
+
+934
+01:22:41,502 --> 01:22:42,900
+Tu t'en souviens alors.
+
+935
+01:22:43,060 --> 01:22:45,828
+Écoute, c'est qu'une
+partie de la soirée.
+
+936
+01:22:45,968 --> 01:22:47,656
+Oui, une grande partie.
+
+937
+01:22:47,796 --> 01:22:49,993
+Quand un homme et une femme,
+tu sais...
+
+938
+01:22:50,163 --> 01:22:51,462
+L'homme est...
+
+939
+01:22:51,602 --> 01:22:53,390
+- Bien.
+- Dans la femme, oui ?
+
+940
+01:22:53,560 --> 01:22:56,757
+Et ça signifie quelque chose,
+n'est-ce pas ?
+
+941
+01:22:56,927 --> 01:22:58,365
+Absolument.
+
+942
+01:22:58,535 --> 01:23:00,823
+OK. Quelle a été
+la signification pour toi ?
+
+943
+01:23:06,927 --> 01:23:08,595
+J'ai passé une très bonne soirée.
+
+944
+01:23:08,765 --> 01:23:11,731
+- C'est vrai. Vraiment.
+- Bien, bien, et je...
+
+945
+01:23:11,901 --> 01:23:13,559
+Tu peux parler
+moins fort s'il te plaît ?
+
+946
+01:23:13,729 --> 01:23:16,327
+C'est juste qu'il y a
+quelqu'un juste derrière.
+
+947
+01:23:16,497 --> 01:23:19,294
+- Oui, oui. Je t'apprécie.
+- Mm-hm.
+
+948
+01:23:19,434 --> 01:23:22,231
+Et je ressens une
+connexion émotionnelle avec toi,
+
+949
+01:23:22,401 --> 01:23:25,887
+et j'aimerais explorer ça parce que
+c'est important pour moi.
+
+950
+01:23:26,467 --> 01:23:28,255
+C'est juste que je ne
+couche pas avec n'importe qui.
+
+951
+01:23:28,395 --> 01:23:30,053
+Tu sais ? Il faut qu'il y ait ça.
+
+952
+01:23:30,793 --> 01:23:32,761
+Est-ce que toi
+tu couches avec n'importe qui ?
+
+953
+01:23:33,030 --> 01:23:34,229
+Excuse-moi ?
+
+954
+01:23:34,399 --> 01:23:37,196
+Est-ce que tu couches
+avec plein de femmes différentes ?
+
+955
+01:23:38,195 --> 01:23:40,223
+
+
+956
+01:23:42,601 --> 01:23:44,898
+Est-ce que tu le fais souvent ?
+
+957
+01:23:47,326 --> 01:23:49,354
+C'est une question assez
+personnelle, tu penses pas ?
+
+958
+01:23:49,564 --> 01:23:53,500
+Euh, ben, tout comme
+être en moi, donc...
+
+959
+01:23:53,660 --> 01:23:55,958
+Mais quel est le rapport ?
+
+960
+01:23:56,198 --> 01:23:57,826
+Je te demande si
+ça t'arrive souvent.
+
+961
+01:24:09,194 --> 01:24:12,820
+Ça t'arrive souvent de te
+retrouver avec des femmes...
+
+962
+01:24:13,800 --> 01:24:15,528
+que tu connais à peine,
+
+963
+01:24:15,828 --> 01:24:17,726
+et d'avoir des rapports avec
+et te retrouver en elles ?
+
+964
+01:24:18,065 --> 01:24:19,394
+Je sais pas exactement...
+
+965
+01:24:19,893 --> 01:24:21,332
+Tu te souviens pas d'elles ?
+
+966
+01:24:21,801 --> 01:24:23,789
+Si, je me souviens. Oui.
+
+967
+01:24:24,059 --> 01:24:25,857
+Tu te souviens
+de leur nom ?
+
+968
+01:24:26,727 --> 01:24:28,165
+- Oui.
+- Oui ?
+
+969
+01:24:28,335 --> 01:24:29,623
+- Mm-hm, oui.
+- Toujours ?
+
+970
+01:24:29,833 --> 01:24:31,262
+- Toujours. Oui.
+- Oui.
+
+971
+01:24:31,561 --> 01:24:33,160
+Alors comment je m'appelle ?
+
+972
+01:24:44,329 --> 01:24:45,358
+Je sais comment tu t'appelles.
+
+973
+01:24:45,527 --> 01:24:47,127
+OK, très bien,
+c'est quoi alors ?
+
+974
+01:24:47,266 --> 01:24:49,284
+Je vais pas entrer
+dans ton petit jeu.
+
+975
+01:24:49,434 --> 01:24:50,593
+C'est stupide.
+
+976
+01:24:50,763 --> 01:24:52,351
+Quelqu'un qui se souviens
+du nom d'une autre personne
+
+977
+01:24:52,531 --> 01:24:56,187
+dirait simplement,
+" Bien sûr que je connais ton nom."
+
+978
+01:24:56,367 --> 01:24:57,556
+Le nom.
+
+979
+01:24:57,725 --> 01:25:00,283
+- Je sais comment tu t'appelles.
+- C'est quoi ?
+
+980
+01:25:02,401 --> 01:25:03,919
+Ann.
+
+981
+01:25:08,065 --> 01:25:09,534
+OK.
+
+982
+01:25:11,432 --> 01:25:13,120
+Tu m'emmerdes vraiment.
+
+983
+01:25:13,260 --> 01:25:14,858
+-Oui.
+-Oui.
+
+984
+01:25:15,028 --> 01:25:16,656
+Je te trouve fascinant.
+
+985
+01:25:16,796 --> 01:25:18,764
+Oh, maintenant on arrive aux... oh.
+
+986
+01:25:18,934 --> 01:25:21,192
+Oui, je te trouve
+tellement intéressant.
+
+987
+01:25:21,362 --> 01:25:24,388
+Oui, vraiment.
+Je commence vraiment à te cerner.
+
+988
+01:25:24,568 --> 01:25:26,526
+- Ah bon ?
+- Oui, oui.
+
+989
+01:25:26,626 --> 01:25:27,596
+Je t'écoute.
+
+990
+01:25:27,726 --> 01:25:31,462
+Je pense que tu cherches à
+tirer avantage de ta position,
+
+991
+01:25:31,632 --> 01:25:33,460
+une position de pouvoir,
+
+992
+01:25:33,600 --> 01:25:36,826
+pour attirer les femmes
+et les séduire.
+
+993
+01:25:36,966 --> 01:25:38,894
+Voilà ce que je pense.
+
+994
+01:25:39,064 --> 01:25:41,032
+Voilà ce que je pense. Désolée.
+
+995
+01:25:41,632 --> 01:25:44,529
+Mm-hm. C'est comme ça que
+j'ai réussi à coucher avec toi ?
+
+996
+01:25:44,698 --> 01:25:46,527
+Enfin, ça ne s'est pas
+passé comme ça pour moi.
+
+997
+01:25:46,697 --> 01:25:49,594
+- Oh, non. Absolument pas.
+- Ah, tu l'admets finalement.
+
+998
+01:25:50,163 --> 01:25:51,182
+Ça n'a pas fonctionné avec toi.
+
+999
+01:25:51,332 --> 01:25:53,060
+Ça t'excite absolument pas.
+
+1000
+01:25:53,929 --> 01:25:56,057
+C'est une multitude de choses,
+mais je ne pense pas...
+
+1001
+01:25:56,327 --> 01:25:58,765
+Ça n'a rien à voir
+avec le fait que je sois...
+
+1002
+01:25:59,094 --> 01:26:00,823
+Je... Je ne pense pas.
+
+1003
+01:26:00,963 --> 01:26:05,327
+Pourquoi c'est si dur à admettre
+que le pouvoir vous excite ?
+
+1004
+01:26:05,767 --> 01:26:07,855
+- Admets le.
+- Pas en ce qui me concerne.
+
+1005
+01:26:08,035 --> 01:26:09,363
+- C'est pas vrai.
+- Non.
+
+1006
+01:26:09,533 --> 01:26:11,521
+Je vais à mon tour
+admettre quelque chose.
+
+1007
+01:26:11,701 --> 01:26:13,190
+Je suis très fier
+de t'avoir séduite.
+
+1008
+01:26:13,359 --> 01:26:14,729
+- Vraiment ?
+- Oui.
+
+1009
+01:26:15,967 --> 01:26:17,985
+- Fier de m'avoir.
+- Mm-hm.
+
+1010
+01:26:18,765 --> 01:26:20,193
+Tu… Tu es une sacrée prise...
+
+1011
+01:26:22,101 --> 01:26:24,059
+Oui. Hein ?
+
+1012
+01:26:24,459 --> 01:26:26,457
+Tu es une sacrée prise.
+
+1013
+01:26:38,035 --> 01:26:40,223
+"Vous m'avez accusé
+d'être un voleur.
+
+1014
+01:26:40,393 --> 01:26:42,021
+Faites vos excuses
+à ma famille et moi,
+
+1015
+01:26:42,201 --> 01:26:46,157
+ou vous connaîtrez le chaos."
+
+1016
+01:28:37,096 --> 01:28:38,724
+Bonjour ?
+
+1017
+01:28:42,631 --> 01:28:44,119
+Bonjour.
+
+1018
+01:28:48,165 --> 01:28:49,134
+Papa !
+
+1019
+01:28:49,234 --> 01:28:50,823
+Pourquoi t'as pas ouvert ?
+
+1020
+01:28:50,962 --> 01:28:53,060
+Et pourquoi t'es pas
+passé nous prendre !
+
+1021
+01:28:53,230 --> 01:28:54,719
+C'était pas mon tour.
+
+1022
+01:28:54,899 --> 01:28:58,665
+- On a dû appeler Maman !
+- Elle ne m'a rien dit...
+
+1023
+01:28:58,795 --> 01:29:01,851
+- Allez entre espèce d'idiot !
+- Arrêtez !
+
+1024
+01:29:04,599 --> 01:29:07,026
+Non...
+Qu'est-ce qui se passe ici ?
+
+1025
+01:29:07,195 --> 01:29:13,290
+Quel est le problème ?
+Ne vous battez pas comme ça...
+
+1026
+01:29:13,429 --> 01:29:17,056
+C'est quoi ton problème ?
+
+1027
+01:29:17,226 --> 01:29:20,023
+- Espèce d'andouille !
+- Je te déteste !
+
+1028
+01:29:20,193 --> 01:29:22,890
+- Lâche-moi !
+- Arrête !
+
+1029
+01:29:24,798 --> 01:29:26,766
+Hé, hé... !
+
+1030
+01:29:28,365 --> 01:29:32,850
+Qu'est-ce que tu fais ?
+Non, va dans ta chambre.
+
+1031
+01:29:33,030 --> 01:29:35,298
+Quel est le problème, Lise ?
+Non !
+
+1032
+01:29:37,895 --> 01:29:41,852
+Lilly ? Qu'est-ce que j'ai dit
+à propos des portes qui claquent ?
+
+1033
+01:29:42,031 --> 01:29:44,588
+Qu'est-ce que j'ai dit ? !
+
+1034
+01:29:48,534 --> 01:29:52,520
+Qu'est-ce que j'ai dit
+pour les portes qui claquent ?
+
+1035
+01:29:52,700 --> 01:29:59,464
+On en avait parlé.
+C'est quoi votre problème à toutes les deux ?
+
+1036
+01:29:59,594 --> 01:30:04,289
+Lise ? Tu es l'aînée...
+Tu peux m'expliquer ?
+
+1037
+01:30:11,162 --> 01:30:12,321
+Hé ho ?
+
+1038
+01:30:41,801 --> 01:30:43,919
+Pourquoi vous vous
+battez comme ça ?
+
+1039
+01:30:46,227 --> 01:30:48,025
+Quel est le problème ?
+
+1040
+01:31:08,434 --> 01:31:11,991
+- Je suis désolée Papa.
+- Non, c'était ma faute.
+
+1041
+01:31:12,260 --> 01:31:15,128
+Je t'ai crié dessus.
+
+1042
+01:31:15,268 --> 01:31:17,596
+Je n'aurais pas dû
+crier comme ça.
+
+1043
+01:31:18,634 --> 01:31:21,722
+Je suis désolé.
+Pardonne-moi.
+
+1044
+01:31:24,199 --> 01:31:29,224
+Tu m'attends là pendant que
+je cherche Lise ? D'accord ?
+
+1045
+01:31:41,331 --> 01:31:46,597
+Bienvenue ! Je suis ravi
+de vous voir si nombreux.
+
+1046
+01:31:46,926 --> 01:31:49,923
+Voici le décor
+de notre nouvelle exposition,
+
+1047
+01:31:50,063 --> 01:31:53,289
+qui s'annonce vraiment prometteuse.
+
+1048
+01:31:55,797 --> 01:32:02,131
+Pour entrer, vous devez décider
+si vous faites confiance aux gens,
+
+1049
+01:32:02,261 --> 01:32:06,756
+ou si au contraire,
+vous ne leur faites pas confiance.
+
+1050
+01:32:06,926 --> 01:32:11,331
+Pour ce faire, il vous suffit
+de presser le bouton approprié.
+
+1051
+01:32:11,501 --> 01:32:14,489
+Et je vous y invite
+maintenant.
+
+1052
+01:32:30,692 --> 01:32:34,828
+Ça vous plaît ?
+Voyons la suite.
+
+1053
+01:32:45,728 --> 01:32:49,494
+-C'est une bonne idée ?
+-Qu'est-ce que tu en penses ?
+
+1054
+01:32:49,634 --> 01:32:54,388
+- C'est ce que ça dit.
+- Donc on devrait le faire ?
+
+1055
+01:32:54,568 --> 01:32:57,026
+- Ici ?
+- Mm-hm.
+
+1056
+01:33:00,163 --> 01:33:03,689
+Ça va ?
+Ça vous semble étrange ?
+
+1057
+01:33:03,859 --> 01:33:06,157
+Oui.
+
+1058
+01:33:08,395 --> 01:33:10,593
+Ça va être intéressant de voir
+s'ils seront toujours là
+
+1059
+01:33:10,762 --> 01:33:13,159
+quand on reviendra.
+
+1060
+01:33:13,329 --> 01:33:17,455
+Ça me fait penser à quelque chose
+que m'avait dit votre grand père.
+
+1061
+01:33:17,595 --> 01:33:21,891
+Il était petit, environ 6 ans.
+
+1062
+01:33:22,061 --> 01:33:24,359
+Et il allait sortir jouer...
+
+1063
+01:33:24,529 --> 01:33:26,557
+Ses parents lui ont
+fait une pancarte
+
+1064
+01:33:26,697 --> 01:33:30,133
+et ils y ont noté son nom
+et leur adresse dessus.
+
+1065
+01:33:30,263 --> 01:33:33,859
+Ils la lui ont mise autour du cou
+et l'ont laissé sortir jouer
+
+1066
+01:33:34,029 --> 01:33:37,156
+dehors tout seul
+en plein milieu de Copenhague.
+
+1067
+01:33:37,325 --> 01:33:43,230
+Imaginez si j'avais fait ça avec vous
+quand vous aviez 6 ans.
+
+1068
+01:33:43,399 --> 01:33:47,695
+Ça n'aurait pas été possible.
+Les comportements évoluent...
+
+1069
+01:33:47,865 --> 01:33:52,460
+À l'époque, les gens faisaient
+confiance aux autres adultes
+
+1070
+01:33:52,700 --> 01:33:54,858
+pour aider leurs enfants s'ils
+
+1071
+01:33:54,968 --> 01:33:57,326
+avaient besoin d'aide
+ou s'ils s'étaient perdus.
+
+1072
+01:33:57,895 --> 01:34:00,662
+Mais aujourd'hui, on tend davantage
+à voir les autres adultes
+
+1073
+01:34:00,792 --> 01:34:04,728
+comme une menace potentielle.
+
+1074
+01:34:06,496 --> 01:34:07,396
+Vous comprenez ?
+
+1075
+01:34:07,526 --> 01:34:09,324
+Qu'est-ce que
+ça a à voir avec ça ?
+
+1076
+01:34:09,564 --> 01:34:13,330
+Tout. Lisez ça de nouveau
+et vous comprendrez.
+
+1077
+01:34:14,598 --> 01:34:17,655
+Lisez le à haute voix.
+Parlez fort.
+
+1078
+01:34:18,194 --> 01:34:24,888
+"Le Carré est un sanctuaire
+de confiance et de bienveillance.
+
+1079
+01:34:25,268 --> 01:34:32,031
+À l'intérieur de ses frontières, nous partageons
+tous les même droits et devoirs."
+
+1080
+01:34:44,029 --> 01:34:49,863
+J'ai pas d'argent sur moi.
+Désolé, j'ai pas d'argent sur moi.
+
+1081
+01:34:50,961 --> 01:34:52,989
+J'ai pas d'argent.
+
+1082
+01:35:32,100 --> 01:35:32,990
+Bonjour ?
+
+1083
+01:35:33,160 --> 01:35:37,566
+<i>Bonjour, je suis Pauline
+de Youtube Suède.</i>
+
+1084
+01:35:37,964 --> 01:35:41,691
+- Oh, bonjour...
+<i>- Félicitations pour les 300 000 vues.</i>
+
+1085
+01:35:43,500 --> 01:35:44,468
+Pardon ?
+
+1086
+01:35:44,568 --> 01:35:47,326
+<i>Félicitations pour les 300 000 vues.</i>
+
+1087
+01:35:48,894 --> 01:35:51,561
+- 300 000 vues ?
+<i>- C'est exact.</i>
+
+1088
+01:35:51,731 --> 01:35:53,889
+<i>Votre vidéo a généré
+un trafic important </i>
+
+1089
+01:35:54,059 --> 01:35:56,396
+<i>en à peine quelques heures.</i>
+
+1090
+01:35:57,895 --> 01:36:00,692
+Vraiment ?
+Ben, c'est bien.
+
+1091
+01:36:00,862 --> 01:36:05,227
+Je suppose que vous faites référence
+à l'interview de notre artiste.
+
+1092
+01:36:05,767 --> 01:36:11,161
+<i>Non, je parle de "L'Enfant blonde mendiante
+qui explose en 1000 morceaux".</i>
+
+1093
+01:36:11,331 --> 01:36:13,659
+<i>Je vous appelle
+pour vous demander</i>
+
+1094
+01:36:13,799 --> 01:36:15,767
+<i>si ça vous intéresserait
+de mettre une publicité, </i>
+
+1095
+01:36:15,927 --> 01:36:20,662
+<i>et de partager les
+revenus du partenariat. </i>
+
+1096
+01:36:22,700 --> 01:36:23,689
+<i>Allo ?</i>
+
+1097
+01:36:23,859 --> 01:36:27,815
+Il va falloir que
+je me renseigne...
+
+1098
+01:36:28,035 --> 01:36:31,861
+On a une vidéo Youtube
+
+1099
+01:36:32,231 --> 01:36:34,219
+avec des enfants qui explosent ?
+
+1100
+01:36:34,398 --> 01:36:39,024
+<i>Personnellement,
+je n'ai pas vu la vidéo... </i>
+
+1101
+01:36:39,194 --> 01:36:40,922
+<i>Je ne m'occupe pas du contenu.</i>
+
+1102
+01:36:41,092 --> 01:36:44,658
+Non, bien sûr que non.
+Écoutez, je peux vous rappeler
+
+1103
+01:36:44,798 --> 01:36:48,884
+dans 10 minutes
+quand j'en saurai plus ?
+
+1104
+01:36:49,064 --> 01:36:54,518
+<i>-Bien sûr.</i>
+-Je m'en occupe. Super. Au revoir.
+
+1105
+01:37:07,525 --> 01:37:11,122
+Je peux pas le croire.
+
+1106
+01:37:12,930 --> 01:37:15,367
+Incroyable...
+
+1107
+01:37:58,564 --> 01:38:00,652
+Excusez-moi,
+vous pouvez m'aider ?
+
+1108
+01:38:00,792 --> 01:38:03,699
+Non ?
+
+1109
+01:38:03,859 --> 01:38:08,384
+- Vous pouvez me donner un coup de main ?
+- Désolé...
+
+1110
+01:38:13,200 --> 01:38:14,988
+Excusez-moi.
+
+1111
+01:38:15,627 --> 01:38:17,655
+Bonjour. Vous pouvez...
+
+1112
+01:38:17,795 --> 01:38:19,733
+Hé, hé.
+J'ai besoin de votre aide.
+
+1113
+01:38:19,892 --> 01:38:21,920
+Vous pouvez m'aider
+s'il vous plaît ?
+
+1114
+01:38:23,698 --> 01:38:25,826
+Vous pouvez m'aider
+s'il vous plaît ?
+
+1115
+01:38:27,794 --> 01:38:30,392
+Oui, vous.
+Vous pouvez m'aider s'il vous plaît ?
+
+1116
+01:38:33,160 --> 01:38:34,288
+Vous pouvez me suivre ?
+
+1117
+01:38:34,598 --> 01:38:36,116
+Venez s'il vous plaît.
+
+1118
+01:38:36,266 --> 01:38:38,824
+Viens. Viens. Allez.
+
+1119
+01:38:38,964 --> 01:38:40,932
+J'ai besoin d'aide.
+
+1120
+01:38:41,092 --> 01:38:42,220
+Merci.
+
+1121
+01:38:42,400 --> 01:38:44,058
+Juste...
+
+1122
+01:38:44,228 --> 01:38:47,165
+Euh, restez ici.
+
+1123
+01:38:47,325 --> 01:38:48,594
+Restez juste ici.
+
+1124
+01:38:48,764 --> 01:38:50,922
+Mes enfants ont disparu.
+
+1125
+01:38:51,091 --> 01:38:52,860
+Donc je vais les chercher.
+
+1126
+01:38:53,029 --> 01:38:54,458
+S'ils reviennent ici,
+
+1127
+01:38:54,598 --> 01:38:57,325
+dites-leur que j'arrive,
+s'il vous plaît.
+
+1128
+01:38:57,495 --> 01:38:59,723
+Et surveillez... les sacs.
+
+1129
+01:38:59,893 --> 01:39:01,861
+Et mes enfants,
+s'ils viennent,
+
+1130
+01:39:02,031 --> 01:39:03,519
+dites leur que j'arrive
+dans 5 minutes.
+
+1131
+01:39:03,699 --> 01:39:06,457
+Oui. Merci.
+
+1132
+01:40:11,861 --> 01:40:14,348
+"Ces personnes méritent
+d'aller en enfer.
+
+1133
+01:40:14,528 --> 01:40:17,295
+Si je les croise dans la rue,
+je leur mettrai mon poing dans la gueule."
+
+1134
+01:40:17,425 --> 01:40:21,521
+"Votre gagne-pain
+c'est d'effrayer les gens."
+
+1135
+01:40:25,367 --> 01:40:28,554
+"Pourquoi on ne tue
+pas ces personnes ?"
+
+1136
+01:40:29,363 --> 01:40:30,691
+- Bien,
+- Il est là.
+
+1137
+01:40:30,791 --> 01:40:34,389
+au moins,
+les gens parlent de nous.
+
+1138
+01:40:52,730 --> 01:40:56,626
+<i>...ont produit cette vidéo
+avec l'argent du contribuable...</i>
+
+1139
+01:40:56,796 --> 01:40:58,424
+Bonjour...
+
+1140
+01:41:00,332 --> 01:41:01,960
+Bonjour Elna.
+
+1141
+01:41:02,860 --> 01:41:03,918
+<i>Et l'autre chose qu'ils font,</i>
+
+1142
+01:41:04,058 --> 01:41:06,116
+<i>et ils ne s'en rendent pas compte,</i>
+
+1143
+01:41:06,426 --> 01:41:08,694
+<i>c'est qu'ils attaquent
+un des groupes</i>
+
+1144
+01:41:08,894 --> 01:41:10,882
+<i>suédois les plus vulnérables,
+les mendiants.</i>
+
+1145
+01:41:11,062 --> 01:41:15,726
+<i>Ces gens qui sont assis
+jour et nuit dans nos rues.</i>
+
+1146
+01:41:16,496 --> 01:41:20,692
+<i>Ce genre de vidéo,
+c'est comme leur pisser au visage.</i>
+
+1147
+01:41:20,862 --> 01:41:23,728
+<i>Ce qui est vraiment malsain,
+c'est que ma fille de 6 ans...</i>
+
+1148
+01:41:23,898 --> 01:41:27,595
+<i>-Tu pourrais couper ça s'il te plaît ?
+-...voit des membres humains voler...</i>
+
+1149
+01:41:27,764 --> 01:41:30,732
+C'est qui ce débile ?
+
+1150
+01:41:31,261 --> 01:41:35,457
+Elna, voici une occasion
+de prendre position.
+
+1151
+01:41:35,597 --> 01:41:39,493
+Nous, en tant que musée, ne devons pas
+avoir peur de repousser les limites.
+
+1152
+01:41:39,633 --> 01:41:44,188
+Pour transcender
+toutes sortes de tabous.
+
+1153
+01:41:44,358 --> 01:41:47,485
+Rien ne devrait entraver
+la liberté d'expression.
+
+1154
+01:41:47,625 --> 01:41:51,491
+J'en suis convaincu.
+Ça mérite qu'on le défende.
+
+1155
+01:41:53,559 --> 01:41:54,687
+Sans la moindre hésitation.
+
+1156
+01:42:01,401 --> 01:42:03,389
+Pampers...
+
+1157
+01:42:03,559 --> 01:42:06,825
+Tu penses qu'ils auront envie
+de donner de l'argent au musée ?
+
+1158
+01:42:11,231 --> 01:42:13,199
+Tu es consciente
+
+1159
+01:42:13,359 --> 01:42:15,457
+que je n'ai rien à voir
+avec cette vidéo ?
+
+1160
+01:42:15,597 --> 01:42:21,321
+-Je ne l'ai pas faite...
+-C'est totalement hors sujet.
+
+1161
+01:42:21,501 --> 01:42:23,229
+Vraiment.
+
+1162
+01:42:27,525 --> 01:42:31,052
+Je dois assister à
+une réunion de conseil.
+
+1163
+01:42:31,231 --> 01:42:33,219
+Et je veux être assurée
+que tu te conformeras
+
+1164
+01:42:33,399 --> 01:42:36,226
+à la décision que nous prendrons.
+
+1165
+01:42:36,396 --> 01:42:42,060
+Ben ça dépend de quoi on parle.
+
+1166
+01:42:42,230 --> 01:42:46,686
+Ça sera des décisions en rapport
+avec les conséquences de tout ça.
+
+1167
+01:42:51,900 --> 01:42:55,058
+- Évidemment.
+- OK.
+
+1168
+01:42:55,227 --> 01:42:57,056
+Bien.
+
+1169
+01:43:12,500 --> 01:43:15,557
+Les filles,
+si vous voulez dessiner,
+
+1170
+01:43:15,727 --> 01:43:18,853
+il y a quelques crayons
+de couleur là-bas.
+
+1171
+01:43:19,033 --> 01:43:23,559
+-Non...
+-Vous avez pas envie ? Pourquoi pas ?
+
+1172
+01:43:26,495 --> 01:43:30,451
+Une dernière chose.
+On a besoin de nouvelles photos pour la presse.
+
+1173
+01:43:32,899 --> 01:43:33,799
+Pour quoi faire ?
+
+1174
+01:43:33,959 --> 01:43:35,727
+Sur celles qu'on a, tu souris.
+
+1175
+01:43:49,433 --> 01:43:51,021
+Bienvenue.
+
+1176
+01:43:52,930 --> 01:43:54,488
+Christian ?
+
+1177
+01:43:58,264 --> 01:44:01,720
+Garde à l'esprit qu'ils ne sont
+pas au courant pour la vidéo.
+
+1178
+01:44:42,959 --> 01:44:45,297
+<i>J'en appelle à votre
+plus grande prudence</i>
+
+1179
+01:44:45,427 --> 01:44:47,365
+<i>pendant cette performance.</i>
+
+1180
+01:44:55,367 --> 01:44:59,523
+-Qu'est-ce qui se passe ?
+Ça va être excitant !
+
+1181
+01:44:59,693 --> 01:45:01,391
+<i>Bienvenue dans la jungle.</i>
+
+1182
+01:45:04,158 --> 01:45:08,683
+<i>Bientôt vous allez être confrontés
+à un animal sauvage.</i>
+
+1183
+01:45:08,863 --> 01:45:11,021
+<i>Comme vous le savez tous,
+l'instinct de chasse</i>
+
+1184
+01:45:11,191 --> 01:45:13,219
+<i>est stimulé par la faiblesse.</i>
+
+1185
+01:45:13,399 --> 01:45:17,125
+<i>Si vous montrez que vous avez peur,
+l'animal le sentira.</i>
+
+1186
+01:45:19,762 --> 01:45:25,696
+<i>Si vous essayez de vous enfuir,
+l'animal vous pourchassera.</i>
+
+1187
+01:45:28,534 --> 01:45:31,980
+<i>Mais si vous restez
+complètement immobile,</i>
+
+1188
+01:45:32,160 --> 01:45:35,287
+<i>sans bouger un muscle,</i>
+
+1189
+01:45:35,426 --> 01:45:38,224
+<i>l'animal pourrait ne pas
+remarquer votre présence.</i>
+
+1190
+01:45:38,394 --> 01:45:41,162
+<i>Et vous pouvez-vous
+cacher dans le troupeau,</i>
+
+1191
+01:45:41,331 --> 01:45:45,596
+<i>en sécurité, sachant que
+quelqu'un d'autre sera la proie.</i>
+
+1192
+01:46:07,935 --> 01:46:10,192
+Qu'est-ce qui se passe ?
+
+1193
+01:48:10,432 --> 01:48:12,989
+- C'est plutôt intense.
+- Oui.
+
+1194
+01:49:29,932 --> 01:49:31,691
+Bonjour.
+
+1195
+01:49:41,900 --> 01:49:43,758
+Arrêtez.
+
+1196
+01:49:43,928 --> 01:49:46,226
+Arrêtez.
+
+1197
+01:49:53,159 --> 01:49:54,828
+Très drôle.
+
+1198
+01:50:15,167 --> 01:50:16,925
+Allez, va-t'en.
+
+1199
+01:50:18,633 --> 01:50:19,682
+Va-t'en.
+
+1200
+01:50:35,167 --> 01:50:37,825
+Allez.
+
+1201
+01:50:40,561 --> 01:50:43,759
+OK...
+
+1202
+01:51:21,190 --> 01:51:26,596
+Applaudissons tous... Oleg Rogozjin.
+
+1203
+01:51:26,766 --> 01:51:29,522
+Incroyable !
+
+1204
+01:51:29,692 --> 01:51:33,598
+Génial ! Merci beaucoup.
+
+1205
+01:51:39,532 --> 01:51:41,830
+Oleg, j'ai juste dit que...
+
+1206
+01:51:41,960 --> 01:51:44,488
+Je dis juste que...
+
+1207
+01:51:46,525 --> 01:51:48,863
+Je dis juste...
+
+1208
+01:52:24,727 --> 01:52:27,714
+Non.
+
+1209
+01:54:35,396 --> 01:54:37,225
+À l'aide...
+
+1210
+01:54:44,198 --> 01:54:45,926
+Hey...
+
+1211
+01:54:54,057 --> 01:54:57,055
+Ça fait un peu mal...
+
+1212
+01:54:57,225 --> 01:55:00,351
+Quelqu'un ? À l'aide...
+
+1213
+01:55:00,531 --> 01:55:03,729
+Frederik, tu peux m'aider ?
+
+1214
+01:55:05,397 --> 01:55:08,293
+OK... À l'aide !
+
+1215
+01:55:24,567 --> 01:55:27,724
+Arrête ! Hé ! Arrête !
+
+1216
+01:55:39,532 --> 01:55:41,830
+Bâtard !
+
+1217
+01:55:45,026 --> 01:55:47,154
+Tuez le,
+pour l'amour de Dieu !
+
+1218
+01:56:37,395 --> 01:56:39,333
+C'est vous Christian ?
+
+1219
+01:56:43,259 --> 01:56:46,225
+C'est vous Christian ?
+
+1220
+01:56:46,395 --> 01:56:48,333
+Papa ?
+
+1221
+01:56:48,493 --> 01:56:52,859
+Vous pouvez monter ?
+J'en ai pas pour longtemps.
+
+1222
+01:56:54,198 --> 01:56:55,926
+Vous pouvez attendre dehors.
+
+1223
+01:56:58,034 --> 01:57:02,290
+- Qu'est-ce que tu fais là ?
+- Vous avez mis ça dans ma boîte aux lettres.
+
+1224
+01:57:02,430 --> 01:57:06,326
+- Mes parents me prennent pour un voleur.
+- Tu ne devrais pas être là.
+
+1225
+01:57:06,496 --> 01:57:09,652
+Si, je devrais.
+Et toi tu devrais t'excuser.
+
+1226
+01:57:09,792 --> 01:57:14,228
+Écoute-moi,
+tu ne devrais pas être là.
+
+1227
+01:57:14,398 --> 01:57:17,324
+C'est bizarre.
+Tu dois partir.
+
+1228
+01:57:17,494 --> 01:57:21,760
+-Reste ici. Hé !
+-Non.
+
+1229
+01:57:22,899 --> 01:57:24,557
+Hé...
+
+1230
+01:57:25,896 --> 01:57:27,025
+Hé, stop !
+
+1231
+01:57:27,194 --> 01:57:30,851
+Ne crie pas,
+les gens dorment.
+
+1232
+01:57:31,600 --> 01:57:33,658
+Si tu t'excuses, je m'en vais.
+
+1233
+01:57:33,858 --> 01:57:37,195
+Écoute-moi bien...
+
+1234
+01:57:39,033 --> 01:57:42,289
+Je suis vraiment désolé si
+ma lettre t'a causé des problèmes.
+
+1235
+01:57:42,599 --> 01:57:49,023
+Ça n'a rien à voir avec toi.
+S'il te plaît, laisse-moi finir...
+
+1236
+01:57:49,193 --> 01:57:52,029
+Ça n'était pas contre toi.
+
+1237
+01:57:52,199 --> 01:57:56,215
+Tout ce que je voulais,
+c'était récupérer mes affaires.
+
+1238
+01:57:56,395 --> 01:58:00,921
+- Qu'est-ce que tu fais ?
+- Bonne nuit. Vas t'en maintenant.
+
+1239
+01:58:01,091 --> 01:58:02,719
+Stop !
+
+1240
+01:58:05,896 --> 01:58:07,694
+Hé ! Stop !
+
+1241
+01:58:09,333 --> 01:58:14,287
+Qu'est-ce que tu fais ?
+Fiche le camp !
+
+1242
+01:58:20,062 --> 01:58:22,290
+- Hé !
+- Arrête ça.
+
+1243
+01:58:22,429 --> 01:58:25,826
+Non. Excuse-toi auprès
+de ma famille et moi.
+
+1244
+01:58:25,966 --> 01:58:31,050
+Arrête de crier !
+Arrête ça et dégage !
+
+1245
+01:58:33,098 --> 01:58:37,054
+Je vais t'en coller une, crois-moi.
+
+1246
+01:58:37,224 --> 01:58:41,750
+Je vais compter jusqu'à trois.
+Un, deux...
+
+1247
+01:58:41,930 --> 01:58:43,298
+Dégage.
+
+1248
+01:58:47,564 --> 01:58:48,863
+Dégage !
+
+1249
+01:59:11,430 --> 01:59:13,658
+Rentrons.
+
+1250
+01:59:20,391 --> 01:59:24,457
+Qu'est-ce que tu fais ?
+Ne fais pas ça !
+
+1251
+01:59:30,761 --> 01:59:32,919
+Arrête de faire ça !
+
+1252
+01:59:33,099 --> 01:59:34,387
+Arrête !
+
+1253
+01:59:34,567 --> 01:59:36,995
+Tu m'as accusé d'être un voleur,
+alors prépare-toi pour le chaos !
+
+1254
+01:59:39,093 --> 01:59:41,290
+Arrête ça...
+
+1255
+01:59:41,430 --> 01:59:44,887
+Non ! T'as pas intérêt...
+
+1256
+01:59:46,925 --> 01:59:50,761
+- Ce sont mes voisins ! Dégage !
+- Aidez-moi !
+
+1257
+01:59:50,931 --> 01:59:54,487
+- Hé ho ?  Hé ho ?
+Fous le camp !
+
+1258
+02:00:05,726 --> 02:00:08,024
+Pourquoi ne m'as tu pas écouté ?
+
+1259
+02:00:10,262 --> 02:00:12,818
+Tu aurais dû écouter.
+
+1260
+02:00:12,958 --> 02:00:16,825
+N'est-ce pas ?
+Maintenant rentre chez toi.
+
+1261
+02:00:17,894 --> 02:00:19,992
+Rentre.
+
+1262
+02:00:31,500 --> 02:00:35,656
+D'accord,
+allez vous brosser les dents.
+
+1263
+02:00:35,796 --> 02:00:39,851
+Allez, brossez-vous les dents...
+Enlevez d'abord vos chaussures.
+
+1264
+02:01:18,793 --> 02:01:20,591
+À l'aide !
+
+1265
+02:01:37,424 --> 02:01:39,362
+À l'aide !
+
+1266
+02:01:39,532 --> 02:01:42,858
+- Allo ?
+- À l'aide...
+
+1267
+02:01:43,798 --> 02:01:45,056
+Y a quelqu'un ?
+
+1268
+02:01:51,500 --> 02:01:53,048
+Allo ?
+
+1269
+02:02:20,861 --> 02:02:22,759
+À l'aide !
+
+1270
+02:02:26,865 --> 02:02:29,762
+Ça y est... Oui.
+
+1271
+02:03:01,330 --> 02:03:03,888
+À l'aide !
+
+1272
+02:03:06,724 --> 02:03:08,393
+À l'aide !
+
+1273
+02:03:13,728 --> 02:03:15,486
+Aidez-moi...
+
+1274
+02:03:20,891 --> 02:03:22,329
+À l'aide !
+
+1275
+02:03:31,959 --> 02:03:33,657
+Aidez-moi...
+
+1276
+02:03:38,233 --> 02:03:39,921
+À l'aide...
+
+1277
+02:06:55,496 --> 02:06:57,724
+<i>La personne que vous
+cherchez à joindre </i>
+
+1278
+02:06:57,893 --> 02:06:59,332
+<i>n'est pas disponible...</i>
+
+1279
+02:07:22,758 --> 02:07:25,026
+Euh, bonjour...
+
+1280
+02:07:25,196 --> 02:07:28,522
+Tu dois probablement
+te souvenir de moi.
+
+1281
+02:07:28,692 --> 02:07:31,890
+On vient juste de se rencontrer
+dans ma cage d'escalier.
+
+1282
+02:07:32,059 --> 02:07:35,456
+J'ai essayé de t'appeler,
+mais j'ai pas pu te joindre.
+
+1283
+02:07:35,596 --> 02:07:40,491
+Alors maintenant je fais
+cette vidéo à la place.
+
+1284
+02:07:40,631 --> 02:07:43,927
+Parce que tu as totalement raison.
+
+1285
+02:07:44,097 --> 02:07:47,024
+Je m'excuse pour les
+mauvaises choses que j'ai faites.
+
+1286
+02:07:47,194 --> 02:07:49,492
+Je t'ai accusé d'être un voleur.
+
+1287
+02:07:49,631 --> 02:07:54,327
+S'il te plaît montre ça à tes parents,
+
+1288
+02:07:54,497 --> 02:07:56,865
+pour qu'ils puissent voir
+que tu n'es pas un voleur.
+
+1289
+02:07:57,025 --> 02:08:00,121
+La lettre disait que tu avais volé
+mon portable et mon portefeuille,
+
+1290
+02:08:00,261 --> 02:08:03,198
+mais ça n'était pas vrai.
+
+1291
+02:08:03,357 --> 02:08:07,383
+Je veux que vous compreniez
+que ça n'est pas vrai.
+
+1292
+02:08:07,563 --> 02:08:11,020
+Donc j'aimerais m'excuser.
+Ce que j'ai fait était mal.
+
+1293
+02:08:15,426 --> 02:08:18,553
+J'ai été si égoïste.
+
+1294
+02:08:18,733 --> 02:08:21,719
+Négligent et plein
+de préjugés et je...
+
+1295
+02:08:21,899 --> 02:08:27,054
+Quand j'y pense, j'aurais dû
+entrer dans ton immeuble,
+
+1296
+02:08:27,224 --> 02:08:31,130
+toquer aux portes
+et simplement poser la question.
+
+1297
+02:08:31,260 --> 02:08:34,486
+Mais ça ne s'est jamais
+passé comme ça, parce que...
+
+1298
+02:08:36,165 --> 02:08:38,992
+Ben, honnêtement,
+j'avais trop peur.
+
+1299
+02:08:39,162 --> 02:08:42,858
+Peur des gens qui vivent...
+
+1300
+02:08:43,028 --> 02:08:47,224
+Peur des gens que j'imagine vivre dans
+des immeubles comme les vôtres.
+
+1301
+02:08:49,692 --> 02:08:53,818
+Ces préjugés négatifs
+en disent beaucoup sur moi.
+
+1302
+02:08:53,958 --> 02:08:56,754
+Ils montrent quelque chose
+sur notre société.
+
+1303
+02:08:56,924 --> 02:09:01,989
+car je ne pense pas être
+le seul qui ait des préjugés...
+
+1304
+02:09:03,698 --> 02:09:07,524
+Vous avez aussi des idées
+préconçues envers nous,
+
+1305
+02:09:07,693 --> 02:09:10,461
+probablement parce que
+nos vies sont si différentes.
+
+1306
+02:09:10,591 --> 02:09:13,388
+Très rapidement,
+on en arrive à la politique
+
+1307
+02:09:13,557 --> 02:09:16,655
+et au partage des richesses.
+
+1308
+02:09:16,795 --> 02:09:23,029
+Car ces problèmes ne peuvent pas
+être réglés par le simple fait d'individus.
+
+1309
+02:09:23,198 --> 02:09:27,753
+La société doit aussi accepter sa part
+de responsabilité. Il ne suffira pas
+
+1310
+02:09:27,933 --> 02:09:33,987
+que j'admette mes erreurs et
+que je m'excuse dans cette vidéo.
+
+1311
+02:09:34,157 --> 02:09:37,353
+La société doit faire face
+
+1312
+02:09:37,523 --> 02:09:40,321
+à des problèmes structurels
+bien plus grands.
+
+1313
+02:09:40,491 --> 02:09:46,724
+À vrai dire je connais
+une des 291 personnes
+
+1314
+02:09:46,894 --> 02:09:49,991
+qui détiennent plus de
+50% de la richesse mondiale.
+
+1315
+02:09:50,161 --> 02:09:56,065
+Un mec comme ça pourrait
+régler tout ça en un instant.
+
+1316
+02:10:20,960 --> 02:10:22,548
+<i>Bonjour, vous êtes sur
+le répondeur de Christian.</i>
+
+1317
+02:10:22,728 --> 02:10:24,716
+<i>Je ne suis pas
+disponible actuellement,</i>
+
+1318
+02:10:24,896 --> 02:10:28,483
+<i>mais laissez-moi un message
+et je vous rappellerai.</i>
+
+1319
+02:10:32,229 --> 02:10:33,857
+Bienvenue...
+
+1320
+02:10:36,495 --> 02:10:38,153
+Nous avons...
+
+1321
+02:10:47,194 --> 02:10:51,529
+Nous avons appelé
+cette conférence de presse
+
+1322
+02:10:51,699 --> 02:10:56,755
+en réponse à une certaine vidéo
+qui circule sur internet.
+
+1323
+02:10:56,925 --> 02:11:01,559
+Nous pensons que c'est la meilleure manière
+de répondre à vos questions.
+
+1324
+02:11:01,729 --> 02:11:05,126
+Cette session sera tenue
+par notre conservateur en chef,
+
+1325
+02:11:05,266 --> 02:11:06,755
+Christian Juel Nielsen.
+
+1326
+02:11:14,257 --> 02:11:15,925
+Bonjour.
+
+1327
+02:11:17,863 --> 02:11:22,229
+Bien, comme annoncé
+précédemment...
+
+1328
+02:11:22,399 --> 02:11:26,724
+Nous sommes là pour
+parler du clip vidéo
+
+1329
+02:11:26,894 --> 02:11:33,348
+publié sur le site internet du musée
+et sur notre chaîne Youtube.
+
+1330
+02:11:33,528 --> 02:11:37,014
+Nous avons reçu
+un nombre massif de messages
+
+1331
+02:11:37,194 --> 02:11:39,322
+et de réponses indignées
+
+1332
+02:11:39,492 --> 02:11:43,558
+en réaction à cette vidéo, et nous en sommes touchés.
+
+1333
+02:11:43,728 --> 02:11:48,562
+- Pourriez-vous parler plus fort ?
+- Oui, bien sûr.
+
+1334
+02:11:48,732 --> 02:11:52,858
+Nous sommes très désolés d'avoir
+été à l'origine de ce vacarme,
+
+1335
+02:11:53,028 --> 02:11:59,452
+Et encore plus particulièrement parce que
+ce clip a été publié par erreur
+
+1336
+02:12:01,230 --> 02:12:03,747
+Ce musée est régi par
+des procédures strictes.
+
+1337
+02:12:03,927 --> 02:12:07,194
+C'est mon rôle de superviser
+toutes nos communications
+
+1338
+02:12:07,363 --> 02:12:10,351
+et nos initiatives marketing.
+
+1339
+02:12:10,531 --> 02:12:14,687
+Dans ce cas précis, je ne me suis pas
+strictement conformé au protocole,
+
+1340
+02:12:14,866 --> 02:12:19,881
+et cette vidéo a été
+publiée à mon insu.
+
+1341
+02:12:20,061 --> 02:12:23,657
+J'ai agi d'une manière irresponsable,
+
+1342
+02:12:23,797 --> 02:12:27,923
+et c'est pourquoi,
+en accord avec notre conseil,
+
+1343
+02:12:28,093 --> 02:12:30,651
+j'ai décidé de quitter mes fonctions.
+
+1344
+02:12:31,160 --> 02:12:33,058
+Vous dites que vous démissionnez ?
+
+1345
+02:12:33,258 --> 02:12:34,317
+Oui.
+
+1346
+02:12:34,427 --> 02:12:37,224
+-Quand ?
+-Dès que possible.
+
+1347
+02:12:37,693 --> 02:12:38,822
+Vous avez été renvoyé ?
+
+1348
+02:12:38,932 --> 02:12:41,589
+Non, ce fut une décision commune.
+
+1349
+02:12:41,759 --> 02:12:46,824
+Nous avons pensé que
+ce serait la meilleure chose à faire.
+
+1350
+02:12:46,964 --> 02:12:49,292
+Définissez "Nous".
+
+1351
+02:12:49,861 --> 02:12:52,728
+Je parle de moi-même,
+notre direction et notre conseil.
+
+1352
+02:12:53,098 --> 02:12:57,554
+Où est votre solidarité
+avec les sans-voix
+
+1353
+02:12:57,724 --> 02:13:00,890
+et les minorités vulnérables
+de la société ?
+
+1354
+02:13:07,933 --> 02:13:12,558
+Où est votre solidarité
+avec les sans voix
+
+1355
+02:13:12,728 --> 02:13:15,456
+et les minorités vulnérables
+de la société ?
+
+1356
+02:13:18,432 --> 02:13:20,990
+Vous devriez avoir honte de vous !
+
+1357
+02:13:24,566 --> 02:13:26,554
+C'est vraiment des conneries...
+
+1358
+02:13:26,724 --> 02:13:33,188
+Vous avez commencé en disant
+que vous et le conseil du musée
+
+1359
+02:13:33,357 --> 02:13:37,593
+avez décidé que
+vous deviez démissionner.
+
+1360
+02:13:37,763 --> 02:13:41,159
+Oui, c'est-ce qu'on a décidé.
+
+1361
+02:13:41,329 --> 02:13:45,355
+Ce n'est pas l'image
+que l'on veut se donner.
+
+1362
+02:13:45,525 --> 02:13:49,481
+Donc vous avez atteint
+la limite de liberté d'expression
+
+1363
+02:13:49,631 --> 02:13:51,319
+que vous pouviez supporter ?
+
+1364
+02:13:51,499 --> 02:13:55,865
+Vous avez atteint un plafond
+en terme de communication ?
+
+1365
+02:13:56,025 --> 02:13:59,861
+Pensez-vous personnellement
+que vous ayez franchi la limite ?
+
+1366
+02:14:02,758 --> 02:14:06,884
+Je pense que
+la liberté d'expression
+
+1367
+02:14:07,064 --> 02:14:08,652
+implique certaines responsabilités.
+
+1368
+02:14:08,792 --> 02:14:11,659
+Il faut réfléchir
+avant de s'exprimer.
+
+1369
+02:14:11,799 --> 02:14:14,317
+Mais est-ce à vous de
+réduire la liberté d'expression ?
+
+1370
+02:14:14,496 --> 02:14:21,220
+Devrions-nous nous inquiéter
+d'un tel cas d'autocensure ?
+
+1371
+02:14:21,400 --> 02:14:27,224
+- Vous avez un rôle influent.
+- Cette décision n'était pas la mienne.
+
+1372
+02:14:27,394 --> 02:14:30,290
+Mais vous avez pris part
+dans cette décision.
+
+1373
+02:14:30,430 --> 02:14:33,228
+Vous avez clairement mentionné
+que cette vidéo
+
+1374
+02:14:33,398 --> 02:14:38,992
+était si répugnante que vous vous sentiez
+dans l'obligation de démissionner.
+
+1375
+02:14:39,162 --> 02:14:43,458
+J'ai fait une erreur, cette vidéo a
+été publié sans mon autorisation.
+
+1376
+02:14:43,598 --> 02:14:48,652
+Donc c'est à ce niveau que ce situe
+votre limite ? Une jeune actrice se fait...
+
+1377
+02:14:48,792 --> 02:14:52,289
+Non, c'est pas le cas.
+Comme je l'ai dit, ça n'a rien à voir
+
+1378
+02:14:52,428 --> 02:14:54,486
+avec ma propre opinion.
+
+1379
+02:14:54,626 --> 02:14:56,654
+Vous plafonnez
+la liberté d'expression !
+
+1380
+02:14:56,794 --> 02:14:58,762
+Ça ne représente pas
+mon opinion personnelle.
+
+1381
+02:14:58,932 --> 02:15:03,457
+On parle ici du musée
+et de mon rôle professionnel.
+
+1382
+02:15:03,597 --> 02:15:06,285
+Qu'est-ce que vous ne
+comprenez pas là-dedans ?
+
+1383
+02:15:06,425 --> 02:15:10,291
+On peut s'attendre à
+un futur des plus alarmants
+
+1384
+02:15:10,431 --> 02:15:14,885
+pour notre société
+étant donné vos actions.
+
+1385
+02:15:15,065 --> 02:15:17,223
+En toute honnêteté, ça craint !
+
+1386
+02:15:28,063 --> 02:15:31,719
+Christian... Christian ?
+
+1387
+02:15:31,899 --> 02:15:36,055
+J'ai des questions à vous poser
+à propos du contenu de la vidéo.
+
+1388
+02:15:39,561 --> 02:15:45,116
+Comment votre choix s'est-il arrêté sur
+une fillette blonde et mendiante qui explose ?
+
+1389
+02:15:45,266 --> 02:15:47,923
+On vient de recevoir ça de
+l'agence des relations publiques.
+
+1390
+02:15:48,092 --> 02:15:51,889
+Si vous vouliez faire un rapprochement
+avec la pauvreté dans l'UE,
+
+1391
+02:15:52,058 --> 02:15:54,526
+pourquoi n'avez-vous choisi
+un enfant aux cheveux foncés ?
+
+1392
+02:15:58,632 --> 02:16:01,859
+Comment expliquez-vous ça ?
+
+1393
+02:16:02,028 --> 02:16:05,466
+Comme j'essaye de vous expliquer,
+
+1394
+02:16:05,596 --> 02:16:08,752
+Je n'ai pas agi
+de manière responsable...
+
+1395
+02:16:08,932 --> 02:16:13,657
+- Répondez à la question !
+- Je viens juste de recevoir un message
+
+1396
+02:16:13,797 --> 02:16:15,925
+...qui devrait faire
+la lumière sur tout ça.
+
+1397
+02:16:16,095 --> 02:16:19,821
+Je l'espère.
+
+1398
+02:16:19,961 --> 02:16:23,727
+C'est une déclaration de
+notre service marketing
+
+1399
+02:16:23,897 --> 02:16:27,853
+et de l'agence mandatée.
+
+1400
+02:16:28,033 --> 02:16:31,359
+"Nous voulons souligner
+que la vidéo
+
+1401
+02:16:31,529 --> 02:16:35,295
+publiée sur le site internet du
+musée et sur la chaîne Youtube
+
+1402
+02:16:35,425 --> 02:16:41,159
+n'exprime en rien le
+point de vue du musée."
+
+1403
+02:16:41,329 --> 02:16:44,885
+"Cette vidéo n'a été produite que
+par pure spéculation pour générer
+
+1404
+02:16:45,065 --> 02:16:49,461
+de l'attention pour
+une exposition à venir."
+
+1405
+02:16:49,591 --> 02:16:53,457
+- Donc ça n'est que pure spéculation ?
+- De quelle exposition s'agit il ?
+
+1406
+02:16:53,597 --> 02:16:57,183
+Vous avez prévu de
+faire exploser des enfants ?
+
+1407
+02:16:57,363 --> 02:17:00,291
+De quel genre
+d'exposition s'agit-il ?
+
+1408
+02:17:00,890 --> 02:17:04,586
+Pour vous donner la meilleure description
+du thème de l'exposition,
+
+1409
+02:17:04,766 --> 02:17:07,453
+je vais citer
+le manifeste de l'artiste,
+
+1410
+02:17:07,563 --> 02:17:09,751
+qui commence plus
+ou moins comme ça:
+
+1411
+02:17:11,699 --> 02:17:15,326
+"Le Carré est un sanctuaire
+de confiance et de bienveillance.
+
+1412
+02:17:15,565 --> 02:17:18,532
+Dans ses limites, nous partageons tous
+les mêmes droits et devoirs."
+
+1413
+02:17:18,692 --> 02:17:22,598
+- Vous pouvez répéter ça ?
+- Silence, laissez-le parler.
+
+1414
+02:17:25,726 --> 02:17:29,592
+"Le Carré est un sanctuaire
+de confiance et de bienveillance.
+
+1415
+02:17:29,761 --> 02:17:32,728
+Dans ses limites, nous partageons tous
+les mêmes droits et devoirs."
+
+1416
+02:17:39,162 --> 02:17:43,218
+-Quel est le nom de l'artiste ?
+-Lola Arias.
+
+1417
+02:17:43,857 --> 02:17:47,813
+- Répétez son nom de famille, s'il vous plaît.
+- A-R-I-A-S.
+
+1418
+02:17:49,162 --> 02:17:52,059
+Tous les documents de presse
+sont sur notre site internet.
+
+1419
+02:17:52,928 --> 02:17:54,516
+Également des photos
+de Lola Arias ?
+
+1420
+02:17:54,866 --> 02:17:56,225
+Oui, en haute résolution.
+
+1421
+02:17:56,395 --> 02:17:59,361
+De l'artiste et quelques
+unes de son travail.
+
+1422
+02:17:59,631 --> 02:18:04,217
+Vous y trouverez un dossier de
+presse complet à télécharger.
+
+1423
+02:18:13,857 --> 02:18:18,822
+Le musée spécule de manière
+répugnante pour attirer l'attention
+
+1424
+02:18:22,159 --> 02:18:28,322
+Imam, Prêtre et Rabbin:
+tous unis contre la campagne des relations publiques
+
+1425
+02:18:34,726 --> 02:18:38,892
+Voici l'exposition
+qu'ils voulaient présenter
+
+1426
+02:18:53,598 --> 02:18:55,685
+<i>Les entraîneurs sont
+Therese Johansson,</i>
+
+1427
+02:18:55,894 --> 02:18:59,052
+<i>Yasemin Beyasit,
+et Josephine Kalmlund.</i>
+
+1428
+02:18:59,262 --> 02:19:03,028
+<i>Et voici les "Bobcats" !</i>
+
+1429
+02:20:08,332 --> 02:20:10,520
+Super ! Allons y !
+
+1430
+02:20:18,862 --> 02:20:20,660
+Allez les filles !
+
+1431
+02:20:47,763 --> 02:20:49,521
+Hé les filles,
+felicitations pour aujourd'hui.
+
+1432
+02:20:49,731 --> 02:20:52,319
+Bon travail d'équipe,
+bonne entente générale.
+
+1433
+02:20:52,528 --> 02:20:53,997
+Vraiment, vraiment fier
+de vous les filles.
+
+1434
+02:20:55,795 --> 02:20:57,053
+Hé Elna, écoute.
+
+1435
+02:20:57,893 --> 02:20:59,221
+Explique-moi ton attitude.
+
+1436
+02:21:00,531 --> 02:21:01,649
+Regarde-moi.
+
+1437
+02:21:02,927 --> 02:21:05,585
+Rester là assise à t'apitoyer
+sur ton sort ne sert à rien.
+
+1438
+02:21:06,594 --> 02:21:09,821
+OK ? Arrête de gaspiller ton
+énergie dans tes pensées.
+
+1439
+02:21:10,590 --> 02:21:12,119
+Utilise-la pour aider l'équipe.
+
+1440
+02:21:13,097 --> 02:21:17,353
+Les filles, si vous faites une erreur,
+corrigez et allez de l'avant.
+
+1441
+02:21:18,063 --> 02:21:20,190
+Vous sentir coupable
+ne sert à rien.
+
+1442
+02:21:21,329 --> 02:21:23,847
+OK ?
+Comment vous vous sentez ?
+
+1443
+02:21:25,595 --> 02:21:26,994
+Comment ça va ?
+
+1444
+02:21:27,933 --> 02:21:30,660
+Très bien.
+Allez-y et prenez votre douche.
+
+1445
+02:21:31,329 --> 02:21:32,488
+Très bien.
+
+1446
+02:21:45,924 --> 02:21:48,022
+Hé, on va où ?
+
+1447
+02:21:49,392 --> 02:21:51,589
+Je vais vous le dire
+dans un instant.
+
+1448
+02:22:19,361 --> 02:22:23,227
+Vous vous souvenez du garçon
+qui nous attendait l'autre soir ?
+
+1449
+02:22:27,623 --> 02:22:32,319
+Il vit par là-bas.
+Je dois lui parler.
+
+1450
+02:22:35,165 --> 02:22:37,453
+Ça ne prendra que dix minutes.
+Vingt maximum.
+
+1451
+02:22:37,623 --> 02:22:39,821
+Ça vous dérange pas de
+m'attendre dans la voiture ?
+
+1452
+02:22:41,729 --> 02:22:43,287
+Ça vous dérange pas ?
+
+1453
+02:23:02,198 --> 02:23:03,716
+Papa ?
+
+1454
+02:23:07,523 --> 02:23:09,052
+Papa !
+
+1455
+02:23:11,958 --> 02:23:13,586
+Qu'est-ce qui se passe ?
+
+1456
+02:23:13,796 --> 02:23:16,024
+On peut venir aussi ?
+
+1457
+02:23:19,890 --> 02:23:23,846
+- Enfin, si elle veut aussi.
+- Tu veux venir ?
+
+1458
+02:23:28,592 --> 02:23:30,580
+D'accord, allons y.
+
+1459
+02:23:58,931 --> 02:24:01,899
+- Ça va ?
+- Oui.
+
+1460
+02:24:39,890 --> 02:24:43,756
+Bonjour... Désolé de vous déranger.
+Je m'appelle Christian.
+
+1461
+02:24:44,796 --> 02:24:48,662
+Ça peut sembler fou,
+mais j'aurais espéré...
+
+1462
+02:24:48,932 --> 02:24:53,986
+Avez-vous reçu une lettre
+vous accusant d'être un voleur ?
+
+1463
+02:24:57,363 --> 02:25:00,380
+Affirmant que vous auriez volé
+un portable et un portefeuille ?
+
+1464
+02:25:01,229 --> 02:25:03,817
+- Pardon ?
+- Une lettre.
+
+1465
+02:25:04,156 --> 02:25:07,593
+Vous accusant d'être un voleur.
+
+1466
+02:25:12,099 --> 02:25:17,583
+- Qu'est-ce que vous dites que j'ai reçu ?
+- Une lettre avec un message étrange.
+
+1467
+02:25:21,259 --> 02:25:22,917
+- Dans ma boîte aux lettres ?
+- Oui.
+
+1468
+02:25:23,157 --> 02:25:25,355
+Je les ai mis dans
+toutes les boîtes de l'immeuble.
+
+1469
+02:25:29,391 --> 02:25:31,559
+Je ne sais pas
+de quoi vous parlez.
+
+1470
+02:25:32,029 --> 02:25:36,054
+Serait-il possible que
+quelqu'un d'autre l'ait récupéré ?
+
+1471
+02:25:37,323 --> 02:25:39,851
+Mon ex-femme passe
+faire le ménage.
+
+1472
+02:25:40,060 --> 02:25:43,996
+Elle se débarrasse du courrier sur
+lequel ne figure pas mon nom.
+
+1473
+02:25:47,223 --> 02:25:48,352
+Une dernière question...
+
+1474
+02:25:48,592 --> 02:25:53,117
+Y a-t-il des enfants qui
+vivent dans cet immeuble ?
+
+1475
+02:25:54,226 --> 02:25:57,323
+Bien sûr, pourquoi vous voulez savoir ?
+- Je cherche un garçon.
+
+1476
+02:25:58,392 --> 02:26:03,298
+Il doit avoir 10 ou 12 ans...
+Avec des cheveux très noirs.
+
+1477
+02:26:06,024 --> 02:26:09,152
+Grand comme ça ?
+Des cheveux très noirs...
+
+1478
+02:26:09,431 --> 02:26:12,288
+- 10, 13 ans...
+- Exactement.
+
+1479
+02:26:12,428 --> 02:26:13,726
+Il vit juste là ?
+
+1480
+02:26:14,426 --> 02:26:16,454
+Il habitait là.
+Ça fait un moment que je ne l'ai plus vu.
+
+1481
+02:26:17,722 --> 02:26:20,850
+- Sa famille habitait ici ?
+- Je pense qu'ils ont dû déménager.
+
+1482
+02:26:23,896 --> 02:26:25,325
+Je vois...
+
+1483
+02:26:25,495 --> 02:26:28,482
+- Vous avez où ils ont déménagé ?
+- Non, j'en ai pas la moindre idée.
+
+1484
+02:26:35,865 --> 02:26:37,593
+J'ai peur de ne pas
+pouvoir vous aider.
+
+1485
+02:26:46,065 --> 02:26:48,531
+- OK.
+Bye. 
+

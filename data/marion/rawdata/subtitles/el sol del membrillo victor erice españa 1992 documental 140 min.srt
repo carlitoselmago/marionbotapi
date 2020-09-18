@@ -1,0 +1,5235 @@
+1
+00:00:04,065 --> 00:00:08,065
+Bonjour.
+
+2
+00:00:46,920 --> 00:00:50,549
+Comment allez-vous ?
+
+3
+00:00:51,280 --> 00:00:54,750
+Très bien, merci.
+
+4
+00:01:16,920 --> 00:01:17,875
+Salut, Emilio.
+
+5
+00:01:30,280 --> 00:01:31,713
+Emilio, entre.
+
+6
+00:01:32,360 --> 00:01:33,395
+Tu n'entres pas?
+
+7
+00:01:43,680 --> 00:01:48,231
+Ce que l'esprit souhaiterait.
+
+8
+00:02:02,520 --> 00:02:07,514
+Un film inspiré d'un travail
+de ce peintre.
+
+9
+00:02:15,160 --> 00:02:17,435
+OK;
+
+10
+00:04:32,120 --> 00:04:35,715
+Dimanche 30 septembre
+
+11
+00:15:22,880 --> 00:15:26,668
+Lundi 1er octobre
+
+12
+00:15:52,480 --> 00:15:53,879
+Il faut enlever
+ces bottes d'ici.
+
+13
+00:16:01,520 --> 00:16:05,559
+Si on ne finit pas aujourd'hui,
+nos actions baisseront.
+
+14
+00:16:06,680 --> 00:16:11,800
+Tant qu'on n'a pas le sable,
+on perd notre temps.
+
+15
+00:16:33,360 --> 00:16:35,316
+Allons-y.
+
+16
+00:17:43,840 --> 00:17:48,231
+Allez, approchez, mesdames!
+Voilà le ferrailleur.
+
+17
+00:17:49,640 --> 00:17:53,918
+J'achéte la ferraille
+et les vieux matelas en laine.
+
+18
+00:18:07,360 --> 00:18:09,794
+- Salut Mari, ça va?
+- Tu as bien dormi?
+
+19
+00:18:09,920 --> 00:18:14,118
+Je n'ai pas fermé l'oeil.
+Emilio n'arrêtait pas d'aboyer,
+
+20
+00:18:14,360 --> 00:18:16,794
+et quand Emilio aboie,
+tous les chiens aboient.
+
+21
+00:18:16,920 --> 00:18:17,875
+Terrible!
+
+22
+00:18:18,160 --> 00:18:22,711
+Je te laisse, j'ai mon cours
+d'anglais, à tout à l'heure
+
+23
+00:18:23,040 --> 00:18:25,793
+Si on m'appelle,
+je serai là à midi.
+
+24
+00:18:28,120 --> 00:18:29,678
+Vous débarrassez
+déjà le haut?
+
+25
+00:18:34,360 --> 00:18:35,918
+- Bonjour, Marco.
+- Bonjour, Mari.
+
+26
+00:18:36,080 --> 00:18:37,798
+- Il reste beaucoup de choses?
+- Non.
+
+27
+00:18:38,360 --> 00:18:40,078
+- On se voit plus tard ?
+- A tout à l'heure.
+
+28
+00:18:56,840 --> 00:19:02,312
+"Ton mari est parti,
+il est à la guerre de france."
+
+29
+00:19:17,080 --> 00:19:19,958
+"II cherche avec une chandelle,"
+
+30
+00:19:20,840 --> 00:19:22,910
+"une galante mulâtresse."
+
+31
+00:19:43,080 --> 00:19:45,840
+"Prends garde à l'amour"
+
+32
+00:19:45,840 --> 00:19:49,116
+"qui nous cause tant de soucis,"
+
+33
+00:19:50,840 --> 00:19:54,469
+"qui me cause tant de chagrin."
+
+34
+00:20:00,840 --> 00:20:03,912
+"Cette petite bête,
+je la tuerai."
+
+35
+00:20:08,000 --> 00:20:11,117
+"Dans le palais du roi,"
+
+36
+00:20:15,360 --> 00:20:18,318
+"il y a un cheval de bois."
+
+37
+00:20:26,760 --> 00:20:30,309
+"Dans le palais du roi,"
+
+38
+00:20:31,760 --> 00:20:37,915
+"il y a un cheval de bois,
+un petit cheval de bois."
+
+39
+00:20:40,840 --> 00:20:43,798
+"Que de grains de sable
+sur la plage..."
+
+40
+00:20:46,280 --> 00:20:49,238
+"Tu me causes plus de peines"
+
+41
+00:20:49,920 --> 00:20:52,957
+"qu'il y a de grains de sable
+sur la plage."
+
+42
+00:20:55,640 --> 00:20:56,550
+Prépare-moi le mélange
+
+43
+00:21:22,160 --> 00:21:25,232
+"Les roses et les oeillets
+
+44
+00:21:27,760 --> 00:21:29,840
+"dans un patio de Séville...
+
+45
+00:21:29,840 --> 00:21:32,035
+"qu'ils sont jolis et
+qu'ils sentent bon
+
+46
+00:21:32,520 --> 00:21:35,557
+"au point du jour.
+
+47
+00:21:57,000 --> 00:21:59,434
+"De Madrid sont venus
+
+48
+00:22:02,320 --> 00:22:04,311
+"des peintres...
+
+49
+00:22:07,240 --> 00:22:09,310Fernando, va voir le petit!
+
+50
+00:22:09,600 --> 00:22:13,912
+"...pour peindre
+la Vierge des Douleurs.
+
+51
+00:22:22,840 --> 00:22:25,798
+"Petits moineaux qui
+passez par là.
+
+52
+00:22:28,160 --> 00:22:31,232
+"Qu'avez-vous mangé?
+
+53
+00:22:32,280 --> 00:22:34,794
+"La soupe de la marmite
+
+54
+00:22:38,840 --> 00:22:41,115
+"et l'eau de la riviére."
+
+55
+00:23:07,840 --> 00:23:09,796
+L'étincelle de la mort
+
+56
+00:23:47,720 --> 00:23:48,755
+II s'est caché.
+
+57
+00:23:49,760 --> 00:23:53,196
+Y a un moment, le soleil
+est sorti sur la droite.
+
+58
+00:23:56,120 --> 00:23:58,793
+Maintenant, il est reparti
+derriére les nuages.
+
+59
+00:24:01,120 --> 00:24:03,236
+Il fait un sale temps.
+
+60
+00:24:03,600 --> 00:24:05,477
+C'était tellement beau...
+
+61
+00:24:06,360 --> 00:24:09,477
+Les fruits étaient tout dorés.
+C'était vraiment trés beau!
+
+62
+00:24:12,360 --> 00:24:16,035
+Ce n'est pas la saison idéale.
+
+63
+00:24:16,840 --> 00:24:19,280
+Je peux toujours essayer.
+
+64
+00:24:19,280 --> 00:24:21,635
+Je crois que je devrais
+peindre le soleil.
+
+65
+00:24:22,680 --> 00:24:24,796
+Comme ça,
+c'est trés beau aussi.
+
+66
+00:24:25,000 --> 00:24:28,788
+Regarde comme les fruits
+sont beaux.
+
+67
+00:24:29,280 --> 00:24:31,111
+Et ce soleil,
+il reste longtemps?
+
+68
+00:24:31,920 --> 00:24:34,070
+L'ennuie, c'est qu'il dure peu.
+
+69
+00:24:34,520 --> 00:24:36,670
+à peu prés
+deux heures, le matin.
+
+70
+00:24:37,760 --> 00:24:40,149
+C'est une lumiére
+trés fugace. Et puis...
+
+71
+00:24:41,200 --> 00:24:42,679
+le soleil apparaît
+derriére la tour,
+
+72
+00:24:43,280 --> 00:24:46,397
+et pendant tout son parcours
+au-dessus de la maison,
+
+73
+00:24:47,200 --> 00:24:48,952
+le faîte de l'arbre s'illumine.
+
+74
+00:24:49,520 --> 00:24:52,273
+C'est aussi trés beau.
+C'est trés beau.
+
+75
+00:24:53,280 --> 00:24:56,795
+Tout l'arbre est dans l'ombre
+et le soleil dore sa cime,
+
+76
+00:24:57,280 --> 00:24:59,794
+tous les coings,
+le coing là,
+
+77
+00:25:00,280 --> 00:25:02,475
+toute cette partie
+de l'arbre...
+
+78
+00:25:02,760 --> 00:25:05,797
+C'est trés beau aussi.
+
+79
+00:25:06,080 --> 00:25:09,840
+Et puis il se retire par là
+et l'arbre reste à contre-jour.
+
+80
+00:25:09,840 --> 00:25:16,075
+C'est trés bien aussi, mais
+j'aime surtout celui du matin,
+
+81
+00:25:16,160 --> 00:25:17,513
+le premier soleil,
+
+82
+00:25:17,840 --> 00:25:19,796
+parce que c'est
+le plus doré de tous.
+
+83
+00:25:21,280 --> 00:25:23,600
+Avec du soleil,
+c'est une merveille.
+
+84
+00:25:23,600 --> 00:25:24,999
+Je peindrai
+avec du soleil.
+
+85
+00:25:26,080 --> 00:25:27,638
+Je n'ai jamais peint
+un arbre fruitier au soleil.
+
+86
+00:25:32,160 --> 00:25:34,840
+- Ça s'est bien passé?
+- Bien.
+
+87
+00:25:34,840 --> 00:25:36,680
+Comment va ta main?
+
+88
+00:25:36,680 --> 00:25:40,798
+Ça va beaucoup
+mieux, vraiment.
+
+89
+00:25:41,280 --> 00:25:44,795
+- C'est moins enflammé.
+- Je la remue bien mieux.
+
+90
+00:25:45,280 --> 00:25:48,840
+- Que dit le docteur?
+- Que ça va beaucoup mieux,
+
+91
+00:25:48,840 --> 00:25:51,354
+Mais que je
+dois être persévérante,
+
+92
+00:25:51,760 --> 00:25:53,478
+Tu en as encore
+pour longtemps?
+
+93
+00:25:54,440 --> 00:25:58,280
+Assez. Peut-être pourrai-je
+y aller un jour sur deux.
+
+94
+00:25:58,280 --> 00:25:59,872
+Pendant une semaine,
+dix jours?
+
+95
+00:26:00,440 --> 00:26:02,874
+Peut-être un peu plus.
+Mais je vais mieux.
+
+96
+00:26:03,160 --> 00:26:07,278
+Je crois que je vais arrêter
+d'y aller quelque temps.
+
+97
+00:26:08,080 --> 00:26:09,718
+Je suis bien mieux.
+
+98
+00:26:09,920 --> 00:26:12,798
+- C'est beau, n'est-ce pas?
+- Merveilleux.
+
+99
+00:26:13,280 --> 00:26:14,349
+Que c'est beau!
+
+100
+00:26:42,680 --> 00:26:44,636
+Tu as vu les marques
+sur les feuilles?
+
+101
+00:26:44,880 --> 00:26:51,638
+- On ne voit encore rien...
+- Il commence à peine.
+
+102
+00:27:00,280 --> 00:27:01,793
+On prendra le métro.
+
+103
+00:27:02,280 --> 00:27:06,319
+S'il faut venir de móstoles,
+c'est le mieux.
+
+104
+00:27:08,520 --> 00:27:13,958
+Grzesiek,
+comment on dit "jesien"?
+
+105
+00:27:15,840 --> 00:27:17,637
+Automne.
+
+106
+00:27:19,280 --> 00:27:24,718
+Janusz, comment on dit "zima"?
+
+107
+00:27:25,360 --> 00:27:29,797
+- Été.
+- Ne dis pas de bêtises.
+
+108
+00:27:30,680 --> 00:27:33,797
+Non, non. "Hivor"
+ou quelque chose comme ça.
+
+109
+00:27:37,040 --> 00:27:37,790
+Hiver.
+
+110
+00:27:38,040 --> 00:27:41,794
+Voyons, Grzesiek,
+comment on dit "wiosna"?
+
+111
+00:27:45,520 --> 00:27:46,873
+Prin... printemps.
+
+112
+00:28:21,360 --> 00:28:25,797
+Nous sommes à Vienne, en 1815.
+
+113
+00:28:26,520 --> 00:28:30,798
+Metternich (Klemens Wenzel von M.)
+est tout-puissant...
+
+114
+00:29:30,360 --> 00:29:33,079
+Cette fois, il a commencé par
+la toile et non par le dessin.
+
+115
+00:29:38,800 --> 00:29:40,791
+Regarde,
+ce qu'il y a comme marques!
+
+116
+00:29:41,680 --> 00:29:44,797
+- C'en est plein!
+- Le pauvre...
+
+117
+00:29:46,280 --> 00:29:48,191
+Regarde cette partie-là,
+que c'est beau.
+
+118
+00:29:53,840 --> 00:29:56,798
+Bon, la veste, tu la gardes.
+
+119
+00:29:58,200 --> 00:30:00,316
+- Elle me va bien?
+- Trés bien.
+
+120
+00:30:01,760 --> 00:30:04,513
+- Alors, n'hésite pas.
+- Les chaussures me font mal.
+
+121
+00:30:04,640 --> 00:30:07,791
+Bon, je te prendrai
+une pointure de plus.
+
+122
+00:30:08,600 --> 00:30:11,239
+- Va chez le cordonnier...
+- Non, une pointure de plus.
+
+123
+00:30:11,440 --> 00:30:14,640
+Une pointure de plus?
+Elles sont belles, non?
+
+124
+00:30:14,640 --> 00:30:15,311
+Elles te plaisent?
+
+125
+00:30:17,240 --> 00:30:19,231
+- Allez, on s'en va.
+- Eh bien, ça y est.
+
+126
+00:30:22,040 --> 00:30:23,189
+Elles sont trop petites.
+
+127
+00:30:23,920 --> 00:30:26,480
+- Oui, ça se voit.
+- Ça se voit?
+
+128
+00:30:26,840 --> 00:30:29,479
+Assieds-toi et donne-les-moi,
+je les emporte.
+
+129
+00:30:32,080 --> 00:30:34,071
+Mes lunettes!
+Je m'asseyais dessus...
+
+130
+00:30:36,040 --> 00:30:37,393
+Tiens, prends les chaussures.
+
+131
+00:30:44,880 --> 00:30:47,872
+Elles sont un peu sales, non?
+II faudra les nettoyer.
+
+132
+00:30:51,840 --> 00:30:53,796
+Bon, on s'en va.
+
+133
+00:30:54,600 --> 00:30:56,840
+- On te laisse à ta peinture!
+- Bon.
+
+134
+00:30:56,840 --> 00:30:59,798
+- à tout à l'heure.
+- Salut.
+
+135
+00:32:54,040 --> 00:32:57,396
+Radio 2.
+Bulletin d'information
+
+136
+00:32:57,840 --> 00:32:59,398
+L'U.R.S.S. et Israël
+
+137
+00:32:59,520 --> 00:33:02,840
+renouent
+leurs relations diplomatiques,
+
+138
+00:33:02,840 --> 00:33:04,840
+interrompues voici 23 ans,
+
+139
+00:33:04,840 --> 00:33:08,840
+aprés la guerre des Six Jours
+entre Israéliens et Arabes.
+
+140
+00:33:08,840 --> 00:33:10,717
+Chevernadze et David Levy
+l'ont annoncé
+
+141
+00:33:10,840 --> 00:33:12,717
+lors d'une conférence.
+
+142
+00:33:12,840 --> 00:33:15,840
+Le gouvernement espagnol
+est pessimiste
+
+143
+00:33:15,840 --> 00:33:18,320
+quand aux perspectives
+du conflit du Golfe.
+
+144
+00:33:18,320 --> 00:33:21,840
+Il a cependant déclaré
+qu'il convient à tout prix
+
+145
+00:33:21,840 --> 00:33:23,990
+de maintenir
+le dialogue avec l'Irak.
+
+146
+00:33:24,440 --> 00:33:26,840
+Sadam Hussein
+a adressé un discours
+
+147
+00:33:26,840 --> 00:33:29,840
+aux Arabes.
+Il a parlé de dialogue,
+
+148
+00:33:29,840 --> 00:33:32,240
+mais a invoqué
+la guerre sainte
+
+149
+00:33:32,240 --> 00:33:35,840
+contre les troupes étrangéres
+stationnées en Arabie Saoudite.
+
+150
+00:33:35,840 --> 00:33:40,630
+Demain, 2 octobre,
+la R.D.A. n'existera plus.
+
+151
+00:33:40,760 --> 00:33:43,440
+L'acte d'unification
+aura lieu à Berlin,
+
+152
+00:33:43,440 --> 00:33:45,840
+nouvelle capitale
+de l'Allemagne unie.
+
+153
+00:33:45,840 --> 00:33:48,240
+33 personnes sont mortes
+
+154
+00:33:48,240 --> 00:33:50,520
+ce week-end
+sur les routes espagnoles.
+
+155
+00:33:50,520 --> 00:33:53,557
+16 autres ont été
+griévement blessées.
+
+156
+00:34:48,920 --> 00:34:50,638
+Emilio, viens.
+
+157
+00:35:43,680 --> 00:35:47,514
+Mardi 2 octobre
+
+158
+00:36:53,080 --> 00:36:54,308
+Attention à l'arbre.
+
+159
+00:36:59,160 --> 00:36:59,797
+Ça y est!
+
+160
+00:37:08,040 --> 00:37:10,156
+Encore un peu, si vous pouvez.
+
+161
+00:37:11,000 --> 00:37:13,036
+Voilà... Trés bien.
+
+162
+00:37:33,160 --> 00:37:36,994
+Lundi 8 octobre
+
+163
+00:37:40,360 --> 00:37:44,194
+Mardi 9 octobre
+
+164
+00:37:50,400 --> 00:37:54,632
+Mercredi 10 octobre
+
+165
+00:38:05,640 --> 00:38:07,000
+- Oui?
+- Mari...
+
+166
+00:38:07,000 --> 00:38:08,399
+Enrique, je t'ouvre.
+
+167
+00:38:17,880 --> 00:38:19,360
+- Salut.
+- Salut.
+
+168
+00:38:19,360 --> 00:38:24,229
+- Tu travailles bien, je vois.
+- Quel boulot! Entre.
+
+169
+00:38:25,160 --> 00:38:26,070
+Comment vas-tu?
+
+170
+00:38:27,600 --> 00:38:30,637
+- Bien. Et toi?
+- formidable.
+
+171
+00:38:30,760 --> 00:38:35,231
+Vous avez déjà l'escalier!
+Ça avance...
+
+172
+00:38:37,040 --> 00:38:38,268
+Et le trajet, Enrique?
+
+173
+00:38:38,360 --> 00:38:43,309
+Ah, trés bien,
+j'ai lu tout le temps.
+
+174
+00:38:44,360 --> 00:38:46,316
+C'est la seule façon
+de lire parce que...
+
+175
+00:38:47,240 --> 00:38:50,357
+quand je peins, et c'est sans
+arrêt, Je suis si fatigué
+
+176
+00:38:50,760 --> 00:38:54,514
+que je n'arrive même pas
+à lire une demi-page.
+
+177
+00:38:54,680 --> 00:38:58,309
+Comme ça,
+j'ai pu lire tout un livre.
+
+178
+00:38:58,440 --> 00:39:02,319
+- Et Antonio?
+- Dans le jardin. Il t'attend.
+
+179
+00:39:02,760 --> 00:39:05,069
+- Je vais le voir.
+- à tout à l'heure.
+
+180
+00:39:12,840 --> 00:39:14,478
+- Salut, Antonio.
+- Salut.
+
+181
+00:39:14,680 --> 00:39:15,999
+Seul face au danger!
+
+182
+00:39:17,920 --> 00:39:19,876
+Tu as pu aller chez Macarrón?
+
+183
+00:39:20,440 --> 00:39:24,115
+Non...
+J'irai cet aprés-midi.
+
+184
+00:39:24,440 --> 00:39:26,715
+Je n'aurais pas eu le temps.
+
+185
+00:39:27,240 --> 00:39:31,233
+J'ai beaucoup de couleurs,
+d'acryliques à acheter.
+
+186
+00:39:31,720 --> 00:39:34,314
+Je vais peindre
+un peu à l'acrylique.
+
+187
+00:39:36,760 --> 00:39:39,080
+J'en ai trés envie.
+
+188
+00:39:39,080 --> 00:39:42,197
+Alors je suis venu d'abord ici.
+
+189
+00:39:46,040 --> 00:39:47,712
+Tu veux voir ça?
+
+190
+00:39:47,840 --> 00:39:48,795
+Oui.
+
+191
+00:39:51,040 --> 00:39:53,600
+Tu en es au stade oú...
+
+192
+00:39:53,840 --> 00:39:55,512
+Je viens de commencer.
+
+193
+00:39:57,840 --> 00:39:59,876
+La lumiére change tellement.
+
+194
+00:40:00,040 --> 00:40:02,952
+Tu ne peux pas imaginer.
+Le soleil commence ici...
+
+195
+00:40:03,760 --> 00:40:06,991
+et finit là-bas. Je profite
+du milieu de la journée,
+
+196
+00:40:07,320 --> 00:40:09,356
+avec le haut de l'arbre
+illuminé par le soleil.
+
+197
+00:40:09,920 --> 00:40:12,840
+Mais en ce moment,
+l'arbre est dans l'ombre.
+
+198
+00:40:12,840 --> 00:40:16,150
+Quand la lumiére est là,
+je veux la prendre.
+
+199
+00:40:16,760 --> 00:40:18,600
+Tiens, mets-toi là.
+
+200
+00:40:18,600 --> 00:40:21,990
+Mets tes pieds là.
+Contre les clous.
+
+201
+00:40:22,360 --> 00:40:24,715
+Mets la pointe...
+
+202
+00:40:24,840 --> 00:40:27,798
+Ah, contre ces clous!
+Dis donc...
+
+203
+00:40:28,320 --> 00:40:32,120
+Baisse-toi
+à la hauteur de mes yeux.
+
+204
+00:40:32,120 --> 00:40:35,078
+- Regarde. Qu'en penses-tu?
+- Splendide.
+
+205
+00:40:35,360 --> 00:40:38,557
+- Tu aimes?
+- Les coings ont une plénitude
+
+206
+00:40:38,760 --> 00:40:41,718
+et une beauté extraordinaires.
+
+207
+00:40:43,440 --> 00:40:45,590
+- Mais à cette heure...
+- C'est irrésistible.
+
+208
+00:40:46,040 --> 00:40:48,920
+- Ne les tripote pas.
+- Je les touche juste un peu.
+
+209
+00:40:48,920 --> 00:40:50,717
+- Bon.
+- Tout doucement.
+
+210
+00:40:51,000 --> 00:40:55,357
+Pour ne pas effacer les marques
+que tu leur dessines.
+
+211
+00:40:57,840 --> 00:40:59,273
+Et le format du tableau?
+
+212
+00:41:00,840 --> 00:41:01,840
+Trés bien.
+
+213
+00:41:01,840 --> 00:41:05,389
+Mari trouve qu'il devrait
+être plus grand. Et toi?
+
+214
+00:41:05,920 --> 00:41:07,956
+Non, c'est bien.
+
+215
+00:41:09,440 --> 00:41:11,840
+Ça aurait pu être
+plus grand, mais...
+
+216
+00:41:11,840 --> 00:41:14,840
+je crois que dans ces formes,
+
+217
+00:41:14,840 --> 00:41:18,355
+peux faire tenir
+la plénitude de ces...
+
+218
+00:41:18,440 --> 00:41:19,509
+Tu sais ce que j'ai vu, hier?
+
+219
+00:41:21,000 --> 00:41:25,120
+Tu ne rabaisserais pas un peu
+toute la masse de l'arbre?
+
+220
+00:41:25,120 --> 00:41:27,998
+II n'y a pas
+trop d'espace ici
+
+221
+00:41:28,080 --> 00:41:29,035
+et pas assez en haut?
+
+222
+00:41:30,840 --> 00:41:33,840
+- Tu peux en rajouter en haut.
+- Non.
+
+223
+00:41:33,840 --> 00:41:35,840
+- Tout rabaisser?
+- Tout.
+
+224
+00:41:35,840 --> 00:41:38,840Faire glisser vers le bas
+toute la masse.
+
+225
+00:41:38,840 --> 00:41:41,840
+Toutes les feuilles
+et tous les fruits.
+
+226
+00:41:41,840 --> 00:41:43,796
+Là, j'ai mis des marques...
+
+227
+00:41:46,080 --> 00:41:49,470
+Rabaisser la ligne d'horizon
+jusqu'ici.
+
+228
+00:41:50,280 --> 00:41:54,478
+Et tout rabaisser
+de 6 cm environ.
+
+229
+00:41:55,040 --> 00:41:57,760
+Ça ne serait pas mieux?
+Ecarte-toi.
+
+230
+00:41:57,760 --> 00:42:01,799
+Ce n'est pas la première fois
+que nous en discutons.
+
+231
+00:42:02,600 --> 00:42:05,600
+Tu le rabaisserais de combien?
+Plus ou moins.
+
+232
+00:42:05,600 --> 00:42:09,229
+- Regarde la toile et ça...
+- Je dois me baisser un peu.
+
+233
+00:42:11,080 --> 00:42:12,308
+Bon, je ne sais pas.
+
+234
+00:42:12,840 --> 00:42:15,798
+Tu n'as pas intérét
+à perdre trop de sol.
+
+235
+00:42:16,280 --> 00:42:19,989
+D'ici à là?
+Tu rabaisserais de 5 ou 6 cm?
+
+236
+00:42:20,360 --> 00:42:21,793
+Ça suffit, je crois.
+
+237
+00:42:23,440 --> 00:42:25,749
+Parce que tu ne veux
+rien ajouter en haut...
+
+238
+00:42:27,360 --> 00:42:30,079
+J'aime mieux faire glisser
+toutes les formes.
+
+239
+00:42:30,360 --> 00:42:33,557
+Oui.
+Quant à la composition,
+
+240
+00:42:33,680 --> 00:42:37,309
+on voit qu'il manque
+quelque chose.
+
+241
+00:42:37,440 --> 00:42:39,317
+Ça ne respire pas assez
+d'en haut.
+
+242
+00:42:39,440 --> 00:42:43,558
+Non, alors il faut
+rabaisser un peu.
+
+243
+00:42:43,840 --> 00:42:45,398
+Mais c'est toujours
+la même chose.
+
+244
+00:42:46,440 --> 00:42:49,440
+Ça paraît cruel,
+aprés tout ce travail...
+
+245
+00:42:49,440 --> 00:42:51,396
+Mais tout reste en bas,
+non?
+
+246
+00:42:53,080 --> 00:42:57,232
+- C'est le lit.
+- Tout reste, même couvert.
+
+247
+00:42:57,360 --> 00:42:59,715
+Comme on dit dans notre jargon,
+c'est le lit.
+
+248
+00:43:00,360 --> 00:43:01,554
+Eh bien, vas-y.
+
+249
+00:43:02,280 --> 00:43:04,555
+Tu m'aides à tracer
+une horizontale?
+
+250
+00:43:11,240 --> 00:43:14,516
+Comme ça, tu verras mieux.
+
+251
+00:43:27,000 --> 00:43:27,989
+Prends la régle.
+
+252
+00:43:28,920 --> 00:43:31,593
+- Là, sur ce trait, non?
+- Oui.
+
+253
+00:43:41,360 --> 00:43:42,475
+Maintenant, va jusque là.
+
+254
+00:43:43,360 --> 00:43:45,510
+- Jusqu'au trait noir.
+- J'y suis.
+
+255
+00:43:48,760 --> 00:43:49,715Fais-le, toi.
+
+256
+00:43:55,920 --> 00:43:58,150Fais une marque sur le côté
+
+257
+00:44:50,680 --> 00:44:51,430
+Tu-as l'heure?
+
+258
+00:44:55,160 --> 00:44:58,550
+Six heures moins... vingt.
+
+259
+00:45:05,520 --> 00:45:07,238
+Tu as téléphoné à Conchita?
+
+260
+00:45:08,280 --> 00:45:10,236
+Tu lui as téléphoné?
+
+261
+00:45:10,920 --> 00:45:12,876
+Non, je ne l'ai pas appelée.
+
+262
+00:45:14,000 --> 00:45:15,752
+Je vais l'appeler.
+
+263
+00:45:16,760 --> 00:45:19,760
+Elle doit avoir la jolie photo
+dont je t'ai parlé,
+
+264
+00:45:19,760 --> 00:45:23,469
+qu'elle nous a fait
+avec son appareil
+
+265
+00:45:23,760 --> 00:45:26,479
+à la porte
+de l'école de San fernando.
+
+266
+00:45:30,920 --> 00:45:34,879
+J'aimerais bien avoir
+cette photo.
+
+267
+00:45:39,120 --> 00:45:40,872
+J'étais avec Conchita,
+
+268
+00:45:42,440 --> 00:45:44,749
+le jour oú je t'ai connu.
+
+269
+00:45:45,360 --> 00:45:47,510
+Tu étais habillé en soldat.
+
+270
+00:45:49,520 --> 00:45:51,636
+Je m'en souviens trés bien.
+
+271
+00:45:53,600 --> 00:45:56,280
+Je me suis approché.
+Tu dessinais,
+
+272
+00:45:56,280 --> 00:45:57,872
+Conchita était à tes côtés.
+
+273
+00:45:58,280 --> 00:46:01,397
+Mais aprés, tu m'as raconté
+
+274
+00:46:03,360 --> 00:46:04,960
+que tu avais dit à Conchita :
+
+275
+00:46:04,960 --> 00:46:07,474
+"Tais-toi,
+il y a un militaire".
+
+276
+00:46:09,120 --> 00:46:11,920
+J'étais grand et efflanqué,
+à l'époque,
+
+277
+00:46:11,920 --> 00:46:16,600
+l'uniforme était deux fois
+trop grand pour moi...
+
+278
+00:46:16,600 --> 00:46:18,079
+Drôle de militaire!
+
+279
+00:46:19,360 --> 00:46:21,396
+Tu te souviens de
+ce que tu dessinais?
+
+280
+00:46:24,920 --> 00:46:25,875
+Vaguement.
+
+281
+00:46:26,920 --> 00:46:29,878
+Je ne dessinais pas beaucoup,
+je faisais des croquis.
+
+282
+00:46:31,520 --> 00:46:33,875
+Je suis venu à Madrid
+
+283
+00:46:34,520 --> 00:46:36,920
+pour faire des dessins animés,
+
+284
+00:46:36,920 --> 00:46:40,629
+mais je suis vite allé rôder
+au Cercle des Beaux-Arts,
+
+285
+00:46:41,280 --> 00:46:44,238
+j'ai vu l'école San fernando
+j'ai été conquis.
+
+286
+00:46:44,360 --> 00:46:46,316
+J'ai décidé d'être peintre.
+
+287
+00:46:47,920 --> 00:46:49,319
+J'y allais deux heures.
+
+288
+00:46:50,760 --> 00:46:52,716
+Je me souviens que tu étais là.
+
+289
+00:46:54,920 --> 00:46:55,909
+Tu étais déjà un vétéran.
+
+290
+00:46:57,680 --> 00:46:59,272
+Moi, je n'étais pas
+dans le coup.
+
+291
+00:46:59,920 --> 00:47:02,957
+Je venais de la B.D.
+
+292
+00:47:03,920 --> 00:47:08,994
+Je me suis mis à dessiner
+
+293
+00:47:09,920 --> 00:47:13,993
+une sculpture dont je ne sais
+plus le nom, mais c'est un...
+
+294
+00:47:14,920 --> 00:47:15,875
+Regarde.
+
+295
+00:47:17,640 --> 00:47:19,870
+C'était une sculpture grecque.
+
+296
+00:47:21,600 --> 00:47:24,920
+Penchée comme ça,
+avec le bras allongé.
+
+297
+00:47:24,920 --> 00:47:25,875
+L'Apo xioméne.
+
+298
+00:47:26,920 --> 00:47:28,920
+Et moi, comme un idiot...
+
+299
+00:47:28,920 --> 00:47:31,878
+En plus, je l'ai fait
+au fusain, qui salit tout,
+
+300
+00:47:32,920 --> 00:47:37,550
+Eh bien, j'ai voulu accentuer
+chaque mouvement.
+
+301
+00:47:38,920 --> 00:47:40,920
+C'était une horreur.
+
+302
+00:47:40,920 --> 00:47:42,920
+Et Julio Hermoso
+avec sa bouffarde...
+
+303
+00:47:42,920 --> 00:47:45,600
+- Eugenio.
+- C'est ça.
+
+304
+00:47:45,600 --> 00:47:47,079
+- Et Julio Moisés.
+- Oui.
+
+305
+00:47:48,520 --> 00:47:49,714
+Eugenio Hermoso
+
+306
+00:47:50,920 --> 00:47:52,876
+était un homme affable mais...
+
+307
+00:47:53,600 --> 00:47:56,160
+Trés âgé,
+il était prés de la retraite.
+
+308
+00:47:56,160 --> 00:47:57,798
+Brandissant sa bouffarde,
+
+309
+00:47:58,600 --> 00:48:02,275
+il me dit: "On dirait qu'il
+revient de la guerre de Corée.
+
+310
+00:48:03,280 --> 00:48:05,920
+"Ce monsieur a fait
+la guerre de Corée."
+
+311
+00:48:05,920 --> 00:48:07,353
+Et il n'a rien ajouté.
+
+312
+00:48:08,280 --> 00:48:10,714
+Alors j'ai réagi tout de suite.
+
+313
+00:48:11,000 --> 00:48:13,958
+Le second dessin,
+c'était la Vénus.
+
+314
+00:48:14,840 --> 00:48:16,159
+Tu te souviens de Soria?
+
+315
+00:48:16,920 --> 00:48:21,869
+Bien sûr.
+Il était trés amusant.
+
+316
+00:48:22,360 --> 00:48:25,318
+Il avait les pieds plats
+et une drôle de démarche.
+
+317
+00:48:26,680 --> 00:48:28,159
+Je me souviens...
+
+318
+00:48:30,240 --> 00:48:33,277
+qu'il nous disait toujours:
+"Alors, ces valeurs!"
+
+319
+00:48:33,600 --> 00:48:34,794
+II était andalou.
+
+320
+00:48:35,240 --> 00:48:37,879
+"Mettez plus
+de terre de Séville."
+
+321
+00:48:40,760 --> 00:48:41,875
+Eh bien, tu vois, Soria...
+
+322
+00:48:42,760 --> 00:48:44,910
+m'a dit une chose qui a été
+trés importante pour moi,
+
+323
+00:48:45,840 --> 00:48:46,909
+et qui l'est encore.
+
+324
+00:48:47,680 --> 00:48:49,318
+Mais à l'époque,
+je n'ai pas compris.
+
+325
+00:48:50,120 --> 00:48:52,190
+- Il le disait toujours.
+- Quoi donc?
+
+326
+00:48:52,520 --> 00:48:54,112
+"Plus intégre!"
+
+327
+00:48:54,240 --> 00:48:57,471
+C'est vrai!
+J'avais oublié.
+
+328
+00:48:58,720 --> 00:49:01,678
+Mais nous étions
+si respectueux
+
+329
+00:49:01,920 --> 00:49:04,878
+que je n'osais pas lui
+demander ce que ça voulait dire.
+
+330
+00:49:05,440 --> 00:49:08,398
+- Et avec le temps...
+- Tu as compris.
+
+331
+00:49:10,920 --> 00:49:14,230
+Et c'est tellement important...
+Pour moi, en tout cas.
+
+332
+00:49:14,320 --> 00:49:16,120
+Pour tout le monde.
+
+333
+00:49:16,120 --> 00:49:19,078
+- C'est que...
+- "Plus intégre".
+
+334
+00:49:20,240 --> 00:49:23,198
+Que l'oeuvre posséde
+une intégrité...
+
+335
+00:49:24,120 --> 00:49:26,395
+Ce n'est pas la peine
+de l'expliquer
+
+336
+00:49:26,520 --> 00:49:28,317
+si entre nous, c'est compris.
+
+337
+00:49:29,120 --> 00:49:33,716
+Mais tu sais,
+tous ces messieurs,
+
+338
+00:49:34,440 --> 00:49:38,069
+et Valverde surtout,
+se faisaient trop respecter.
+
+339
+00:49:39,240 --> 00:49:42,596
+Il fallait les vouvoyer,
+ils gardaient leurs distances.
+
+340
+00:49:42,800 --> 00:49:44,840
+- Ce n'est pas grave.
+- Non.
+
+341
+00:49:44,840 --> 00:49:48,071
+Mais maintenant,
+les jeunes, à la faculté,
+
+342
+00:49:49,120 --> 00:49:51,190
+ils tutoient leurs professeurs.
+
+343
+00:49:52,560 --> 00:49:54,915
+Tu te vois tutoyant Valverde
+
+344
+00:49:55,680 --> 00:49:57,120
+ou Soria ?
+
+345
+00:49:57,120 --> 00:49:59,076
+Comment voulais-tu lui demander
+
+346
+00:50:00,120 --> 00:50:01,951
+ce que signifiait
+"plus intégre"?
+
+347
+00:50:02,120 --> 00:50:04,076
+Mais tu vois, j'avais oublié.
+
+348
+00:50:05,120 --> 00:50:08,078
+Pourtant,
+il le répétait toujours.
+
+349
+00:50:09,120 --> 00:50:11,076
+Et puis: "Alors, ces valeurs!"
+
+350
+00:50:13,120 --> 00:50:15,076
+Je me souviens...
+
+351
+00:50:15,600 --> 00:50:17,440
+d'une de tes peintures,
+
+352
+00:50:17,440 --> 00:50:21,120
+un nu de ce modéle
+qu'on appelait "La Botticelli".
+
+353
+00:50:21,120 --> 00:50:23,350
+De dos.
+C'était trés beau.
+
+354
+00:50:27,520 --> 00:50:31,718
+Tu sais, la préparation a joué
+un rôle trés important.
+
+355
+00:50:33,000 --> 00:50:34,956
+On l'avait faite avec Stolz
+
+356
+00:50:35,120 --> 00:50:39,955
+et la préparation avait...
+
+357
+00:50:40,120 --> 00:50:41,720
+La préparation de la toile?
+
+358
+00:50:41,720 --> 00:50:43,153
+Elle avait beaucoup d'huile.
+
+359
+00:50:43,400 --> 00:50:48,760
+Et la moindre tache
+avait une force considérable.
+
+360
+00:50:48,760 --> 00:50:51,035
+C'était trés transparent.
+
+361
+00:50:52,120 --> 00:50:55,874
+Bien sûr,
+je manquais d'expérience.
+
+362
+00:50:56,760 --> 00:51:00,120
+Je me souviens
+que tu l'aimais beaucoup.
+
+363
+00:51:00,120 --> 00:51:03,829
+Je me souviens d'un moine,
+aussi. Ton premier ex ercice.
+
+364
+00:51:05,840 --> 00:51:07,114
+Il avait la main là.
+
+365
+00:51:07,600 --> 00:51:11,070
+Une main posée... là,
+et l'autre comme ça.
+
+366
+00:51:11,440 --> 00:51:13,476
+Des mains
+qui pesaient une tonne!
+
+367
+00:51:13,680 --> 00:51:18,435
+Le moine était là-bas
+et toi, ici. De cet angle.
+
+368
+00:51:18,920 --> 00:51:21,120
+Ici, il y avait une fenêtre.
+
+369
+00:51:21,120 --> 00:51:23,076
+Oui, absolument.
+
+370
+00:51:24,120 --> 00:51:26,120
+Je le vois sur la photo...
+
+371
+00:51:26,120 --> 00:51:28,076
+Je m'étais bien appliqué.
+
+372
+00:51:30,480 --> 00:51:31,629
+Ce tableau, tu l'as détruit?
+
+373
+00:51:32,440 --> 00:51:35,876
+Non, un couple d'Américains
+me l'a acheté
+
+374
+00:51:36,360 --> 00:51:38,635
+pour 3000 pesetas.
+
+375
+00:51:38,760 --> 00:51:40,637
+- Tu as peint par dessus?
+- Non.
+
+376
+00:51:40,760 --> 00:51:43,149
+Il doit être en Amérique,
+ou quelque part dans le monde.
+
+377
+00:51:45,240 --> 00:51:48,073
+Parfois, je me demande
+ce qu'il est devenu.
+
+378
+00:51:49,680 --> 00:51:51,716
+Comme on n'avait pas un sou,
+
+379
+00:51:52,760 --> 00:51:55,638
+on achetait
+de trés mauvaises couleurs.
+
+380
+00:51:55,760 --> 00:51:57,520
+Le tableau
+doit être tout abimé,
+
+381
+00:51:57,520 --> 00:52:00,717
+parce que ces couleurs...
+
+382
+00:52:01,760 --> 00:52:03,478
+Pour en revenir à...
+
+383
+00:52:03,760 --> 00:52:06,638
+Tu m'as demandé si j'avais
+peint par-dessus le moine...
+
+384
+00:52:08,360 --> 00:52:11,760
+Quelles bêtises
+nous avons faites
+
+385
+00:52:11,760 --> 00:52:13,637
+avec nos ex ercices d'école!
+
+386
+00:52:14,760 --> 00:52:16,079
+Parce que moi...
+
+387
+00:52:18,760 --> 00:52:21,638
+Tu sais ce qu'il y avait
+de mieux, à l'école?
+
+388
+00:52:21,760 --> 00:52:23,637
+- Quoi?
+- Pour moi, du moins.
+
+389
+00:52:23,760 --> 00:52:24,715
+On était ensemble.
+
+390
+00:52:26,360 --> 00:52:28,635
+- On peignait ensemble.
+- C'était fabuleux.
+
+391
+00:52:28,760 --> 00:52:30,637
+On était ensemble, les 5 cours,
+
+392
+00:52:30,760 --> 00:52:32,716
+c'est-à-dire
+toute la promotion
+
+393
+00:52:33,360 --> 00:52:35,476
+II se créait
+des liens de fraternité
+
+394
+00:52:36,560 --> 00:52:39,472
+et les amours qui naissaient
+entre nous étaient sincéres.
+
+395
+00:52:40,760 --> 00:52:45,629
+Comme nous vivions
+tous ensemble,
+
+396
+00:52:45,760 --> 00:52:49,196
+nous savions si les sentiments
+étaient sincéres.
+
+397
+00:52:49,360 --> 00:52:50,713
+Enfin, c'était épatant.
+
+398
+00:52:51,760 --> 00:52:52,636
+Et puis...
+
+399
+00:52:53,760 --> 00:52:59,039
+les heures de liberté,
+qui étaient plutôt rares.
+
+400
+00:52:59,160 --> 00:53:01,469
+On avait nos samedis
+et nos dimanches.
+
+401
+00:53:01,680 --> 00:53:03,716
+On se promenait
+par petits groupes
+
+402
+00:53:04,760 --> 00:53:06,716
+dans le parc du Retiro.
+
+403
+00:53:08,760 --> 00:53:12,719
+On fréquentait des cafés
+qui n'existent plus.
+
+404
+00:53:13,560 --> 00:53:15,710
+J'ai même connu le café Varela,
+
+405
+00:53:17,760 --> 00:53:19,637
+avec ses tapisseries.
+
+406
+00:53:19,760 --> 00:53:22,760
+Tu fréquentais déjà les cafés,
+à l'époque?
+
+407
+00:53:22,760 --> 00:53:24,990
+On y allait le soir
+
+408
+00:53:25,360 --> 00:53:27,510
+et on parlait des heures.
+
+409
+00:53:27,680 --> 00:53:29,318
+On découvrait le monde.
+
+410
+00:53:30,360 --> 00:53:33,238
+Ce qui nous ennuie, maintenant,
+à l'époque...
+
+411
+00:53:33,360 --> 00:53:35,760
+Je n'allais pas dans les cafés.
+
+412
+00:53:35,760 --> 00:53:38,638
+- Non, effectivement.
+- La différence d'âge...
+
+413
+00:53:38,760 --> 00:53:41,960
+Tu avais 14 ans et moi, 21.
+
+414
+00:53:41,960 --> 00:53:44,760
+Je rentrais directement
+à la pension.
+
+415
+00:53:44,760 --> 00:53:49,151
+Mais un jour, on était assis
+à côté de la fenêtre
+
+416
+00:53:49,240 --> 00:53:51,629
+et tout à coup,
+j'entends une voix
+
+417
+00:53:51,760 --> 00:53:54,433
+qui chante Beethoven,
+la Neuviéme,
+
+418
+00:53:54,680 --> 00:53:56,636
+et je vois passer
+Antonio López,
+
+419
+00:53:57,160 --> 00:54:00,550
+l'air absorbé, dirigeant
+l'orchestre les bras levés...
+
+420
+00:54:01,560 --> 00:54:02,913
+C'était extraordinaire.
+
+421
+00:54:03,400 --> 00:54:04,469
+Vraiment extraordinaire.
+
+422
+00:54:09,680 --> 00:54:11,716
+On avait tous une véritable
+passion pour la musique.
+
+423
+00:54:12,760 --> 00:54:14,079
+Lucio aussi.
+
+424
+00:54:18,760 --> 00:54:21,718
+On l'a toujours, mais bien sûr,
+pas de la même façon.
+
+425
+00:55:10,440 --> 00:55:11,919
+Tu veux des gaufres?
+
+426
+00:55:12,760 --> 00:55:14,716
+Oui... Avec plaisir.
+
+427
+00:55:17,880 --> 00:55:19,313
+J'ai du chocolat.
+
+428
+00:55:19,440 --> 00:55:21,635
+Donne-moi aussi du chocolat.
+
+429
+00:55:22,200 --> 00:55:24,077
+J'ai soif, tu as un Coca-Cola?
+
+430
+00:55:25,040 --> 00:55:28,157
+- Oui, dans le réfrigérateur.
+- Sers-moi du Coca-Cola.
+
+431
+00:55:36,560 --> 00:55:39,632
+Je contemple cette prouesse.
+Incroyable, non?
+
+432
+00:55:39,760 --> 00:55:42,638
+Quel âge avait Michel-Ange
+quand il a peint ça?
+
+433
+00:55:43,760 --> 00:55:47,309
+Je crois qu'il avait presque
+la soixantaine, non?
+
+434
+00:55:47,760 --> 00:55:49,079
+63 ou 64 ans.
+
+435
+00:55:50,760 --> 00:55:52,716
+Il n'était plus trés jeune,
+hein?
+
+436
+00:55:53,840 --> 00:55:56,718
+- Il l'a fini à soixante et...
+- Il a mis quatre ans.
+
+437
+00:55:56,840 --> 00:56:00,116
+Mais il l'a terminé à 63 ans.
+
+438
+00:56:00,240 --> 00:56:04,680
+Il devait avoir 67 ou 68 ans
+quand il l'a terminé.
+
+439
+00:56:04,680 --> 00:56:05,715
+C'est ce que je voulais dire.
+
+440
+00:56:06,960 --> 00:56:07,710
+Incroyable!
+
+441
+00:56:08,760 --> 00:56:10,716
+Tu as remarqué
+l'idée macabre d'introduire
+
+442
+00:56:11,360 --> 00:56:13,715
+son portrait dans la peau
+de saint Bartholomé?
+
+443
+00:56:14,680 --> 00:56:18,719
+Oui... Je le savais
+depuis longtemps.
+
+444
+00:56:19,760 --> 00:56:21,716
+Mais comme les gens exagérent,
+
+445
+00:56:22,240 --> 00:56:25,760
+j'ai pensé
+que ce n'était pas vrai.
+
+446
+00:56:25,760 --> 00:56:29,680
+Puis, j'ai vu la ressemblance,
+et je l'ai cru.
+
+447
+00:56:29,680 --> 00:56:31,955
+Jusqu'au siécle dernier,
+on ne s'en est pas aperçu.
+
+448
+00:56:33,240 --> 00:56:35,629
+- Oú est-il?
+- Ici.
+
+449
+00:56:35,760 --> 00:56:37,637
+C'est vrai, exactement.
+
+450
+00:56:41,760 --> 00:56:43,280
+C'est terrifiant, non?
+
+451
+00:56:43,280 --> 00:56:45,760
+Je l'ai vu aprés,
+reproduit à l'échelle,
+
+452
+00:56:45,760 --> 00:56:48,399
+et on voit
+que c'est michel-Ange.
+
+453
+00:56:49,360 --> 00:56:52,640
+Tu sais que les gens
+ont tendance à dire,
+
+454
+00:56:52,640 --> 00:56:55,313
+quand un personnage
+est de face, qu'il les regarde.
+
+455
+00:56:55,760 --> 00:56:58,638
+L'histoire de la mouche
+sur la vitre, non?
+
+456
+00:56:59,760 --> 00:57:03,230
+Tu n'en crois rien et puis
+tu te rends à l'évidence.
+
+457
+00:57:04,440 --> 00:57:05,395
+Bon...
+
+458
+00:57:06,760 --> 00:57:07,715
+Dans un sens,
+
+459
+00:57:08,760 --> 00:57:10,716
+c'était une autocritique
+négative.
+
+460
+00:57:12,760 --> 00:57:14,637
+Négative, en quoi?
+
+461
+00:57:14,760 --> 00:57:16,079
+Bon, il était un homme...
+
+462
+00:57:16,760 --> 00:57:20,389
+Dans ces lettres, il disait:
+"Je suis un pauvre fou".
+
+463
+00:57:20,760 --> 00:57:24,389
+- Il n'était pas fou.
+- Il le disait à sa famille.
+
+464
+00:57:24,760 --> 00:57:26,716
+Il avait une idée
+de la vie terrible.
+
+465
+00:57:27,560 --> 00:57:30,632
+Parce que créer un
+Dieu qui menace...
+
+466
+00:57:31,080 --> 00:57:33,799
+non seulement les condamnés
+mais aussi les justes...
+
+467
+00:57:36,160 --> 00:57:37,115
+Ils sont tous
+
+468
+00:57:37,440 --> 00:57:40,318
+terrifiés par ce Dieu.
+
+469
+00:57:40,440 --> 00:57:41,714
+Tout à fait.
+
+470
+00:57:45,080 --> 00:57:46,433
+Dieu est là...
+
+471
+00:57:47,560 --> 00:57:50,279
+- ça, ce sont les justes...
+- Oui.
+
+472
+00:57:50,440 --> 00:57:52,237
+- Et les condamnés...
+- Non.
+
+473
+00:57:52,360 --> 00:57:55,000
+Ça, ce sont les âmes
+qui montent.
+
+474
+00:57:55,000 --> 00:57:57,150
+- Vers la gloire.
+- Elles surgissent de terre.
+
+475
+00:57:57,760 --> 00:57:59,113
+Ceux-ci s'elévent...
+
+476
+00:57:59,680 --> 00:58:01,480
+Et eux vont en enfer.
+
+477
+00:58:01,480 --> 00:58:02,629
+La résurrection, non?
+
+478
+00:58:03,760 --> 00:58:05,637
+La descente...
+
+479
+00:58:07,760 --> 00:58:10,638
+aux enfers.
+
+480
+00:58:11,760 --> 00:58:14,115
+Tu aimerais être
+dans ce paradis?
+
+481
+00:58:15,360 --> 00:58:16,713
+Non, je n'y ai jamais cru.
+
+482
+00:58:18,560 --> 00:58:21,632
+Tout le monde est là,
+devant Dieu, à fayoter.
+
+483
+00:58:24,960 --> 00:58:30,318
+Non. Et puis,
+c'est un Dieu humain.
+
+484
+00:58:31,440 --> 00:58:34,591
+Enfin, il faut rapprocher
+Dieu de l'homme
+
+485
+00:58:34,680 --> 00:58:36,716
+et la seule façon,
+c'est d'en faire un homme.
+
+486
+00:58:38,840 --> 00:58:41,760
+C'est un Dieu si différent
+des dieux grecs...
+
+487
+00:58:41,760 --> 00:58:44,638
+Regarde cette dame, là.
+Elle est si lumineuse...
+
+488
+00:58:45,760 --> 00:58:49,309
+Oui, c'est la santé
+de l'esprit, de l'âme.
+
+489
+00:58:49,480 --> 00:58:50,674
+Et la plénitude physique.
+
+490
+00:58:51,680 --> 00:58:55,639
+Et là, ces hommes si vigoureux
+sont pleins de croûtres.
+
+491
+00:58:55,760 --> 00:58:57,637
+- Ils sont accablés.
+- Oui, accablés.
+
+492
+00:58:58,440 --> 00:59:02,991
+L'accablement que Michel-Ange
+a peint sur son visage.
+
+493
+00:59:04,400 --> 00:59:05,628
+Ils sont tous coupables, oui.
+
+494
+00:59:05,840 --> 00:59:07,796
+C'est un autre monde,
+
+495
+00:59:08,760 --> 00:59:10,637
+une autre pensée,
+une autre époque.
+
+496
+00:59:11,440 --> 00:59:13,715
+Bien plus terrible, évidemment.
+
+497
+00:59:14,240 --> 00:59:18,028
+Phidias était
+un artiste religieux,
+
+498
+00:59:19,560 --> 00:59:21,160
+et ça ne se voit pas.
+
+499
+00:59:21,160 --> 00:59:24,630
+On ne voit que la joie
+et la plénitude de l'être.
+
+500
+00:59:26,360 --> 00:59:28,635
+Et ici, il y a beaucoup
+de puissance, de muscle.
+
+501
+00:59:30,360 --> 00:59:31,315
+Mais tous sont...
+
+502
+00:59:31,440 --> 00:59:33,271
+C'est un peu
+la négation de la vie.
+
+503
+00:59:33,440 --> 00:59:35,317
+Tout à fait.
+
+504
+00:59:37,760 --> 00:59:38,636
+Je t'apporte le Coca-Cola.
+
+505
+00:59:40,760 --> 00:59:42,637
+Donne-moi un peu de...
+
+506
+00:59:42,760 --> 00:59:46,639
+Tu me donnes un morceau de...
+
+507
+00:59:46,760 --> 00:59:48,637
+Un morceau de gaufre?
+
+508
+01:00:21,200 --> 01:00:23,156
+Et le portrait, ça va?
+
+509
+01:00:23,600 --> 01:00:24,077
+Ah oui...
+
+510
+01:00:26,160 --> 01:00:27,957
+Quel défi!
+
+511
+01:00:31,000 --> 01:00:33,514
+- Il est trés avancé?
+- Pas mal.
+
+512
+01:00:34,200 --> 01:00:35,952
+Le modéle est impressionant,
+
+513
+01:00:36,040 --> 01:00:38,076
+II posséde une plénitude...
+
+514
+01:00:40,360 --> 01:00:44,319
+En le regardant,
+je pense toujours à Phidias.
+
+515
+01:00:45,440 --> 01:00:46,634
+Les mains...
+
+516
+01:00:46,760 --> 01:00:49,433
+le corps... la tête...
+
+517
+01:00:49,560 --> 01:00:51,630
+Si je me rapproche du modéle...
+
+518
+01:00:52,760 --> 01:00:55,832
+dissons à 70%
+je peux être content.
+
+519
+01:00:56,760 --> 01:00:58,637
+Manolo, qui m'est tout dévoué,
+
+520
+01:00:59,560 --> 01:01:01,630
+dit que c'est trés bien.
+Moi, je ne dis rien,
+
+521
+01:01:01,760 --> 01:01:05,639
+parce que ça me fait plaisir
+de l'entendre le dire
+
+522
+01:01:06,760 --> 01:01:07,440
+Mais il y a encore beaucoup
+à ajouter à ce portrait.
+
+523
+01:01:07,440 --> 01:01:09,638
+Mais il y a encore beaucoup
+à ajouter à ce portrait.
+
+
+524
+01:01:11,760 --> 01:01:15,070
+A propos, on m'a raconté
+que les peintres...
+
+
+525
+01:01:16,760 --> 01:01:21,038
+les peintres de Paris,
+déjà mûrs,
+
+
+526
+01:01:21,760 --> 01:01:22,760
+de notre âge,
+
+
+527
+01:01:22,760 --> 01:01:24,716
+l'âge que nous avons
+maintenant,
+
+
+528
+01:01:24,840 --> 01:01:28,719
+travaillaient avec
+une intensité fébrile.
+
+
+529
+01:01:29,360 --> 01:01:32,716
+Je n'ai pas compris, mais j'en
+suis resté béat d'admiration.
+
+
+530
+01:01:33,760 --> 01:01:36,718
+Et maintenant, je comprends,
+car j'ai plus ou moins cet âge
+
+
+531
+01:01:38,680 --> 01:01:40,636
+et je travaille
+avec beaucoup de...
+
+
+532
+01:01:42,560 --> 01:01:46,633
+enfin, le temps est précieux
+et je travaille sans arrêt.
+
+
+533
+01:01:46,760 --> 01:01:47,431
+Et je sais pourquoi,
+
+
+534
+01:01:47,560 --> 01:01:51,712
+parce qu'on a encore
+de la vitalité.
+
+
+535
+01:01:51,840 --> 01:01:55,628
+Mais le temps réel
+
+
+536
+01:01:55,760 --> 01:01:57,637
+ne peut plus être long,
+
+
+537
+01:01:57,760 --> 01:02:00,638
+bien qu'il y ait encore
+quelques années.
+
+
+538
+01:02:00,760 --> 01:02:02,637
+Et puis, l'esprit, inconscient,
+
+
+539
+01:02:03,760 --> 01:02:05,079
+te pousse,
+
+
+540
+01:02:06,360 --> 01:02:07,315
+enfin...
+
+
+541
+01:02:26,560 --> 01:02:28,232
+Radio 2.
+
+
+542
+01:02:28,360 --> 01:02:29,554
+Informations.
+
+
+543
+01:02:29,760 --> 01:02:31,637
+La Ligue arabe a demandé...
+
+
+544
+01:02:31,760 --> 01:02:32,954
+Allez, on s'en va.
+
+
+545
+01:02:34,360 --> 01:02:36,237
+Oui, je range les chaises.
+
+
+546
+01:02:36,760 --> 01:02:38,432
+Prends les chaises et la boîte.
+
+
+547
+01:02:39,560 --> 01:02:40,549
+Enléve-la de là.
+
+
+548
+01:02:41,240 --> 01:02:43,435
+Sadam Hussein a demandé
+aux musulmans
+
+
+549
+01:02:43,760 --> 01:02:45,637
+de lutter pour libérer
+Jérusalem,
+
+
+550
+01:02:45,760 --> 01:02:49,760
+oú l'armée a tué lundi
+au moins 21 Palestiniens
+
+
+551
+01:02:49,760 --> 01:02:51,760
+et en a blessé prés de 200.
+
+
+552
+01:02:51,760 --> 01:02:54,160
+Des militaires
+avec des masques à gaz
+
+
+553
+01:02:54,160 --> 01:02:56,240
+patrouillaient
+dans les ruelles
+
+
+554
+01:02:56,240 --> 01:02:58,310
+convergeant vers le mur
+des Lamentations
+
+
+555
+01:02:58,760 --> 01:03:01,638
+et bloquaient
+l'accés aux mosquées.
+
+
+556
+01:03:01,760 --> 01:03:05,309
+Atterrissage réussi à midi de
+la navette spatiale Discovery.
+
+
+557
+01:03:06,080 --> 01:03:08,360
+60 ans de prison
+on été requis
+
+
+558
+01:03:08,360 --> 01:03:12,069
+pour les deux policiers
+accusés de terrorisme.
+
+
+559
+01:03:12,360 --> 01:03:15,079
+Les policiers appartiendraient
+à une bande terroriste.
+
+
+560
+01:03:15,560 --> 01:03:18,632
+Six tentatives
+d'assassinat...
+
+
+561
+01:03:38,360 --> 01:03:42,194
+Vendredi 12 octobre
+
+
+562
+01:03:45,960 --> 01:03:49,748
+Lundi 15 octobre
+
+
+563
+01:04:25,600 --> 01:04:29,434
+Mardi 16 octobre
+
+
+564
+01:05:13,600 --> 01:05:17,388
+Jeudi 18 octobre
+
+
+565
+01:05:25,720 --> 01:05:29,508
+Mardi 23 octobre
+
+
+566
+01:06:08,360 --> 01:06:09,315
+Mari!
+
+
+567
+01:06:09,640 --> 01:06:11,710
+Vous étiez couchés?
+Excuse-moi.
+
+
+568
+01:06:12,160 --> 01:06:15,160
+C'est qu'il y a
+une panne d'électricité.
+
+
+569
+01:06:15,160 --> 01:06:17,833
+Vous avez de la lumiére, vous?
+
+
+570
+01:06:21,600 --> 01:06:23,556
+Qu'est-ce que je fais?
+J'appelle Jan?
+
+
+571
+01:06:24,320 --> 01:06:25,799
+II est tard, non?
+
+
+572
+01:06:26,600 --> 01:06:29,068
+J'étais en train de peindre,
+mais bon,
+
+
+573
+01:06:30,360 --> 01:06:32,430
+il va falloir que je me couche.
+
+
+574
+01:06:37,560 --> 01:06:41,394
+Mercredi 24 octobre
+
+
+575
+01:08:14,040 --> 01:08:15,996
+II y a trop de colle.
+
+
+576
+01:08:16,800 --> 01:08:19,268
+Tu me fais de l'ombre.
+
+
+577
+01:08:34,480 --> 01:08:36,914
+- Bon, allons-y.
+- Déjà?
+
+
+578
+01:08:47,880 --> 01:08:49,029
+Voyons voir.
+
+
+579
+01:08:51,280 --> 01:08:52,759
+Ici, je te fais de l'ombre.
+
+
+580
+01:08:54,920 --> 01:08:57,354
+On y est
+Un peu plus vers toi.
+
+
+581
+01:08:58,280 --> 01:08:59,838
+Ça suffit comme ça.
+
+
+582
+01:09:00,360 --> 01:09:01,315
+Ça suffit.
+
+
+583
+01:09:14,360 --> 01:09:16,316
+Quel sale temps!
+
+
+584
+01:09:18,200 --> 01:09:20,156
+Tiens. Tiens ça.
+
+
+585
+01:09:32,400 --> 01:09:34,868
+C'est encore plein d'eau.
+
+
+586
+01:09:38,920 --> 01:09:39,875
+Donne.
+
+
+587
+01:09:46,800 --> 01:09:49,720
+J'espére que demain
+les papiers seront encollés.
+
+
+588
+01:09:49,720 --> 01:09:53,190
+Tu veux que ça soit sec
+pour demain?
+
+
+589
+01:09:57,400 --> 01:09:59,356
+Demain, j'encolle l'autre côté
+
+
+590
+01:09:59,720 --> 01:10:01,995
+et aprés-demain,
+je commence le dessin.
+
+
+591
+01:10:02,760 --> 01:10:04,760
+- Je suis en retard.
+- Avec ce temps,
+
+
+592
+01:10:04,760 --> 01:10:07,558
+j'ai peur que
+tu n'y arrives pas.
+
+
+593
+01:10:08,200 --> 01:10:10,668
+Bon, je peux toujours essayer.
+
+
+594
+01:10:15,360 --> 01:10:16,315
+Tu finis?
+
+
+595
+01:10:27,000 --> 01:10:28,672
+Allons chercher le métacrylate.
+
+
+596
+01:10:36,040 --> 01:10:36,995
+Ça y est.
+
+
+597
+01:10:45,760 --> 01:10:47,239
+Je te les passe.
+
+
+598
+01:10:47,560 --> 01:10:50,518
+- Va là-bas.
+- Non, je te dis.
+
+
+599
+01:10:53,560 --> 01:10:56,518
+Il n'en faut pas beaucoup.
+
+
+600
+01:10:57,040 --> 01:10:59,508
+Juste pour que ça ne bouge pas.
+Non, laisse.
+
+
+601
+01:11:14,360 --> 01:11:16,316
+Ça y est.
+
+
+602
+01:11:17,040 --> 01:11:17,916
+Laisse, laisse.
+
+
+603
+01:11:24,640 --> 01:11:26,596
+- Tu as la voiture?
+- Non.
+
+
+604
+01:11:27,160 --> 01:11:30,118
+- Et un parapluie?
+- Oui, ça oui.
+
+
+605
+01:11:30,360 --> 01:11:33,318
+- Bon, on arrête.
+- Allons-y.
+
+
+606
+01:11:42,920 --> 01:11:44,273
+Qu'est-ce qu'il tombe!
+
+
+607
+01:11:47,040 --> 01:11:48,996
+On s'en va?
+
+
+608
+01:12:12,880 --> 01:12:16,714
+Jeudi 25 octobre
+
+
+609
+01:13:22,360 --> 01:13:26,194
+Vendredi 26 octobre
+
+
+610
+01:16:31,120 --> 01:16:34,032
+Samedi 27 octobre
+
+
+611
+01:16:34,200 --> 01:16:37,590
+Le prix du pétrole
+a encore augmenté.
+
+
+612
+01:16:37,840 --> 01:16:41,230
+Mais la hausse du brent,
+qui devait être de 3 dollars,
+
+
+613
+01:16:41,760 --> 01:16:44,040
+n'a été que de 0,85 dollars,
+
+
+614
+01:16:44,040 --> 01:16:46,713
+le prix étant fixé
+à 33, 7 dollars.
+
+
+615
+01:16:47,000 --> 01:16:48,956
+La Bourse de Madrid
+a perdu 4 points,
+
+
+616
+01:16:49,280 --> 01:16:53,239
+celle de Tokyo, 346,
+et celle de New York, 48.
+
+
+617
+01:16:54,280 --> 01:16:57,238
+La frégate Numancia et les
+corvettes Diana et I. Cristina
+
+
+618
+01:16:57,480 --> 01:17:01,712
+quitteront les bases de Rota
+et de Carthagéne le 31,
+
+
+619
+01:17:01,880 --> 01:17:03,711
+à destination du golfe Persique.
+
+
+620
+01:17:03,880 --> 01:17:06,519
+Ces informations émanent
+du gouvernement.
+
+
+621
+01:17:06,880 --> 01:17:09,960
+L'Atlético de Madrid
+et le Barça
+
+
+622
+01:17:09,960 --> 01:17:13,919
+joueront au stade Calderón
+un match décisif.
+
+
+623
+01:17:14,960 --> 01:17:17,960
+météo: Ciel couvert sur
+presque toute la Péninsule.
+
+
+624
+01:17:17,960 --> 01:17:20,918
+Averses fréquentes
+et orages dans le nord.
+
+
+625
+01:17:21,440 --> 01:17:25,672
+Dimanche 28 octobre
+
+
+626
+01:17:25,760 --> 01:17:28,560
+Tu as laissé le tableau...
+
+
+627
+01:17:28,560 --> 01:17:30,360
+- J'ai commencé le dessin.
+- Oui?
+
+
+628
+01:17:30,360 --> 01:17:31,509
+Quand ça?
+
+
+629
+01:17:31,680 --> 01:17:33,193
+II y a 2 ou 3 jours.
+
+
+630
+01:17:33,760 --> 01:17:37,309
+Pourquoi as-tu laissé l'autre?
+Tu n'étais pas convaincu?
+
+
+631
+01:17:37,480 --> 01:17:42,508
+C'est qu'il a fait un temps
+si horrible, si désagréable,
+
+
+632
+01:17:43,320 --> 01:17:45,834
+que je dû laisser le tableau.
+
+
+633
+01:17:46,400 --> 01:17:50,359
+Je voulais représenter
+le soleil sur le cognassier,
+
+
+634
+01:17:50,560 --> 01:17:53,518
+mais il y a eu de tels
+changements de lumiére
+
+
+635
+01:17:53,880 --> 01:17:54,835
+que je n'ai pas pu.
+
+
+636
+01:17:55,120 --> 01:17:58,112
+Et tu ne peux pas le reprendre
+l'année prochaine, non?
+
+
+637
+01:17:58,760 --> 01:18:00,637
+Non, impossible
+
+
+638
+01:18:01,280 --> 01:18:02,508
+L'année prochaine...
+
+
+639
+01:18:02,800 --> 01:18:05,314
+les coings et les feuilles
+auront changé de place.
+
+
+640
+01:18:06,200 --> 01:18:08,280
+- Bon, il reste en plan.
+- Oui, il reste en plan.
+
+
+641
+01:18:08,280 --> 01:18:11,431
+Il y avait longtemps que
+tu n'avais pas peint un...
+
+
+642
+01:18:12,160 --> 01:18:13,991
+Oui, c'est ce qui m'a tenté.
+
+
+643
+01:18:14,480 --> 01:18:16,516
+Depuis ces deux cognassiers...
+
+
+644
+01:18:16,720 --> 01:18:20,480
+Maman m'a dit de le peindre
+et je le trouvais si beau...
+
+
+645
+01:18:20,480 --> 01:18:22,118
+Ça va être de ta faute!
+
+
+646
+01:18:25,360 --> 01:18:28,360
+C'est trés bien comme ça.
+
+
+647
+01:18:28,360 --> 01:18:31,360
+Le temps ne m'a pas
+beaucoup aidé.
+
+
+648
+01:18:31,360 --> 01:18:33,237
+Je n'ai vraiment
+pas eu de chance.
+
+
+649
+01:18:33,640 --> 01:18:35,596
+En octobre,
+le temps change vite.
+
+
+650
+01:18:35,960 --> 01:18:38,918
+Mais cette année, ça a été
+particuliérement horrible.
+
+
+651
+01:19:02,520 --> 01:19:06,308
+Lundi 29 octobre
+
+
+652
+01:19:33,880 --> 01:19:37,793
+Jeudi 1er novembre
+
+
+653
+01:19:48,280 --> 01:19:52,114
+Vendredi 2 novembre
+
+
+654
+01:20:00,640 --> 01:20:01,993
+II en reste trés peu.
+
+
+655
+01:20:02,800 --> 01:20:05,758
+Elle le trouve trés bon.
+
+
+656
+01:20:06,800 --> 01:20:10,315
+Vous avez dit qu'en Chine,
+vous l'aimiez mieux chaud.
+
+
+657
+01:20:15,040 --> 01:20:17,998
+C'est trés bon aussi comme ça.
+
+
+658
+01:20:19,640 --> 01:20:21,915
+Il paraît qu'à Madrid,
+on le prend froid.
+
+
+659
+01:20:22,360 --> 01:20:24,760
+Non, on le prend chaud.
+
+
+660
+01:20:24,760 --> 01:20:27,880
+Mais je l'apporte le matin,
+
+
+661
+01:20:27,880 --> 01:20:29,598
+dans la bouteille,
+et il est déjà froid.
+
+
+662
+01:20:36,880 --> 01:20:39,838
+- En tout cas, c'est trés bon.
+- Tant mieux.
+
+
+663
+01:20:43,160 --> 01:20:48,314
+C'est la premiére fois que
+vous peignez cet arbre?
+
+
+664
+01:20:48,760 --> 01:20:49,829
+C'est la troisiéme.
+
+
+665
+01:20:51,120 --> 01:20:54,999
+L'an passé,
+j'ai fait un dessin plus petit.
+
+
+666
+01:21:01,560 --> 01:21:04,518
+Il doit spécialement
+vous plaire.
+
+
+667
+01:21:05,080 --> 01:21:09,039
+J'aime cet arbre, et j'aime
+beaucoup les cognassiers.
+
+
+668
+01:21:10,000 --> 01:21:13,959
+J'ai dessiné d'autres arbres,
+mais disons que j'ai...
+
+
+669
+01:21:14,960 --> 01:21:19,112
+que j'ai un faible
+pour les cognassiers.
+
+
+670
+01:21:25,400 --> 01:21:26,913
+Je ne sais pas pourquoi.
+
+
+671
+01:21:33,640 --> 01:21:36,074
+Oui, ce sont de
+trés beaux fruits.
+
+
+672
+01:21:36,200 --> 01:21:39,200
+Vous avez peut-être
+planté l'arbre?
+
+
+673
+01:21:39,200 --> 01:21:41,634
+Oui, il y al quatre ans environ.
+
+
+674
+01:21:42,880 --> 01:21:46,953
+Ah bon, alors,
+ça se comprend.
+
+
+675
+01:21:47,400 --> 01:21:50,836
+J'en ai planté d'autres.
+Celui-là aussi, je l'ai planté.
+
+
+676
+01:21:58,800 --> 01:22:00,756
+J'ai remarqué que vous employez
+
+
+677
+01:22:00,880 --> 01:22:05,829
+une technique assez différente
+des autres.
+
+
+678
+01:22:06,880 --> 01:22:10,236
+- Des autres quoi?
+- Des autres peintres.
+
+
+679
+01:22:10,640 --> 01:22:12,596
+La plupart des peintres,
+
+
+680
+01:22:12,720 --> 01:22:15,720
+parce que c'est plus commode,
+
+
+681
+01:22:15,720 --> 01:22:17,472
+commencent
+par copier une photo.
+
+
+682
+01:22:18,720 --> 01:22:21,678
+Oui, mais ce qui
+est merveilleux,
+
+
+683
+01:22:21,880 --> 01:22:23,438
+c'est d'être à côté de l'arbre.
+
+
+684
+01:22:25,720 --> 01:22:29,679
+Pour moi, c'est bien plus
+important que le résultat.
+
+
+685
+01:22:30,960 --> 01:22:33,030
+La photo ne rend pas
+cette impression.
+
+
+686
+01:22:41,360 --> 01:22:45,880
+Peut-être aussi parce que
+vous aimez beaucoup cet arbre.
+
+
+687
+01:22:45,880 --> 01:22:47,836
+Oui, bien sûr.
+
+
+688
+01:23:08,360 --> 01:23:12,360
+Ce qui l'impressionne aussi,
+
+
+689
+01:23:12,360 --> 01:23:16,831
+c'est le côté compact
+de vos compositions.
+
+
+690
+01:23:18,880 --> 01:23:21,480
+C'est que dans ce cas,
+et en général,
+
+
+691
+01:23:21,480 --> 01:23:25,837
+j'aime l'ordre
+que crée la symétrie.
+
+
+692
+01:23:26,960 --> 01:23:28,880
+L'arbre est au centre,
+
+
+693
+01:23:28,880 --> 01:23:31,880
+et j'ai situé le centre de
+la vision au centre du papier.
+
+
+694
+01:23:31,880 --> 01:23:33,233
+Là.
+
+
+695
+01:23:55,840 --> 01:23:59,799
+Elle dit que beaucoup de
+peintres évitent justement ça,
+
+
+696
+01:24:00,880 --> 01:24:04,720
+parce que les gens, en général,
+n'apprécient pas.
+
+
+697
+01:24:04,720 --> 01:24:08,838
+Mais, à mon avis, l'arbre
+acquiert, de cette maniére,
+
+
+698
+01:24:09,560 --> 01:24:12,560
+une présence, une solennit é...
+
+
+699
+01:24:12,560 --> 01:24:13,913
+Comme un être humain.
+
+
+700
+01:24:14,520 --> 01:24:16,112
+En le centrant sur le papier.
+
+
+701
+01:24:17,400 --> 01:24:21,951
+Et en renonçant à une
+esthétique de l'espace,
+
+
+702
+01:24:22,240 --> 01:24:26,472
+le personnage se présénte,
+ici, d'une façon...
+
+
+703
+01:24:28,040 --> 01:24:31,999
+totalement ordonné
+par rapport à la symetrie.
+
+
+704
+01:24:33,800 --> 01:24:35,028
+Vous fumez?
+
+
+705
+01:24:36,240 --> 01:24:37,040
+Non, merci.
+
+
+706
+01:24:37,040 --> 01:24:38,155
+Et toi, Xiao ming?
+
+
+707
+01:24:41,640 --> 01:24:44,200
+Tu veux?
+
+
+708
+01:24:45,800 --> 01:24:48,155
+Tu allais demander
+quelque chose.
+
+
+709
+01:25:03,360 --> 01:25:04,315
+Merci.
+
+
+710
+01:25:20,120 --> 01:25:23,510
+Elle dit qu'elle
+a remarqué ces traces
+
+
+711
+01:25:23,880 --> 01:25:25,880
+que vous avez sur l'arbre.
+
+
+712
+01:25:25,880 --> 01:25:31,680
+Elle se demande
+si cela sert à fixer
+
+
+713
+01:25:31,680 --> 01:25:34,353
+ou à former la perspective
+dans la composition.
+
+
+714
+01:25:36,040 --> 01:25:38,998
+Les traces en général
+ou en particulier?
+
+
+715
+01:25:48,200 --> 01:25:52,557
+Par exemple, ces traits blancs
+
+
+716
+01:25:52,840 --> 01:25:54,319
+ou bien ces fils.
+
+
+717
+01:25:54,400 --> 01:25:55,400
+Ces fils...
+
+
+718
+01:25:55,400 --> 01:25:57,356
+Regarde.
+Ça, c'est la verticale,
+
+
+719
+01:25:58,120 --> 01:26:01,078
+qui est le centre
+de ce que je vois
+
+
+720
+01:26:01,840 --> 01:26:04,560
+et le centre, à la fois,
+du dessin.
+
+
+721
+01:26:04,560 --> 01:26:05,629
+L'horizontale,
+
+
+722
+01:26:06,760 --> 01:26:08,193
+c'est ce petit fil, là,
+
+
+723
+01:26:08,520 --> 01:26:11,159
+L'horizontale, qui se trouve
+au centre de la vision.
+
+
+724
+01:26:11,960 --> 01:26:15,509
+Ça me sert, à partir de la
+verticale et de l'horizontale,
+
+
+725
+01:26:15,640 --> 01:26:17,596
+à placer tous les éléments.
+
+
+726
+01:26:26,680 --> 01:26:28,636
+Toutes ces horizontales,
+
+
+727
+01:26:29,280 --> 01:26:31,280
+sur les coings et
+sur quelques feuilles,
+
+
+728
+01:26:31,280 --> 01:26:35,280
+m'indiquent, depuis
+le début de mon travail,
+
+
+729
+01:26:35,280 --> 01:26:38,511
+comment les coings pendent
+de plus en plus vers le bas,
+
+
+730
+01:26:38,600 --> 01:26:39,669
+à cause du poids.
+
+
+731
+01:26:41,400 --> 01:26:43,356
+Et comment les branches
+se courbent peu à peu.
+
+
+732
+01:26:44,280 --> 01:26:46,280
+Elles ont commencé là.
+
+
+733
+01:26:46,280 --> 01:26:49,238
+Ce trait correspondait
+à ce point.
+
+
+734
+01:26:54,280 --> 01:26:55,998
+Elles se sont inclinées,
+dés le début,
+
+
+735
+01:26:56,560 --> 01:26:59,760
+d'environ cinq centimétres,
+au bout.
+
+
+736
+01:26:59,760 --> 01:27:01,432
+Là, par contre, c'est fixe.
+
+
+737
+01:27:03,040 --> 01:27:05,760
+Vous corrigez
+au fur et à mesure.
+
+
+738
+01:27:05,760 --> 01:27:07,830
+Je corrige, oui.
+
+
+739
+01:27:11,360 --> 01:27:14,318
+J'accompagne l'arbre
+t out le t emps.
+
+
+740
+01:27:15,120 --> 01:27:18,078
+Je travaille en paralléle
+à l'épanouissement de l'arbre.
+
+
+741
+01:27:24,160 --> 01:27:29,040
+Et vous arriverez à finir
+avant que les fruits t ombent?
+
+
+742
+01:27:29,040 --> 01:27:29,995
+On verra bien.
+
+
+743
+01:27:32,360 --> 01:27:35,318
+L'arbre est encore bien.
+Je travaille depuis un mois.
+
+
+744
+01:27:43,000 --> 01:27:46,072
+Elle dit que maint enant,
+
+
+745
+01:27:46,160 --> 01:27:50,312
+le soleil illumine
+les feuilles et les fruits.
+
+
+746
+01:27:50,480 --> 01:27:51,595
+Regarde ce côt é-ci.
+
+
+747
+01:27:51,760 --> 01:27:54,040
+C'est trés beau.
+
+
+748
+01:27:54,040 --> 01:27:58,591
+Voulez-vous représent er
+cette lumiére aussi?
+
+
+749
+01:27:58,880 --> 01:28:01,314
+Non, c'est impossible.
+
+
+750
+01:28:02,640 --> 01:28:05,518
+Dans ce sens,
+c'est un langage trés limit é.
+
+
+751
+01:28:06,160 --> 01:28:09,596
+Il s'agit seulement de reflét er
+la limite des formes
+
+
+752
+01:28:09,760 --> 01:28:11,591
+et, par celle-ci,
+de représent er l'arbre.
+
+
+753
+01:28:11,880 --> 01:28:16,908
+Mais vous finirez par
+en faire un tableau, non?
+
+
+754
+01:28:17,360 --> 01:28:20,360
+J'ai commencé par un tableau
+et fini par un dessin.
+
+
+755
+01:28:20,360 --> 01:28:24,960
+Car le soleil, vous avez vu
+qu'il donnait là, splendide.
+
+
+756
+01:28:24,960 --> 01:28:26,837
+Et il disparaît déjà,
+il ne dure pas.
+
+
+757
+01:28:29,840 --> 01:28:33,071
+Il change si vite que j'ai dû
+abandonner le tableau.
+
+
+758
+01:28:38,560 --> 01:28:41,597
+C'était une merveille,
+mais il fallait y renoncer,
+
+
+759
+01:28:41,960 --> 01:28:43,313
+J'ai dû y renoncer.
+
+
+760
+01:28:46,640 --> 01:28:48,517
+Il faut bien renoncer
+à quelque chose.
+
+
+761
+01:28:51,480 --> 01:28:55,314
+Lundi 5 novembre
+
+
+762
+01:31:12,360 --> 01:31:16,194
+Samedi 10 novembre
+
+
+763
+01:31:16,360 --> 01:31:17,839
+Quelle merveille d'arbre!
+
+
+764
+01:31:24,000 --> 01:31:26,673
+Regarde,
+il a même marqué l'arbre.
+
+
+765
+01:31:29,000 --> 01:31:31,468
+Il faut qu'il mett e
+de l'ordre part out.
+
+
+766
+01:31:33,200 --> 01:31:35,156
+Est-ce que ça
+ne serait pas pour...
+
+
+767
+01:31:35,760 --> 01:31:37,830
+Tu as regardé dans
+la serre, Julit o?
+
+
+768
+01:31:38,400 --> 01:31:42,359
+Oui.
+Voilà comment ça se passe.
+
+
+769
+01:31:42,480 --> 01:31:45,040
+Il se place sur cette ligne...
+
+
+770
+01:31:45,040 --> 01:31:47,360
+- Il a tracé des marques.
+- Bien sûr.
+
+
+771
+01:31:47,360 --> 01:31:50,238
+Il pose ses pieds ici
+et cette ligne,
+
+
+772
+01:31:50,360 --> 01:31:53,360
+avec la verticale
+du fil à plomb,
+
+
+773
+01:31:53,360 --> 01:31:56,318
+correspond à la marque
+sur l'arbre.
+
+
+774
+01:31:56,760 --> 01:32:00,309
+Comme ça, le point de vue
+ne change pas.
+
+
+775
+01:32:00,400 --> 01:32:02,311
+Il doit t out voir
+à partir d'ici.
+
+
+776
+01:32:02,720 --> 01:32:07,191
+- C'est un point...
+- Et si tu fermes un oeil?
+
+
+777
+01:32:07,640 --> 01:32:08,595
+Oui, ça change.
+
+
+778
+01:32:10,920 --> 01:32:12,520
+Ça m'épat e.
+
+
+779
+01:32:12,520 --> 01:32:15,239
+Je serais incapable
+de le voir de si prés.
+
+
+780
+01:32:16,040 --> 01:32:18,508
+Il faudrait que je travaille
+d'un peu plus loin,
+
+
+781
+01:32:18,920 --> 01:32:22,920
+plut ôt avec une vision
+de spectat eur
+
+
+782
+01:32:22,920 --> 01:32:24,672
+que de protagonist e.
+
+
+783
+01:32:25,480 --> 01:32:29,234
+Je suis t oujours surpris
+par cette obsession
+
+
+784
+01:32:30,040 --> 01:32:33,919
+de l'espace physique,
+des centimétres carrés.
+
+
+785
+01:32:34,360 --> 01:32:38,319
+Chez moi, c'est le sentiment
+de la couleur qui domine.
+
+
+786
+01:32:39,160 --> 01:32:44,760
+Mais ici, le sentiment
+et l'ordre se rejoignent.
+
+
+787
+01:32:44,760 --> 01:32:46,560
+On dirait qu'il se méfie.
+
+
+788
+01:32:46,560 --> 01:32:49,711
+Au fond,
+le sentiment et l'ordre,
+
+
+789
+01:32:50,760 --> 01:32:53,593
+la raison et l'intuition
+vont t oujours de pair.
+
+
+790
+01:32:58,960 --> 01:33:00,393
+Vous êt es là?
+
+
+791
+01:33:03,480 --> 01:33:05,436
+- Bonjour.
+- Ça va?
+
+
+792
+01:33:06,480 --> 01:33:08,480
+Vous êt es t out beaux.
+
+
+793
+01:33:08,480 --> 01:33:09,435
+Il faut bien!
+
+
+794
+01:33:14,480 --> 01:33:15,435
+Vous regardez...
+
+
+795
+01:33:17,480 --> 01:33:18,435
+le modéle.
+
+
+796
+01:33:22,240 --> 01:33:25,198
+Ça ne te gêne pas
+qu'on voie les ficelles?
+
+
+797
+01:33:26,120 --> 01:33:29,078
+Non, ça ne me gêne pas.
+C'est si évident.
+
+
+798
+01:33:29,320 --> 01:33:31,550
+C'est évident, non?
+
+
+799
+01:33:34,160 --> 01:33:36,594
+C'est une cart e...
+Une carte de l'arbre.
+
+
+800
+01:33:38,640 --> 01:33:40,596
+- Une cart e...
+- C'est vrai!
+
+
+801
+01:33:43,640 --> 01:33:46,712
+- Vous avez vu?
+- Oui, mais je n'ai rien dit.
+
+
+802
+01:33:47,040 --> 01:33:47,995
+Eh ben!
+
+
+803
+01:33:49,640 --> 01:33:52,996
+C'est peut-être
+ce que j'ai fumé en 3 jours.
+
+
+804
+01:33:53,960 --> 01:33:55,640
+De t emps en t emps,
+je les ramasse.
+
+
+805
+01:33:55,640 --> 01:33:58,598
+Il n'y a pas t ous les mégots
+de ce que j'ai fumé.
+
+
+806
+01:34:00,640 --> 01:34:03,598
+Il faudrait partir, non?
+Allons-y.
+
+
+807
+01:34:04,640 --> 01:34:06,596
+Laisse les coings
+pour plus tard.
+
+
+808
+01:34:32,640 --> 01:34:36,349
+Lundi 19 novembre
+
+
+809
+01:34:37,800 --> 01:34:39,870
+Un instant, j'ai presque fini.
+
+
+810
+01:34:42,280 --> 01:34:44,236
+Il est en pleine décadence.
+
+
+811
+01:34:44,360 --> 01:34:47,318
+En t ombant, les feuilles
+me cachent le coing.
+
+
+812
+01:34:49,200 --> 01:34:51,668
+Tu veux de l'ombre ici?
+
+
+813
+01:34:52,280 --> 01:34:54,236
+Non, je ne peux pas.
+
+
+814
+01:34:54,680 --> 01:34:56,636
+C'est si drôle,
+cette hist oire de t omat e...
+
+
+815
+01:34:59,800 --> 01:35:03,679
+Ne me fais pas rire just e
+au moment oú je dois partir.
+
+
+816
+01:35:07,760 --> 01:35:10,115
+Ne remue pas tant.
+Un peu plus bas.
+
+
+817
+01:35:10,240 --> 01:35:12,993
+- C'est pas facile.
+- Je sais.
+
+
+818
+01:35:14,360 --> 01:35:15,315
+Une minut e.
+
+
+819
+01:35:19,640 --> 01:35:21,596
+Il II n'en a plus pour longt emps,
+le pauvre.
+
+
+820
+01:35:26,640 --> 01:35:29,598
+- Tu as bient ôt fini?
+- Oui, ça y est presque.
+
+
+821
+01:35:33,320 --> 01:35:34,673
+Allez, j'ai bient ôt fini.
+
+
+822
+01:35:37,360 --> 01:35:39,715
+Voyons. Maint enant...
+
+
+823
+01:35:40,640 --> 01:35:42,596
+C'est bien ce que je disais.
+
+
+824
+01:35:43,360 --> 01:35:46,989
+Celle-là, cette t oute petit e.
+Voyons. Un peu...
+
+
+825
+01:35:48,240 --> 01:35:50,595
+Voilà. Voyons comment
+je peux la t enir.
+
+
+826
+01:35:51,240 --> 01:35:52,912
+Un peu plus haut.
+
+
+827
+01:35:55,360 --> 01:35:57,316
+Je vais me casser la figure
+avec la gaule.
+
+
+828
+01:36:00,440 --> 01:36:01,509
+Bon, voyons.
+
+
+829
+01:36:02,480 --> 01:36:04,948
+Tu as eu le même probléme
+avec d'autres arbres?
+
+
+830
+01:36:06,200 --> 01:36:08,156
+Non.
+Je ne suis jamais rest é...
+
+
+831
+01:36:08,360 --> 01:36:10,316
+comment regarder?
+Par-dessus, par-dessous.
+
+
+832
+01:36:12,840 --> 01:36:15,798
+- Tu n'est jamais rest é aussi...
+- Non, jamais aussi tard.
+
+
+833
+01:36:16,600 --> 01:36:19,194
+Aussi tard dans l'année.
+
+
+834
+01:36:20,640 --> 01:36:22,596
+On est déjà à la mi-novembre.
+
+
+835
+01:36:28,840 --> 01:36:30,720
+- Plus bas?
+- Non, maint enant, passe...
+
+
+836
+01:36:30,720 --> 01:36:32,600
+- A laquelle?
+- Voyons...
+
+
+837
+01:36:32,600 --> 01:36:33,555
+Celle-ci?
+
+
+838
+01:36:34,480 --> 01:36:35,754
+Att ends un peu.
+
+
+839
+01:36:36,360 --> 01:36:38,920
+- Regarde, celle-là.
+- Celle-là?
+
+
+840
+01:36:39,440 --> 01:36:42,193
+Un peu plus. Att ention.
+Là, là...
+
+
+841
+01:36:42,360 --> 01:36:44,316
+Ne la remue pas trop.
+
+
+842
+01:36:45,000 --> 01:36:46,956
+C'est facile à dire.
+
+
+843
+01:36:47,720 --> 01:36:50,678
+Regarde, les coings
+continuent à grossir.
+
+
+844
+01:36:51,840 --> 01:36:54,673
+- Tu te rends compt e?
+- Incroyable.
+
+
+845
+01:37:02,040 --> 01:37:03,996
+Ils vont devenir immenses.
+
+
+846
+01:37:10,720 --> 01:37:12,676
+- Laquelle veux-tu?
+- Celle-là.
+
+
+847
+01:37:14,720 --> 01:37:17,029
+- Comme ça?
+- Oui, un instant.
+
+
+848
+01:37:20,960 --> 01:37:22,518
+Elles en support ent beaucoup
+
+
+849
+01:37:24,400 --> 01:37:27,358
+C'est beau, maint enant!
+Avec le soleil qui donne là...
+
+
+850
+01:37:32,360 --> 01:37:36,194
+Vendredi 23 novembre
+
+
+851
+01:37:36,360 --> 01:37:38,360
+Remonte cette feuille.
+Celle-là?
+
+
+852
+01:37:38,360 --> 01:37:40,430
+Celle-là, oui.
+Je ne vois rien.
+
+
+853
+01:37:45,000 --> 01:37:46,274
+Pousse-t oi un peu...
+
+
+854
+01:37:47,360 --> 01:37:49,316
+- Voilà.
+- Comme ça?
+
+
+855
+01:38:00,640 --> 01:38:03,640
+Tu ne crois pas que ces coings
+sont trop volumineux?
+
+
+856
+01:38:03,640 --> 01:38:04,595Fais voir.
+
+
+857
+01:38:05,640 --> 01:38:07,640
+- Trop chargés?
+- Oú ça?
+
+
+858
+01:38:07,640 --> 01:38:09,232
+Toute cette partie.
+
+
+859
+01:38:09,400 --> 01:38:12,073
+C'est sensationnel.
+N'y t ouche plus.
+
+
+860
+01:38:14,520 --> 01:38:17,640
+Tu pourrais leur donner
+un peu plus d'int égrit é.
+
+
+861
+01:38:17,640 --> 01:38:20,360
+Allez, mets cette feuille là.
+
+
+862
+01:38:20,360 --> 01:38:21,839
+Sinon je ne vois rien.
+
+
+863
+01:38:22,760 --> 01:38:24,113
+Qu'est-ce que tu dis?
+
+
+864
+01:38:24,960 --> 01:38:27,760
+- Tu disais?
+- Que cette partie
+
+
+865
+01:38:27,760 --> 01:38:31,719
+a ét é suffisamment travaillée.
+
+
+866
+01:38:35,320 --> 01:38:37,276
+Peut-être que
+tu l'asphyxies un peu.
+
+
+867
+01:38:38,200 --> 01:38:41,749
+Tu devrais t erminer
+les feuilles d'en bas.
+
+
+868
+01:38:43,320 --> 01:38:45,320
+Celles de cette partie?
+
+
+869
+01:38:45,320 --> 01:38:48,357
+Un peu plus, peut-être,
+et ça y est.
+
+
+870
+01:39:01,480 --> 01:39:03,480
+Ah, quelle saloperie de vent!
+
+
+871
+01:39:03,480 --> 01:39:04,435
+J'ai froid.
+
+
+872
+01:39:06,800 --> 01:39:08,756
+Je vais chant er un peu
+pour voir.
+
+
+873
+01:39:14,280 --> 01:39:16,236
+"Ma belle, ma t oute belle..."
+
+
+874
+01:39:18,160 --> 01:39:19,388
+Cette chanson...
+
+
+875
+01:39:20,520 --> 01:39:21,748
+Recommence.
+
+
+876
+01:39:21,880 --> 01:39:24,155
+"Ma belle, ma t oute belle..."
+
+
+877
+01:39:24,720 --> 01:39:27,109
+- Recommence.
+- Encore?
+
+
+878
+01:39:28,200 --> 01:39:30,156
+Laisse-moi manger ma gaufre.
+
+
+879
+01:39:34,200 --> 01:39:36,156
+Continue à dessiner.
+
+
+880
+01:39:37,120 --> 01:39:41,159
+C'est marrant
+de t enir la branchett e.
+
+
+881
+01:39:46,720 --> 01:39:47,675
+Voyons...
+
+
+882
+01:39:49,440 --> 01:39:51,396
+"Ma belle, ma t oute belle..."
+
+
+883
+01:39:52,360 --> 01:39:55,360
+"mon bouquet de marjolaine,"
+
+
+884
+01:39:55,360 --> 01:39:58,318
+"écume qu'emport e
+la riviére..."
+
+
+885
+01:39:59,000 --> 01:40:01,150
+Horrible!
+Recommence encore une fois.
+
+
+886
+01:40:01,680 --> 01:40:03,830
+Pourtant, c'était bien,
+l'int onation.
+
+
+887
+01:40:10,920 --> 01:40:12,876
+"Ma belle, ma t oute belle,"
+
+
+888
+01:40:13,120 --> 01:40:15,953
+"mon bouquet de marjolaine,"
+
+
+889
+01:40:16,080 --> 01:40:19,080
+"écume qu'emporte la riviére,"
+
+
+890
+01:40:19,080 --> 01:40:21,753
+"ét oile du matin..."
+
+
+891
+01:40:22,560 --> 01:40:25,360
+"J'ai plant é
+dans Séville entiére"
+
+
+892
+01:40:25,360 --> 01:40:28,360
+"des banderoles de défi"
+
+
+893
+01:40:28,360 --> 01:40:31,160
+"et sur chacune d'elles,
+j'ai écrit:"
+
+
+894
+01:40:31,160 --> 01:40:35,233
+"Ma belle, ma t oute belle."
+
+
+895
+01:40:38,800 --> 01:40:40,720
+- Alors?
+- Ça peut aller.
+
+
+896
+01:40:40,720 --> 01:40:44,156
+Moi, je n'ai pas bien chant é.
+On a fait mieux.
+
+
+897
+01:40:45,200 --> 01:40:46,599
+On recommence?
+
+
+898
+01:40:50,200 --> 01:40:52,077
+Allons-y.
+
+
+899
+01:40:54,200 --> 01:40:56,200
+Voyons si je me distingue
+un peu plus.
+
+
+900
+01:40:56,200 --> 01:40:57,155
+"Ma belle, ma t oute belle..."
+
+
+901
+01:41:24,160 --> 01:41:27,118
+- Ça va mieux, non?
+- Ça va mieux.
+
+
+902
+01:41:27,440 --> 01:41:29,192
+Je continue à t enir
+la branchett e?
+
+
+903
+01:41:33,200 --> 01:41:36,158
+Ça aurait l'air comique si
+ce n'était pas si serieux.
+
+
+904
+01:41:37,840 --> 01:41:39,840
+- Comme ça?
+- Encore un peu plus.
+
+
+905
+01:41:39,840 --> 01:41:40,750
+Plus de quoi?
+
+
+906
+01:41:41,040 --> 01:41:42,996
+- De t emps.
+- Ah, de t emps.
+
+
+907
+01:41:50,640 --> 01:41:52,596
+Tu as trouvé
+la phot o de Conchita?
+
+
+908
+01:41:52,920 --> 01:41:56,276
+Non.
+J'ai fait des démarches,
+
+
+909
+01:41:56,400 --> 01:41:57,879
+appelé à t oute heure...
+
+
+910
+01:41:58,400 --> 01:42:02,757
+Par l'int ermédiaire d'un ami
+qui les connaît, j'ai essayé...
+
+
+911
+01:42:04,840 --> 01:42:07,877
+de les joindre. Mais ils
+doivent être sur la côt e.
+
+
+912
+01:42:08,920 --> 01:42:10,956
+Il n'y a pas moyen.
+
+
+913
+01:42:11,320 --> 01:42:13,675
+Renonçons à la phot o.
+
+
+914
+01:42:15,120 --> 01:42:17,076
+Elle était pourtant jolie.
+
+
+915
+01:42:18,800 --> 01:42:20,153
+Je te l'ai dit l'autre jour.
+
+
+916
+01:42:24,160 --> 01:42:26,116
+Je crois que je l'ai vue, non?
+
+
+917
+01:42:26,720 --> 01:42:29,678
+Ça m'ét onnerait. Elle ne me l'a
+peut-être donnée qu'à moi.
+
+
+918
+01:42:30,400 --> 01:42:32,550
+Nous étions
+devant la porte de l'école.
+
+
+919
+01:42:35,200 --> 01:42:37,156
+Et elle nous a pris de face.
+
+
+920
+01:42:40,600 --> 01:42:44,800
+Je me souviens de la phot o,
+elle m'avait beaucoup frappé.
+
+
+921
+01:42:44,800 --> 01:42:47,712
+Nous avions t ous les deux
+la même expression de...
+
+
+922
+01:42:48,760 --> 01:42:49,715
+de passion.
+
+
+923
+01:42:50,360 --> 01:42:52,040
+Ce même amour de l'art...
+
+
+924
+01:42:52,040 --> 01:42:55,999
+Et cet accablement
+d'être sans le sou.
+
+
+925
+01:42:58,000 --> 01:42:59,399
+Nous étions un peu...
+
+
+926
+01:43:01,400 --> 01:43:03,356
+comme enragés, si tu veux.
+
+
+927
+01:43:04,280 --> 01:43:07,670
+Mais j'espére qu'un jour,
+
+
+928
+01:43:07,760 --> 01:43:10,228
+je finirai
+par joindre Conchita.
+
+
+929
+01:43:11,280 --> 01:43:14,238
+Et qu'elle aura la phot o.
+
+
+930
+01:43:21,040 --> 01:43:22,996
+Tu sais depuis quand
+je suis là?
+
+
+931
+01:43:23,600 --> 01:43:26,478
+- Je ne sais pas.
+- Depuis que j'ai commencé
+
+
+932
+01:43:26,960 --> 01:43:28,160
+le tableau.
+
+
+933
+01:43:28,160 --> 01:43:30,116
+- Combien de mois?
+- De mois?
+
+
+934
+01:43:30,520 --> 01:43:33,159
+Disons de semaines.
+
+
+935
+01:43:56,160 --> 01:44:00,119
+Lundi 3 décembre
+
+
+936
+01:44:52,160 --> 01:44:55,994
+Dimanche 9 décembre
+
+
+937
+01:47:08,480 --> 01:47:12,314
+Lundi 10 décembre
+
+
+938
+01:49:27,320 --> 01:49:28,799
+Bon... C'est fini.
+
+
+939
+01:49:32,120 --> 01:49:33,314
+On va couvrir les citronniers.
+
+
+940
+01:51:06,560 --> 01:51:10,394
+Mardi 11 décembre
+
+
+941
+01:51:52,080 --> 01:51:54,594
+Prends les plus mûrs.
+
+
+942
+01:51:55,880 --> 01:51:57,840
+Et ces taches?
+
+
+943
+01:51:57,840 --> 01:51:58,909
+C'est celui-là,
+qui peint part out.
+
+
+944
+01:52:01,400 --> 01:52:03,755
+Ce sont des marques de papa
+pour le dessin.
+
+
+945
+01:52:03,960 --> 01:52:06,474
+- Ce qu'ils sont beaux!
+- Regarde ce qu'il est gros.
+
+
+946
+01:52:07,360 --> 01:52:10,113
+Tu te souviens quand on a fait
+t oute cette pâte de coings?
+
+
+947
+01:52:11,880 --> 01:52:12,471
+Quelle merveille!
+
+
+948
+01:52:14,800 --> 01:52:15,596
+Combien en veux-tu?
+
+
+949
+01:52:16,520 --> 01:52:17,748
+Un peu plus.
+
+
+950
+01:52:27,360 --> 01:52:30,158
+Un si petit arbre qui
+donne autant de coings...
+
+
+951
+01:53:06,880 --> 01:53:09,952
+Il en avait 203.
+
+
+952
+01:53:11,160 --> 01:53:12,115
+Merde alors!
+
+
+953
+01:53:13,160 --> 01:53:17,153
+II faudrait vendre six maisons
+comme celle-là.
+
+
+954
+01:53:17,280 --> 01:53:20,477
+- On va goût er... un coing.
+- C'est quoi?
+
+
+955
+01:53:23,360 --> 01:53:23,997
+Tiens.
+
+
+956
+01:53:24,920 --> 01:53:25,716
+On va manger ça?
+
+
+957
+01:53:28,880 --> 01:53:32,839
+On verra bien quel goût ça a.
+
+
+958
+01:53:33,360 --> 01:53:34,349
+Te veux goût er, Marek?
+
+
+959
+01:53:38,320 --> 01:53:40,200
+Je vais vous en donner
+un morceau.
+
+
+960
+01:53:40,200 --> 01:53:43,476
+Il est peut-être empoisonné.
+
+
+961
+01:53:44,280 --> 01:53:45,554
+Vous verrez bien.
+
+
+962
+01:53:56,800 --> 01:53:58,153
+Tiens, Marek, goût e.
+
+
+963
+01:54:00,080 --> 01:54:02,196
+- Tu es sûr que ça se mange?
+- Essaie.
+
+
+964
+01:54:05,800 --> 01:54:08,314
+C'est comme une poire mûre.
+
+
+965
+01:54:14,360 --> 01:54:15,315
+Alors?
+
+
+966
+01:54:22,560 --> 01:54:26,917
+C'est peut-être bon
+pour faire de la confiture.
+
+
+967
+01:54:27,800 --> 01:54:29,392
+Un peu sec, non?
+
+
+968
+01:56:11,360 --> 01:56:13,157
+La chemise et les chaussett es
+sont différent es.
+
+
+969
+01:56:13,720 --> 01:56:15,676
+Je sais, ça ne fait rien.
+
+
+970
+01:56:16,120 --> 01:56:18,076
+Si tu veux, on le complét e.
+
+
+971
+01:56:18,840 --> 01:56:21,718
+- Elles sont dans la maison?
+- Oui.
+
+
+972
+01:56:23,160 --> 01:56:25,720
+J'ai apport é des choses
+pour t enir dans la main.
+
+
+973
+01:56:26,120 --> 01:56:28,190
+- On choisira aprés.
+- Trés bien.
+
+
+974
+01:56:30,120 --> 01:56:31,678
+Je laisse ça là.
+
+
+975
+01:56:37,120 --> 01:56:38,439
+Regarde ce que c'est joli.
+
+
+976
+01:57:02,000 --> 01:57:03,479
+Att ends.
+
+
+977
+01:57:14,840 --> 01:57:17,400
+Tourne la t ête comme ça.
+Un peu moins.
+
+
+978
+01:57:21,040 --> 01:57:22,792
+Je crois
+qu'il a la t ête plus haut e.
+
+
+979
+01:57:23,520 --> 01:57:25,476
+- Un peu plus haut e?
+- Je crois que oui.
+
+
+980
+01:57:26,520 --> 01:57:27,748
+Att ends un peu.
+
+
+981
+01:57:29,440 --> 01:57:31,396
+Non, ne te redresse pas.
+
+
+982
+01:57:32,520 --> 01:57:34,476
+Reléve-t oi.
+Voilà, comme ça.
+
+
+983
+01:57:35,520 --> 01:57:38,398
+Un peu plus t ourné par ici.
+
+
+984
+01:57:40,000 --> 01:57:40,637
+Les mains...
+
+
+985
+01:57:42,600 --> 01:57:44,079
+Tu te souviens?
+
+
+986
+01:57:44,360 --> 01:57:47,318
+Cette main était
+plus o moins comme ça.
+
+
+987
+01:57:53,160 --> 01:57:56,360
+- Tu es parfait.
+- Regarde, quelle jolie boule!
+
+
+988
+01:57:56,360 --> 01:57:58,316
+Si tu l'aimes, tan mieux.
+
+
+989
+01:58:51,840 --> 01:58:52,477
+Mari...
+
+
+990
+01:58:53,600 --> 01:58:55,556
+Tu sais ce que je pense
+de ce tableau.
+
+
+991
+01:58:57,200 --> 01:58:58,952
+Oui, oui, je sais.
+
+
+992
+01:59:01,840 --> 01:59:05,310
+Continuer aprés l'avoir laissé
+si longt emps...
+
+
+993
+01:59:09,760 --> 01:59:12,320
+Ecout e, je pourrais te préparer
+une t oile du même format.
+
+
+994
+01:59:14,360 --> 01:59:17,360
+Tu recommencerais
+tranquillement,
+
+
+995
+01:59:17,360 --> 01:59:20,318
+à zero, en t oute libert é
+et sans aucune craint e.
+
+
+996
+01:59:21,080 --> 01:59:24,038
+Je crois
+que ce serait le mieux.
+
+
+997
+01:59:27,440 --> 01:59:29,715
+C'est possible...
+Je ne sais pas.
+
+
+998
+01:59:29,840 --> 01:59:32,798
+Laisse-moi un peu de t emps
+
+
+999
+01:59:33,520 --> 01:59:37,035
+et aprés, peut-être, oui,
+c'est la meilleure solution.
+
+
+1000
+01:59:37,360 --> 01:59:39,476
+Mais il faut que je place
+quelque chose.
+
+
+1001
+01:59:39,680 --> 01:59:41,636
+- Essayons.
+- Bon, bon.
+
+
+1002
+01:59:49,960 --> 01:59:51,188
+Tu as vu ce beau verre?
+
+
+1003
+01:59:52,920 --> 01:59:54,399
+Splendide.
+
+
+1004
+01:59:55,000 --> 01:59:56,399
+- Il te plaît?
+- Beaucoup.
+
+
+1005
+01:59:57,520 --> 01:59:59,636
+Et cette phot o de Paco
+et moi, elle te plaît?
+
+
+1006
+01:59:59,960 --> 02:00:01,632
+Oui, elle me plaît aussi.
+
+
+1007
+02:00:03,320 --> 02:00:04,878
+Laquelle des deux
+dois-je t enir?
+
+
+1008
+02:00:07,120 --> 02:00:09,080
+Je ne sais pas.
+Il faut réfléchir.
+
+
+1009
+02:00:09,080 --> 02:00:11,799
+Les deux choses?
+Une seule?
+
+
+1010
+02:00:13,520 --> 02:00:15,192
+Nous y réfléchirons.
+
+
+1011
+02:00:36,160 --> 02:00:38,594
+Il faudrait faire un voyage.
+
+
+1012
+02:00:41,360 --> 02:00:42,475
+Pour aller oú?
+
+
+1013
+02:00:43,360 --> 02:00:44,395
+En Gréce.
+
+
+1014
+02:06:30,160 --> 02:06:30,956
+Je suis à Tomelloso,
+
+
+1015
+02:06:31,600 --> 02:06:33,716
+devant la maison
+oú je suis né.
+
+
+1016
+02:06:35,560 --> 02:06:37,000
+Sur la place,
+il y a des arbres
+
+
+1017
+02:06:37,000 --> 02:06:38,956
+qui n'ont jamais poussé là.
+
+
+1018
+02:06:40,120 --> 02:06:41,600
+Je reconnais
+
+
+1019
+02:06:41,600 --> 02:06:44,717
+les feuilles sombres et lesFruits dorés des cognassiers.
+
+
+1020
+02:06:48,200 --> 02:06:50,714
+Je me vois au milieu des
+arbres, prés de mes parents
+
+
+1021
+02:06:51,280 --> 02:06:54,750
+et d'autres personnes dont je
+ne peux identifier les traits.
+
+
+1022
+02:07:00,760 --> 02:07:03,718
+La rumeur de nos voix
+me parvient.
+
+
+1023
+02:07:04,800 --> 02:07:06,313
+Nous bavardons paisiblement.
+
+
+1024
+02:07:12,360 --> 02:07:15,318
+Nos pieds s'enfoncent
+dans la t erre boueuse.
+
+
+1025
+02:07:16,360 --> 02:07:19,318
+Autour de nous,
+au bout de leurs branches,
+
+
+1026
+02:07:19,680 --> 02:07:22,638
+les fruits rugueux pendent,
+de plus en plus mûrs.
+
+
+1027
+02:07:29,080 --> 02:07:31,080
+Leur peau se couvre de taches.
+
+
+1028
+02:07:31,080 --> 02:07:34,470
+L'air est immobile, j'hume
+la fermentation de leur chair.
+
+
+1029
+02:07:49,360 --> 02:07:50,952
+De l'endroit
+oú j'observe la scéne,
+
+
+1030
+02:07:51,200 --> 02:07:54,158
+je ne peux deviner si les
+autres voient ce que je vois.
+
+
+1031
+02:07:56,960 --> 02:07:59,800
+Nul ne semble voir
+que les coings
+
+
+1032
+02:07:59,800 --> 02:08:01,631
+pourrissent sous une lumiére
+
+
+1033
+02:08:02,680 --> 02:08:04,636
+que je ne saurais décrire,
+
+
+1034
+02:08:05,520 --> 02:08:07,476
+limpide et sombre à la fois,
+
+
+1035
+02:08:08,520 --> 02:08:10,476
+qui transforme tout
+en métal et en cendres.
+
+
+1036
+02:08:21,080 --> 02:08:23,036
+Ce n'est pas la lumiére
+de la nuit.
+
+
+1037
+02:08:24,080 --> 02:08:26,036
+Ni celle du crépuscule.
+
+
+1038
+02:08:27,760 --> 02:08:29,034
+Ni celle de l'aurore.
+
+
+
+

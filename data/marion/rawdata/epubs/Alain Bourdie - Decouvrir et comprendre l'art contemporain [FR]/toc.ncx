@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="f0bf4a85-9e05-490d-8781-e705b16b2f2b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.35)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Découvrir et comprendre l'art contemporain</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue616fd82-03b6-4459-b3f5-487cd3ec655c" playOrder="0">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index_split_000.html#9"/>
+    </navPoint>
+    <navPoint id="u41340f37-cb8b-4ecf-8c7e-e7acc448e2ac" playOrder="1">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index_split_000.html#25"/>
+    </navPoint>
+    <navPoint id="uac00f78e-ebad-4d61-b260-1124ea307fa6" playOrder="2">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index_split_000.html#35"/>
+    </navPoint>
+    <navPoint id="u8872f845-a733-4352-b4ce-81007e621789" playOrder="3">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index_split_000.html#41"/>
+    </navPoint>
+    <navPoint id="u0d586205-cc62-4a4d-9f45-ef9ab06ff9c7" playOrder="4">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index_split_000.html#47"/>
+    </navPoint>
+    <navPoint id="u039f58b3-419d-4b2c-a98a-e57d6df2ecb7" playOrder="5">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index_split_000.html#59"/>
+    </navPoint>
+    <navPoint id="u9c8cd7d0-3803-490f-b86a-857342db6f10" playOrder="6">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index_split_000.html#69"/>
+    </navPoint>
+    <navPoint id="udf13ab12-34ad-4f04-a8ab-1f80fd785aa0" playOrder="7">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index_split_000.html#83"/>
+    </navPoint>
+    <navPoint id="u71e131d1-5d08-4d98-8b4b-08f338c8b096" playOrder="8">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index_split_000.html#91"/>
+    </navPoint>
+    <navPoint id="ufa6c4449-c1ed-47b1-8feb-17eaafc586e8" playOrder="9">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index_split_000.html#99"/>
+    </navPoint>
+    <navPoint id="u0e86d8f0-d328-49f4-93aa-00cad9cd93df" playOrder="10">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index_split_000.html#109"/>
+    </navPoint>
+    <navPoint id="u5bdc797d-6b29-471a-9e6b-8675f2a72262" playOrder="11">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index_split_000.html#125"/>
+    </navPoint>
+    <navPoint id="u3dca5979-6235-4e6a-9235-68cd54d0362a" playOrder="12">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index_split_000.html#131"/>
+    </navPoint>
+    <navPoint id="ufbbf0008-b170-49d6-8a8e-459e3cf14182" playOrder="13">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index_split_000.html#139"/>
+    </navPoint>
+    <navPoint id="ub515151b-8d44-4ae6-845e-c056d6b0ea8b" playOrder="14">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index_split_000.html#145"/>
+    </navPoint>
+    <navPoint id="uc4b125be-f900-4ec4-939f-a267ac067234" playOrder="15">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="index_split_000.html#153"/>
+    </navPoint>
+    <navPoint id="uae80bbb9-985c-4812-bd9a-c55c1e1e649c" playOrder="16">
+      <navLabel>
+        <text>Pour aller plus loin</text>
+      </navLabel>
+      <content src="index_split_000.html#154"/>
+    </navPoint>
+    <navPoint id="uc8e560e7-b4ac-479e-b01d-0fbc14df6d4c" playOrder="17">
+      <navLabel>
+        <text>Crédits photographiques</text>
+      </navLabel>
+      <content src="index_split_000.html#156"/>
+    </navPoint>
+    <navPoint id="u48847c5f-c369-4736-8133-ed26b859b979" playOrder="18">
+      <navLabel>
+        <text>Tableau récapitulatif</text>
+      </navLabel>
+      <content src="index_split_000.html#158"/>
+    </navPoint>
+    <navPoint id="u33ddd3de-1d43-459b-bdb0-27d3afabc135" playOrder="19">
+      <navLabel>
+        <text>Couverture</text>
+      </navLabel>
+      <content src="index_split_000.html#1"/>
+    </navPoint>
+    <navPoint id="u290f4a52-6390-4f10-a609-3c67f8b9095c" playOrder="20">
+      <navLabel>
+        <text>Comprendre l'art contemporain</text>
+      </navLabel>
+      <content src="index_split_000.html#144"/>
+    </navPoint>
+    <navPoint id="u34509133-a900-4d1c-a486-41069224fda8" playOrder="21">
+      <navLabel>
+        <text>Sommaire</text>
+      </navLabel>
+      <content src="index_split_000.html#6"/>
+    </navPoint>
+    <navPoint id="uf451fb1d-f74b-4039-bd2c-8c5980be0af4" playOrder="22">
+      <navLabel>
+        <text>Chap 12 - Peut-on faire de l'art sur tous les supports et avec tous les matériaux ?</text>
+      </navLabel>
+      <content src="index_split_000.html#117"/>
+    </navPoint>
+    <navPoint id="ua9906410-8f92-4b6e-8def-29c09b1f2a9e" playOrder="23">
+      <navLabel>
+        <text>Annexes</text>
+      </navLabel>
+      <content src="index_split_000.html#152"/>
+    </navPoint>
+  </navMap>
+</ncx>

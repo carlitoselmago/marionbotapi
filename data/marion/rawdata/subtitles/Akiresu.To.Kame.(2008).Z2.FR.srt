@@ -1,0 +1,3873 @@
+1
+00:00:31,120 --> 00:00:34,157
+Bonjour
+
+2
+00:00:34,360 --> 00:00:37,511
+WOWOW - Bonjour
+
+3
+00:00:50,320 --> 00:00:52,550
+Réponds à cette question.
+
+4
+00:00:52,760 --> 00:00:53,795
+Je vous écoute.
+
+5
+00:00:54,600 --> 00:00:59,151
+Prenons Achille, qui court très vite,
+et une tortue, très lente.
+
+6
+00:01:00,400 --> 00:01:02,755
+La tortue se déplace
+de 1 mètre par seconde.
+
+7
+00:01:03,800 --> 00:01:06,678
+La vitesse d'Achille
+est de 10 mètres par seconde.
+
+8
+00:01:07,840 --> 00:01:11,549
+Si la tortue part
+avec 9 mètres d'avance sur Achille,
+
+9
+00:01:12,040 --> 00:01:14,270
+ce dernier peut-il la rattraper ?
+
+10
+00:01:15,320 --> 00:01:17,550
+Sans aucun doute.
+
+11
+00:01:18,360 --> 00:01:20,555
+En es-tu vraiment certain ?
+
+12
+00:01:21,720 --> 00:01:25,679
+Il atteindra le point de départ
+de la tortue en 9/10e de seconde.
+
+13
+00:01:26,040 --> 00:01:29,715
+Pendant ce temps,
+la tortue aura avancé de 0,9 mètre.
+
+14
+00:01:30,160 --> 00:01:31,036
+Oui.
+
+15
+00:01:31,280 --> 00:01:34,989
+Il faudra encore
+9/100e de seconde à Achille
+
+16
+00:01:35,440 --> 00:01:38,193
+pour arriver
+à l'endroit où était la tortue.
+
+17
+00:01:38,520 --> 00:01:42,832
+Mais la tortue, elle,
+aura progressé de 0,09 mètre.
+
+18
+00:01:43,240 --> 00:01:44,036
+Oui.
+
+19
+00:01:44,760 --> 00:01:48,673
+Pour rejoindre l'endroit
+où se trouvait la tortue,
+
+20
+00:01:48,960 --> 00:01:51,599
+Achille mettra 9/1000e de seconde.
+
+21
+00:01:52,160 --> 00:01:56,472
+La tortue, elle,
+aura avancé de 0,009 mètre.
+
+22
+00:02:00,680 --> 00:02:03,194
+Cette course
+peut se poursuivre indéfiniment.
+
+23
+00:02:03,880 --> 00:02:07,759
+Achille ne pourra jamais rattraper
+la tortue.
+
+24
+00:02:19,760 --> 00:02:29,351
+ACHILLE ET LA TORTUE
+
+25
+00:02:38,360 --> 00:02:41,636
+M. Kuramochi, si on chantait
+une chanson française ?
+
+26
+00:02:41,840 --> 00:02:45,469
+<i>Parlez-moi d'amour</i>
+
+27
+00:02:46,120 --> 00:02:52,719
+<i>Redites-moi des choses tendres</i>
+
+28
+00:02:53,280 --> 00:02:58,149
+<i>Votre beau discours</i>
+
+29
+00:02:58,840 --> 00:03:03,630
+<i>Mon coeur n'est pas las de l'entendre</i>
+
+30
+00:03:05,400 --> 00:03:08,995
+<i>Pourvu que toujours</i>
+
+31
+00:03:09,720 --> 00:03:15,033
+<i>Vous répétiez ces mots suprêmes</i>
+
+32
+00:03:16,040 --> 00:03:19,919
+<i>Je vous aime</i>
+
+33
+00:03:25,440 --> 00:03:26,873
+Je suis rentré !
+
+34
+00:03:27,760 --> 00:03:28,715
+Venez !
+
+35
+00:03:38,040 --> 00:03:39,155
+Entrez, venez.
+
+36
+00:03:39,840 --> 00:03:41,034
+Apporte-nous du vin.
+
+37
+00:03:41,280 --> 00:03:42,679
+Excusez-nous.
+
+38
+00:03:43,800 --> 00:03:45,677
+C'est encore nous.
+
+39
+00:03:46,080 --> 00:03:50,870
+Combien de jours faut-il
+pour aller en France ?
+
+40
+00:03:51,320 --> 00:03:53,675
+Neuf.
+
+41
+00:03:54,720 --> 00:03:56,278
+C'était épuisant.
+
+42
+00:03:56,800 --> 00:03:58,119
+Je n'aime pas leur cuisine.
+
+43
+00:03:59,440 --> 00:04:00,589
+Il faisait froid ?
+
+44
+00:04:00,800 --> 00:04:02,950
+Glacial.
+
+45
+00:04:03,240 --> 00:04:05,117
+Je déteste le froid.
+
+46
+00:04:07,000 --> 00:04:11,471
+Maître Takanawa, vous avez peint
+ce tableau il y a dix ans.
+
+47
+00:04:11,920 --> 00:04:13,114
+Vous vous souvenez ?
+
+48
+00:04:13,960 --> 00:04:15,632
+Bien sûr.
+
+49
+00:04:15,960 --> 00:04:20,158
+Je dois avouer qu'à l'époque,
+mon style n'était pas encore défini.
+
+50
+00:04:20,440 --> 00:04:23,477
+Ma peinture ressemblait
+à du Picasso ou du Matisse,
+
+51
+00:04:23,880 --> 00:04:24,995
+je me cherchais.
+
+52
+00:04:25,200 --> 00:04:28,590
+Vous m'avez aidé
+en achetant mes tableaux, M. Kuramochi.
+
+53
+00:04:29,120 --> 00:04:31,315
+J'étais sans le sou.
+
+54
+00:04:31,680 --> 00:04:35,673
+En plus, M. Kuramochi
+vient de vous emmener en France.
+
+55
+00:04:36,040 --> 00:04:37,519
+Vous avez de la chance.
+
+56
+00:04:37,920 --> 00:04:39,592
+Encore merci.
+
+57
+00:04:40,480 --> 00:04:42,710
+Maître, dans le monde de l'art,
+
+58
+00:04:43,160 --> 00:04:47,631
+les gens talentueux ont besoin
+de mécènes qui comprennent leur travail
+
+59
+00:04:48,240 --> 00:04:50,754
+et les aident à devenir célèbres.
+
+60
+00:04:51,360 --> 00:04:55,035
+Même le plus génial des artistes,
+s'il ne trouve pas de mécène,
+
+61
+00:04:55,640 --> 00:04:59,189
+s'il n'a pas quelqu'un comme vous,
+il est fichu.
+
+62
+00:05:00,440 --> 00:05:01,634
+C'est bien vrai.
+
+63
+00:05:02,240 --> 00:05:04,879
+M. Kuramochi, je vous remercie.
+
+64
+00:05:05,080 --> 00:05:06,479
+De rien.
+
+65
+00:05:07,800 --> 00:05:09,438
+Que fait Machisu ?
+
+66
+00:05:09,840 --> 00:05:11,558
+Il dessine dans sa chambre.
+
+67
+00:05:12,160 --> 00:05:13,559
+Il dessine encore ?
+
+68
+00:05:14,640 --> 00:05:18,315
+Aurait-il hérité de ma passion
+pour la peinture ?
+
+69
+00:05:19,000 --> 00:05:22,390
+- Comment sont ses dessins ?
+- Ils n'ont rien de spécial.
+
+70
+00:05:22,760 --> 00:05:24,398
+Ce n'est qu'un enfant.
+
+71
+00:05:24,640 --> 00:05:27,791
+J'aimerais voir ce qu'il fait.
+
+72
+00:05:28,680 --> 00:05:30,750
+- Vous êtes sûr ?
+- Oui, vraiment.
+
+73
+00:05:31,360 --> 00:05:33,590
+Vous pouvez l'aider à s'améliorer.
+
+74
+00:05:38,760 --> 00:05:40,671
+Ces dessins sont magnifiques.
+
+75
+00:05:42,480 --> 00:05:45,552
+Très peu d'enfants ont un style
+aussi libre et puissant.
+
+76
+00:05:47,560 --> 00:05:48,913
+S'il continue à progresser,
+
+77
+00:05:49,280 --> 00:05:52,078
+il sera bientôt meilleur que moi.
+
+78
+00:05:54,520 --> 00:05:55,396
+Machisu, qui est-ce ?
+
+79
+00:05:55,680 --> 00:05:56,829
+Cette dame.
+
+80
+00:05:58,280 --> 00:06:00,032
+Tu exagères, petit !
+
+81
+00:06:00,840 --> 00:06:02,398
+Ne dessine pas n'importe comment.
+
+82
+00:06:06,960 --> 00:06:07,756
+Dis...
+
+83
+00:06:08,840 --> 00:06:09,909
+Machisu,
+
+84
+00:06:10,120 --> 00:06:12,315
+les yeux du turbot sont verticaux,
+pas horizontaux.
+
+85
+00:06:13,280 --> 00:06:16,078
+Observe bien ton sujet avant de peindre.
+
+86
+00:06:20,240 --> 00:06:21,229
+J'ai une idée.
+
+87
+00:06:22,640 --> 00:06:24,119
+Machisu,
+
+88
+00:06:24,400 --> 00:06:25,753
+je te le donne.
+
+89
+00:06:27,920 --> 00:06:29,353
+Il est trop grand pour toi
+
+90
+00:06:30,000 --> 00:06:31,991
+mais tu pourras le mettre plus tard.
+
+91
+00:06:33,200 --> 00:06:35,191
+Tu dois être content, Machisu.
+
+92
+00:06:35,840 --> 00:06:37,796
+Le maître t'offre un cadeau.
+
+93
+00:06:38,000 --> 00:06:40,036
+Tu as de la chance, Machisu.
+
+94
+00:06:44,200 --> 00:06:46,839
+Machisu se mit à rêver
+de devenir peintre.
+
+95
+00:06:47,040 --> 00:06:49,076
+Peut-être fut-il
+un peu influencé.
+
+96
+00:06:58,200 --> 00:07:02,034
+École primaire de Fukumi
+
+97
+00:07:03,160 --> 00:07:04,752
+Bonne journée, petit.
+
+98
+00:07:04,960 --> 00:07:06,188
+Au revoir.
+
+99
+00:07:17,920 --> 00:07:21,037
+Trouvons le dénominateur commun.
+
+100
+00:07:22,320 --> 00:07:24,231
+Deux fois deux égale quatre.
+
+101
+00:07:24,480 --> 00:07:26,436
+Une fois deux égale deux.
+
+102
+00:07:28,120 --> 00:07:30,395
+Nous avons donc le dénominateur commun.
+
+103
+00:07:32,880 --> 00:07:36,270
+Nous ajoutons ensuite
+uniquement les numérateurs.
+
+104
+00:07:36,480 --> 00:07:39,278
+Pas les dénominateurs,
+juste les numérateurs.
+
+105
+00:07:39,480 --> 00:07:41,391
+C'est très important.
+
+106
+00:07:42,680 --> 00:07:45,478
+Nous conservons
+le dénominateur commun, quatre.
+
+107
+00:07:45,960 --> 00:07:48,428
+Aux numérateurs,
+deux plus un égale trois.
+
+108
+00:07:49,040 --> 00:07:51,600
+La réponse est donc trois quarts.
+Vous avez compris ?
+
+109
+00:07:51,840 --> 00:07:52,875
+Oui.
+
+110
+00:07:53,240 --> 00:07:54,639
+Ensuite...
+
+111
+00:07:55,080 --> 00:07:57,116
+un demi plus un tiers.
+
+112
+00:07:57,320 --> 00:07:58,548
+Maître !
+
+113
+00:07:59,480 --> 00:08:01,357
+Kuramochi dessine encore.
+
+114
+00:08:07,640 --> 00:08:09,631
+Lui, il a le droit.
+
+115
+00:08:10,280 --> 00:08:14,831
+Plus tard, son père l'emmènera en France
+pour qu'il soit peintre.
+
+116
+00:08:19,120 --> 00:08:20,314
+C'est moi ?
+
+117
+00:08:21,400 --> 00:08:23,470
+Ton style est audacieux.
+
+118
+00:08:24,560 --> 00:08:26,915
+Tu as raison de t'exprimer librement.
+
+119
+00:08:32,640 --> 00:08:33,675
+Où vas-tu, Kuramochi ?
+
+120
+00:08:33,880 --> 00:08:35,518
+Je sors dessiner.
+
+121
+00:08:42,720 --> 00:08:44,836
+Allez, faites cet exercice.
+
+122
+00:09:08,760 --> 00:09:11,672
+Maître Takanawa,
+à qui pourrais-je le vendre ?
+
+123
+00:09:13,880 --> 00:09:16,235
+Dites à Kuramochi
+que c'est un impressionniste.
+
+124
+00:09:21,280 --> 00:09:22,713
+Il n'y connaît rien.
+
+125
+00:09:23,520 --> 00:09:25,238
+Vous avez raison.
+
+126
+00:09:34,960 --> 00:09:36,916
+Au revoir.
+
+127
+00:10:08,200 --> 00:10:10,475
+Abruti !
+Qu'est-ce que tu fais ?
+
+128
+00:10:10,960 --> 00:10:12,234
+C'est dangereux !
+
+129
+00:10:12,880 --> 00:10:13,915
+Dégage !
+
+130
+00:10:15,800 --> 00:10:18,553
+C'est le fils de M. Kuramochi.
+
+131
+00:10:21,720 --> 00:10:22,596
+Petit,
+
+132
+00:10:23,800 --> 00:10:25,392
+veux-tu bien aller ailleurs ?
+
+133
+00:10:26,480 --> 00:10:27,629
+C'est dangereux, ici.
+
+134
+00:10:43,760 --> 00:10:47,116
+Petit,
+pourrais-tu nous laisser avancer ?
+
+135
+00:10:48,880 --> 00:10:49,949
+Kuramochi,
+
+136
+00:10:51,040 --> 00:10:52,189
+laissons-les passer.
+
+137
+00:10:52,560 --> 00:10:53,276
+D'accord.
+
+138
+00:11:21,560 --> 00:11:25,758
+Machisu, les yeux du turbot
+sont verticaux, pas horizontaux.
+
+139
+00:12:29,160 --> 00:12:31,594
+C'est vraiment du Blue Mountain ?
+
+140
+00:12:32,080 --> 00:12:33,149
+Oui.
+
+141
+00:12:37,840 --> 00:12:39,751
+Il n'est pas bon du tout.
+
+142
+00:12:41,760 --> 00:12:45,469
+Le torréfacteur
+l'a sûrement mélangé à autre chose.
+
+143
+00:12:46,160 --> 00:12:48,913
+Il ne comprend pas
+que le café est une culture.
+
+144
+00:12:50,080 --> 00:12:51,991
+Je déteste les rustres.
+
+145
+00:12:54,320 --> 00:12:56,038
+Que fait Machisu ?
+
+146
+00:12:57,120 --> 00:12:59,554
+Il est sorti dessiner.
+
+147
+00:13:16,320 --> 00:13:17,833
+Petit,
+
+148
+00:13:18,640 --> 00:13:21,473
+c'est difficile
+de faire poser des poules.
+
+149
+00:13:22,640 --> 00:13:25,598
+Par ici, ne bougez pas.
+Le petit vous dessine.
+
+150
+00:13:27,600 --> 00:13:31,309
+Maître Takanawa
+a rapporté ce tableau de France.
+
+151
+00:13:31,640 --> 00:13:35,952
+Il avait besoin d'une somme importante
+que je lui ai avancée.
+
+152
+00:13:36,520 --> 00:13:38,511
+Il me l'a donné en gage.
+
+153
+00:13:39,200 --> 00:13:40,918
+De qui est-il ?
+
+154
+00:13:42,040 --> 00:13:44,190
+Je ne peux pas vous le dire
+
+155
+00:13:44,440 --> 00:13:49,958
+mais ce peintre sera bientôt connu
+et le tableau prendra de la valeur.
+
+156
+00:13:50,560 --> 00:13:51,549
+Vous êtes sûr ?
+
+157
+00:13:51,840 --> 00:13:53,068
+Oui.
+
+158
+00:14:14,680 --> 00:14:16,716
+Les vers à soie sont tous morts ?
+
+159
+00:14:20,680 --> 00:14:21,999
+Dans ce cas...
+
+160
+00:14:22,640 --> 00:14:26,269
+allons-nous devoir fermer l'usine ?
+
+161
+00:14:27,920 --> 00:14:31,230
+Peut-on se faire envoyer
+des vers à soie de France ?
+
+162
+00:14:31,640 --> 00:14:35,633
+Non...
+Ce n'est pas la saison là-bas.
+
+163
+00:14:38,320 --> 00:14:39,594
+Alors que fait-on ?
+
+164
+00:14:44,600 --> 00:14:45,919
+Que fait-on ?
+
+165
+00:15:11,920 --> 00:15:13,478
+M. Le directeur.
+
+166
+00:15:13,840 --> 00:15:17,958
+M. Le président, demain,
+que fait-on pour la banque ?
+
+167
+00:15:18,240 --> 00:15:19,116
+Pourquoi ?
+
+168
+00:15:19,800 --> 00:15:20,630
+Ouvrons-nous ?
+
+169
+00:15:22,240 --> 00:15:23,309
+Bien sûr.
+
+170
+00:15:25,120 --> 00:15:26,758
+Les clients
+vont tous retirer leur argent.
+
+171
+00:15:27,320 --> 00:15:28,594
+Ça sera terrible.
+
+172
+00:15:29,960 --> 00:15:31,678
+Il faut ouvrir,
+nous n'avons pas le choix !
+
+173
+00:15:47,680 --> 00:15:49,875
+Élevages de vers à soie anéantis
+
+174
+00:15:51,400 --> 00:15:52,753
+Les Soies Kuramochi en chute libre
+
+175
+00:15:54,080 --> 00:15:55,832
+La Banque Kuramochi en faillite
+
+176
+00:16:14,200 --> 00:16:16,589
+Nous sommes finis.
+
+177
+00:16:17,920 --> 00:16:21,879
+Vous non plus,
+vous n'avez pas ménagé votre peine.
+
+178
+00:16:26,400 --> 00:16:30,473
+Mais... je suis certain
+que nous allons rebondir.
+
+179
+00:16:37,960 --> 00:16:40,235
+Cessez de pleurer.
+
+180
+00:16:41,840 --> 00:16:43,478
+Allez, buvez un bon coup.
+
+181
+00:18:12,160 --> 00:18:13,752
+Nous avons identifié les corps.
+
+182
+00:18:14,120 --> 00:18:17,795
+Il s'agit de Risuke Kuramochi
+et d'une geisha, Michiyakko.
+
+183
+00:18:18,120 --> 00:18:19,155
+Double suicide.
+
+184
+00:18:19,720 --> 00:18:22,712
+Les sociétés de M. Kuramochi
+viennent de faire faillite.
+
+185
+00:18:48,600 --> 00:18:49,953
+Bonsoir.
+
+186
+00:18:56,640 --> 00:18:57,959
+Excusez-moi.
+
+187
+00:19:02,200 --> 00:19:04,475
+Toutes mes condoléances.
+
+188
+00:19:10,120 --> 00:19:11,473
+Pardon.
+
+189
+00:19:14,640 --> 00:19:16,232
+- Attendez !
+- La ferme !
+
+190
+00:19:26,760 --> 00:19:28,432
+Prenez les objets de valeur !
+
+191
+00:19:28,640 --> 00:19:31,757
+Il y a quatre tableaux intéressants
+dans le salon.
+
+192
+00:19:34,440 --> 00:19:38,319
+Sinon...
+dans cette pièce, il y a...
+
+193
+00:19:42,440 --> 00:19:44,590
+la bague de sa femme.
+
+194
+00:19:55,280 --> 00:19:56,633
+Tes mains !
+
+195
+00:20:06,040 --> 00:20:08,270
+Bien petite bague
+pour la femme de Kuramochi.
+
+196
+00:20:26,640 --> 00:20:29,234
+- C'est quoi, ici ?
+- La chambre du gosse.
+
+197
+00:20:36,080 --> 00:20:37,718
+Rien d'intéressant.
+
+198
+00:20:53,520 --> 00:20:55,112
+Des dessins de gamin.
+
+199
+00:20:55,880 --> 00:20:57,074
+Ça vaut rien.
+
+200
+00:20:57,360 --> 00:20:59,316
+Bien sûr que non.
+
+201
+00:20:59,960 --> 00:21:03,714
+Les seuls objets valables,
+ce serait ses jouets en fer-blanc.
+
+202
+00:21:05,120 --> 00:21:07,270
+Rien à en tirer.
+
+203
+00:21:09,720 --> 00:21:10,914
+L'imbécile.
+
+204
+00:21:11,720 --> 00:21:14,188
+Ces dessins peuvent rapporter gros.
+
+205
+00:21:15,120 --> 00:21:18,749
+Il suffit de les faire passer
+pour des toiles de maître.
+
+206
+00:21:23,920 --> 00:21:25,273
+Pousse-toi !
+
+207
+00:22:02,480 --> 00:22:04,277
+J'ai oublié quelque chose.
+
+208
+00:22:36,400 --> 00:22:38,118
+Tu voulais l'emporter ?
+
+209
+00:22:38,640 --> 00:22:39,470
+Oui.
+
+210
+00:23:24,720 --> 00:23:26,312
+Ne pleure pas.
+
+211
+00:23:29,240 --> 00:23:31,310
+Je suis désolée.
+
+212
+00:25:44,960 --> 00:25:46,473
+Qu'est-ce que tu racontes ?
+
+213
+00:25:49,720 --> 00:25:52,792
+Mon frère ne m'a jamais aidé
+financièrement.
+
+214
+00:25:53,120 --> 00:25:54,838
+Il refusait de me voir.
+
+215
+00:25:55,800 --> 00:25:57,438
+Je suis désolée.
+
+216
+00:25:58,760 --> 00:26:00,079
+Tu veux que je te dise ?
+
+217
+00:26:01,440 --> 00:26:03,192
+Tu l'as épousé pour l'argent
+
+218
+00:26:04,080 --> 00:26:06,116
+alors qu'il avait déjà ce fils.
+
+219
+00:26:06,320 --> 00:26:07,355
+Et maintenant ?
+
+220
+00:26:08,240 --> 00:26:09,958
+Tu fuis parce qu'il n'y a plus de fric
+
+221
+00:26:10,720 --> 00:26:12,358
+et tu nous laisses le gamin.
+
+222
+00:26:14,720 --> 00:26:16,392
+Je suis désolée.
+
+223
+00:26:17,200 --> 00:26:18,997
+On peut les aider, quand même.
+
+224
+00:26:19,800 --> 00:26:21,199
+Ils sont dans le pétrin.
+
+225
+00:26:21,760 --> 00:26:23,398
+Ce garçon est encore petit.
+
+226
+00:26:28,160 --> 00:26:29,309
+On s'en occupe 2 ou 3 ans.
+
+227
+00:26:30,120 --> 00:26:31,473
+Après, tu le reprends !
+
+228
+00:26:35,560 --> 00:26:36,709
+Écoute,
+
+229
+00:26:37,240 --> 00:26:41,233
+aide bien ton oncle
+et sois un gentil garçon.
+
+230
+00:26:42,480 --> 00:26:44,072
+Je te promets de revenir.
+
+231
+00:26:47,120 --> 00:26:49,873
+Ses affaires...
+Je suis désolée.
+
+232
+00:26:51,200 --> 00:26:53,111
+Merci de prendre soin de lui.
+
+233
+00:27:07,600 --> 00:27:08,919
+Reste pas planté là !
+
+234
+00:27:10,960 --> 00:27:12,439
+Nettoie la cour.
+
+235
+00:27:13,160 --> 00:27:15,355
+T'es pas là pour rien faire.
+
+236
+00:27:16,800 --> 00:27:18,199
+Et nourris les poules.
+
+237
+00:27:18,440 --> 00:27:19,668
+Compris ?
+
+238
+00:28:22,200 --> 00:28:24,589
+Il est énervant, ce gosse.
+
+239
+00:28:56,160 --> 00:28:59,994
+Je t'ai pas demandé de les dessiner
+mais de les nourrir.
+
+240
+00:29:00,960 --> 00:29:03,838
+On va te loger et te donner à manger.
+
+241
+00:29:04,720 --> 00:29:06,358
+Alors en échange, travaille !
+
+242
+00:29:11,280 --> 00:29:12,759
+Crétin !
+
+243
+00:29:25,640 --> 00:29:28,154
+Il n'est pas encore connu
+
+244
+00:29:28,640 --> 00:29:30,358
+mais c'est un génie.
+
+245
+00:29:31,040 --> 00:29:33,998
+Hélas, il est mort à l'âge de 12 ans.
+
+246
+00:29:35,000 --> 00:29:37,514
+Ses tableaux prennent de la valeur.
+
+247
+00:29:38,200 --> 00:29:39,394
+Comment s'appelle-t-il ?
+
+248
+00:29:41,080 --> 00:29:44,231
+Je ne peux pas le dire,
+j'ai mes raisons.
+
+249
+00:29:45,280 --> 00:29:46,554
+Quelles raisons ?
+
+250
+00:29:49,560 --> 00:29:50,390
+Monsieur,
+
+251
+00:29:51,920 --> 00:29:54,593
+le secret fait
+toute la valeur du tableau.
+
+252
+00:29:59,600 --> 00:30:00,669
+Matazo.
+
+253
+00:30:03,560 --> 00:30:04,788
+On y va.
+
+254
+00:30:06,520 --> 00:30:07,839
+Il fait froid.
+
+255
+00:30:10,000 --> 00:30:11,752
+Il est l'heure de dîner.
+
+256
+00:30:14,960 --> 00:30:16,871
+Le paysage sera encore là demain.
+
+257
+00:31:01,880 --> 00:31:03,757
+Merci pour le repas.
+
+258
+00:31:07,520 --> 00:31:09,476
+Si tu as fini, débarrasse, abruti.
+
+259
+00:31:28,400 --> 00:31:30,516
+Est-ce qu'on l'envoie à l'école ?
+
+260
+00:31:31,520 --> 00:31:34,432
+Inutile.
+Il va pas rester longtemps.
+
+261
+00:31:35,200 --> 00:31:37,395
+Pourquoi s'embêter avec ça ?
+
+262
+00:31:38,080 --> 00:31:39,559
+On n'a pas les moyens.
+
+263
+00:31:42,920 --> 00:31:44,273
+Allons-y.
+
+264
+00:31:46,080 --> 00:31:47,035
+Hé !
+
+265
+00:31:47,400 --> 00:31:48,674
+Obéis-moi.
+
+266
+00:31:49,280 --> 00:31:51,396
+Fais la vaisselle, compris ?
+
+267
+00:32:13,880 --> 00:32:15,632
+Tu joues ?
+
+268
+00:32:21,880 --> 00:32:24,030
+Je m'appelle Matazo.
+
+269
+00:32:24,440 --> 00:32:26,192
+Comment tu t'appelles ?
+
+270
+00:32:26,400 --> 00:32:27,719
+Machisu.
+
+271
+00:32:29,400 --> 00:32:32,631
+Machisu ?
+C'est bizarre, comme nom.
+
+272
+00:33:04,800 --> 00:33:06,438
+Qu'est-ce qu'il a fabriqué ?
+
+273
+00:33:06,760 --> 00:33:08,876
+La pluie risque de tout tremper.
+
+274
+00:33:21,760 --> 00:33:24,320
+Quoi ?
+Il a rien nettoyé du tout.
+
+275
+00:33:29,440 --> 00:33:32,671
+Dis, je t'avais demandé
+de faire la vaisselle.
+
+276
+00:33:33,440 --> 00:33:34,953
+T'as rien nettoyé !
+
+277
+00:33:35,520 --> 00:33:36,635
+Bon à rien !
+
+278
+00:33:39,240 --> 00:33:40,958
+Viens voir !
+
+279
+00:33:51,720 --> 00:33:54,951
+Ce garçon aime vraiment dessiner.
+
+280
+00:33:55,880 --> 00:33:57,393
+Laisse-le faire.
+
+281
+00:33:58,720 --> 00:34:01,917
+Et permets-lui d'aller à l'école.
+
+282
+00:34:03,600 --> 00:34:05,955
+Pourquoi ce serait à moi
+de le scolariser ?
+
+283
+00:34:22,240 --> 00:34:23,639
+Il est fou.
+
+284
+00:34:23,840 --> 00:34:25,796
+Par ce froid, il porte un short.
+
+285
+00:34:26,600 --> 00:34:27,715
+C'est bizarre.
+
+286
+00:34:31,040 --> 00:34:34,350
+Je vous présente votre nouveau camarade,
+Machisu Kuramochi.
+
+287
+00:34:34,640 --> 00:34:36,119
+Bonjour.
+
+288
+00:34:36,760 --> 00:34:39,149
+Commençons par le cours de japonais.
+
+289
+00:34:39,480 --> 00:34:42,870
+Nous allons poursuivre
+l'étude des idéogrammes.
+
+290
+00:34:43,120 --> 00:34:44,838
+Avez-vous vos livres et cahiers ?
+
+291
+00:34:45,560 --> 00:34:46,117
+Bien.
+
+292
+00:34:46,400 --> 00:34:48,960
+Alors je vais vous interroger.
+
+293
+00:34:52,840 --> 00:34:54,592
+- Que désigne ce caractère ?
+- La bouche !
+
+294
+00:34:54,920 --> 00:34:56,399
+La bouche, oui.
+
+295
+00:34:56,600 --> 00:35:01,879
+Si j'ajoute un trait à l'intérieur,
+le sens change.
+
+296
+00:35:03,200 --> 00:35:04,030
+J'écoute.
+
+297
+00:35:04,520 --> 00:35:05,953
+Oui, Aoi.
+
+298
+00:35:07,280 --> 00:35:08,998
+- Le jour.
+- Oui, le jour.
+
+299
+00:35:09,760 --> 00:35:10,829
+C'est ça.
+
+300
+00:35:11,040 --> 00:35:14,191
+Et en ajoutant deux traits,
+ça signifie quoi ?
+
+301
+00:35:14,680 --> 00:35:16,113
+L'oeil.
+
+302
+00:35:16,320 --> 00:35:18,436
+L'oeil, c'est bien.
+
+303
+00:35:20,560 --> 00:35:25,793
+Ainsi, en ajoutant des traits,
+on obtient d'autres idéogrammes.
+
+304
+00:35:26,160 --> 00:35:28,993
+Encore un exemple,
+l'idéogramme de la rizière.
+
+305
+00:35:30,720 --> 00:35:31,311
+Voilà.
+
+306
+00:35:31,600 --> 00:35:34,512
+Essayez d'en trouver d'autres.
+
+307
+00:35:35,760 --> 00:35:37,193
+Oui, Okada.
+
+308
+00:35:38,680 --> 00:35:39,510
+Le dessin.
+
+309
+00:35:39,960 --> 00:35:42,554
+Le dessin, oui.
+
+310
+00:35:46,160 --> 00:35:46,717
+Ensuite ?
+
+311
+00:35:47,280 --> 00:35:48,076
+Oui, Aoi.
+
+312
+00:35:48,280 --> 00:35:51,033
+Une bouche dans une bouche,
+ça donne "tourner".
+
+313
+00:35:51,360 --> 00:35:55,353
+Tourner. Oui, très bien.
+Tourner, comme dans "tourner autour".
+
+314
+00:35:55,760 --> 00:35:57,034
+D'autres exemples ?
+
+315
+00:35:57,280 --> 00:35:58,269
+Oui, Ueki.
+
+316
+00:35:58,920 --> 00:35:59,477
+Quatre.
+
+317
+00:35:59,680 --> 00:36:01,591
+Quatre, oui. Le chiffre quatre.
+
+318
+00:36:01,800 --> 00:36:03,597
+Un, deux, trois, quatre.
+
+319
+00:36:05,520 --> 00:36:07,192
+Vous avez tous bien travaillé.
+
+320
+00:36:13,080 --> 00:36:14,195
+Que fais-tu ?
+
+321
+00:36:17,840 --> 00:36:19,159
+Pas de dessins en classe !
+
+322
+00:37:49,320 --> 00:37:50,958
+Non, pas comme ça.
+
+323
+00:37:51,600 --> 00:37:53,079
+T'es nul.
+
+324
+00:37:54,640 --> 00:37:55,709
+Regarde.
+
+325
+00:38:10,440 --> 00:38:12,829
+J'aimerais dessiner un train ou un bus
+
+326
+00:38:13,400 --> 00:38:15,675
+mais ils passent trop vite.
+
+327
+00:38:16,520 --> 00:38:18,829
+On peut les arrêter
+en se mettant devant.
+
+328
+00:38:33,000 --> 00:38:34,035
+Le voilà !
+
+329
+00:38:54,800 --> 00:38:55,710
+Imbéciles !
+
+330
+00:38:56,080 --> 00:38:57,513
+Poussez-vous de là !
+
+331
+00:38:57,760 --> 00:38:59,557
+Mon bus peut pas passer !
+
+332
+00:39:52,280 --> 00:39:53,508
+Petit...
+
+333
+00:39:55,200 --> 00:39:56,679
+C'est moi, Aki.
+
+334
+00:40:08,320 --> 00:40:09,992
+Merci d'être venues.
+
+335
+00:40:29,000 --> 00:40:31,753
+Elle n'a pas de famille
+donc je dois m'en occuper ?
+
+336
+00:40:32,760 --> 00:40:34,079
+Lui faire une tombe ?
+
+337
+00:40:35,040 --> 00:40:37,110
+Mon frère était un salopard.
+
+338
+00:40:37,760 --> 00:40:40,115
+Pourquoi je devrais payer
+pour sa femme ?
+
+339
+00:40:42,440 --> 00:40:44,158
+C'est horrible.
+
+340
+00:40:45,520 --> 00:40:48,717
+Et toi, pense un peu aux autres !
+
+341
+00:40:50,320 --> 00:40:51,912
+Que va-t-on en faire ?
+
+342
+00:41:34,400 --> 00:41:36,834
+Il aurait pu s'offrir
+une tombe décente.
+
+343
+00:41:37,480 --> 00:41:40,040
+Il aurait pas été enterré
+dans ce trou perdu.
+
+344
+00:41:40,840 --> 00:41:43,229
+De toute façon, il pensait qu'au fric.
+
+345
+00:41:44,880 --> 00:41:47,440
+Au moins, sa femme est avec lui.
+
+346
+00:41:48,800 --> 00:41:51,951
+Allez, on rentre.
+Il va faire nuit.
+
+347
+00:41:53,640 --> 00:41:54,868
+Grouillez-vous.
+
+348
+00:42:19,040 --> 00:42:19,836
+Allez !
+
+349
+00:42:28,560 --> 00:42:31,313
+L'électricité coûte cher,
+alors va te coucher.
+
+350
+00:42:42,240 --> 00:42:44,356
+Quelle horreur !
+
+351
+00:42:44,640 --> 00:42:46,437
+Viens voir ! Viens voir !
+
+352
+00:42:49,240 --> 00:42:50,195
+Quoi ?
+
+353
+00:42:50,840 --> 00:42:51,989
+Regarde.
+
+354
+00:42:58,600 --> 00:43:00,591
+Sale morveux...
+
+355
+00:43:01,280 --> 00:43:02,872
+C'est quoi, ce dessin ?
+
+356
+00:43:03,720 --> 00:43:05,119
+Tu vas partir de chez moi !
+
+357
+00:43:06,000 --> 00:43:07,479
+Tu m'en veux ?
+
+358
+00:43:08,120 --> 00:43:10,998
+C'est pas ma faute
+si ta mère est morte !
+
+359
+00:43:11,920 --> 00:43:14,388
+T'entends ce que je te dis ?
+
+360
+00:43:26,520 --> 00:43:27,350
+Alors ?
+
+361
+00:43:29,440 --> 00:43:31,590
+Ils m'ont dit
+de leur amener le gosse aujourd'hui.
+
+362
+00:43:32,520 --> 00:43:37,310
+Apparemment, mon frère
+soutenait financièrement cet orphelinat.
+
+363
+00:43:37,920 --> 00:43:40,036
+Il aurait quand même pu nous aider.
+
+364
+00:43:40,720 --> 00:43:42,836
+Seule sa réputation comptait.
+
+365
+00:43:43,800 --> 00:43:45,199
+Je suis soulagée.
+
+366
+00:43:46,480 --> 00:43:47,151
+T'as écrit la lettre ?
+
+367
+00:43:52,040 --> 00:43:53,075
+Orphelinat des Tournesols
+
+368
+00:43:53,280 --> 00:43:56,590
+Quand tu arriveras là-bas,
+donne-leur cette lettre.
+
+369
+00:43:57,640 --> 00:44:01,872
+Ne passe paston temps à dessiner
+et écoute le professeur.
+
+370
+00:45:09,680 --> 00:45:12,319
+L'abruti !
+Qu'est-ce qui lui a pris ?
+
+371
+00:45:12,920 --> 00:45:15,275
+Pourquoi il s'est jeté
+sous mes roues ?
+
+372
+00:45:16,560 --> 00:45:18,198
+Il s'est jeté sous mes roues !
+
+373
+00:45:18,760 --> 00:45:20,671
+C'est Matazo, de Watsuji !
+
+374
+00:45:21,200 --> 00:45:23,475
+L'idiot qui dessine tout le temps ?
+
+375
+00:46:14,320 --> 00:46:15,912
+Bonjour.
+
+376
+00:46:28,600 --> 00:46:31,239
+Machisu
+
+377
+00:46:33,000 --> 00:46:35,560
+Machisu devint adulte.
+
+378
+00:46:35,760 --> 00:46:40,276
+Il n'avait pas abandonné
+son rêve de devenir peintre.
+
+379
+00:47:52,080 --> 00:47:52,910
+Bonjour.
+
+380
+00:47:53,680 --> 00:47:54,829
+Venez vite manger.
+
+381
+00:47:55,320 --> 00:47:56,673
+Merci.
+
+382
+00:48:19,440 --> 00:48:20,236
+Oui ?
+
+383
+00:48:21,120 --> 00:48:21,870
+Quoi ?
+
+384
+00:48:22,240 --> 00:48:23,832
+Vous n'avez pas été livré ?
+
+385
+00:48:25,480 --> 00:48:27,550
+Il est parti il y a un moment.
+
+386
+00:48:28,800 --> 00:48:29,949
+Je suis désolé.
+
+387
+00:48:30,920 --> 00:48:33,115
+Je lui ai pourtant bien dit...
+
+388
+00:48:34,840 --> 00:48:36,478
+Il a recommencé.
+
+389
+00:48:37,240 --> 00:48:38,912
+Oui, j'arrive.
+
+390
+00:48:57,560 --> 00:48:58,834
+Kuramochi !
+
+391
+00:49:08,640 --> 00:49:11,552
+Kuramochi, tu recommences ?
+Je te l'ai déjà dit.
+
+392
+00:49:11,920 --> 00:49:14,718
+Distribue tous les journaux
+avant de dessiner.
+
+393
+00:49:15,360 --> 00:49:16,839
+J'ai encore une plainte.
+
+394
+00:49:18,000 --> 00:49:19,399
+Je vais t'aider, vite.
+
+395
+00:50:33,240 --> 00:50:36,994
+Votre père était
+un excellent client du mien.
+
+396
+00:50:38,440 --> 00:50:41,398
+C'est amusant
+de se retrouver aujourd'hui.
+
+397
+00:50:47,640 --> 00:50:52,395
+Ne le prenez pas mal,
+mais ce paysage est très banal.
+
+398
+00:50:54,240 --> 00:50:56,276
+Ce n'est pas à la mode.
+
+399
+00:50:58,000 --> 00:51:00,878
+Un tableau doit avoir plus d'impact,
+
+400
+00:51:01,440 --> 00:51:03,908
+sinon, il ne se vend pas.
+
+401
+00:51:05,400 --> 00:51:08,836
+Avec un peu de talent,
+tout le monde peut peindre ça.
+
+402
+00:51:10,720 --> 00:51:12,438
+Essayez d'être original.
+
+403
+00:51:14,840 --> 00:51:16,910
+Vous étudiez la peinture ?
+
+404
+00:51:17,160 --> 00:51:19,037
+Non, je me forme tout seul.
+
+405
+00:51:21,560 --> 00:51:25,189
+À moins d'être un génie,
+une école est indispensable.
+
+406
+00:51:25,960 --> 00:51:28,838
+On y apprend beaucoup de choses.
+
+407
+00:51:30,520 --> 00:51:32,670
+Réalisme, impressionnisme,
+
+408
+00:51:33,600 --> 00:51:37,149
+cubisme, fauvisme,
+art contemporain...
+
+409
+00:51:38,000 --> 00:51:40,150
+La peinture évolue en permanence.
+
+410
+00:51:42,000 --> 00:51:44,150
+Étudiez-la sérieusement.
+
+411
+00:51:51,160 --> 00:51:54,675
+Ce tableau n'aurait sa place
+que dans les bains publics.
+
+412
+00:51:56,360 --> 00:51:59,397
+Même un peintre en bâtiment
+pourrait en faire autant.
+
+413
+00:52:02,960 --> 00:52:04,757
+Documentez-vous sur la peinture moderne.
+
+414
+00:52:09,200 --> 00:52:10,952
+Je vais quand même le garder,
+
+415
+00:52:12,360 --> 00:52:16,148
+si jamais quelqu'un veut l'accrocher
+dans son café.
+
+416
+00:53:01,160 --> 00:53:02,639
+Excusez-moi, patron...
+
+417
+00:53:03,960 --> 00:53:06,872
+Je voudrais changer de travail.
+
+418
+00:53:07,720 --> 00:53:09,073
+Pourquoi ?
+
+419
+00:53:09,800 --> 00:53:11,916
+J'aimerais étudier la peinture.
+
+420
+00:53:13,200 --> 00:53:15,714
+Ça ne t'empêche pas
+de livrer les journaux.
+
+421
+00:53:16,800 --> 00:53:19,109
+Je pense aller dans une école d'art.
+
+422
+00:53:19,840 --> 00:53:22,912
+Il me faut un emploi à plein temps
+pour la payer.
+
+423
+00:53:24,040 --> 00:53:25,678
+Je vois...
+
+424
+00:54:25,960 --> 00:54:28,633
+Machisu,
+tu étudies dans une école d'art ?
+
+425
+00:54:29,040 --> 00:54:29,756
+Oui.
+
+426
+00:54:30,160 --> 00:54:31,752
+Je veux devenir peintre.
+
+427
+00:54:32,520 --> 00:54:34,829
+Mais ça coûte très cher.
+
+428
+00:54:35,440 --> 00:54:37,431
+Comme je n'ai pas de famille,
+
+429
+00:54:38,080 --> 00:54:41,868
+je dois payer moi-même
+les cours et le matériel.
+
+430
+00:54:42,400 --> 00:54:45,597
+C'est bien d'être artiste.
+Je t'admire.
+
+431
+00:54:46,520 --> 00:54:47,953
+Moi, je n'ai aucun talent.
+
+432
+00:54:48,360 --> 00:54:51,397
+Moi non plus.
+J'aime juste peindre.
+
+433
+00:54:54,120 --> 00:54:57,590
+C'est pour ça
+que tu portes toujours un béret.
+
+434
+00:54:59,680 --> 00:55:01,716
+Moi, ça me plairait d'être modèle.
+
+435
+00:55:03,040 --> 00:55:03,870
+Vraiment ?
+
+436
+00:55:04,440 --> 00:55:05,270
+Oui.
+
+437
+00:55:06,720 --> 00:55:07,630
+Quand tu veux.
+
+438
+00:55:19,400 --> 00:55:21,118
+Il est doué ou pas ?
+
+439
+00:55:23,680 --> 00:55:26,638
+C'est ça, l'impressionnisme ?
+
+440
+00:56:00,880 --> 00:56:03,189
+On paie cher pour ne rien apprendre.
+
+441
+00:56:04,040 --> 00:56:05,189
+Ce prof,
+
+442
+00:56:05,960 --> 00:56:08,394
+il a eu un vague succès
+à son retour de France
+
+443
+00:56:08,960 --> 00:56:11,952
+mais comme il n'a aucun talent,
+il enseigne ici.
+
+444
+00:56:22,000 --> 00:56:23,353
+Il s'appelle comment ?
+
+445
+00:56:24,880 --> 00:56:26,632
+Takanawa, je crois.
+
+446
+00:56:31,200 --> 00:56:32,838
+Je vous laisse un instant.
+
+447
+00:56:49,760 --> 00:56:53,799
+Ça ne sert à rien
+de dessiner des natures mortes.
+
+448
+00:56:54,120 --> 00:56:55,314
+C'est la base, non ?
+
+449
+00:56:55,760 --> 00:56:57,591
+On doit savoir le faire.
+
+450
+00:56:58,280 --> 00:57:01,511
+Pour reproduire quelque chose,
+il y a la photo.
+
+451
+00:57:02,360 --> 00:57:04,555
+À l'époque où ça n'existait pas...
+
+452
+00:57:05,800 --> 00:57:08,633
+dessiner de cette façon
+était peut-être utile.
+
+453
+00:57:09,000 --> 00:57:11,514
+Avec les appareils photo,
+les photocopieuses,
+
+454
+00:57:12,040 --> 00:57:15,430
+on n'a plus besoin
+de savoir copier fidèlement.
+
+455
+00:57:17,000 --> 00:57:21,312
+La peinture contemporaine
+doit faire appel à la créativité.
+
+456
+00:57:24,800 --> 00:57:26,358
+Tu fais n'importe quoi.
+
+457
+00:57:26,640 --> 00:57:28,710
+C'est pas ressemblant.
+
+458
+00:57:29,520 --> 00:57:30,873
+Bande d'incultes !
+
+459
+00:57:31,480 --> 00:57:34,870
+Les cubistes
+représentaient les visages comme ça !
+
+460
+00:57:35,360 --> 00:57:37,157
+Pour quelle raison ?
+
+461
+00:57:37,680 --> 00:57:39,193
+Ils peignaient avec leur âme.
+
+462
+00:57:40,200 --> 00:57:41,519
+Tu dessines avec ton âme ?
+
+463
+00:57:42,360 --> 00:57:43,349
+Parfaitement.
+
+464
+00:57:43,640 --> 00:57:45,392
+C'est pas plutôt un fusain ?
+
+465
+00:57:47,240 --> 00:57:48,958
+La ferme, Mohican !
+
+466
+00:57:49,800 --> 00:57:50,789
+C'est pas drôle.
+
+467
+00:57:51,080 --> 00:57:52,638
+Qu'est-ce que tu as ?
+
+468
+00:58:15,960 --> 00:58:17,552
+Je dessine avec mon âme.
+
+469
+00:58:21,560 --> 00:58:23,118
+Enfoiré de Mohican !
+
+470
+00:58:28,160 --> 00:58:29,639
+Et maintenant,
+
+471
+00:58:30,080 --> 00:58:32,958
+le Dévoreur de Neige Carbonique !
+
+472
+00:58:33,960 --> 00:58:35,234
+Je vais la manger !
+
+473
+00:58:35,520 --> 00:58:36,669
+J'y vais !
+
+474
+00:58:39,440 --> 00:58:40,350
+C'est parti !
+
+475
+00:58:44,600 --> 00:58:46,716
+Regardez son nez ! Son nez !
+
+476
+00:58:54,480 --> 00:58:56,152
+On passe à bien plus chaud !
+
+477
+00:58:57,400 --> 00:58:59,516
+Le Fumeur de l'Extrême !
+
+478
+00:59:10,560 --> 00:59:11,879
+Elle est allumée ?
+
+479
+00:59:12,640 --> 00:59:13,959
+Elle est allumée !
+
+480
+00:59:17,400 --> 00:59:19,994
+Maintenant, l'Éveil Sauvage !
+
+481
+00:59:21,720 --> 00:59:23,756
+Un sac en plastique !
+
+482
+00:59:28,040 --> 00:59:29,519
+Je pars dans l'espace !
+
+483
+00:59:54,360 --> 00:59:56,078
+Me revoilà !
+
+484
+01:00:07,520 --> 01:00:08,839
+Tu finiras demain.
+
+485
+01:00:09,040 --> 01:00:09,950
+D'accord.
+
+486
+01:00:10,160 --> 01:00:11,149
+Au revoir.
+
+487
+01:00:11,480 --> 01:00:12,799
+Bonne soirée.
+
+488
+01:00:25,000 --> 01:00:26,319
+Demain, tu es en congé.
+
+489
+01:00:26,600 --> 01:00:27,794
+Tu es occupé ?
+
+490
+01:00:28,880 --> 01:00:30,711
+On va peindre entre copains.
+
+491
+01:00:31,320 --> 01:00:33,515
+Je t'envie d'avoir des amis artistes.
+
+492
+01:00:34,400 --> 01:00:35,719
+Je peux venir ?
+
+493
+01:00:36,200 --> 01:00:39,078
+Notre style est trop sauvage
+pour une fille comme toi.
+
+494
+01:00:39,320 --> 01:00:40,435
+Et le soir ?
+
+495
+01:00:41,560 --> 01:00:45,348
+Mie va poser pour moi
+et je vais la peindre.
+
+496
+01:00:45,960 --> 01:00:47,188
+Quoi ?
+
+497
+01:00:47,520 --> 01:00:49,511
+Moi aussi, je peux être ton modèle.
+
+498
+01:00:50,000 --> 01:00:52,434
+Non, Mie ne fait que poser pour moi.
+
+499
+01:00:52,760 --> 01:00:54,159
+Il n'y a rien entre nous.
+
+500
+01:00:56,320 --> 01:00:58,231
+Que penses-tu de moi ?
+
+501
+01:01:02,120 --> 01:01:03,439
+Je t'aime.
+
+502
+01:01:05,320 --> 01:01:06,673
+Alors, ça va.
+
+503
+01:01:14,720 --> 01:01:17,154
+Tiens, accroche le bras.
+
+504
+01:01:19,360 --> 01:01:20,998
+Comme si quelqu'un demandait de l'aide.
+
+505
+01:01:25,520 --> 01:01:28,796
+Itagaki, c'est pas de l'art.
+
+506
+01:01:29,240 --> 01:01:31,037
+- Mets-le plus sur le côté.
+- Sur le côté ?
+
+507
+01:01:31,320 --> 01:01:32,435
+Par ici.
+
+508
+01:02:15,720 --> 01:02:16,914
+On prend la photo !
+
+509
+01:03:07,160 --> 01:03:08,991
+Ça manque de dynamisme.
+
+510
+01:03:09,880 --> 01:03:13,077
+Il faut plus de force
+dans l'Action Painting, non ?
+
+511
+01:03:14,080 --> 01:03:15,593
+Ton père a une voiture, hein ?
+
+512
+01:03:16,040 --> 01:03:16,916
+Pourquoi ?
+
+513
+01:03:17,760 --> 01:03:20,991
+On va la lancer contre un mur
+pour projeter la peinture !
+
+514
+01:03:21,400 --> 01:03:23,231
+Pourquoi la voiture de mon père ?
+
+515
+01:03:23,520 --> 01:03:24,509
+Imbécile !
+
+516
+01:03:25,080 --> 01:03:26,718
+Pour l'art !
+
+517
+01:03:27,360 --> 01:03:29,430
+Tu es le seul à en avoir une.
+
+518
+01:03:30,520 --> 01:03:32,158
+On essaiera demain.
+
+519
+01:03:32,880 --> 01:03:33,949
+Tu seras là ?
+
+520
+01:03:34,680 --> 01:03:36,796
+Je travaille, demain.
+
+521
+01:03:37,000 --> 01:03:38,274
+Demande un congé, abruti.
+
+522
+01:03:39,080 --> 01:03:41,640
+Tu ne crois pas
+que l'art passe d'abord ?
+
+523
+01:04:19,320 --> 01:04:20,719
+Je peux me rhabiller ?
+
+524
+01:04:22,840 --> 01:04:23,989
+Oui.
+
+525
+01:04:43,440 --> 01:04:44,919
+Je...
+
+526
+01:04:46,120 --> 01:04:47,712
+je ne sers à rien, n'est-ce pas ?
+
+527
+01:04:57,680 --> 01:04:58,556
+Kuramochi.
+
+528
+01:04:58,800 --> 01:04:59,915
+Viens.
+
+529
+01:05:09,400 --> 01:05:11,152
+Ton dessin ne va pas.
+
+530
+01:05:12,280 --> 01:05:13,269
+Liquidation avant fermeture
+
+531
+01:05:13,560 --> 01:05:15,710
+Même s'ils ferment, tu vas trop loin.
+
+532
+01:05:17,080 --> 01:05:19,514
+Mais l'impact est plus grand, non ?
+
+533
+01:05:19,800 --> 01:05:21,392
+La question n'est pas là.
+
+534
+01:05:22,440 --> 01:05:24,749
+On ne peut pas distribuer
+des prospectus si négatifs.
+
+535
+01:05:25,800 --> 01:05:27,597
+Notre client est fou furieux.
+
+536
+01:05:29,320 --> 01:05:30,548
+Excusez-moi.
+
+537
+01:05:31,760 --> 01:05:33,671
+En ce moment, tu es bizarre.
+
+538
+01:05:34,240 --> 01:05:36,231
+Fais des dessins plus classiques.
+
+539
+01:05:39,920 --> 01:05:44,516
+Excusez-moi,
+je peux prendre mon après-midi ?
+
+540
+01:05:44,760 --> 01:05:47,115
+Pourquoi ? Tu as un problème ?
+
+541
+01:05:48,080 --> 01:05:50,594
+Je suis sur un projet avec mes amis.
+
+542
+01:05:56,600 --> 01:05:57,316
+Dis !
+
+543
+01:05:57,640 --> 01:06:02,156
+Même si tu es un artiste,
+fais le travail pour lequel je te paie.
+
+544
+01:06:03,080 --> 01:06:04,957
+Je ne t'emploie pas par charité.
+
+545
+01:06:14,800 --> 01:06:15,437
+Super !
+
+546
+01:06:16,080 --> 01:06:17,115
+On change de couleur.
+
+547
+01:06:17,360 --> 01:06:18,634
+- Jaune !
+- Bleu !
+
+548
+01:06:18,840 --> 01:06:20,319
+Jaune et bleu !
+
+549
+01:06:26,400 --> 01:06:27,879
+Génial !
+
+550
+01:06:28,240 --> 01:06:30,674
+On change.
+Vous voulez quoi ?
+
+551
+01:06:31,040 --> 01:06:31,916
+- Vert.
+- Orange.
+
+552
+01:06:32,160 --> 01:06:33,434
+Vert et orange !
+
+553
+01:06:39,640 --> 01:06:41,471
+Super !
+
+554
+01:06:43,680 --> 01:06:44,999
+Le vélo est cassé.
+
+555
+01:06:45,840 --> 01:06:46,829
+Cassé ?
+
+556
+01:06:47,200 --> 01:06:48,315
+Alors porte-le.
+
+557
+01:06:49,320 --> 01:06:51,436
+- Avec quelles couleurs ?
+- Comme tu veux !
+
+558
+01:06:52,800 --> 01:06:53,949
+Comme tu veux !
+
+559
+01:07:09,760 --> 01:07:11,876
+Ça a marché avec le vélo,
+alors fonce.
+
+560
+01:07:12,080 --> 01:07:13,035
+Tu crois ?
+
+561
+01:07:13,240 --> 01:07:14,719
+Tu ne risques rien.
+
+562
+01:07:15,240 --> 01:07:17,435
+- Ne t'inquiète pas.
+- Courage !
+
+563
+01:07:17,640 --> 01:07:18,595
+D'accord.
+
+564
+01:07:21,240 --> 01:07:22,878
+Sois un homme !
+
+565
+01:07:57,640 --> 01:07:59,551
+Où est Kuramochi ?
+
+566
+01:08:00,360 --> 01:08:02,351
+Un de ses amis a eu un accident.
+Il a pris sa journée.
+
+567
+01:08:03,400 --> 01:08:05,516
+Regarde, c'est moi.
+
+568
+01:08:06,600 --> 01:08:08,636
+C'est un tableau de Kuramochi.
+
+569
+01:08:09,280 --> 01:08:10,759
+Tu me reconnais ?
+
+570
+01:08:11,400 --> 01:08:13,356
+Extraordinaire !
+
+571
+01:08:14,120 --> 01:08:15,997
+La peinture est un art profond.
+
+572
+01:08:17,960 --> 01:08:20,269
+Tout le monde se moque de moi.
+
+573
+01:08:20,600 --> 01:08:21,919
+J'ai honte.
+
+574
+01:08:23,000 --> 01:08:24,911
+Mon patron m'a forcée à l'exposer.
+
+575
+01:08:25,880 --> 01:08:27,916
+Je suis méconnaissable, hein ?
+
+576
+01:08:28,520 --> 01:08:30,511
+C'est l'image que tu lui inspires.
+
+577
+01:08:31,680 --> 01:08:33,591
+Tu parles d'une image !
+
+578
+01:08:34,600 --> 01:08:37,273
+Je déteste ce boudin.
+
+579
+01:08:37,840 --> 01:08:39,398
+Je ne poserai plus jamais.
+
+580
+01:08:40,320 --> 01:08:42,151
+Moi, je poserai pour lui.
+
+581
+01:08:43,600 --> 01:08:47,115
+Je pense comprendre son art.
+
+582
+01:09:27,880 --> 01:09:29,199
+Tu en veux ?
+
+583
+01:09:30,200 --> 01:09:31,030
+C'est quoi ?
+
+584
+01:09:31,480 --> 01:09:32,754
+Ça remonte le moral.
+
+585
+01:09:34,640 --> 01:09:35,834
+Non, merci.
+
+586
+01:09:46,080 --> 01:09:47,798
+J'irai peut-être aux États-Unis.
+
+587
+01:09:49,120 --> 01:09:53,079
+Puisqu'il est mort,
+je vais retourner dans ma ville natale.
+
+588
+01:09:54,480 --> 01:09:58,234
+Que ceux qui n'ont aucun talent
+rentrent chez eux.
+
+589
+01:09:59,120 --> 01:10:01,315
+Le talent peut toujours se révéler.
+
+590
+01:10:02,440 --> 01:10:04,510
+Il est peut-être encore en sommeil !
+
+591
+01:10:04,840 --> 01:10:06,717
+Un talent en sommeil
+
+592
+01:10:07,320 --> 01:10:09,197
+risque de dormir à jamais.
+
+593
+01:10:16,000 --> 01:10:17,752
+Qu'est-ce qui te prend ?
+
+594
+01:10:26,880 --> 01:10:28,108
+Je rentre.
+
+595
+01:10:46,800 --> 01:10:49,473
+On a projeté de la peinture
+avec une voiture
+
+596
+01:10:50,480 --> 01:10:52,550
+mais le hasard n'est pas de l'art.
+
+597
+01:10:54,000 --> 01:10:56,309
+L'artiste utilise le hasard pour créer.
+
+598
+01:10:57,960 --> 01:11:01,919
+Le talent n'a rien à voir
+avec la renommée.
+
+599
+01:11:04,800 --> 01:11:07,519
+Vous êtes focalisés sur l'art.
+
+600
+01:11:08,440 --> 01:11:09,634
+Mais en Afrique,
+
+601
+01:11:10,560 --> 01:11:14,951
+posez un Picasso et une boulette de riz
+devant des gens affamés,
+
+602
+01:11:16,800 --> 01:11:18,711
+ils vont tous choisir le riz.
+
+603
+01:11:19,560 --> 01:11:23,030
+L'art n'a aucun sens
+quand on meurt de faim.
+
+604
+01:11:25,160 --> 01:11:26,718
+Tu ferais comme eux.
+
+605
+01:11:27,720 --> 01:11:28,630
+Je choisirais Picasso !
+
+606
+01:11:28,960 --> 01:11:30,996
+Ne dis pas n'importe quoi.
+
+607
+01:11:32,080 --> 01:11:34,514
+L'art n'est qu'une illusion.
+
+608
+01:12:28,560 --> 01:12:30,994
+Appartement un-zéro-deux
+Machisu et Sachiko Kuramochi
+
+609
+01:12:51,160 --> 01:12:52,434
+Baleine
+
+610
+01:12:56,560 --> 01:12:59,154
+J'y crois.
+Donc c'est possible.
+
+611
+01:13:14,720 --> 01:13:19,396
+Machisu se maria. Il avait trouvé
+quelqu'un qui le comprenait.
+
+612
+01:13:25,720 --> 01:13:27,597
+Regarde, le petit chien.
+
+613
+01:13:50,200 --> 01:13:51,189
+J'y vais.
+
+614
+01:13:51,400 --> 01:13:52,628
+Atout à l'heure.
+
+615
+01:14:27,480 --> 01:14:29,152
+Tu as copié Mondrian.
+
+616
+01:14:33,600 --> 01:14:35,318
+On dirait un Klee.
+
+617
+01:14:38,880 --> 01:14:42,077
+Je t'ai conseillé d'étudier l'art,
+pas de copier.
+
+618
+01:14:43,360 --> 01:14:44,554
+Ce ne sont que des copies.
+
+619
+01:14:45,080 --> 01:14:46,593
+Mal faites, en plus.
+
+620
+01:14:48,760 --> 01:14:49,636
+C'est Mirô ?
+
+621
+01:14:50,040 --> 01:14:51,359
+Oui, c'est Mirô.
+
+622
+01:14:55,280 --> 01:14:56,395
+Qui est-ce, là ?
+
+623
+01:14:57,480 --> 01:14:58,674
+Hundertwasser.
+
+624
+01:14:59,640 --> 01:15:01,153
+On ne dirait pas.
+
+625
+01:15:01,880 --> 01:15:03,472
+C'est encore pire.
+
+626
+01:15:08,680 --> 01:15:09,908
+Qu'est-ce que c'est ?
+
+627
+01:15:11,200 --> 01:15:12,952
+Je l'ai intitulé "M. Arakuma".
+
+628
+01:15:13,160 --> 01:15:14,036
+Et alors ?
+
+629
+01:15:14,960 --> 01:15:18,589
+Je l'ai croisé dans la rue
+et je l'ai appelé M. Arakuma.
+
+630
+01:15:20,840 --> 01:15:22,353
+Bizarre...
+
+631
+01:15:22,960 --> 01:15:24,996
+Mais mieux qu'une copie.
+
+632
+01:15:39,320 --> 01:15:40,992
+Il faut que j'achète de la peinture.
+
+633
+01:15:43,080 --> 01:15:44,593
+Tu as vendu tes tableaux ?
+
+634
+01:15:54,840 --> 01:15:56,114
+C'est quoi, tout ça ?
+
+635
+01:15:56,640 --> 01:15:58,790
+La famille de M. Arakuma.
+
+636
+01:16:01,600 --> 01:16:02,555
+Qui est-ce ?
+
+637
+01:16:03,360 --> 01:16:04,349
+Le grand-père.
+
+638
+01:16:04,760 --> 01:16:06,034
+On dirait la grand-mère.
+
+639
+01:16:06,440 --> 01:16:07,077
+Et là ?
+
+640
+01:16:07,320 --> 01:16:08,389
+Le père.
+
+641
+01:16:08,800 --> 01:16:10,074
+On dirait la mère.
+
+642
+01:16:10,600 --> 01:16:11,430
+Et là ?
+
+643
+01:16:11,640 --> 01:16:12,595
+Le grand frère.
+
+644
+01:16:12,920 --> 01:16:13,511
+Et là ?
+
+645
+01:16:14,000 --> 01:16:15,035
+Le petit frère.
+
+646
+01:16:15,560 --> 01:16:16,197
+Et là ?
+
+647
+01:16:16,600 --> 01:16:17,635
+La grande soeur.
+
+648
+01:16:18,160 --> 01:16:18,831
+Et là ?
+
+649
+01:16:19,120 --> 01:16:20,030
+Le cousin.
+
+650
+01:16:20,720 --> 01:16:21,357
+Et là ?
+
+651
+01:16:21,600 --> 01:16:22,635
+Le petit-cousin.
+
+652
+01:16:23,080 --> 01:16:25,071
+Ça n'a aucun sens.
+
+653
+01:16:25,960 --> 01:16:27,439
+Ils se ressemblent tous.
+
+654
+01:16:29,240 --> 01:16:31,470
+Pour un petit compliment,
+tu t'es emballé.
+
+655
+01:16:46,600 --> 01:16:47,919
+Trop ordinaire.
+
+656
+01:16:48,920 --> 01:16:50,717
+Essaie d'être plus audacieux.
+
+657
+01:16:57,480 --> 01:17:00,153
+Situ laissais tomber les pinceaux ?
+
+658
+01:17:05,400 --> 01:17:06,913
+Pense différemment.
+
+659
+01:17:26,880 --> 01:17:32,352
+Machisu atteignit l'âge mûr.
+Il ne vivait toujours pas de son art.
+
+660
+01:18:06,080 --> 01:18:07,195
+C'est moi.
+
+661
+01:18:08,440 --> 01:18:09,270
+Tu rentres tard.
+
+662
+01:18:09,640 --> 01:18:10,834
+Aide-moi, vite.
+
+663
+01:18:11,080 --> 01:18:11,830
+D'accord.
+
+664
+01:18:12,360 --> 01:18:15,158
+- Qu'est-ce que tu fais ?
+- J'arrive tout de suite.
+
+665
+01:18:16,240 --> 01:18:17,719
+Il faut se dépêcher.
+
+666
+01:18:20,520 --> 01:18:21,635
+Remplis la louche.
+
+667
+01:18:22,080 --> 01:18:23,991
+Tu veux quelle couleur ?
+
+668
+01:18:24,280 --> 01:18:25,952
+Tu la remplis et je frappe.
+
+669
+01:18:53,280 --> 01:18:54,554
+Maman, donne-moi de l'argent.
+
+670
+01:18:56,320 --> 01:18:59,153
+On s'en sort à peine.
+Je ne peux pas.
+
+671
+01:19:01,480 --> 01:19:04,153
+Comment s'en sortir avec ces bêtises ?
+
+672
+01:19:04,960 --> 01:19:06,632
+Ça va durer encore longtemps ?
+
+673
+01:19:08,080 --> 01:19:09,752
+On se moque de moi à l'école.
+
+674
+01:19:11,200 --> 01:19:13,589
+Quels parents êtes-vous
+pour me faire travailler ?
+
+675
+01:19:18,200 --> 01:19:18,996
+Allez.
+
+676
+01:19:19,760 --> 01:19:21,079
+À ton tour.
+
+677
+01:19:30,600 --> 01:19:32,158
+- Vas-y.
+- Comme ça ?
+
+678
+01:19:32,520 --> 01:19:33,475
+Doucement !
+
+679
+01:19:34,160 --> 01:19:34,910
+C'est ça.
+
+680
+01:19:37,080 --> 01:19:37,830
+Tu dévies !
+
+681
+01:19:38,240 --> 01:19:39,195
+Reste sur la bande !
+
+682
+01:19:42,280 --> 01:19:42,996
+Bien.
+
+683
+01:19:43,520 --> 01:19:44,589
+Fais demi-tour !
+
+684
+01:19:45,920 --> 01:19:46,830
+Tu traînes !
+
+685
+01:19:47,320 --> 01:19:48,435
+Plus par ici.
+
+686
+01:19:49,640 --> 01:19:51,870
+Pas sur la route, sur la bande.
+
+687
+01:19:52,080 --> 01:19:53,559
+- Comme ça ?
+- Oui.
+
+688
+01:19:54,520 --> 01:19:56,431
+Tu yoyotes. Avance droit.
+
+689
+01:19:57,480 --> 01:19:58,390
+Encore une fois.
+
+690
+01:19:58,600 --> 01:19:59,555
+Fais attention.
+
+691
+01:20:00,000 --> 01:20:00,830
+Encore une fois.
+
+692
+01:20:02,600 --> 01:20:03,794
+Sur la bande blanche.
+
+693
+01:20:04,080 --> 01:20:07,117
+Essaie de passer
+là où il n'y a pas de peinture.
+
+694
+01:20:09,240 --> 01:20:11,151
+Regarde bien où tu roules.
+
+695
+01:20:15,560 --> 01:20:17,073
+Très bien.
+Sois fluide.
+
+696
+01:20:17,480 --> 01:20:19,357
+Reste sur le vélo !
+Sois fluide.
+
+697
+01:20:20,600 --> 01:20:21,396
+Attention !
+
+698
+01:20:24,560 --> 01:20:26,152
+C'est mieux de dévier.
+
+699
+01:20:26,480 --> 01:20:27,879
+C'est mieux de dévier.
+
+700
+01:20:29,600 --> 01:20:31,238
+Mais reste au bord.
+
+701
+01:20:32,200 --> 01:20:33,997
+Oui, c'est ça.
+Et là, demi-tour.
+
+702
+01:20:35,440 --> 01:20:36,077
+C'est beau !
+
+703
+01:20:36,320 --> 01:20:37,753
+Par là, à ta droite.
+
+704
+01:20:38,480 --> 01:20:39,310
+Encore une fois.
+
+705
+01:20:39,640 --> 01:20:40,629
+Sur le blanc.
+
+706
+01:21:26,560 --> 01:21:27,549
+Qu'est-ce que c'est ?
+
+707
+01:21:28,360 --> 01:21:32,512
+Tu t'es contenté
+de lancer ou verser la peinture.
+
+708
+01:21:34,280 --> 01:21:35,349
+C'est du déjà-vu.
+
+709
+01:21:37,280 --> 01:21:38,998
+Il faut trouver autre chose.
+
+710
+01:21:41,360 --> 01:21:43,237
+Tu dois connaître cet homme.
+
+711
+01:21:56,280 --> 01:21:59,078
+Grand succès à New York
+Le Basquiat japonais
+
+712
+01:22:12,600 --> 01:22:15,558
+Il n'utilise pas le pistolet,
+n'est-ce pas ?
+
+713
+01:22:16,480 --> 01:22:18,835
+Non, la brosse.
+
+714
+01:22:22,160 --> 01:22:24,196
+La nuit, je peins avec toi...
+
+715
+01:22:26,040 --> 01:22:27,917
+et le jour, je travaille.
+
+716
+01:22:29,560 --> 01:22:31,232
+Je dors quand, moi ?
+
+717
+01:22:32,280 --> 01:22:33,235
+Aucune importance.
+
+718
+01:24:02,280 --> 01:24:03,759
+Que faites-vous ?
+
+719
+01:24:04,360 --> 01:24:06,828
+C'est vous
+qui peignez tous les rideaux ?
+
+720
+01:24:18,000 --> 01:24:21,390
+Vous les repeignez ou je vous embarque.
+
+721
+01:24:21,680 --> 01:24:22,749
+Choisissez.
+
+722
+01:24:23,960 --> 01:24:24,870
+Décidez-vous !
+
+723
+01:24:26,240 --> 01:24:27,355
+On les repeint.
+
+724
+01:25:29,960 --> 01:25:31,109
+Merci.
+
+725
+01:25:47,080 --> 01:25:48,957
+C'est bien, non ?
+
+726
+01:25:49,640 --> 01:25:50,709
+On a fini.
+
+727
+01:25:50,920 --> 01:25:51,875
+C'est bien, comme ça ?
+
+728
+01:25:52,280 --> 01:25:53,599
+Ça ira.
+
+729
+01:25:56,200 --> 01:25:57,713
+Nous sommes désolés.
+
+730
+01:26:38,280 --> 01:26:42,592
+Si on avait fini toutes les fresques,
+on serait devenus célèbres.
+
+731
+01:26:45,280 --> 01:26:47,271
+Ils ne comprennent rien à l'art.
+
+732
+01:27:03,600 --> 01:27:05,511
+Vous avez peint sur des rideaux ?
+
+733
+01:27:06,760 --> 01:27:08,352
+Vous êtes la risée du voisinage.
+
+734
+01:27:10,840 --> 01:27:12,478
+J'ai honte de vous.
+
+735
+01:27:15,320 --> 01:27:17,550
+La prochaine fois, je m'en irai.
+
+736
+01:27:30,000 --> 01:27:30,716
+C'est quoi ?
+
+737
+01:27:31,480 --> 01:27:32,674
+Des autoportraits.
+
+738
+01:28:00,960 --> 01:28:05,158
+Dis-moi, qui va acheter
+les autoportraits d'un artiste inconnu ?
+
+739
+01:28:09,520 --> 01:28:10,555
+C'est quoi, ça ?
+
+740
+01:28:11,680 --> 01:28:13,557
+Un rhinocéros blanc, pas terminé.
+
+741
+01:28:14,480 --> 01:28:16,152
+Un rhinocéros blanc ?
+Pourquoi ?
+
+742
+01:28:17,040 --> 01:28:18,393
+Ils sont en voie de disparition.
+
+743
+01:28:20,240 --> 01:28:21,559
+Ça, c'est bien.
+
+744
+01:28:21,880 --> 01:28:23,279
+Il y a un message.
+
+745
+01:28:24,480 --> 01:28:28,075
+Mais on dirait une affiche publicitaire,
+pas une peinture.
+
+746
+01:28:29,920 --> 01:28:32,957
+Un poster
+pour la protection des animaux.
+
+747
+01:28:35,160 --> 01:28:38,197
+Essaie de partir
+d'un concept de ce genre.
+
+748
+01:28:50,200 --> 01:28:50,916
+Monsieur !
+
+749
+01:28:59,080 --> 01:29:02,834
+Pourriez-vous écraser cette maison
+avec votre machine ?
+
+750
+01:29:08,120 --> 01:29:09,030
+D'accord.
+
+751
+01:29:25,680 --> 01:29:26,635
+C'est bon.
+
+752
+01:29:27,880 --> 01:29:28,915
+Ça suffit !
+
+753
+01:29:29,240 --> 01:29:30,150
+Ça suffit !
+
+754
+01:29:35,760 --> 01:29:36,875
+Arrêtez !
+
+755
+01:29:47,960 --> 01:29:49,996
+J'en ai fait un peu plus.
+Ça va ?
+
+756
+01:29:53,240 --> 01:29:54,468
+Tes pieds sont bien imprégnés ?
+
+757
+01:29:54,720 --> 01:29:56,472
+Marche lentement.
+
+758
+01:30:01,080 --> 01:30:03,514
+Laisse bien des traces. Voilà.
+
+759
+01:30:07,400 --> 01:30:08,150
+Reviens.
+
+760
+01:30:08,480 --> 01:30:09,196
+Non !
+
+761
+01:30:09,520 --> 01:30:12,398
+Pas comme ça !
+Dans une seule direction.
+
+762
+01:30:12,720 --> 01:30:13,630
+Contourne le tableau.
+
+763
+01:30:15,280 --> 01:30:16,679
+Ne marche pas sur les traces.
+
+764
+01:30:20,640 --> 01:30:22,392
+- Comme ça ?
+- Oui.
+
+765
+01:30:24,400 --> 01:30:25,435
+Où tu marches ?
+
+766
+01:30:25,920 --> 01:30:26,830
+Qu'est-ce que tu fais ?
+
+767
+01:30:27,080 --> 01:30:29,150
+Non, reviens.
+
+768
+01:30:30,400 --> 01:30:33,517
+Les traces doivent suivre
+une seule direction.
+
+769
+01:30:34,160 --> 01:30:35,115
+Ici, par ici...
+
+770
+01:30:39,040 --> 01:30:41,031
+Tu as marché sur tes traces.
+
+771
+01:30:41,400 --> 01:30:42,071
+Tant pis.
+
+772
+01:30:43,040 --> 01:30:45,634
+Il s'intitule "Le Continent noir".
+
+773
+01:30:45,920 --> 01:30:48,354
+L'Afrique piétinée par les Blancs.
+
+774
+01:30:50,880 --> 01:30:52,438
+Il y a un concept.
+
+775
+01:30:54,480 --> 01:30:58,314
+Mais là, elle est piétinée
+par des Noirs, non ?
+
+776
+01:31:00,360 --> 01:31:03,591
+Ça fonctionnerait si elle était piétinée
+par des pieds blancs.
+
+777
+01:31:04,840 --> 01:31:07,957
+Là, on dirait des empreintes de Noirs.
+
+778
+01:31:10,920 --> 01:31:14,196
+L'Afrique semble piétinée par les Noirs.
+
+779
+01:31:17,320 --> 01:31:19,880
+Et puis, ce sont des pieds nus.
+
+780
+01:31:21,800 --> 01:31:24,030
+Les Blancs portent des chaussures.
+
+781
+01:31:33,080 --> 01:31:34,672
+Excusez-nous !
+
+782
+01:31:37,120 --> 01:31:39,315
+Pourriez-vous rouler sur ce tableau ?
+
+783
+01:31:40,760 --> 01:31:41,670
+C'est quoi ?
+
+784
+01:31:42,520 --> 01:31:48,072
+On enduit vos pneus de peinture rouge
+et vous roulez sur le tableau.
+
+785
+01:31:49,240 --> 01:31:51,515
+Pourquoi ?
+C'est de mauvais goût.
+
+786
+01:31:53,080 --> 01:31:57,756
+Cette peinture fait référence
+à la voiture qui a écrasé des écoliers.
+
+787
+01:31:58,720 --> 01:32:02,918
+Nous espérons ainsi faire diminuer
+les accidents de la route.
+
+788
+01:32:03,800 --> 01:32:05,279
+J'ai de mauvais souvenirs.
+
+789
+01:32:05,720 --> 01:32:06,948
+Hors de question !
+
+790
+01:32:18,720 --> 01:32:20,233
+Fais attention, connard !
+
+791
+01:32:56,800 --> 01:32:57,710
+Une ambulance !
+
+792
+01:32:58,320 --> 01:32:59,639
+Attends un peu !
+
+793
+01:33:06,840 --> 01:33:08,273
+J'ai mal...
+
+794
+01:33:08,800 --> 01:33:09,596
+Tiens-moi ça.
+
+795
+01:33:17,680 --> 01:33:18,908
+Que faites-vous ?
+
+796
+01:33:27,600 --> 01:33:29,636
+Un couple d'artistes
+dessine un accident de voiture
+
+797
+01:33:42,280 --> 01:33:43,349
+C'est quoi, ça ?
+
+798
+01:33:47,400 --> 01:33:49,709
+J'ai trop honte
+pour retourner en classe !
+
+799
+01:33:51,400 --> 01:33:52,628
+Je m'en vais.
+
+800
+01:33:54,520 --> 01:33:57,114
+- Mari !
+- Laisse-la.
+
+801
+01:33:57,480 --> 01:33:58,549
+Elle reviendra.
+
+802
+01:33:59,240 --> 01:34:00,639
+Laisse-la.
+
+803
+01:34:03,080 --> 01:34:04,195
+J'y suis, hein ?
+
+804
+01:34:05,640 --> 01:34:06,789
+Oui, tu y es.
+
+805
+01:34:13,640 --> 01:34:17,235
+Il y a de la folie
+mais pas encore assez.
+
+806
+01:34:18,280 --> 01:34:20,032
+C'est toi qui dois être
+entre la vie et la mort,
+
+807
+01:34:20,560 --> 01:34:22,391
+personne d'autre.
+
+808
+01:34:23,640 --> 01:34:26,154
+Mets-toi dans une situation extrême.
+
+809
+01:34:27,720 --> 01:34:30,678
+C'est la seule façon d'approcher l'art.
+
+810
+01:34:37,760 --> 01:34:38,988
+Commençons.
+
+811
+01:34:48,840 --> 01:34:50,956
+Frappez-la moins fort, s'il vous plaît.
+
+812
+01:34:51,640 --> 01:34:52,390
+Tu es nulle !
+
+813
+01:34:52,600 --> 01:34:53,669
+Bats-toi !
+
+814
+01:34:54,400 --> 01:34:55,230
+Vas-y.
+
+815
+01:35:01,440 --> 01:35:02,589
+Résiste un peu !
+
+816
+01:35:03,160 --> 01:35:04,912
+Frappez-la au corps.
+
+817
+01:35:05,720 --> 01:35:06,675
+Attaque !
+
+818
+01:35:11,080 --> 01:35:12,195
+Attaque !
+
+819
+01:35:28,400 --> 01:35:29,515
+Voilà pour vous.
+
+820
+01:35:29,920 --> 01:35:31,638
+Merci beaucoup.
+
+821
+01:35:39,920 --> 01:35:40,989
+Ça va ?
+
+822
+01:35:42,240 --> 01:35:43,150
+Oui.
+
+823
+01:35:43,720 --> 01:35:45,631
+À mon tour d'affronter mes limites.
+
+824
+01:35:46,680 --> 01:35:47,590
+Que vas-tu faire ?
+
+825
+01:35:48,120 --> 01:35:50,031
+Me mettre entre la vie et la mort.
+
+826
+01:35:51,040 --> 01:35:53,156
+Appuie franchement.
+
+827
+01:35:53,360 --> 01:35:55,510
+Le manque d'oxygène
+
+828
+01:35:55,880 --> 01:35:57,711
+me donnera de l'inspiration
+
+829
+01:35:58,040 --> 01:35:59,393
+et je dessinerai.
+
+830
+01:35:59,960 --> 01:36:01,313
+- On y va.
+- D'accord.
+
+831
+01:36:18,760 --> 01:36:20,034
+Tu peux dessiner ?
+Tiens.
+
+832
+01:36:23,880 --> 01:36:25,677
+Non, ça n'a pas marché.
+
+833
+01:36:26,480 --> 01:36:29,597
+Je dois être un peu plus
+dans un état second.
+
+834
+01:36:30,640 --> 01:36:32,232
+Je vais appuyer plus fort.
+
+835
+01:36:47,560 --> 01:36:48,515
+Alors ?
+
+836
+01:37:00,600 --> 01:37:01,476
+Non.
+
+837
+01:37:03,080 --> 01:37:04,559
+Appuie encore plus fort.
+
+838
+01:37:05,560 --> 01:37:08,836
+Je n'y arriverai
+qu'en approchant la mort.
+
+839
+01:37:09,560 --> 01:37:10,549
+Je compte sur toi.
+
+840
+01:37:10,760 --> 01:37:11,749
+J'y vais.
+
+841
+01:38:08,000 --> 01:38:10,514
+Ce n'est pas ce que vous croyez.
+
+842
+01:38:10,960 --> 01:38:12,279
+Non, je...
+
+843
+01:38:18,120 --> 01:38:21,351
+Non...
+Je ne l'ai pas fait exprès.
+
+844
+01:38:41,040 --> 01:38:42,029
+Chéri...
+
+845
+01:38:45,440 --> 01:38:46,953
+On devrait se séparer.
+
+846
+01:38:47,480 --> 01:38:48,196
+Quoi ?
+
+847
+01:38:50,040 --> 01:38:52,110
+Je n'en peux plus.
+
+848
+01:38:54,920 --> 01:38:56,592
+Mari est partie.
+
+849
+01:38:58,040 --> 01:39:01,157
+Si on continue, ça finira mal.
+
+850
+01:39:04,360 --> 01:39:06,555
+Je voudrais penser à mon avenir.
+
+851
+01:39:10,120 --> 01:39:13,510
+Tu veux continuer à peindre,
+n'est-ce pas ?
+
+852
+01:39:34,760 --> 01:39:36,318
+Hé, quel est ton clan ?
+
+853
+01:40:41,720 --> 01:40:43,472
+Attends-moi, j'arrive.
+
+854
+01:40:52,640 --> 01:40:53,516
+Bonjour.
+
+855
+01:40:53,760 --> 01:40:55,273
+Je ne veux rien.
+
+856
+01:40:57,880 --> 01:40:58,949
+Alors ?
+
+857
+01:41:00,280 --> 01:41:01,554
+Prête-moi de l'argent.
+
+858
+01:41:02,440 --> 01:41:03,668
+Quoi ?
+
+859
+01:41:04,600 --> 01:41:07,558
+J'ai besoin d'acheter de la peinture.
+
+860
+01:41:10,120 --> 01:41:13,510
+Quel père es-tu pour demander ça
+à ta fille prostituée ?
+
+861
+01:41:24,680 --> 01:41:26,352
+D'accord. Tiens.
+
+862
+01:41:29,520 --> 01:41:30,953
+Tu es pathétique.
+
+863
+01:41:31,280 --> 01:41:32,998
+Tu parles d'un artiste.
+
+864
+01:41:37,960 --> 01:41:39,154
+J'en ai marre.
+
+865
+01:41:40,360 --> 01:41:42,510
+Avec ça, tu seras plus gai.
+
+866
+01:41:44,880 --> 01:41:46,757
+Désolée. On y va ?
+
+867
+01:43:03,680 --> 01:43:05,079
+Tu veux aussi ?
+
+868
+01:43:15,360 --> 01:43:17,112
+T'étais avec un client, hein ?
+
+869
+01:43:17,360 --> 01:43:17,712
+Quoi ?
+
+870
+01:43:17,960 --> 01:43:20,269
+T'étais avec un client, abruti ?
+
+871
+01:43:21,600 --> 01:43:22,715
+T'es nouveau ?
+
+872
+01:43:24,040 --> 01:43:25,268
+Donne, vite.
+
+873
+01:43:26,560 --> 01:43:27,549
+Le fric.
+
+874
+01:43:29,360 --> 01:43:31,999
+On bosse pas sans mon autorisation !
+
+875
+01:43:36,760 --> 01:43:38,432
+Tu vois que t'avais du fric.
+
+876
+01:45:34,640 --> 01:45:35,755
+Tu as du rouge à lèvres ?
+
+877
+01:45:38,760 --> 01:45:40,512
+Du rouge à lèvres ?
+
+878
+01:46:16,160 --> 01:46:17,070
+Arrête !
+
+879
+01:46:31,880 --> 01:46:33,359
+Tu es fou.
+
+880
+01:46:35,360 --> 01:46:37,032
+Tu as perdu la tête.
+
+881
+01:46:39,440 --> 01:46:40,919
+Tu n'es plus humain.
+
+882
+01:46:43,480 --> 01:46:45,277
+Tu n'es plus humain !
+
+883
+01:46:54,480 --> 01:46:56,948
+NAÎTRE
+
+884
+01:47:00,320 --> 01:47:02,311
+DEVENIR CÉLÈBRE
+
+885
+01:47:05,240 --> 01:47:07,071
+RICHE
+
+886
+01:47:08,600 --> 01:47:10,477
+MOURIR
+
+887
+01:49:19,200 --> 01:49:20,189
+Panne d'essence.
+
+888
+01:51:46,600 --> 01:51:48,716
+Au feu !
+
+889
+01:52:38,720 --> 01:52:40,199
+Vous êtes réveillé ?
+
+890
+01:52:48,280 --> 01:52:50,271
+Prenez soin de vous.
+
+891
+01:53:54,120 --> 01:53:55,633
+Il y a plein de choses.
+
+892
+01:53:55,840 --> 01:53:57,558
+- On pourrait y participer.
+- Oui.
+
+893
+01:53:59,240 --> 01:54:00,468
+Que pourrait-on vendre ?
+
+894
+01:54:07,160 --> 01:54:08,593
+C'est quoi, ça ?
+
+895
+01:54:09,800 --> 01:54:12,678
+200000 yens, une canette rouillée ?
+
+896
+01:54:13,280 --> 01:54:14,315
+Mais ça me plaît.
+
+897
+01:54:14,520 --> 01:54:16,670
+On peut en trouver n'importe où.
+
+898
+01:54:16,960 --> 01:54:18,154
+Tu crois ?
+
+899
+01:54:34,880 --> 01:54:36,552
+Je voudrais l'acheter.
+
+900
+01:54:46,360 --> 01:54:47,839
+On rentre ?
+
+901
+01:55:41,280 --> 01:55:44,636
+Et Achille rattrapa la tortue.
+
+902
+01:55:51,640 --> 01:55:55,189
+Kanako HIGUCHI – BEAT Takeshi
+
+903
+01:55:56,680 --> 01:56:00,719
+Kumiko ASO -Yûrei YANAGI
+
+904
+01:56:01,960 --> 01:56:05,635
+Nao ÔMORI - Ren ÔSUGI
+Masato IBU -Akira NAKAO
+
+905
+01:56:07,200 --> 01:56:09,475
+Takashi NISHINA- Eri TOKUNAGA
+Aya ENJÔJI
+
+906
+01:56:10,120 --> 01:56:11,678
+Mariko TSUTSUI - Reo YOSHIOKA
+
+907
+01:56:12,520 --> 01:56:14,988
+Makoto ÔTAKE - BEAT Kiyoshi
+Mansaku FUWA - Takeshi ÔBAYASHI
+
+908
+01:56:15,200 --> 01:56:16,713
+Fuseeri
+Naomasa MUSAKA- Susumu TERAJIMA
+
+909
+01:57:15,520 --> 01:57:19,149
+Production :
+Masayuki MORI - Takio YOSHIDA
+
+910
+01:57:20,760 --> 01:57:22,671
+Scénario - Montage - Peintures :
+Takeshi KITANO
+
+911
+01:57:22,880 --> 01:57:24,996
+Musique : Yuki KAJIURA
+
+912
+01:57:26,160 --> 01:57:27,878
+Prise de vues : Katsumi YANAGIJIMA
+Lumière : Hitoshi TAKAYA
+
+913
+01:57:28,080 --> 01:57:30,275
+Direction artistique : Norihiro ISODA
+Son : Senji HORIUCHI
+Calligraphies : Kôji Kakinuma
+
+914
+01:59:38,320 --> 01:59:41,357
+Un film de Takeshi KITANO
+
+915
+01:59:43,440 --> 01:59:46,113
+Adaptation :
+Nathalie Cazier & Katsuko Quinejure
+
+916
+01:59:47,200 --> 01:59:48,872
+Sous-titrage : L.V.T. - Paris
+
