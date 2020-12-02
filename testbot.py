@@ -4,7 +4,7 @@ from main import *
 import time
 
 
-load_weights = tl.files.load_npz(name='saved/model_15-06-2020.npz')
+load_weights = tl.files.load_npz(name='saved/model.npz')
 tl.files.assign_weights(load_weights, model_)
 
 #model = tl.files.load_npz(path='saved', name='model_15-06-2020.npz')

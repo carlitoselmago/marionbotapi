@@ -1,0 +1,1801 @@
+1
+00:00:41,320 --> 00:00:45,360
+Tu es vraiment... un robot.
+
+2
+00:01:10,570 --> 00:01:13,280
+E... T ?
+
+3
+00:01:16,970 --> 00:01:19,240
+Qu'est-ce qu'il fait ?
+
+4
+00:01:28,690 --> 00:01:33,830
+Elle ressemble totalement à un humain mais il ne s'est rien passé.
+
+5
+00:01:34,590 --> 00:01:35,920
+Parce qu'elle est un robot ?
+
+6
+00:01:35,920 --> 00:01:38,870
+Je fonctionne grâce à une batterie située dans ma poitrine.
+
+7
+00:01:38,880 --> 00:01:41,140
+Après être complètement chargée, j'ai une autonomie de 3 heures
+
+8
+00:01:41,150 --> 00:01:43,770
+et mes articulations sont similaires à celles d'un humain.
+
+9
+00:01:43,770 --> 00:01:46,610
+Chacun de mes bras peut supporter un poids de 30 kg.
+
+10
+00:01:46,660 --> 00:01:49,560
+Grâce à un capteur NFC, je peux détecter plusieurs odeurs.
+
+11
+00:01:49,610 --> 00:01:52,320
+Grâce à mon capteur sensoriel, je peux reconnaître plusieurs objets.
+
+12
+00:01:52,320 --> 00:01:56,560
+Je possède également 20 fonctions en rapport avec le monde des affaires, dont la gestion des actions, la comptabilité et les langues étrangères.
+
+13
+00:01:56,570 --> 00:01:59,130
+Utilisez-moi à bon escient.
+
+14
+00:02:10,150 --> 00:02:13,150
+<i>~ Épisode 2 ~</i>
+
+15
+00:02:15,300 --> 00:02:18,960
+Aucun fond supplémentaire n'a été accordé, alors je n'ai pas pu payer la facture d'électricité.
+
+16
+00:02:19,000 --> 00:02:22,660
+Nous prenons l'électricité de l'usine d'à côté, mais elle a fermé aujourd'hui.
+
+17
+00:02:22,690 --> 00:02:24,900
+J'ai entendu dire que vous êtes un arnaqueur dans le monde des sciences.
+
+18
+00:02:24,910 --> 00:02:28,390
+J'ai entendu dire que vous êtes un tyran dans le monde de la finance.
+
+19
+00:02:31,540 --> 00:02:34,370
+Dois-je savoir autre chose ?
+
+20
+00:02:34,370 --> 00:02:38,180
+- Notre équipe Santa Maria est...
+ - Je veux dire concernant AG-3.
+
+21
+00:02:39,990 --> 00:02:43,070
+Bien sûr. AG-3 ?
+
+22
+00:02:43,780 --> 00:02:46,020
+Comment est-ce que je me sens maintenant ?
+
+23
+00:02:47,610 --> 00:02:49,170
+<i>En colère</i>
+
+24
+00:02:49,170 --> 00:02:51,470
+Vous êtes en colère.
+
+25
+00:02:52,630 --> 00:02:57,080
+Je suis désolée. Ai-je fait quelque chose de mal, Docteur ?
+
+26
+00:02:57,130 --> 00:02:59,940
+Non, je ne suis pas en colère.
+
+27
+00:03:01,120 --> 00:03:03,520
+Je suis contente que vous ne soyez pas en colère, Docteur.
+
+28
+00:03:03,520 --> 00:03:07,170
+C'est la compétence principale d'AG-3.
+
+29
+00:03:07,180 --> 00:03:09,600
+Grâce à un apprentissage poussé et une technologie d'IA <i>(intelligence artificielle)</i>,
+
+30
+00:03:09,610 --> 00:03:11,520
+AG-3 est capable
+
+31
+00:03:11,530 --> 00:03:15,410
+de lire les expressions du visage et de partager des émotions.
+
+32
+00:03:15,410 --> 00:03:17,670
+Je suis sûr que dans le futur proche,
+
+33
+00:03:17,700 --> 00:03:20,790
+nous vivrons avec des robots domestiqués.
+
+34
+00:03:20,790 --> 00:03:22,700
+Domestiqués.
+
+35
+00:03:22,700 --> 00:03:26,450
+De la même façon que nous domestiquons les chiens, un truc du genre ?
+
+36
+00:03:27,000 --> 00:03:30,520
+PDG, devrais-je vous faire rire ?
+
+37
+00:03:30,520 --> 00:03:31,330
+Quoi ?
+
+38
+00:03:31,330 --> 00:03:34,970
+Qu'est-ce qu'une vache que vous ne pouvez pas comprendre ?
+
+39
+00:03:36,260 --> 00:03:38,360
+Je ne sais pas. 
+<i>('Mo-reu-get-so', ce qui signifie "Je ne sais pas" 
+Jeu de mots car "so" veut dire vache en coréen)</i>
+
+40
+00:03:45,010 --> 00:03:49,180
+Vous avez rigolé. Vous comprenez mon sens de l'humour.
+
+41
+00:03:49,790 --> 00:03:53,050
+Est-ce la compétence principale
+
+42
+00:03:53,050 --> 00:03:56,890
+dont vous parliez, Docteur ?
+
+43
+00:03:56,920 --> 00:04:00,910
+Une personne doit passer un mois d'apprentissage intensif avec AG-3
+
+44
+00:04:00,920 --> 00:04:03,910
+pour qu'elle collecte des informations sur cette personne et s'en imprègne émotionnellement sur la base...
+
+45
+00:04:03,910 --> 00:04:05,550
+Demain, pendant un jour,
+
+46
+00:04:05,570 --> 00:04:09,020
+je vérifierai la véracité des prétendues compétences d'AG-3.
+
+47
+00:04:09,040 --> 00:04:12,310
+La discussion concernant les fonds supplémentaires viendra ensuite.
+
+48
+00:04:12,770 --> 00:04:16,050
+Pour le bon déroulement du test, envoyez
+
+49
+00:04:16,090 --> 00:04:18,770
+AG-3 chez moi, demain.
+
+50
+00:04:31,290 --> 00:04:33,610
+Oui, asseyez-vous.
+
+51
+00:04:34,770 --> 00:04:38,590
+- Les préparations du contrat se sont bien déroulées, n'est-ce pas ?
+ - Oui.
+
+52
+00:04:38,620 --> 00:04:41,020
+C'est vraiment la dernière fois.
+
+53
+00:04:41,060 --> 00:04:44,930
+Allons décrocher la lune.
+
+54
+00:04:49,360 --> 00:04:52,520
+<i>- Oui, PDG ?</i>
+ - Je suis en chemin pour la réunion.
+
+55
+00:04:52,560 --> 00:04:57,230
+- Mettez tout en ordre. 
+ - Pardon ? Allô ?
+
+56
+00:05:00,880 --> 00:05:04,640
+Vous êtes le chef d'équipe de la sécurité ? Le PDG est en chemin.
+
+57
+00:05:04,640 --> 00:05:07,350
+En ce moment ? Je comprends.
+
+58
+00:05:07,410 --> 00:05:11,970
+- Code rouge ! 
+ - Code rouge !
+
+59
+00:05:11,970 --> 00:05:17,400
+Vite ! Vite ! Sortez ! Sortez !
+
+60
+00:05:17,400 --> 00:05:19,970
+Hé ! Dépêche-toi !
+
+61
+00:05:19,970 --> 00:05:23,490
+<i>Code rouge. Le PDG est en chemin.</i>
+
+62
+00:05:23,490 --> 00:05:26,560
+<i>Le PDG est en chemin.</i>
+
+63
+00:06:11,610 --> 00:06:14,590
+Cet employé à l'instant, baissez-lui son salaire.
+
+64
+00:06:30,530 --> 00:06:33,800
+Continuez. Ne vous arrêtez pas.
+
+65
+00:06:43,670 --> 00:06:46,280
+Dans deux jours, la signature du contrat avec le groupe Bold du Royaume-Uni,
+
+66
+00:06:46,300 --> 00:06:49,480
+concernant la vente de l'équipe de recherche et développement
+
+67
+00:06:49,500 --> 00:06:53,630
+aura lieu comme convenu dans la salle de conférence principale du siège social.
+
+68
+00:06:53,670 --> 00:06:55,460
+La vente conclura
+
+69
+00:06:55,500 --> 00:06:59,500
+la liquidation de plusieurs services de Navire Daeyang.
+
+70
+00:07:00,550 --> 00:07:02,780
+Je vous remercie.
+
+71
+00:07:09,690 --> 00:07:14,690
+- Oui, PDG ? 
+ - Je demande ça parce que je ne suis pas au courant mais,
+
+72
+00:07:14,710 --> 00:07:19,160
+qu'est-ce que l'équipe de recherche et de développement de Navire Daeyang recherche ?
+
+73
+00:07:19,180 --> 00:07:24,420
+Je pense qu'ils font des recherches sur les technologies utilisées pour les navires.
+
+74
+00:07:24,460 --> 00:07:26,570
+<i>Vous êtes invité à la démonstration</i>
+
+75
+00:07:26,620 --> 00:07:28,960
+<i>du robot androïde, AG-3</i>,
+
+76
+00:07:28,970 --> 00:07:31,120
+<i>qui surprendra le monde.</i>
+
+77
+00:07:32,710 --> 00:07:38,130
+Je vois. Je demande parce que je ne sais vraiment pas.
+
+78
+00:07:38,150 --> 00:07:39,980
+L'équipe Santa Maria.
+
+79
+00:07:40,640 --> 00:07:42,830
+Quel est le résultat de leurs recherches ?
+
+80
+00:07:42,860 --> 00:07:46,600
+Je pense qu'ils n'ont pas encore été capable de découvrir quelque chose.
+
+81
+00:07:54,830 --> 00:07:56,390
+Ce que vous venez de dire,
+
+82
+00:07:57,750 --> 00:08:01,320
+- vous devrez en prendre l'entière responsabilité. 
+ - Pardon ?
+
+83
+00:08:05,550 --> 00:08:08,790
+Vous tenez bien le coup. Vous devez être résistant.
+
+84
+00:08:08,800 --> 00:08:11,310
+- Pardon ? Qui êtes... 
+ - Vous ne savez pas qui je suis ?
+
+85
+00:08:11,330 --> 00:08:12,770
+Je suis le chef d'équipe en charge des contributions sociales.
+
+86
+00:08:12,800 --> 00:08:16,050
+Je suis le cerveau de cette société depuis 20 ans maintenant.
+
+87
+00:08:16,090 --> 00:08:18,420
+Je suis désolé, ça ne fait qu'un mois que je travaille ici.
+
+88
+00:08:18,420 --> 00:08:21,200
+L'équipe d'enquête est sous la direction de Bâton... Je veux dire
+
+89
+00:08:21,200 --> 00:08:23,040
+du PDG Kim, donc ça doit être difficile.
+
+90
+00:08:23,060 --> 00:08:26,040
+La plupart d'entre eux n'ont pas tenu un mois.
+
+91
+00:08:26,040 --> 00:08:29,530
+Vous êtes sans doute le 25e.
+
+92
+00:08:29,560 --> 00:08:32,120
+Le 25e...
+
+93
+00:08:32,130 --> 00:08:36,580
+Si vous voulez changer de camp, dites-le-moi. Je vous aiderai.
+
+94
+00:08:36,600 --> 00:08:40,210
+- Changer de camp ? 
+ - Vous n'êtes pas au courant ? Notre société a deux importants dirigeants.
+
+95
+00:08:40,220 --> 00:08:43,600
+Ceux qui suivent le directeur général Hwang Yoo Cheol et ceux qui suivent Bâton.
+
+96
+00:08:43,610 --> 00:08:48,450
+<i>Pourquoi ? Parce que le directeur général et Bâton sont amis mais aussi rivaux.</i>
+
+97
+00:08:52,980 --> 00:08:55,180
+Pourquoi tu agis différemment de d'habitude ?
+
+98
+00:08:56,550 --> 00:09:00,780
+Faire quelque chose qui ne me ressemble pas est ma spécialité. Tu le sais bien.
+
+99
+00:09:00,780 --> 00:09:03,230
+Je suis en charge de la liquidation de Navire Daeyang.
+
+100
+00:09:03,250 --> 00:09:05,880
+- Si tu agis de la sorte, il y aura un problème dans la hiérarchie. 
+ - Tu es
+
+101
+00:09:05,910 --> 00:09:08,770
+le directeur général de la société. Moi ?
+
+102
+00:09:08,810 --> 00:09:11,260
+Je suis président du conseil d’administration.
+
+103
+00:09:11,270 --> 00:09:12,990
+Je suis celui qui maintient la société en vie.
+
+104
+00:09:13,010 --> 00:09:16,640
+Je gagne 70 % des profits de KM Financial.
+
+105
+00:09:16,660 --> 00:09:21,090
+Où est le problème en terme de hiérarchie ?
+
+106
+00:09:21,090 --> 00:09:22,620
+D'accord, eh bien...
+
+107
+00:09:23,390 --> 00:09:25,490
+- Si tu as quelque chose à dire...
+ - Je n'ai rien à dire pour le moment.
+
+108
+00:09:25,500 --> 00:09:28,510
+Peut-être plus tard. Je ne sais pas encore.
+
+109
+00:09:28,520 --> 00:09:31,300
+Jusque-là, continue ce que tu fais.
+
+110
+00:09:31,320 --> 00:09:35,250
+Peu importe ce que c'est. J'y vais maintenant.
+
+111
+00:09:46,310 --> 00:09:52,560
+<i>Madame - X
+ Défunt président de Navire Daeyang, Baek Seong Jin, Dossier confidentiel de diffamation</i>
+
+112
+00:10:00,680 --> 00:10:03,870
+Oh ! Ça marche ! Ça marche ! Hein ?
+
+113
+00:10:03,880 --> 00:10:06,490
+Pourquoi celle-ci ne s'allume pas ?
+
+114
+00:10:06,500 --> 00:10:08,030
+Voilà ! C'est allumé.
+
+115
+00:10:08,030 --> 00:10:11,430
+Ah, ça ne doit pas fonctionner comme ça.
+
+116
+00:10:11,450 --> 00:10:13,360
+Combien de fois dois-je vous le dire ? Ça m'énerve.
+
+117
+00:10:13,390 --> 00:10:15,820
+Si ça t'énerve, fais-le toi-même, Présidente Jo !
+
+118
+00:10:15,840 --> 00:10:19,040
+Non, c'est vous le génie.
+
+119
+00:10:19,060 --> 00:10:21,470
+- Regardez. 
+ - Quoi ?
+
+120
+00:10:22,800 --> 00:10:27,120
+Regardez. Là, cette ampoule. Si vous la touchez avec les mains,
+
+121
+00:10:27,150 --> 00:10:31,430
+l'autre lumière, en la détectant, devrait s'allumer.
+
+122
+00:10:31,450 --> 00:10:33,480
+Que vous soyez en Corée ou en Afrique,
+
+123
+00:10:33,480 --> 00:10:37,870
+si c'est connecté au Wi-Fi, alors une lampe va en allumer une autre. C'est ça le truc !
+
+124
+00:10:37,870 --> 00:10:41,110
+Mais est-ce que ça va vraiment être commercialisé ?
+
+125
+00:10:41,130 --> 00:10:44,260
+Il y a un concours qui est tristement connu pour être difficile.
+
+126
+00:10:44,260 --> 00:10:48,590
+Moi, la présidente Jo, j'ai réussi à être dans les derniers en lice.
+
+127
+00:10:48,590 --> 00:10:52,640
+Si je passe la prochaine étape avec ce prototype et que je gagne la première place la semaine prochaine, alors je gagnerai 100 millions de won (± 80 000 €).
+
+128
+00:10:52,660 --> 00:10:55,760
+Je recevrai 100 millions de won sur mon compte.
+
+129
+00:10:55,760 --> 00:10:59,930
+Au revoir les petits boulots. Ravie de vous revoir, Présidente Jo.
+
+130
+00:11:03,860 --> 00:11:05,500
+Santé.
+
+131
+00:11:07,370 --> 00:11:11,090
+Je veux dire, je savais que la société n'allait pas bien et que nous ne recevrions pas les fonds pour la recherche.
+
+132
+00:11:11,090 --> 00:11:14,180
+Mais qui aurait pu penser qu'une si grande société s'effondrerait et serait revendue ?
+
+133
+00:11:14,180 --> 00:11:16,930
+L'électricité a été coupée alors nous avons dû la prendre ailleurs
+
+134
+00:11:16,930 --> 00:11:20,270
+et nous n'avons pas pu payer le loyer pendant des mois, alors ça a été très dur.
+
+135
+00:11:20,310 --> 00:11:22,270
+Ah, il n'y a vraiment pas de raison de mourir.
+
+136
+00:11:22,300 --> 00:11:24,190
+C'est une grosse société donc, 50 milliards de won ?
+
+137
+00:11:24,190 --> 00:11:27,110
+Ils vont sans doute confirmer tout ça et les transférer.
+
+138
+00:11:27,110 --> 00:11:28,950
+Une fois qu'on aura reçu les fonds supplémentaires pour la recherche,
+
+139
+00:11:28,980 --> 00:11:30,080
+déménageons en premier.
+
+140
+00:11:32,430 --> 00:11:34,470
+Les batteries ont aussi besoin d'être remplacées.
+
+141
+00:11:34,470 --> 00:11:36,160
+Les capteurs et beaucoup d'autres parties ont aussi besoin d'être changés.
+
+142
+00:11:36,160 --> 00:11:40,120
+Remplacez-les tous. Lavez votre visage dans un nouvel évier et le nouveau robot sera
+
+143
+00:11:40,120 --> 00:11:42,880
+dans le nouveau laboratoire.
+
+144
+00:11:42,880 --> 00:11:43,980
+Je vous ai apporté des bières.
+
+145
+00:11:43,980 --> 00:11:46,190
+Merci.
+
+146
+00:11:46,190 --> 00:11:49,550
+AG-3, quel genre de chien vient te voir quand tu manges de la viande ?
+
+147
+00:11:49,550 --> 00:11:51,810
+Cure-dent ! 
+ <i>("Eo-soo-shi-gae" jeu de mot en coréen qui veut aussi dire "Cure-dent". "Gae" est le mort Coréen pour chien)</i>
+
+148
+00:11:52,600 --> 00:11:53,940
+Mon Dieu.
+
+149
+00:11:53,940 --> 00:11:55,760
+Arrête de lui apprendre des choses bizarres.
+
+150
+00:11:55,760 --> 00:11:57,350
+C'est à cause de ça qu'elle devient de plus en plus bizarre.
+
+151
+00:11:57,350 --> 00:12:00,240
+Mais personne d'autre que moi ne fait autant rire AG-3.
+
+152
+00:12:00,240 --> 00:12:03,390
+Vous voulez parier ? Parions 10 000 won (8 €) sur ça. Tout le monde participe ?
+
+153
+00:12:03,390 --> 00:12:05,690
+- D'accord. 
+- Moi aussi.
+
+154
+00:12:05,690 --> 00:12:10,910
+AG-3, je vais t'offrir une poitrine bonnet C une fois que l'on aura l'argent supplémentaire pour les nouveaux développements.
+
+155
+00:12:10,910 --> 00:12:13,630
+- Je ne comprends pas vraiment ce que vous êtes en train de dire. 
+- Raté.
+
+156
+00:12:13,630 --> 00:12:17,370
+AG-3, que se passe-t-il quand tes pommettes montent vers le paradis ?
+
+157
+00:12:17,370 --> 00:12:20,760
+Les pommettes ne peuvent pas monter au ciel. Ce n'est pas un dragon, vous savez.
+
+158
+00:12:20,760 --> 00:12:21,920
+Raté !
+
+159
+00:12:21,920 --> 00:12:24,780
+AG-3, S-M-I-L-E.
+
+160
+00:12:24,780 --> 00:12:27,720
+- Smile. 
+ - Bingo.
+
+161
+00:12:27,720 --> 00:12:29,270
+- Incroyable. 
+- Sérieusement ?
+
+162
+00:12:29,270 --> 00:12:30,590
+- Même moi je peux faire ça. 
+- Il n'y avait pas de règles.
+
+163
+00:12:30,590 --> 00:12:32,400
+10 000 won.
+
+164
+00:12:44,370 --> 00:12:46,340
+Donc la mémoire d'AG-3
+
+165
+00:12:46,340 --> 00:12:50,780
+avec Bâton sera stockée là-dedans, c'est ça ?
+
+166
+00:12:51,930 --> 00:12:55,410
+Hé, dégage. Tu ne peux pas voir que sa poitrine est ouverte ?
+
+167
+00:12:55,410 --> 00:12:58,580
+Tu ne sais pas qu'une seule goutte d'eau là-dedans causera un court circuit et gâchera tout ?
+
+168
+00:12:58,580 --> 00:13:02,700
+Hé...
+
+169
+00:13:09,270 --> 00:13:12,350
+S'il te plaît, jette ça pour moi.
+
+170
+00:13:15,090 --> 00:13:17,460
+Merci.
+
+171
+00:14:02,940 --> 00:14:05,380
+Je suis là.
+
+172
+00:14:08,900 --> 00:14:11,110
+Pourquoi est-ce que vous vous tenez là comme ça ?
+
+173
+00:14:11,110 --> 00:14:14,010
+Tata, Papa est là.
+
+174
+00:14:14,980 --> 00:14:18,930
+Je me suis fait attraper par ton frère. Désolée.
+
+175
+00:14:22,050 --> 00:14:26,360
+Oppa, s'il te plaît écoute-moi.
+
+176
+00:14:26,360 --> 00:14:27,230
+Viens là, petite fille.
+
+177
+00:14:27,230 --> 00:14:28,440
+- Oppa ! Oppa ! 
+- Viens ici maintenant.
+
+178
+00:14:28,440 --> 00:14:32,100
+Je ne t'ai pas dit que j'allais te jeter hors de la maison si tu parlais encore une fois de recommencer une nouvelle entreprise ?
+
+179
+00:14:32,100 --> 00:14:34,910
+Ne t'ai-je pas dit de trouver un travail quoi qu'il arrive ?
+
+180
+00:14:34,910 --> 00:14:40,250
+Oppa, j'étais sur le point d'avoir un travail, tu sais. Mais c'est impossible, donc qu'est-ce que je peux faire ?
+
+181
+00:14:40,250 --> 00:14:45,290
+Si tu ne peux pas, tu devrais améliorer ton CV et trouver un autre moyen ! Tu ne peux pas t'empêcher de commencer de nouvelles entreprises.
+
+182
+00:14:45,290 --> 00:14:49,930
+Et maintenant tu as le culot d'utiliser l'argent de ta belle-sœur ? Dix millions de won en plus (8000 €) !
+
+183
+00:14:49,930 --> 00:14:53,320
+Qu'est-ce que tu as fait avec cet argent ? Quel genre d'idée merdique as-tu encore eu cette fois, hein ?
+
+184
+00:14:53,320 --> 00:14:57,300
+Oppa, je suis désolée. Arrête de courir comme ça. Tes poumons sont faibles.
+
+185
+00:14:57,300 --> 00:14:58,370
+Quand est-ce que tu comptes te reprendre ?
+
+186
+00:14:58,370 --> 00:15:01,930
+Très bien, je comprends. Je comprends, donc mangeons d'abord et ensuite on continuera de parler.
+
+187
+00:15:01,930 --> 00:15:06,510
+Aujourd'hui c'est ton anniversaire. Je t'ai acheté ton gâteau préféré.
+
+188
+00:15:06,510 --> 00:15:08,860
+Qui t'a demandé d'acheter une telle chose ?
+
+189
+00:15:16,340 --> 00:15:18,160
+Tu ne peux pas juste...
+
+190
+00:15:19,820 --> 00:15:22,370
+Tu ne peux pas juste m'encourager ?
+
+191
+00:15:22,370 --> 00:15:26,020
+Tu as eu tout le soutien que tu voulais quand Papa était là et as étudié autant que tu le voulais.
+
+192
+00:15:26,020 --> 00:15:30,490
+Tu es allé à l'Université de Séoul, et est devenu avocat, tu t'es marié, as eu Dong Hyeon, et tout accompli !
+
+193
+00:15:30,490 --> 00:15:34,820
+Et alors si je suis allé à l'Université de Séoul ? Et alors si je suis avocat ? Tu penses que ma vie est facile maintenant ?
+
+194
+00:15:34,820 --> 00:15:39,990
+Bien sûr qu'elle l'est. Donc s'il te plaît donne-moi un peu de mou.
+
+195
+00:15:39,990 --> 00:15:43,360
+Tu es le seul qui peux m'encourager depuis que Papa est décédé.
+
+196
+00:15:43,360 --> 00:15:46,060
+J'en ai assez entendu. Arrête tout ce que tu es en train de faire maintenant.
+
+197
+00:15:46,060 --> 00:15:51,110
+Je ne te dirai pas de participer au paiement des factures, donc va prendre des cours ou trouve un moyen de te trouver un travail au lieu de dormir toute la journée !
+
+198
+00:15:51,110 --> 00:15:52,710
+Et ne cherche pas non plus à trouver un moyen facile.
+
+199
+00:15:52,710 --> 00:15:56,630
+Est-ce que cela a l'air facile pour toi ? C'est tout aussi dur que de trouver du travail, d'accord ?
+
+200
+00:15:56,630 --> 00:16:00,590
+Pourquoi est-ce que tu penses que je dors toute la journée ? Je suis restée éveillée toute la nuit d'hier et la nuit d'avant aussi !
+
+201
+00:16:00,590 --> 00:16:01,950
+Je voulais te rembourser parce que je me sentais mal !
+
+202
+00:16:01,950 --> 00:16:05,500
+Alors rembourse-moi. Rembourse l'emprunt à la banque immédiatement demain.
+
+203
+00:16:05,500 --> 00:16:08,890
+Très bien, je vais te rembourser !
+
+204
+00:16:12,040 --> 00:16:14,160
+<i>Je fais partie du centre de recherche sud-coréen Santa Maria. </i>
+
+205
+00:16:14,160 --> 00:16:17,530
+Bonjour, je me demandais...
+
+206
+00:16:17,530 --> 00:16:18,630
+Hoktal.
+
+207
+00:16:18,630 --> 00:16:19,470
+As-tu eu la confirmation ?
+
+208
+00:16:19,470 --> 00:16:21,630
+Négatif. Je suis vraiment désolé. Je suppose que l'on devrait juste mourir maintenant.
+
+209
+00:16:21,630 --> 00:16:23,170
+Si tu as le temps de parler, passe un autre coup de fil.
+
+210
+00:16:23,170 --> 00:16:25,060
+Ssanip, quoi de nouveau avec l'Amérique du Nord ?
+
+211
+00:16:25,060 --> 00:16:26,160
+Négatif.
+
+212
+00:16:26,160 --> 00:16:28,200
+<i> Merci beaucoup. </i>
+
+213
+00:16:28,200 --> 00:16:32,170
+J'ai trouvé. Il en restait seulement un.
+
+214
+00:16:33,580 --> 00:16:38,200
+Mais il vient de l'étranger, donc il n'arrivera pas avant après-demain.
+
+215
+00:16:38,200 --> 00:16:41,770
+Je ne sais pas si Bâton va nous permettre de retarder cela de deux jours.
+
+216
+00:16:42,490 --> 00:16:45,390
+Nous devons toujours essayer. Pi, appelle-le.
+
+217
+00:16:45,390 --> 00:16:46,280
+Moi ?
+
+218
+00:16:46,280 --> 00:16:48,960
+Cela ne serait pas mieux qu'une femme demande une faveur ?
+
+219
+00:16:48,960 --> 00:16:51,960
+Est-ce que je ressemble à une femme pour vous ?
+
+220
+00:16:51,960 --> 00:16:53,800
+Je vais le faire.
+
+221
+00:16:56,680 --> 00:16:57,520
+Que se passe-t-il ?
+
+222
+00:16:57,520 --> 00:17:02,820
+Bonjour, PDG, je me demandais si vous pouviez retarder le test d'AG-3 de deux jours.
+
+223
+00:17:02,820 --> 00:17:05,990
+Ah, j'ai oublié de vous le dire plus tôt.
+
+224
+00:17:05,990 --> 00:17:13,090
+L'équipe de recherche et développement de Navire Daeyang, ainsi que Santa Maria, seront vendus dans deux jours au groupe Bold au Royaume-Uni.
+
+225
+00:17:13,090 --> 00:17:16,840
+Demain est la seule opportunité que vous avez pour l'expérience.
+
+226
+00:17:19,140 --> 00:17:22,130
+<i> Martin Bold</i>
+
+227
+00:17:25,200 --> 00:17:27,000
+<i> Le brevet mondial Bold a agressivement lancé ses investissements. </i>
+
+228
+00:17:27,000 --> 00:17:31,000
+Chasseur de brevet ?
+
+229
+00:17:31,000 --> 00:17:34,570
+Ce gars va briser AG-3 en morceaux et les vendre pour le profit.
+
+230
+00:18:04,220 --> 00:18:10,270
+Je vais te rembourser. J'aurai d'encore plus grosses dettes rien que pour te rembourser.
+
+231
+00:18:10,270 --> 00:18:12,840
+♫ <i>Ne fais pas la tête</i> ♫
+
+232
+00:18:12,840 --> 00:18:13,610
+Qui est-ce ?
+
+233
+00:18:13,610 --> 00:18:16,460
+♫ <i>Tout le monde traverse des difficultés</i> ♫
+
+234
+00:18:16,460 --> 00:18:19,830
+Je ne suis pas intéressée par un emprunt.
+
+235
+00:18:19,830 --> 00:18:26,390
+♫ <i>Ne fais pas la tête 
+Tout le monde traverse des difficultés</i> ♫
+
+236
+00:18:26,390 --> 00:18:30,860
+J'ai un mauvais crédit, vous comprenez ? Je ne suis pas intéressée par un nouvel emprunt !
+
+237
+00:18:30,860 --> 00:18:34,700
+Si vous avez autant d'argent à donner, donnez-moi juste dix millions de won, pourquoi ne le faites-vous pas ?
+
+238
+00:18:35,830 --> 00:18:38,330
+Cela faisait longtemps.
+
+239
+00:18:38,330 --> 00:18:40,380
+Qui êtes-vous ?
+
+240
+00:18:40,380 --> 00:18:44,160
+C'est moi. Tu as déjà oublié ma voix ?
+
+241
+00:18:44,160 --> 00:18:48,290
+C'est parce que j'ai une mauvaise mémoire. T'es qui ?
+
+242
+00:18:48,290 --> 00:18:51,760
+On était proches au point de se tutoyer ?
+
+243
+00:18:51,760 --> 00:18:53,900
+C'est Hong Baek Gyun.
+
+244
+00:18:53,900 --> 00:18:55,840
+Bactérie rouge, bactérie blanche ?
+
+245
+00:18:55,840 --> 00:19:00,350
+Est-ce que tu vas vraiment faire comme si tu ne me connaissais pas ? C'est moi, Moisissure.
+
+246
+00:19:00,350 --> 00:19:04,960
+L'eau de javel est parfaite pour la moisissure.
+
+247
+00:19:07,470 --> 00:19:10,680
+Je vais te donner dix millions de won. Où est-ce que tu es en ce moment ?
+
+248
+00:19:15,740 --> 00:19:18,820
+Quel genre de nom est-ce Moisissure pour le crier à haute voix ?
+
+249
+00:19:18,820 --> 00:19:23,010
+Alors ton nom de famille est Moisis et ton prénom Sure ?
+
+250
+00:19:28,670 --> 00:19:33,450
+Est-ce que ça pourrait être lui... Moisissure ?
+
+251
+00:19:38,630 --> 00:19:42,480
+Petite idiote. Comment est-ce que t'as pu oublier une telle chose ?
+
+252
+00:19:43,840 --> 00:19:46,810
+Je ne peux pas le voir dans cet état. Pas tant que je serai en vie.
+
+253
+00:20:07,030 --> 00:20:09,330
+Cela faisait longtemps.
+
+254
+00:20:09,330 --> 00:20:12,600
+Tes... Tes cheveux. Ces cheveux. Pourquoi est-ce que tu les as coupés ?
+
+255
+00:20:12,600 --> 00:20:17,380
+Non, je veux dire, quand est-ce que tu les as coupés ? Pourquoi est-ce que tu as coupé tes cheveux à ta guise ? Pourquoi ?
+
+256
+00:20:17,380 --> 00:20:21,720
+Ta poitrine. Combien de rembourrage as-tu mis dans ton soutien-gorge ?
+
+257
+00:20:21,720 --> 00:20:26,930
+Très bien, tu pourras mettre une perruque et on enlèvera ton rembourrage.
+
+258
+00:20:26,930 --> 00:20:28,560
+C'est bon !
+
+259
+00:20:30,530 --> 00:20:38,290
+Normalement, les gens demandent comment la personne va, surtout s'ils ne se sont pas vus depuis longtemps.
+
+260
+00:20:38,290 --> 00:20:43,480
+C'est vrai. Mais cependant cela se voit que ça n'a pas été super pour toi.
+
+261
+00:20:43,480 --> 00:20:46,420
+Donc, je suis plutôt content à ce propos.
+
+262
+00:20:48,230 --> 00:20:52,560
+Tu as plus de rides maintenant, mon chou. Donc cela me rend heureuse aussi.
+
+263
+00:20:52,560 --> 00:20:54,120
+Mon chou ?
+
+264
+00:20:54,120 --> 00:20:58,280
+Je suis toujours ton... chou ?
+
+265
+00:20:58,280 --> 00:21:02,330
+Tu n'as toujours pas changé ton habitude de ne pas écouter.
+
+266
+00:21:02,330 --> 00:21:07,530
+Professeur, nous avons rompu et maintenant nous sommes des étrangers. Donc écoute bien ce que je suis sur le point de te dire.
+
+267
+00:21:07,530 --> 00:21:10,440
+Normalement quand les gens entendent des choses comme cela,
+
+268
+00:21:10,440 --> 00:21:16,060
+ils vont juste se concentrer sur la partie "plus de rides", mais mon ch... mais toi,
+
+269
+00:21:16,060 --> 00:21:18,300
+tu te concentres sur les mots "mon chou".
+
+270
+00:21:18,300 --> 00:21:24,440
+La manière dont ton cerveau est connecté, tu entends seulement les phrases et les mots que tu veux entendre. J'ai pas raison ?
+
+271
+00:21:24,440 --> 00:21:28,400
+Tu dois travailler là-dessus. C'est...
+
+272
+00:21:29,560 --> 00:21:31,670
+vraiment mal.
+
+273
+00:21:31,670 --> 00:21:33,930
+C'est parce que je suis un génie.
+
+274
+00:21:34,700 --> 00:21:37,290
+Et donc pourquoi est-ce que tu es là, Docteur Génie ?
+
+275
+00:21:37,290 --> 00:21:40,120
+- Je suis ici pour te donner une chance de rembourser tes dettes. 
+- Dettes ?
+
+276
+00:21:40,120 --> 00:21:45,170
+Tu t'es sentie désolée depuis un moment, pas vrai ? Je vais te donner l'opportunité de rembourser toutes tes dettes ce soir.
+
+277
+00:21:48,130 --> 00:21:54,110
+Voila, dix millions de won. Je vais te donner cet argent mais tu dois faire un travail pour moi. Juste une journée, demain. Pendant trois heures.
+
+278
+00:21:54,110 --> 00:21:55,570
+Dix...
+
+279
+00:21:56,790 --> 00:22:00,270
+Est-ce que je vais devoir vendre mes organes ?
+
+280
+00:22:00,270 --> 00:22:04,470
+C'est un travail que toi seule peux faire. C'est pourquoi je te donne cet argent.
+
+281
+00:22:04,470 --> 00:22:05,970
+Juste pour une journée, pour trois heures.
+
+282
+00:22:05,970 --> 00:22:09,240
+C'est quel genre de travail au juste ?
+
+283
+00:22:09,240 --> 00:22:12,450
+Le son actif devrait être inséré là-dedans.
+
+284
+00:22:12,450 --> 00:22:14,820
+Attendez un moment. Et...
+
+285
+00:22:16,800 --> 00:22:18,940
+Décision...
+
+286
+00:22:31,240 --> 00:22:32,430
+Mamma Mia !
+
+287
+00:22:32,430 --> 00:22:34,170
+Ouah.
+
+288
+00:22:36,530 --> 00:22:40,410
+Est-ce que notre AG est réveillée maintenant ? Cela se pourrait-il que tu sois réparée ?
+
+289
+00:22:40,410 --> 00:22:42,900
+Comment est-ce que vous avez réparé les parties qui ne sont pas encore arrivées ?
+
+290
+00:22:42,900 --> 00:22:46,530
+Notre équipe est vraiment incroyable. Sérieusement.
+
+291
+00:22:46,530 --> 00:22:52,000
+Mais ta perruque a changé. Comment cela se fait-il que ta poitrine ait grossi ?
+
+292
+00:22:52,000 --> 00:22:55,440
+Je me demande si la batterie a gonflé ou quelque chose comme ça. Ne t'inquiète pas.
+
+293
+00:22:56,050 --> 00:22:58,880
+Oppa va la réparer pour toi.
+
+294
+00:22:58,880 --> 00:23:08,110
+Attendez. Dites bonjour. C'est le modèle pour AG-3. Jo Ji Ah.
+
+295
+00:23:08,110 --> 00:23:12,090
+Le modèle ? Une humaine alors ? Mon Dieu.
+
+296
+00:23:12,090 --> 00:23:17,360
+Pardonnez-moi, mais comment vous connaissez-vous ?
+
+297
+00:23:17,360 --> 00:23:22,100
+Ah. Nous nous connaissions… de vue il y a quelques temps.
+
+298
+00:23:22,100 --> 00:23:28,190
+Attends. Attends. Modèle ? De quoi parles-tu ?
+
+299
+00:23:46,990 --> 00:23:49,390
+Pourquoi suis-je là ?
+
+300
+00:23:50,520 --> 00:23:52,920
+Hé, ton ex est fou ?
+
+301
+00:23:52,920 --> 00:23:55,980
+Un scientifique qui fabrique un robot avec le même visage que son ex.
+
+302
+00:23:55,980 --> 00:23:59,020
+Mais à quel point te ressemble-t-il ? Il a vraiment l'air humain ?
+
+303
+00:23:59,020 --> 00:24:01,100
+Comme dans les films de science-fiction ?
+
+304
+00:24:01,100 --> 00:24:03,360
+- C'est drôle ? 
+- Je m'inquiète.
+
+305
+00:24:03,360 --> 00:24:06,650
+Même quand on rompt, la "règle de la merde totale" s'applique encore.
+
+306
+00:24:06,650 --> 00:24:11,960
+La merde qui ne te laisse jamais tranquille quand tu romps et qui peut apparaître d'un moment à un autre.
+
+307
+00:24:11,960 --> 00:24:14,480
+D'après ce que je vois, c'est un emmerdeur.
+
+308
+00:24:14,480 --> 00:24:17,530
+- Quelles absurdités racontes-tu ? 
+- Je veux dire qu'il doit encore avoir des sentiments pour toi.
+
+309
+00:24:17,530 --> 00:24:19,920
+Tu me dis ça pour m'exciter ou pour m'effrayer ?
+
+310
+00:24:19,920 --> 00:24:22,240
+Lequel c'est alors ?
+
+311
+00:24:23,480 --> 00:24:25,750
+- On lance une pièce ? 
+- Ça ne va pas marcher.
+
+312
+00:24:25,750 --> 00:24:28,740
+D'après ce que je vois, ce n'est pas fini pour toi non plus.
+
+313
+00:24:28,740 --> 00:24:34,310
+Ressors avec ton ex. Prends ce travail. Je crois que ça te permettra d'en finir.
+
+314
+00:24:34,310 --> 00:24:36,200
+Je ne prendrai pas ce travail. Je ne sortirai pas avec lui.
+
+315
+00:24:36,200 --> 00:24:41,030
+Je le ferai si j'étais renvoyée de chez moi, mais en aucun cas je ne ferai ce travail de fou !
+
+316
+00:24:41,030 --> 00:24:45,270
+<i>Tu n'es pas son amie mais sa belle-sœur. Tu as même contracté un emprunt pour elle ? Tu es folle ?</i>
+
+317
+00:24:45,270 --> 00:24:48,490
+<i>C'est parce que tu agis ainsi qu'elle ne se prend pas en main.</i>
+
+318
+00:24:48,490 --> 00:24:52,980
+<i>J'ai compris, j'ai compris. Laisse-la au moins dormir à la maison, d'accord ?</i>
+
+319
+00:24:52,980 --> 00:24:58,930
+<i>Dormir où ? Dis-lui de ne pas rêver rentrer à la maison tant qu'elle n'aura pas payé les 10 millions de won.</i>
+
+320
+00:25:01,630 --> 00:25:04,850
+Mon dos. Bon sang.
+
+321
+00:25:04,850 --> 00:25:07,760
+Je devrais porter plainte contre lui pour les frais d'hôpitaux.
+
+322
+00:25:07,760 --> 00:25:11,630
+Ce salaud ! Cet enfoiré de profiteur !
+
+323
+00:25:20,940 --> 00:25:23,140
+Mon collier.
+
+324
+00:25:31,000 --> 00:25:33,110
+Dix millions de won.
+
+325
+00:25:33,110 --> 00:25:37,370
+J'y ai réfléchi et j'ai pensé que j'avais le droit de prendre cette somme pour avoir copié mon visage.
+
+326
+00:25:37,370 --> 00:25:40,760
+J'accepterai le travail sans me faire payer.
+
+327
+00:25:40,760 --> 00:25:43,630
+C'est un calcul éhonté qui n'est pas additionné,
+
+328
+00:25:43,630 --> 00:25:45,740
+mais dont le coût final est identique, j'accepte.
+
+329
+00:25:45,740 --> 00:25:51,340
+J'espère que tu ne prendras pas mon consentement pour des sentiments que j'aurais encore pour toi.
+
+330
+00:25:51,340 --> 00:25:56,520
+Et j'espère que tu ne penseras pas que je le fais pour des désirs personnels.
+
+331
+00:25:58,100 --> 00:25:59,460
+Qu'est-ce que je dois faire maintenant ?
+
+332
+00:25:59,460 --> 00:26:03,270
+Où est-ce passé ? Sérieusement ? Le collier.
+
+333
+00:26:04,360 --> 00:26:08,280
+Ça me rend fou.
+
+334
+00:26:11,310 --> 00:26:14,220
+<i>Hé, donne-moi mon argent !</i>
+
+335
+00:26:14,220 --> 00:26:16,590
+<i>Paye-moi, enfoiré !</i>
+
+336
+00:26:16,590 --> 00:26:19,180
+<i>Paye-moi !</i>
+
+337
+00:26:20,880 --> 00:26:24,150
+Cette folle de présidente Jo !
+
+338
+00:26:24,990 --> 00:26:28,200
+Les générations précédentes de robots marchent un peu maladroitement.
+
+339
+00:26:28,200 --> 00:26:32,000
+Ils bougent comme ça. Chut, toi.
+
+340
+00:26:32,000 --> 00:26:35,490
+Regardez maintenant. De nos jours, avec une technologie de pointe,
+
+341
+00:26:35,490 --> 00:26:37,580
+c'est comme un être humain. Avec facilité.
+
+342
+00:26:37,580 --> 00:26:41,100
+Comme l'eau courante, comme un vrai être humain, en douceur.
+
+343
+00:26:41,100 --> 00:26:44,380
+En douceur. S'ils veulent regarder sur le côté, ils tournent d'abord leur tête.
+
+344
+00:26:44,380 --> 00:26:48,420
+Après ils tournent leur corps. En douceur, en douceur. Vous comprenez ?
+
+345
+00:26:48,420 --> 00:26:53,080
+Oui, c'est facile, n'est-ce pas ? Doucement. Restez tranquille.
+
+346
+00:26:57,270 --> 00:26:59,140
+Vous faites une danse du masque ?
+
+347
+00:26:59,140 --> 00:27:01,360
+- Doucement. 
+- Vous l'avez bien fait tout à l'heure. 
+- Vraiment ?
+
+348
+00:27:01,360 --> 00:27:04,610
+- Je l'ai fait ?
+- Vous l'avez fait, Docteur. 
+<i>[Sale con]</i>
+
+349
+00:27:04,610 --> 00:27:08,330
+Avant, les robots étaient comme ça.
+
+350
+00:27:08,330 --> 00:27:11,390
+Quand ils posaient quelque chose, ils lâchaient négligemment.
+
+351
+00:27:11,390 --> 00:27:14,010
+Mais notre AG-3 bougera avec attention.
+
+352
+00:27:14,010 --> 00:27:17,970
+Doucement dans un mouvement continu et au moins sans bruit.
+
+353
+00:27:17,970 --> 00:27:20,930
+Ji Ah, essayez ça s'il vous plaît.
+
+354
+00:27:20,930 --> 00:27:23,230
+Il y a un son !
+
+355
+00:27:29,220 --> 00:27:31,950
+- Comme ça. 
+- Cette partie devrait aller là.
+
+356
+00:27:57,400 --> 00:27:59,930
+Quoi… C'est tout ?
+
+357
+00:27:59,930 --> 00:28:04,740
+Je pensais que ce serait quelque chose de sensationnel quand vous avez parlé de robots.
+
+358
+00:28:15,450 --> 00:28:18,980
+Ce sont des lentilles d'affichage avec la plus petite caméra à l'intérieur.
+
+359
+00:28:18,980 --> 00:28:22,320
+Et un transmetteur sans fil.
+
+360
+00:28:22,320 --> 00:28:25,000
+Tu peux porter cela au poignet. Hoktal, connecte-le au réseau.
+
+361
+00:28:25,000 --> 00:28:27,520
+Vérification.
+
+362
+00:28:27,520 --> 00:28:29,530
+Fait.
+
+363
+00:28:33,840 --> 00:28:37,390
+- Ouah. 
+- On a connecté Jo Ji Ah et AG-3.
+
+364
+00:28:37,390 --> 00:28:41,170
+Pour le dire simplement, vous êtes l'avatar d'AG-3.
+
+365
+00:28:41,170 --> 00:28:44,890
+Tout ce que tu vois et entends, AG-3 le voit et l'entend aussi.
+
+366
+00:28:44,890 --> 00:28:49,240
+Elle te dira comment agir via des sous-titres ou des vidéos dans les lentilles.
+
+367
+00:28:49,240 --> 00:28:51,400
+Tu dois juste les lire.
+
+368
+00:28:51,400 --> 00:28:53,740
+Bonjour, AG-3.
+
+369
+00:28:53,740 --> 00:28:57,290
+Je vous aime, Maître. Que désirez-vous ?
+
+370
+00:28:57,290 --> 00:28:58,810
+<i>Je vous aime, Maître. Que désirez-vous ?</i>
+
+371
+00:28:58,810 --> 00:29:00,980
+Je vous...
+
+372
+00:29:03,370 --> 00:29:06,010
+Tu me dis de lire ça ?
+
+373
+00:29:06,010 --> 00:29:09,710
+Tu n'as quand même pas fait dire tous les jours à ce morceau de métal doté de mon visage qu'elle t'aime !
+
+374
+00:29:09,710 --> 00:29:12,020
+Aurais-tu encore des sentiments pour moi par hasard ?
+
+375
+00:29:12,020 --> 00:29:14,840
+Des sentiments pour toi ?
+
+376
+00:29:14,840 --> 00:29:17,200
+Qui ?
+
+377
+00:29:18,130 --> 00:29:19,980
+Je t'ai dit de ne pas te méprendre, non ?
+
+378
+00:29:19,980 --> 00:29:21,650
+AG-3 est différente de toi.
+
+379
+00:29:21,650 --> 00:29:24,510
+Elle a tout ce que tu n'as pas et c'est un être parfait.
+
+380
+00:29:24,510 --> 00:29:26,230
+C'est un être extraordinaire et supérieur.
+
+381
+00:29:26,230 --> 00:29:29,290
+Elle est plus parfaite, plus extraordinaire et supérieure à moi ?
+
+382
+00:29:29,290 --> 00:29:33,900
+En quoi ? C'est juste un robot. En quoi est-elle différente d'une poupée ?
+
+383
+00:29:33,900 --> 00:29:37,830
+AG-3 analyse le marché boursier européen.
+
+384
+00:29:41,810 --> 00:29:43,360
+Ouah.
+
+385
+00:29:43,360 --> 00:29:49,160
+AG-3, lis l'article le plus récent publié dans le domaine scientifique. Le texte original.
+
+386
+00:29:52,390 --> 00:29:55,410
+Ouah, c'est génial !
+
+387
+00:29:55,410 --> 00:29:57,390
+J'ai l'impression d'être devenue un génie !
+
+388
+00:29:57,390 --> 00:30:01,990
+Ton QI est de 94. AG-3 est un génie puisqu'on ne peut pas mesurer son QI.
+
+389
+00:30:01,990 --> 00:30:06,120
+Mais comment suis-je supposée lire ça ? Je ne parle pas anglais.
+
+390
+00:30:20,400 --> 00:30:21,900
+Qu'est-ce que c'est ? Que faire ?
+
+391
+00:30:21,900 --> 00:30:23,650
+Sunbae, sortez de la voiture et cherchez une sonnette.
+
+392
+00:30:23,650 --> 00:30:27,080
+- Non, je… 
+- Ça s'ouvre ! Ça s'ouvre !
+
+393
+00:30:27,080 --> 00:30:29,000
+Ouah, c'est…
+
+394
+00:30:29,000 --> 00:30:31,210
+Nous sommes arrivés.
+
+395
+00:30:31,910 --> 00:30:33,700
+<i>Sale con</i>
+
+396
+00:30:34,570 --> 00:30:37,760
+Hé, Sale con. Qu'est-ce qu'il y a ?
+
+397
+00:30:37,760 --> 00:30:39,790
+Tu réponds enfin au téléphone.
+
+398
+00:30:39,790 --> 00:30:42,070
+C'est mon choix.
+
+399
+00:30:42,070 --> 00:30:45,170
+Tu t'es finalement senti coupable et tu veux payer ? Je l'accepterai avec joie.
+
+400
+00:30:45,170 --> 00:30:49,140
+Mon collier. Tu l'as pris, n'est-ce pas ?
+
+401
+00:30:49,140 --> 00:30:53,060
+Quoi ? Pourquoi essaies-tu de me blâmer pour quelque chose que tu as perdu ?
+
+402
+00:30:53,060 --> 00:30:55,870
+Tu as arraché mon collier de mon cou ce jour-là !
+
+403
+00:30:55,870 --> 00:30:58,240
+<i>- Tu ne t'en souviens pas ?</i> 
+- Ah, c'est ridicule.
+
+404
+00:30:58,240 --> 00:31:02,500
+Tu ferais mieux de me rendre mon collier avant que je ne porte vraiment plainte contre toi.
+
+405
+00:31:02,500 --> 00:31:04,400
+Hé, tu es un malade mental ?
+
+406
+00:31:04,400 --> 00:31:07,070
+<i>Je suis sérieuse là. Va dans un hôpital.</i>
+
+407
+00:31:07,070 --> 00:31:09,650
+- Quoi… 
+- De nos jours, aller chez un psychiatre n'est pas bizarre.
+
+408
+00:31:09,650 --> 00:31:12,240
+<i>Essaie d'y aller, d'accord ?</i>
+
+409
+00:31:12,240 --> 00:31:15,060
+Pour qui me prend-il ?
+
+410
+00:31:16,240 --> 00:31:20,290
+Il a laissé 156 appels en absence et 45 SMS.
+
+411
+00:31:26,220 --> 00:31:29,570
+<i>- On entre. </i> 
+- Ils entrent maintenant.
+
+412
+00:31:34,380 --> 00:31:37,670
+Ouah, quelle belle maison.
+
+413
+00:31:38,550 --> 00:31:44,090
+Ouah, on dirait vraiment LA. J'ai une amie appelée Jane qui habite à LA. Je me souviens d'elle.
+
+414
+00:31:44,090 --> 00:31:48,470
+- C'est vraiment une maison ? 
+- Ses cheveux roux étaient vraiment jolis.
+
+415
+00:31:50,330 --> 00:31:53,230
+Ouah, cette maison me fait vraiment penser à LA. Ça me rappelle Jane à LA.
+
+416
+00:31:53,230 --> 00:31:56,180
+Éteignez votre portable. Nous sommes dans un endroit important.
+
+417
+00:31:57,810 --> 00:32:00,100
+<i>- Ji Ah, éteignez votre portable. </i>
+- Elle… a pris son portable...
+
+418
+00:32:00,100 --> 00:32:01,850
+- avec elle ? 
+- Elle est folle ?
+
+419
+00:32:01,850 --> 00:32:04,770
+- Ji Ah… éteignez votre portable, s'il vous plaît.
+- Éteins-le vite !
+
+420
+00:32:06,280 --> 00:32:09,300
+Si tu m'appelles encore une fois, je te dénoncerai à la police.
+
+421
+00:32:09,300 --> 00:32:12,820
+- Ce serait à moi de dire ça. Si tu ne me rends pas mon collier... 
+- AG.
+
+422
+00:32:12,820 --> 00:32:15,880
+<i>Je te poursuivrai jusqu'à ce que...</i>
+
+423
+00:32:16,790 --> 00:32:20,190
+Ah, cette folle !
+
+424
+00:32:20,190 --> 00:32:23,060
+Ce sale con !
+
+425
+00:32:25,910 --> 00:32:29,630
+Tada. Ouah.
+
+426
+00:32:39,570 --> 00:32:42,420
+Un verre d'eau, ce serait bien.
+
+427
+00:32:47,490 --> 00:32:56,730
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+428
+00:33:05,130 --> 00:33:08,180
+Bonjour, AG-3.
+
+429
+00:33:08,180 --> 00:33:11,340
+Je vous aime, Maître. Que désir…
+
+430
+00:33:11,340 --> 00:33:14,280
+Oh mon Dieu. Merde !
+
+431
+00:33:20,830 --> 00:33:25,480
+♫ <i>Appelons ça une histoire d'amour</i>
+ <i>Ne nous disputons pas sur qui est le premier</i> ♫
+
+432
+00:33:25,480 --> 00:33:30,070
+♫ <i>Appelons ça une histoire d'amour</i> 
+ <i>Et alors ? Pas grave s'il est trop tôt pour une rose rouge</i> ♫
+
+433
+00:33:30,070 --> 00:33:34,620
+♫ <i>Appelons ça une histoire d'amour</i> 
+ <i>Même ton nom est beau</i> ♫
+
+434
+00:33:34,620 --> 00:33:40,130
+♫ <i>Appelons ça une histoire d'amour</i> 
+ <i>Personne ne sait quand l'amour frappera à la porte</i> ♫
+
+435
+00:33:40,130 --> 00:33:44,750
+♫ <i>L'amour sait qui s'aiment vraiment</i> ♫
+
+436
+00:33:44,750 --> 00:33:51,190
+♫ <i>On attend tous une chance de faire une rencontre</i> ♫
+
+437
+00:33:51,190 --> 00:33:55,410
+♫ <i>Appelons ça une histoire d'amour</i> 
+ <i>Même ton nom est beau</i> ♫
+
+438
+00:33:55,410 --> 00:34:01,990
+♫ <i>Appelons ça une histoire d'amour</i> 
+ <i>Personne ne sait quand l'amour frappera à la porte</i> ♫
+

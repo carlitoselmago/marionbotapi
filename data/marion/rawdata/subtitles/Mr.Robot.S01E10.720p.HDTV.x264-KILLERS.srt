@@ -1,0 +1,3170 @@
+﻿1
+00:00:02,964 --> 00:00:04,500
+Allez !
+Tu te décides ?
+
+2
+00:00:04,667 --> 00:00:06,006
+Allez, vas-y.
+
+3
+00:00:06,256 --> 00:00:09,509
+Tu trompes ta femme avec sept autres.
+J'ai des preuves numériques de tout.
+
+4
+00:00:09,759 --> 00:00:12,220
+Arrête de voir Krista,
+ou ta femme saura.
+
+5
+00:00:12,728 --> 00:00:14,400
+- Ça marche.
+- Encore une chose...
+
+6
+00:00:14,567 --> 00:00:16,040
+Tu me dois quelque chose.
+
+7
+00:00:17,111 --> 00:00:18,643
+Je pirate pas que vous, Krista,
+
+8
+00:00:18,893 --> 00:00:20,402
+Je pirate tout le monde.
+
+9
+00:00:20,569 --> 00:00:22,939
+Je dois être franc,
+vous m'avez impressionné.
+
+10
+00:00:23,961 --> 00:00:28,153
+Je pense pouvoir vous dégoter
+un boulot plutôt lucratif.
+
+11
+00:00:28,726 --> 00:00:30,066
+Qui êtes-vous ?
+
+12
+00:00:31,288 --> 00:00:32,324
+On y viendra.
+
+13
+00:00:32,931 --> 00:00:34,299
+Écoute-moi.
+
+14
+00:00:34,466 --> 00:00:37,329
+Je t'abandonnerai pas.
+Je te laisserai plus jamais seul.
+
+15
+00:00:38,100 --> 00:00:39,331
+À qui tu parlais ?
+
+16
+00:00:41,388 --> 00:00:44,377
+Depuis le mois dernier,
+Evil Corp a déplacé ses bandes vers...
+
+17
+00:00:44,627 --> 00:00:45,912
+Cinq autres locaux.
+
+18
+00:00:46,079 --> 00:00:47,923
+Et vous avez un plan
+pour les détruire.
+
+19
+00:00:48,372 --> 00:00:50,060
+Pourquoi vous bossez avec nous ?
+
+20
+00:00:52,385 --> 00:00:53,929
+Le piratage, tout...
+
+21
+00:00:54,179 --> 00:00:56,720
+- On devrait pas le mettre à exécution.
+- Pourquoi ?
+
+22
+00:00:57,240 --> 00:01:00,435
+Une fois le serveur infecté en réseau,
+on sera en place.
+
+23
+00:01:01,151 --> 00:01:02,894
+Scott va rester ici.
+
+24
+00:01:03,061 --> 00:01:05,106
+Par contre, vous allez partir.
+
+25
+00:01:05,771 --> 00:01:07,375
+Si tu veux rester dans cette famille,
+
+26
+00:01:08,717 --> 00:01:09,844
+tu arrangeras les choses.
+
+27
+00:01:11,154 --> 00:01:12,072
+Putain...
+
+28
+00:01:12,322 --> 00:01:15,367
+J'ignore quel est votre plan,
+mais vous allez me le révéler.
+
+29
+00:01:19,070 --> 00:01:20,372
+Pourquoi avoir fait ça ?
+
+30
+00:01:20,622 --> 00:01:23,541
+Qu'espériez-vous accomplir
+en faisant tout ça ?
+
+31
+00:01:25,237 --> 00:01:26,836
+Je voulais sauver le monde.
+
+32
+00:01:27,086 --> 00:01:29,399
+<i>5illy C0n Carn3</i>
+
+33
+00:01:29,566 --> 00:01:32,133
+u-sub.net & sous-titres.eu
+
+34
+00:01:46,385 --> 00:01:47,970
+Ravi de te revoir.
+
+35
+00:01:56,120 --> 00:01:58,080
+Tu es superbe.
+
+36
+00:01:58,689 --> 00:02:00,537
+- Je t'offre un verre ?
+- Michael.
+
+37
+00:02:00,787 --> 00:02:01,788
+Je ne...
+
+38
+00:02:06,880 --> 00:02:08,000
+J'avais oublié.
+
+39
+00:02:09,306 --> 00:02:11,297
+Ce n'est même pas ton vrai prénom.
+
+40
+00:02:14,094 --> 00:02:15,095
+C'est...
+
+41
+00:02:15,760 --> 00:02:16,553
+Lenny.
+
+42
+00:02:22,650 --> 00:02:24,120
+Dis-moi ce qui se passe.
+
+43
+00:02:25,046 --> 00:02:26,400
+Tu en es à quel stade ?
+
+44
+00:02:28,157 --> 00:02:31,146
+J'ai déjà envoyé un mail
+à mon amie oncologue.
+
+45
+00:02:31,313 --> 00:02:33,668
+Si c'est aussi grave que tu le dis...
+
+46
+00:02:33,835 --> 00:02:35,787
+- Elle voudra...
+- Écoute.
+
+47
+00:02:40,251 --> 00:02:41,494
+Je ne vais pas mourir.
+
+48
+00:02:45,043 --> 00:02:46,541
+Espèce d'enfoiré !
+
+49
+00:02:47,026 --> 00:02:49,864
+- C'était le seul moyen de te revoir.
+- Ne me rappelle jamais.
+
+50
+00:02:50,031 --> 00:02:51,228
+Même mourant.
+
+51
+00:02:51,395 --> 00:02:53,009
+Un de tes patients m'a piraté.
+
+52
+00:02:53,750 --> 00:02:54,751
+Un gosse.
+
+53
+00:02:55,400 --> 00:02:57,260
+Il s'appelle Elliot Alderson.
+
+54
+00:02:58,370 --> 00:02:59,909
+J'ai déjà prévenu la police.
+
+55
+00:03:00,977 --> 00:03:03,240
+S'il te plaît, rassieds-toi.
+
+56
+00:03:04,134 --> 00:03:05,977
+Il faut qu'on en parle.
+
+57
+00:03:17,064 --> 00:03:18,065
+Tiens.
+
+58
+00:03:18,719 --> 00:03:21,518
+La division cybercriminalité
+examine la question.
+
+59
+00:03:21,685 --> 00:03:23,870
+Ils le traquent depuis six semaines.
+
+60
+00:03:25,997 --> 00:03:28,056
+- C'est quoi ?
+- La preuve que c'est lui.
+
+61
+00:03:28,223 --> 00:03:30,085
+Il a emmené mon chien chez le véto.
+
+62
+00:03:31,127 --> 00:03:33,048
+Tu vois, il était pucé.
+
+63
+00:03:33,215 --> 00:03:36,674
+J'ai donné son numéro de puce
+à tous les vétos de la ville.
+
+64
+00:03:40,386 --> 00:03:43,208
+Cet enculé ne m'a pas seulement piraté
+et ruiné ma vie.
+
+65
+00:03:43,375 --> 00:03:44,974
+Il a aussi volé mon chien.
+
+66
+00:03:47,401 --> 00:03:48,686
+Il est fou à lier.
+
+67
+00:03:49,658 --> 00:03:52,398
+Il te consulte, donc techniquement,
+c'est vrai.
+
+68
+00:03:52,648 --> 00:03:53,858
+Il t'a fait quoi ?
+
+69
+00:03:56,405 --> 00:03:58,283
+Il m'a forcé...
+
+70
+00:04:00,732 --> 00:04:01,733
+tu sais...
+
+71
+00:04:03,840 --> 00:04:05,662
+à te dire toutes ces choses.
+
+72
+00:04:10,243 --> 00:04:12,890
+On devrait lui interdire de faire ça.
+
+73
+00:04:13,315 --> 00:04:15,255
+Il a piraté ma vie privée.
+
+74
+00:04:16,238 --> 00:04:18,685
+Et il y a eu le scandale
+Ashley Madison.
+
+75
+00:04:19,330 --> 00:04:22,243
+Ma femme a fini par tout découvrir.
+
+76
+00:04:22,410 --> 00:04:24,931
+Après cette histoire,
+elle m'a quitté.
+
+77
+00:04:25,614 --> 00:04:27,267
+Je ne peux plus voir ma fille.
+
+78
+00:04:28,470 --> 00:04:31,104
+- Mon divorce est un cauchemar.
+- Je m'en fiche.
+
+79
+00:04:31,354 --> 00:04:33,139
+Écoute, s'il m'a fait ça,
+
+80
+00:04:33,306 --> 00:04:35,290
+il a dû le faire à d'autres.
+
+81
+00:04:36,109 --> 00:04:36,943
+Penses-y.
+
+82
+00:04:37,845 --> 00:04:40,150
+S'il en savait assez sur moi
+pour me pirater,
+
+83
+00:04:40,751 --> 00:04:43,010
+alors, il a dû te pirater aussi.
+
+84
+00:04:46,327 --> 00:04:47,328
+Il l'a fait.
+
+85
+00:04:47,870 --> 00:04:48,705
+Pas vrai ?
+
+86
+00:04:57,791 --> 00:04:59,394
+Je ne peux pas t'en parler.
+
+87
+00:05:01,372 --> 00:05:03,290
+Tu dois m'aider à l'attraper.
+
+88
+00:05:05,040 --> 00:05:06,306
+Le chien ne suffit pas.
+
+89
+00:05:07,033 --> 00:05:08,560
+Mon pote m'a dit
+
+90
+00:05:08,727 --> 00:05:11,521
+que c'était difficile de porter plainte
+pour fraude informatique.
+
+91
+00:05:11,688 --> 00:05:13,646
+Il faut beaucoup de preuves.
+
+92
+00:05:14,528 --> 00:05:15,815
+Ce gosse est fort.
+
+93
+00:05:16,495 --> 00:05:19,248
+Il se connectait via un truc
+qu'on appelle des proxies
+
+94
+00:05:19,415 --> 00:05:20,918
+quelque part en Estonie.
+
+95
+00:05:21,085 --> 00:05:22,420
+Il est intraçable.
+
+96
+00:05:22,587 --> 00:05:24,126
+Et comme le pays s'effondre,
+
+97
+00:05:24,293 --> 00:05:26,319
+on ne trouvera jamais
+de vraies preuves.
+
+98
+00:05:27,070 --> 00:05:28,953
+Selon toi, je peux faire quoi ?
+
+99
+00:05:30,612 --> 00:05:33,291
+Il a peut-être dit quelque chose.
+
+100
+00:05:34,750 --> 00:05:37,292
+Pendant tes consultations.
+
+101
+00:05:37,459 --> 00:05:40,277
+Ne me parle pas
+de confidentialité à la con.
+
+102
+00:05:40,444 --> 00:05:43,760
+Ce mec a commis un délit grave,
+il mérite la prison.
+
+103
+00:05:45,130 --> 00:05:47,055
+Si tu sais quelque chose.
+
+104
+00:05:48,007 --> 00:05:50,300
+S'il a dit quelque chose, dis-le-moi.
+
+105
+00:05:52,018 --> 00:05:53,019
+Écoute.
+
+106
+00:05:53,821 --> 00:05:55,426
+Ce n'est pas moi le méchant.
+
+107
+00:05:56,064 --> 00:05:57,065
+C'est lui.
+
+108
+00:05:59,192 --> 00:06:00,589
+On était bien.
+
+109
+00:06:01,605 --> 00:06:02,699
+Tu te souviens ?
+
+110
+00:06:05,248 --> 00:06:07,178
+Tu ne te rappelles pas cet endroit ?
+
+111
+00:06:08,525 --> 00:06:10,291
+On a passé du bon temps, ici.
+
+112
+00:06:11,621 --> 00:06:12,835
+Allez.
+
+113
+00:06:16,094 --> 00:06:17,448
+Arrête de m'en vouloir.
+
+114
+00:06:20,075 --> 00:06:21,429
+Je t'ai vraiment aimée.
+
+115
+00:06:26,186 --> 00:06:27,930
+Il ne m'a jamais rien dit.
+
+116
+00:06:29,584 --> 00:06:30,959
+Je ne peux pas t'aider.
+
+117
+00:06:40,597 --> 00:06:43,180
+Cet enfoiré m'a volé mon chien !
+
+118
+00:07:05,079 --> 00:07:08,849
+<i>La réponse des marchés asiatiques
+a provoqué la panique,</i>
+
+119
+00:07:09,016 --> 00:07:12,138
+<i>déclenchant une baisse
+des places européennes.</i>
+
+120
+00:07:12,305 --> 00:07:13,810
+<i>Le plus inquiétant</i>
+
+121
+00:07:13,977 --> 00:07:17,127
+<i>est que le FMI n'a aucune influence
+sur ces défaillances.</i>
+
+122
+00:07:17,294 --> 00:07:20,873
+<i>17 gouvernements
+seraient déjà en crise,</i>
+
+123
+00:07:21,040 --> 00:07:22,710
+<i>et certains au bord du gouffre.</i>
+
+124
+00:07:22,877 --> 00:07:24,252
+<i>On compte parmi ceux-ci :</i>
+
+125
+00:07:24,419 --> 00:07:27,270
+<i>la Lituanie, la Croatie, l'Ukraine,
+la Roumanie,</i>
+
+126
+00:07:27,437 --> 00:07:29,590
+<i>la République Tchèque et l'Estonie.</i>
+
+127
+00:07:30,025 --> 00:07:32,529
+<i>Cette faction a jugé
+que le piratage avait infligé...</i>
+
+128
+00:07:32,696 --> 00:07:35,838
+LE PIRATAGE MASSIF
+A DES RÉPERCUSSIONS MONDIALES
+
+129
+00:07:36,005 --> 00:07:40,918
+LES MARCHÉS EUROPÉENS CHUTENT
+
+130
+00:07:41,085 --> 00:07:45,256
+LES GOUVERNEMENTS PRÉPARENT
+L'ÉTAT D'URGENCE
+
+131
+00:07:53,514 --> 00:07:54,964
+eps1.9_zer0-day.avi
+
+132
+00:08:31,973 --> 00:08:33,650
+- Je suis où ?
+- Pardon ?
+
+133
+00:08:34,430 --> 00:08:35,743
+On est où ?
+
+134
+00:08:35,910 --> 00:08:38,325
+Tu es garé sur ce parking
+depuis deux jours.
+
+135
+00:08:38,492 --> 00:08:41,217
+C'est ce que tu m'as payé
+avant la panne des cartes.
+
+136
+00:08:41,384 --> 00:08:42,522
+Je veux du liquide.
+
+137
+00:08:49,290 --> 00:08:50,863
+<i>Elle est à Tyrell.</i>
+
+138
+00:08:54,618 --> 00:08:55,993
+<i>Pourquoi on est là ?</i>
+
+139
+00:08:56,243 --> 00:08:57,745
+Me dis pas que t'en as pas.
+
+140
+00:08:58,281 --> 00:09:00,451
+T'es dans la merde pour un moment,
+mon pote.
+
+141
+00:09:01,339 --> 00:09:02,587
+Je comprends pas.
+
+142
+00:09:04,333 --> 00:09:05,910
+T'as dormi combien de temps ?
+
+143
+00:09:08,798 --> 00:09:09,882
+<i>Sérieusement,</i>
+
+144
+00:09:10,529 --> 00:09:11,957
+<i>tu te rappelles de quoi ?</i>
+
+145
+00:09:12,124 --> 00:09:14,554
+<i>Attends, je te fais plus confiance.</i>
+
+146
+00:09:20,685 --> 00:09:21,686
+Où tu vas ?
+
+147
+00:09:21,853 --> 00:09:22,910
+Et ta voiture ?
+
+148
+00:09:25,089 --> 00:09:27,240
+Je la fais embarquer ce soir !
+
+149
+00:09:57,326 --> 00:10:00,290
+- Tu as été longue.
+- J'ai dû me doucher et me changer.
+
+150
+00:10:00,457 --> 00:10:02,998
+Tu es encore nouvelle ici,
+n'abuse pas trop.
+
+151
+00:10:06,147 --> 00:10:07,747
+EFFACEMENT DES DONNÉES
+
+152
+00:10:26,680 --> 00:10:28,947
+T'es enfin là.
+T'étais passé où ?
+
+153
+00:10:29,114 --> 00:10:31,276
+Pas sympa du tout, mec.
+
+154
+00:10:31,443 --> 00:10:34,511
+On devait pas le lancer ensemble ?
+Il se passe quoi, ici ?
+
+155
+00:10:34,678 --> 00:10:38,510
+Il dit qu'on avait prévu quelque chose
+de plus solennel.
+
+156
+00:10:38,677 --> 00:10:39,549
+Solennel ?
+
+157
+00:10:39,716 --> 00:10:43,100
+On a effacé des disques,
+rangé les câbles, débranché la fibre...
+
+158
+00:10:43,267 --> 00:10:44,429
+On se calme !
+
+159
+00:10:44,596 --> 00:10:46,466
+Il doit avoir ses raisons.
+
+160
+00:10:46,633 --> 00:10:48,954
+Peu importe.
+L'essentiel, c'est que ça a marché.
+
+161
+00:10:49,121 --> 00:10:50,504
+<i>J'ai fait quoi ?</i>
+
+162
+00:10:50,671 --> 00:10:52,120
+On nettoie et on se tire.
+
+163
+00:10:52,287 --> 00:10:54,268
+<i>T'étais là ?
+T'as tout vu ?</i>
+
+164
+00:10:54,435 --> 00:10:55,604
+<i>J'ai fait quoi ?</i>
+
+165
+00:10:55,771 --> 00:10:57,650
+Elliot, qu'est-ce qui se passe ?
+
+166
+00:10:57,817 --> 00:11:01,323
+T'as disparu de l'appartement
+et t'es venu le lancer sans rien dire.
+
+167
+00:11:01,490 --> 00:11:02,329
+<i>Le lancer.</i>
+
+168
+00:11:02,496 --> 00:11:04,650
+<i>Il a été lancé, mais comment ?</i>
+
+169
+00:11:04,817 --> 00:11:06,374
+<i>Il est arrivé quoi à Tyrell ?</i>
+
+170
+00:11:06,624 --> 00:11:08,480
+T'es parti pendant trois jours.
+
+171
+00:11:08,950 --> 00:11:09,919
+T'étais où ?
+
+172
+00:11:11,738 --> 00:11:14,549
+Tu dis que ça a marché ?
+
+173
+00:11:15,118 --> 00:11:17,009
+Ça a fait un malheur.
+
+174
+00:11:17,259 --> 00:11:18,912
+Tout le monde adore.
+
+175
+00:11:19,079 --> 00:11:20,916
+Les gens veulent rejoindre fsociety.
+
+176
+00:11:21,083 --> 00:11:23,640
+Il y a des manifestations
+dans toute la ville.
+
+177
+00:11:30,147 --> 00:11:33,401
+FSOCIETY A ENCORE FRAPPÉ
+CETTE FOIS MORTELLEMENT
+
+178
+00:11:35,861 --> 00:11:38,573
+LES HACKERS DE FSOCIETY
+GAGNENT EN POPULARITÉ
+
+179
+00:11:39,990 --> 00:11:42,410
+LA NSA RECHERCHE FSOCIETY
+
+180
+00:11:42,660 --> 00:11:44,996
+CINQ SITES DE STEEL MOUNTAIN
+SERAIENT TOUCHÉS
+
+181
+00:11:45,246 --> 00:11:47,290
+FSOCIETY A ENCORE FRAPPÉ
+
+182
+00:11:47,540 --> 00:11:49,125
+MORTELLEMENT
+
+183
+00:11:49,375 --> 00:11:50,501
+ATTAQUE COORDONNÉE
+
+184
+00:11:51,752 --> 00:11:52,628
+EN CHINE
+
+185
+00:11:52,878 --> 00:11:55,131
+PANNE DE SYSTÈME GLOBALE
+
+186
+00:11:55,381 --> 00:11:59,260
+L'ÉCONOMIE MONDIALE FERAIT FACE
+À UN BLOCAGE SANS PRÉCÉDENT
+
+187
+00:12:00,943 --> 00:12:01,929
+T'as quoi ?
+
+188
+00:12:05,724 --> 00:12:06,934
+Tu le vois encore ?
+
+189
+00:12:10,069 --> 00:12:11,447
+<i>Il le faudrait.</i>
+
+190
+00:12:12,331 --> 00:12:15,610
+Mec, tu peux pas simplement partir,
+on est en mode nettoyage.
+
+191
+00:12:15,860 --> 00:12:18,237
+- On a besoin de toi.
+- On aurait pas dû faire ça.
+
+192
+00:12:26,268 --> 00:12:28,857
+Tes dépenses,
+rien que pour le loyer et les charges,
+
+193
+00:12:29,024 --> 00:12:30,415
+sont de 50 000 par mois.
+
+194
+00:12:30,582 --> 00:12:34,832
+Le bail est valable encore trois mois,
+donc on doit baisser ces coûts.
+
+195
+00:12:34,999 --> 00:12:38,633
+Il reste donc les effectifs,
+l'activité,
+
+196
+00:12:38,883 --> 00:12:41,517
+les prêts en cours,
+le matériel de location...
+
+197
+00:12:42,272 --> 00:12:43,471
+Je vais le dire.
+
+198
+00:12:43,991 --> 00:12:45,812
+Tu dois fermer Allsafe.
+
+199
+00:12:47,443 --> 00:12:48,482
+Je pourrais...
+
+200
+00:12:49,300 --> 00:12:50,513
+gagner du temps.
+
+201
+00:12:51,843 --> 00:12:53,546
+On pourrait rebondir.
+
+202
+00:12:54,785 --> 00:12:57,234
+Ton client principal
+est en pleine crise.
+
+203
+00:12:57,484 --> 00:12:59,887
+Tu ne peux pas échapper
+aux conséquences.
+
+204
+00:13:00,054 --> 00:13:01,072
+En tant que DAF
+
+205
+00:13:01,322 --> 00:13:02,253
+et amie.
+
+206
+00:13:02,420 --> 00:13:04,389
+Je me dois de te dire honnêtement
+
+207
+00:13:04,961 --> 00:13:06,243
+que c'est désastreux.
+
+208
+00:13:07,181 --> 00:13:08,482
+Ce n'est pas nouveau.
+
+209
+00:13:10,671 --> 00:13:11,749
+Pardon ?
+
+210
+00:13:13,989 --> 00:13:16,128
+Depuis que j'ai créé cette société,
+
+211
+00:13:16,295 --> 00:13:17,868
+on s'est contentés...
+
+212
+00:13:18,853 --> 00:13:21,425
+de se démener
+dans un navire en naufrage.
+
+213
+00:13:23,036 --> 00:13:24,742
+De quand date
+
+214
+00:13:24,909 --> 00:13:27,342
+notre dernière conversation
+encourageante ?
+
+215
+00:13:27,509 --> 00:13:30,851
+Je m'occupe de l'argent.
+Je fais forcément dans le déprimant.
+
+216
+00:13:39,011 --> 00:13:40,712
+Si tu veux leur bien,
+
+217
+00:13:40,879 --> 00:13:43,239
+préviens-les
+pour qu'ils cherchent du travail.
+
+218
+00:13:44,266 --> 00:13:45,267
+Et...
+
+219
+00:13:47,532 --> 00:13:48,533
+Quoi ?
+
+220
+00:13:50,962 --> 00:13:53,781
+Leur épargne retraite
+était liée aux marchés.
+
+221
+00:13:53,948 --> 00:13:57,031
+La Bourse va s'écrouler
+à l'ouverture.
+
+222
+00:13:57,851 --> 00:14:00,381
+Pour l'instant,
+ce ne sont que des rumeurs.
+
+223
+00:14:02,342 --> 00:14:04,385
+- Quoi ?
+- Je ne les négligerais pas.
+
+224
+00:14:05,844 --> 00:14:07,608
+Toutes les banques sont affectées.
+
+225
+00:14:07,775 --> 00:14:10,371
+Je n'ai pas pu payer par carte
+du week-end.
+
+226
+00:14:10,538 --> 00:14:11,539
+Toi, si ?
+
+227
+00:14:12,601 --> 00:14:13,687
+Je ne sais pas.
+
+228
+00:14:13,854 --> 00:14:15,839
+Il y a un point positif.
+
+229
+00:14:16,422 --> 00:14:20,048
+Si les dires sur les <i>hackers</i>
+de fsociety sont fondés,
+
+230
+00:14:21,061 --> 00:14:22,570
+tu n'as plus de dettes.
+
+231
+00:14:35,971 --> 00:14:37,900
+<i>Pourquoi Tyrell a laissé faire ?</i>
+
+232
+00:14:42,197 --> 00:14:44,864
+<i>Il était avec moi,
+je lui ai exposé le plan.</i>
+
+233
+00:14:45,031 --> 00:14:46,430
+<i>Il allait l'arrêter.</i>
+
+234
+00:14:48,370 --> 00:14:49,749
+<i>Un simple programme.</i>
+
+235
+00:14:49,916 --> 00:14:52,308
+<i>Un ver
+capable de crypter les données.</i>
+
+236
+00:14:52,957 --> 00:14:55,835
+<i>Un </i>malware<i> codé en deux heures
+par Darlene.</i>
+
+237
+00:14:56,002 --> 00:14:58,710
+<i>Ça suffit pour anéantir le monde ?</i>
+
+238
+00:14:59,579 --> 00:15:01,421
+<i>Je devrais pas m'en délecter ?</i>
+
+239
+00:15:02,443 --> 00:15:04,168
+<i>Pourquoi je cherche Tyrell ?</i>
+
+240
+00:15:04,335 --> 00:15:05,613
+<i>On a pas réussi ?</i>
+
+241
+00:15:09,490 --> 00:15:11,742
+<i>C'est donc ça, une révolution.</i>
+
+242
+00:15:11,909 --> 00:15:14,250
+<i>Des gens en costume classe
+qui s'agitent.</i>
+
+243
+00:15:14,417 --> 00:15:15,664
+<i>J'imaginais pas ça.</i>
+
+244
+00:15:17,235 --> 00:15:18,959
+<i>Ils en sont à quelle étape ?</i>
+
+245
+00:15:19,209 --> 00:15:20,262
+<i>Au déni ?</i>
+
+246
+00:15:20,429 --> 00:15:23,506
+<i>Ils marmonnent dans leur barbe
+que tout va s'arranger ?</i>
+
+247
+00:15:24,172 --> 00:15:25,424
+<i>À la négociation ?</i>
+
+248
+00:15:25,591 --> 00:15:28,552
+<i>Ils surmènent leurs techniciens
+pour décrypter les données ?</i>
+
+249
+00:15:29,982 --> 00:15:31,873
+<i>Ou ils ont déjà compris</i>
+
+250
+00:15:32,040 --> 00:15:36,268
+<i>que Darlene a tout codé en AES-256</i>
+
+251
+00:15:36,518 --> 00:15:40,397
+<i>et qu'il faudrait des lustres
+pour tout craquer ?</i>
+
+252
+00:15:41,682 --> 00:15:45,379
+<i>Que toutes leurs données
+ont disparu à jamais ?</i>
+
+253
+00:15:53,494 --> 00:15:54,703
+<i>Je dois le trouver.</i>
+
+254
+00:15:56,941 --> 00:15:58,514
+<i>Je dois entendre sa version.</i>
+
+255
+00:16:03,670 --> 00:16:05,548
+SECRÉTAIRE DE T. WELLICK
+
+256
+00:16:07,202 --> 00:16:08,634
+Je peux vous aider ?
+
+257
+00:16:11,159 --> 00:16:12,888
+Je cherche Tyrell Wellick.
+
+258
+00:16:13,795 --> 00:16:14,900
+Il n'est pas là.
+
+259
+00:16:16,322 --> 00:16:17,931
+Il ne travaille plus ici.
+
+260
+00:16:18,310 --> 00:16:19,645
+C'est pour quoi ?
+
+261
+00:16:20,172 --> 00:16:21,437
+<i>C'est confirmé.</i>
+
+262
+00:16:21,604 --> 00:16:22,648
+<i>Voici fsociety</i>
+
+263
+00:16:22,898 --> 00:16:25,155
+<i>qui revendique sa responsabilité
+dans le piratage.</i>
+
+264
+00:16:25,322 --> 00:16:27,336
+<i>On passe maintenant leur vidéo.</i>
+
+265
+00:16:27,503 --> 00:16:28,567
+<i>Evil Corp.</i>
+
+266
+00:16:29,104 --> 00:16:32,254
+<i>Comme prévu,
+on a tenu notre promesse.</i>
+
+267
+00:16:32,867 --> 00:16:33,701
+<i>Le peuple</i>
+
+268
+00:16:35,004 --> 00:16:37,470
+<i>que tu as assujetti</i>
+
+269
+00:16:37,637 --> 00:16:38,967
+<i>a été libéré.</i>
+
+270
+00:16:39,610 --> 00:16:42,334
+<i>Tes données financières
+ont été détruites.</i>
+
+271
+00:16:43,379 --> 00:16:46,922
+<i>Il serait totalement vain
+de vouloir les récupérer.</i>
+
+272
+00:16:47,665 --> 00:16:48,645
+<i>Accepte-le.</i>
+
+273
+00:16:48,812 --> 00:16:50,860
+<i>Tu ne contrôles plus rien.</i>
+
+274
+00:16:51,468 --> 00:16:54,305
+<i>Chez fsociety, on sourira</i>
+
+275
+00:16:54,768 --> 00:16:58,591
+<i>en te regardant sombrer
+avec ton âme maléfique.</i>
+
+276
+00:16:59,522 --> 00:17:00,728
+<i>Toute dette</i>
+
+277
+00:17:00,978 --> 00:17:02,483
+<i>que vous devez à ces porcs</i>
+
+278
+00:17:02,650 --> 00:17:04,773
+<i>a été effacée par nous.</i>
+
+279
+00:17:05,228 --> 00:17:07,379
+<i>Vos amis de fsociety.</i>
+
+280
+00:17:08,569 --> 00:17:10,857
+<i>Ce matin,
+le signal d'ouverture de la Bourse</i>
+
+281
+00:17:11,024 --> 00:17:14,033
+<i>sonnera le glas d'Evil Corp.</i>
+
+282
+00:17:14,200 --> 00:17:15,034
+<i>On espère</i>
+
+283
+00:17:15,284 --> 00:17:17,926
+<i>que dans la société
+qui renaîtra de ses cendres,</i>
+
+284
+00:17:18,093 --> 00:17:20,414
+<i>vous forgerez un monde meilleur.</i>
+
+285
+00:17:20,664 --> 00:17:23,083
+<i>Un monde avec un peuple libre.</i>
+
+286
+00:17:23,333 --> 00:17:25,794
+<i>Un monde dénué d'avarice.</i>
+
+287
+00:17:26,633 --> 00:17:29,757
+<i>Un monde
+qui nous appartient à nouveau.</i>
+
+288
+00:17:30,492 --> 00:17:33,385
+<i>Un monde changé à jamais.</i>
+
+289
+00:17:34,686 --> 00:17:36,305
+<i>Quand vous serez à l’œuvre,</i>
+
+290
+00:17:36,472 --> 00:17:39,114
+<i>répétez bien les phrases suivantes.</i>
+
+291
+00:17:39,281 --> 00:17:41,769
+<i>Nous sommes fsociety.</i>
+
+292
+00:17:42,522 --> 00:17:44,813
+<i>Nous sommes enfin libres.</i>
+
+293
+00:17:45,713 --> 00:17:49,234
+<i>Nos yeux sont enfin ouverts.</i>
+
+294
+00:17:55,157 --> 00:17:57,284
+<i>Les autorités tentent de localiser</i>
+
+295
+00:17:57,534 --> 00:17:58,888
+<i>l'étrange homme masqué,</i>
+
+296
+00:17:59,055 --> 00:18:01,673
+<i>ainsi que d'autres membres
+de fsociety.</i>
+
+297
+00:18:01,840 --> 00:18:03,888
+<i>L'enquête est encore en cours.</i>
+
+298
+00:18:04,055 --> 00:18:07,294
+<i>Les experts informatiques du FBI
+travaillent avec Evil Corp pour...</i>
+
+299
+00:18:13,191 --> 00:18:14,304
+Où est mon sac ?
+
+300
+00:18:14,850 --> 00:18:15,908
+J'en ai besoin.
+
+301
+00:18:16,075 --> 00:18:17,676
+Mes feuilles sont dedans.
+
+302
+00:18:18,445 --> 00:18:21,173
+J'ai mis toutes vos notes sur ces fiches
+pour que...
+
+303
+00:18:21,340 --> 00:18:23,560
+Putain,
+donnez-moi simplement mon sac.
+
+304
+00:18:24,912 --> 00:18:26,719
+Vous deviez le garder à proximité.
+
+305
+00:18:27,266 --> 00:18:28,065
+Désolée.
+
+306
+00:18:28,315 --> 00:18:29,972
+Je voulais bien faire.
+
+307
+00:18:30,139 --> 00:18:31,364
+J'essayais de...
+
+308
+00:18:31,531 --> 00:18:33,195
+Contentez-vous de m'obéir.
+
+309
+00:18:38,844 --> 00:18:39,845
+Désolé.
+
+310
+00:18:41,856 --> 00:18:43,467
+Je ne voulais pas crier.
+
+311
+00:18:44,353 --> 00:18:45,753
+La journée a été longue.
+
+312
+00:18:46,141 --> 00:18:49,196
+Je n'ai pas l'habitude
+de voir de nouvelles têtes.
+
+313
+00:18:51,965 --> 00:18:52,968
+Pas de souci.
+
+314
+00:18:53,715 --> 00:18:55,382
+Dans quatre minutes.
+
+315
+00:18:55,549 --> 00:18:57,324
+Un dernier ajustement, et on y va.
+
+316
+00:18:58,456 --> 00:19:03,081
+Donc, ça devrait réduire en cendres
+tout et n'importe quoi.
+
+317
+00:19:03,248 --> 00:19:04,762
+Mon patron est à la banque.
+
+318
+00:19:04,929 --> 00:19:07,623
+Comme tout le monde,
+donc vous avez du temps.
+
+319
+00:19:08,272 --> 00:19:09,064
+Putain.
+
+320
+00:19:09,740 --> 00:19:11,476
+Dites-moi que je rêve.
+
+321
+00:19:11,643 --> 00:19:12,651
+Me jugez pas.
+
+322
+00:19:13,207 --> 00:19:14,862
+J'aimerais aussi être ailleurs.
+
+323
+00:19:15,919 --> 00:19:17,922
+Désolée, mec, je compatis pas.
+
+324
+00:19:18,089 --> 00:19:20,537
+Arrête d'abréger les souffrances
+de petits chiots.
+
+325
+00:19:20,704 --> 00:19:21,887
+Personne t'oblige.
+
+326
+00:19:22,693 --> 00:19:23,713
+C'est malsain.
+
+327
+00:19:23,880 --> 00:19:25,205
+Je dois bien travailler.
+
+328
+00:19:25,826 --> 00:19:27,499
+Je serais pas là, sinon.
+
+329
+00:19:51,274 --> 00:19:52,212
+Vous savez
+
+330
+00:19:52,379 --> 00:19:54,683
+que j'ai imaginé tous les scénarios
+
+331
+00:19:54,850 --> 00:19:56,966
+pour notre petite révolution.
+
+332
+00:19:57,133 --> 00:19:58,134
+Mais...
+
+333
+00:19:59,231 --> 00:20:02,719
+je pensais pas utiliser
+un incinérateur à chiots.
+
+334
+00:21:21,264 --> 00:21:22,509
+Je peux vous aider ?
+
+335
+00:21:34,854 --> 00:21:36,538
+Je cherche Tyrell Wellick.
+
+336
+00:21:37,109 --> 00:21:38,110
+Il est là ?
+
+337
+00:21:41,553 --> 00:21:42,572
+Il est absent.
+
+338
+00:21:46,774 --> 00:21:48,098
+Vous savez où il est ?
+
+339
+00:21:51,460 --> 00:21:52,519
+Vous êtes qui ?
+
+340
+00:21:53,781 --> 00:21:55,016
+<i>Bonne question.</i>
+
+341
+00:21:56,504 --> 00:21:57,858
+On travaille ensemble.
+
+342
+00:22:02,062 --> 00:22:03,163
+Il est en route.
+
+343
+00:22:03,869 --> 00:22:07,034
+Il m'a appelée il y a dix minutes.
+Il est dans les bouchons.
+
+344
+00:22:08,101 --> 00:22:09,736
+Attendez-le à l'intérieur.
+
+345
+00:22:11,071 --> 00:22:12,142
+Merde.
+
+346
+00:22:12,497 --> 00:22:14,041
+- Debout.
+- Fsociety, connard.
+
+347
+00:22:14,291 --> 00:22:15,751
+Exactement, mon pote.
+
+348
+00:22:21,757 --> 00:22:23,091
+Quel est votre nom ?
+
+349
+00:22:27,480 --> 00:22:28,639
+C'est Ollie.
+
+350
+00:22:31,382 --> 00:22:33,477
+Vous travailliez sur quoi
+avec mon mari ?
+
+351
+00:22:34,114 --> 00:22:35,711
+<i>Aide-moi à m'en sortir.</i>
+
+352
+00:22:35,878 --> 00:22:38,664
+<i>Elle me perturbe.
+J'ai l'impression qu'elle nous entend.</i>
+
+353
+00:22:38,831 --> 00:22:39,900
+Il veut mon avis.
+
+354
+00:22:41,509 --> 00:22:43,810
+Sur le piratage en cours.
+
+355
+00:22:45,757 --> 00:22:47,335
+Vous l'avez vu dernièrement ?
+
+356
+00:22:50,107 --> 00:22:51,377
+<i>Elle ment.</i>
+
+357
+00:22:51,544 --> 00:22:52,888
+<i>Il viendra pas.</i>
+
+358
+00:22:53,055 --> 00:22:54,827
+<i>Elle veut des informations.</i>
+
+359
+00:22:55,597 --> 00:22:56,639
+Je sais pas.
+
+360
+00:22:58,570 --> 00:22:59,753
+La semaine dernière.
+
+361
+00:23:01,459 --> 00:23:02,460
+C'est vrai ?
+
+362
+00:23:06,676 --> 00:23:07,685
+Vous savez,
+
+363
+00:23:07,852 --> 00:23:08,845
+entre nous,
+
+364
+00:23:11,094 --> 00:23:12,846
+je m'inquiète pour Tyrell.
+
+365
+00:23:14,593 --> 00:23:16,895
+Il était bizarre
+quand vous l'avez vu ?
+
+366
+00:23:24,072 --> 00:23:25,114
+C'est drôle.
+
+367
+00:23:26,241 --> 00:23:28,494
+Parce qu'il était vraiment bizarre,
+
+368
+00:23:29,088 --> 00:23:30,777
+la dernière fois que je l'ai vu.
+
+369
+00:23:32,080 --> 00:23:33,285
+Il y a trois jours.
+
+370
+00:23:35,822 --> 00:23:37,489
+<i>Il venait pas d'appeler ?</i>
+
+371
+00:23:38,819 --> 00:23:40,043
+Puis, il a disparu.
+
+372
+00:23:48,645 --> 00:23:49,646
+Pardon ?
+
+373
+00:23:52,132 --> 00:23:53,724
+Je vous comprends pas.
+
+374
+00:24:02,691 --> 00:24:03,483
+Ça va ?
+
+375
+00:24:08,031 --> 00:24:10,848
+C'est les effets du stress
+de ces derniers jours.
+
+376
+00:24:13,531 --> 00:24:15,495
+Je ne vais pas vous retenir.
+
+377
+00:24:20,840 --> 00:24:21,841
+Ollie.
+
+378
+00:24:49,550 --> 00:24:52,923
+Sarah, nous avons réfléchi
+tout le week-end à la situation.
+
+379
+00:24:53,090 --> 00:24:55,093
+Nos techniciens m'ont informé
+
+380
+00:24:55,260 --> 00:24:57,204
+qu'ils ont trouvé d'où ça venait.
+
+381
+00:24:57,454 --> 00:25:00,243
+<i>M. Plouffe,
+avez-vous vu le cours des actions ?</i>
+
+382
+00:25:00,410 --> 00:25:02,753
+<i>Il est à son plus bas niveau, 18 $.</i>
+
+383
+00:25:02,920 --> 00:25:04,334
+<i>Et ce n'est pas fini.</i>
+
+384
+00:25:04,836 --> 00:25:06,503
+<i>Comment réagit-on, chez vous ?</i>
+
+385
+00:25:06,670 --> 00:25:10,472
+<i>Aujourd'hui,
+près de 400 milliards se sont envolés.</i>
+
+386
+00:25:10,639 --> 00:25:12,552
+<i>C'est effarant, cela vous inquiète ?</i>
+
+387
+00:25:15,014 --> 00:25:16,457
+C'est une bonne question.
+
+388
+00:25:16,875 --> 00:25:20,492
+À l'instant, nous nous concentrons
+sur les soucis techniques.
+
+389
+00:25:20,659 --> 00:25:22,553
+De fidèles clients souffrent.
+
+390
+00:25:22,720 --> 00:25:25,575
+Notre priorité
+est de nous occuper d'eux.
+
+391
+00:25:25,742 --> 00:25:27,859
+<i>Un expert était avec nous,
+tout à l'heure.</i>
+
+392
+00:25:28,400 --> 00:25:31,347
+<i>Selon eux, si fsociety dit vrai,</i>
+
+393
+00:25:31,514 --> 00:25:33,173
+<i>vos données sont inaccessibles</i>
+
+394
+00:25:33,340 --> 00:25:35,679
+<i>et pratiquement impossibles
+à récupérer.</i>
+
+395
+00:25:35,846 --> 00:25:38,010
+<i>Si cela se confirme...</i>
+
+396
+00:25:38,177 --> 00:25:39,370
+La Maison-Blanche
+
+397
+00:25:39,936 --> 00:25:40,956
+nous soutient.
+
+398
+00:25:41,514 --> 00:25:44,183
+Ils protégeront
+l'argent de tout le monde.
+
+399
+00:25:44,350 --> 00:25:48,122
+Le plus important,
+c'est de ne pas s'inquiéter.
+
+400
+00:25:48,289 --> 00:25:50,757
+<i>M. Plouffe,
+c'était une attaque d'envergure.</i>
+
+401
+00:25:51,370 --> 00:25:54,113
+<i>Tous vos serveurs,
+y compris ceux en Chine</i>
+
+402
+00:25:54,280 --> 00:25:56,763
+<i>et vos sauvegardes, ont été détruits.</i>
+
+403
+00:25:57,600 --> 00:26:00,640
+<i>Demander de ne pas s'inquiéter
+me parait inapproprié.</i>
+
+404
+00:26:12,464 --> 00:26:14,413
+- Vous voulez de la franchise ?
+- <i>Oui.</i>
+
+405
+00:26:16,375 --> 00:26:17,953
+Vous avez tout à fait raison.
+
+406
+00:26:18,535 --> 00:26:19,619
+C'est inquiétant.
+
+407
+00:26:21,620 --> 00:26:22,621
+Enfin...
+
+408
+00:26:23,872 --> 00:26:25,375
+Ma vie est fichue.
+
+409
+00:26:26,918 --> 00:26:27,919
+Ma retraite,
+
+410
+00:26:28,570 --> 00:26:30,427
+mes économies et le reste...
+
+411
+00:26:31,636 --> 00:26:34,509
+Tout est dans cette entreprise
+depuis mes débuts.
+
+412
+00:26:34,676 --> 00:26:35,469
+Était.
+
+413
+00:26:37,827 --> 00:26:38,853
+À vrai dire,
+
+414
+00:26:40,353 --> 00:26:42,976
+j'ai passé le week-end
+avec les ingénieurs.
+
+415
+00:26:45,611 --> 00:26:47,110
+Nous sommes tous dépassés.
+
+416
+00:26:48,723 --> 00:26:49,724
+En fait,
+
+417
+00:26:50,439 --> 00:26:52,819
+nous n'avons qu'une seule certitude.
+
+418
+00:26:55,848 --> 00:26:58,190
+C'est impossible à rattraper.
+
+419
+00:26:59,794 --> 00:27:01,350
+Occupez-vous-en.
+
+420
+00:27:12,130 --> 00:27:13,830
+Calmez-vous, tout le monde.
+
+421
+00:27:27,570 --> 00:27:28,787
+Bien, merci.
+
+422
+00:27:41,779 --> 00:27:43,453
+Vous prenez votre journée ?
+
+423
+00:27:47,196 --> 00:27:48,621
+M. Price.
+
+424
+00:27:50,440 --> 00:27:52,450
+Je devais rester ?
+
+425
+00:27:54,335 --> 00:27:55,549
+Asseyez-vous.
+
+426
+00:27:55,799 --> 00:27:57,884
+Je suis effectivement le PDG,
+
+427
+00:27:58,134 --> 00:28:00,887
+mais vous avez vécu
+une expérience traumatisante.
+
+428
+00:28:01,747 --> 00:28:04,099
+Je me devais d'être présent.
+
+429
+00:28:05,312 --> 00:28:09,414
+Vous avez parfaitement le droit
+de rentrer vous reposer.
+
+430
+00:28:10,776 --> 00:28:11,797
+C'est évident.
+
+431
+00:28:13,030 --> 00:28:14,031
+D'accord ?
+
+432
+00:28:22,861 --> 00:28:25,328
+Vous aviez été recommandée
+par Terry ?
+
+433
+00:28:27,480 --> 00:28:30,153
+Il est rarement impressionné,
+mais vous...
+
+434
+00:28:32,421 --> 00:28:33,628
+Ravi de vous avoir.
+
+435
+00:28:34,990 --> 00:28:37,215
+J'ai hâte que vous m'impressionniez.
+
+436
+00:28:40,090 --> 00:28:44,054
+Je tiens une conférence de presse,
+cet après-midi.
+
+437
+00:28:44,221 --> 00:28:47,100
+En tant que nouvelle,
+vous devriez y assister.
+
+438
+00:28:47,860 --> 00:28:49,686
+Vous apprendrez des choses.
+
+439
+00:28:59,580 --> 00:29:01,900
+Je ne pense pas en être capable.
+
+440
+00:29:08,444 --> 00:29:10,102
+L'invitation tiendra
+
+441
+00:29:10,870 --> 00:29:12,281
+si vous changez d'avis.
+
+442
+00:29:27,578 --> 00:29:29,090
+Changez de chaussures.
+
+443
+00:29:29,650 --> 00:29:30,685
+Jetez celles-ci.
+
+444
+00:30:10,650 --> 00:30:13,770
+<i>Wellick a disparu.
+Je me réveille dans sa voiture.</i>
+
+445
+00:30:14,021 --> 00:30:15,230
+<i>Le monde s'écroule.</i>
+
+446
+00:30:25,478 --> 00:30:26,574
+<i>Ça sent mauvais,</i>
+
+447
+00:30:27,308 --> 00:30:29,550
+<i>mais il doit y avoir une explication.</i>
+
+448
+00:30:30,731 --> 00:30:32,313
+<i>Pas celle-là, on le trouvera.</i>
+
+449
+00:30:32,480 --> 00:30:34,473
+<i>Il doit bien être quelque part.</i>
+
+450
+00:30:34,640 --> 00:30:37,001
+<i>Mon père,
+M. Robot ou je ne sais qui...</i>
+
+451
+00:30:37,251 --> 00:30:38,665
+<i>S'il se montre pas,</i>
+
+452
+00:30:39,128 --> 00:30:40,880
+<i>il a peut-être laissé une trace.</i>
+
+453
+00:30:42,674 --> 00:30:44,592
+DESTINATIONS RÉCENTES
+
+454
+00:31:17,250 --> 00:31:18,251
+Montre-toi !
+
+455
+00:31:21,360 --> 00:31:22,881
+Viens tout de suite !
+
+456
+00:31:26,313 --> 00:31:27,314
+Allez !
+
+457
+00:31:29,706 --> 00:31:31,681
+Je dois savoir ce qu'il s'est passé !
+
+458
+00:31:32,844 --> 00:31:34,270
+Montre-toi !
+
+459
+00:31:34,928 --> 00:31:36,194
+Je suis là !
+
+460
+00:31:36,843 --> 00:31:38,563
+Je t'attends !
+
+461
+00:31:39,780 --> 00:31:41,004
+Allez, mec.
+
+462
+00:31:42,233 --> 00:31:43,234
+Amène-toi !
+
+463
+00:31:45,229 --> 00:31:47,003
+Ça, on le fait en manuel.
+
+464
+00:31:48,031 --> 00:31:52,076
+Il faut utiliser ces tracts
+vu l'incertitude sur l'accès Internet.
+
+465
+00:31:57,320 --> 00:31:58,321
+Quoi ?
+
+466
+00:31:58,651 --> 00:31:59,974
+J'anticipe.
+
+467
+00:32:00,430 --> 00:32:02,920
+D'abord la banque,
+ensuite l'infrastructure.
+
+468
+00:32:03,087 --> 00:32:04,088
+On connaît.
+
+469
+00:32:05,920 --> 00:32:08,968
+Prenez les tracts et distribuez-les.
+
+470
+00:32:09,614 --> 00:32:11,054
+C'est la dernière étape.
+
+471
+00:32:14,432 --> 00:32:16,768
+On dirait que c'est la fin du monde,
+à vous voir.
+
+472
+00:32:18,728 --> 00:32:20,504
+D'après le tract,
+
+473
+00:32:21,114 --> 00:32:22,899
+c'est une soirée apocalypse.
+
+474
+00:32:24,115 --> 00:32:25,151
+Façon de parler.
+
+475
+00:32:32,648 --> 00:32:34,410
+Tu t'interroges sur notre humeur ?
+
+476
+00:32:34,660 --> 00:32:38,493
+Elle est due à notre brave chef
+qui détruit le monde et disparaît.
+
+477
+00:32:38,660 --> 00:32:39,773
+Une fois de plus,
+
+478
+00:32:39,940 --> 00:32:41,584
+on nettoie derrière lui.
+
+479
+00:32:51,636 --> 00:32:55,063
+SOIRÉE APOCALYPSE
+
+480
+00:33:16,369 --> 00:33:18,204
+DISQUE PROTÉGÉ
+PAR MOT DE PASSE
+
+481
+00:33:19,767 --> 00:33:23,543
+<i>S'il connaît le mot de passe,
+je le connais aussi.</i>
+
+482
+00:33:26,921 --> 00:33:30,049
+CHUTE SUR LA JETÉE
+
+483
+00:34:05,177 --> 00:34:06,990
+<i>Il essaie de dire quoi ?</i>
+
+484
+00:34:07,548 --> 00:34:09,710
+<i>Je suis responsable de tout ?</i>
+
+485
+00:34:18,393 --> 00:34:20,738
+<i>Si je l'appelle, il viendra pas.</i>
+
+486
+00:34:20,905 --> 00:34:23,560
+<i>Je dois peut-être lui forcer la main.</i>
+
+487
+00:34:26,031 --> 00:34:27,410
+Vous avez un fixe ?
+
+488
+00:34:27,862 --> 00:34:29,986
+<i>Je dois me faire arrêter.</i>
+
+489
+00:34:35,748 --> 00:34:37,136
+<i>Ici les urgences.</i>
+
+490
+00:34:37,303 --> 00:34:38,868
+J'ai commis un crime.
+
+491
+00:34:40,820 --> 00:34:42,230
+C'est bon, je suis là.
+
+492
+00:34:44,179 --> 00:34:45,750
+Je n'ose pas demander.
+
+493
+00:34:46,600 --> 00:34:47,601
+Attendez.
+
+494
+00:34:47,768 --> 00:34:49,005
+Vous travaillez...
+
+495
+00:34:51,953 --> 00:34:53,524
+C'est à cause de lui ?
+
+496
+00:34:56,450 --> 00:34:58,439
+Celui qui passe aux infos.
+
+497
+00:35:09,285 --> 00:35:10,798
+Vous êtes en train de dire
+
+498
+00:35:11,598 --> 00:35:13,210
+que vous avez été témoin.
+
+499
+00:35:15,448 --> 00:35:17,353
+Et vous changez de chaussures ?
+
+500
+00:35:27,053 --> 00:35:28,054
+C'est...
+
+501
+00:35:30,020 --> 00:35:31,825
+C'est tout frais.
+
+502
+00:35:31,992 --> 00:35:33,297
+Comment faites-vous ?
+
+503
+00:35:34,680 --> 00:35:37,500
+- Ce sont des menteurs.
+- Je sais.
+
+504
+00:35:38,277 --> 00:35:39,278
+C'est vrai.
+
+505
+00:35:42,943 --> 00:35:45,476
+Je ne sais pas
+s'il avait toute sa tête.
+
+506
+00:35:45,726 --> 00:35:47,342
+Vous êtes comme eux.
+
+507
+00:35:47,509 --> 00:35:49,814
+Réfléchissez,
+claquez-leur la porte au nez.
+
+508
+00:35:51,382 --> 00:35:53,393
+Leurs pratiques sont connues,
+
+509
+00:35:53,560 --> 00:35:55,365
+elles sont abjectes.
+
+510
+00:35:56,068 --> 00:35:57,488
+Ça ne me regarde pas,
+
+511
+00:35:58,247 --> 00:35:59,741
+mais ne les écoutez pas.
+
+512
+00:36:00,250 --> 00:36:01,942
+Je cherchais un emploi.
+
+513
+00:36:02,109 --> 00:36:04,203
+- Ça n'excuse rien.
+- Vous ne comprenez pas.
+
+514
+00:36:04,453 --> 00:36:07,165
+- Écoutez-vous.
+- À qui vous croyez parler ?
+
+515
+00:36:08,090 --> 00:36:09,885
+Montrez-moi les Pradas.
+
+516
+00:36:34,510 --> 00:36:35,511
+Du calme.
+
+517
+00:36:37,030 --> 00:36:39,155
+Je t'offre un latte caramel.
+
+518
+00:36:40,743 --> 00:36:41,744
+Il est où ?
+
+519
+00:36:42,556 --> 00:36:44,494
+Imagine de quoi tu as l'air.
+
+520
+00:36:50,016 --> 00:36:51,369
+Rien à foutre.
+
+521
+00:36:52,111 --> 00:36:53,127
+Où est Tyrell ?
+
+522
+00:36:54,471 --> 00:36:55,963
+On a passé un accord.
+
+523
+00:36:56,213 --> 00:36:57,465
+Dis-moi où il est !
+
+524
+00:36:58,820 --> 00:37:00,515
+Tout le monde te regarde.
+
+525
+00:37:00,682 --> 00:37:02,595
+Achète-toi un casque Bluetooth.
+
+526
+00:37:02,845 --> 00:37:04,472
+Tu passeras juste pour un crétin.
+
+527
+00:37:05,070 --> 00:37:06,520
+Tyrell a disparu.
+
+528
+00:37:07,131 --> 00:37:08,877
+Personne sait où il est.
+
+529
+00:37:10,686 --> 00:37:11,687
+Toi, si.
+
+530
+00:37:15,233 --> 00:37:16,234
+Toi aussi.
+
+531
+00:37:18,000 --> 00:37:20,488
+Tu as oublié qu'on faisait qu'un ?
+
+532
+00:37:23,370 --> 00:37:24,410
+C'est faux.
+
+533
+00:37:25,724 --> 00:37:26,777
+Tu en es sûr ?
+
+534
+00:37:40,424 --> 00:37:41,425
+Salut, mec.
+
+535
+00:37:42,120 --> 00:37:45,263
+J'ai couché avec ta mère,
+et c'était fantastique.
+
+536
+00:37:48,224 --> 00:37:49,930
+Va voir ailleurs, petit.
+
+537
+00:37:51,420 --> 00:37:53,000
+Elle était sympa, sens.
+
+538
+00:38:05,871 --> 00:38:07,282
+Tu perds la tête.
+
+539
+00:38:11,590 --> 00:38:13,685
+Je suis censé être ton prophète.
+
+540
+00:38:13,852 --> 00:38:16,175
+Et toi, mon dieu.
+
+541
+00:38:17,796 --> 00:38:18,588
+Allez.
+
+542
+00:38:19,338 --> 00:38:21,632
+<i>Les conséquences
+du dernier désastre financier</i>
+
+543
+00:38:21,882 --> 00:38:24,677
+<i>ne touchent pas
+que les pays en développement.</i>
+
+544
+00:38:24,927 --> 00:38:28,973
+<i>Les États-Unis sont aussi témoins
+de troubles de l'ordre public.</i>
+
+545
+00:38:29,140 --> 00:38:31,893
+<i>Les entreprises cherchent à savoir
+si elles se sortiront</i>
+
+546
+00:38:32,143 --> 00:38:33,209
+<i>de ces soucis.</i>
+
+547
+00:38:33,376 --> 00:38:36,272
+<i>Des individus se rassemblent,
+et les grandes villes...</i>
+
+548
+00:38:39,775 --> 00:38:40,651
+Joli.
+
+549
+00:38:42,271 --> 00:38:43,696
+Vous avez changé d'avis.
+
+550
+00:38:48,090 --> 00:38:49,420
+Qu'y a-t-il ?
+
+551
+00:38:51,137 --> 00:38:52,138
+Allons.
+
+552
+00:38:53,460 --> 00:38:55,051
+Vous avez des questions.
+
+553
+00:38:55,852 --> 00:38:58,377
+J'ai beaucoup de réponses,
+surtout en ce moment.
+
+554
+00:39:06,512 --> 00:39:07,709
+C'est juste que...
+
+555
+00:39:10,570 --> 00:39:12,538
+je me demande
+
+556
+00:39:13,946 --> 00:39:16,062
+pourquoi vous êtes si confiant ?
+
+557
+00:39:18,872 --> 00:39:21,254
+Tout le monde est inquiet, sauf vous.
+
+558
+00:39:22,701 --> 00:39:24,278
+Vous êtes sûr de vous en sortir.
+
+559
+00:39:25,951 --> 00:39:26,952
+Pourquoi ?
+
+560
+00:39:33,813 --> 00:39:35,106
+Des gens ont fait ça.
+
+561
+00:39:35,664 --> 00:39:36,457
+Non ?
+
+562
+00:39:36,707 --> 00:39:38,534
+PROTESTATIONS
+DANS LE QUARTIER FINANCIER
+
+563
+00:39:38,701 --> 00:39:40,880
+Les extraterrestres
+ne nous ont pas envahis.
+
+564
+00:39:41,047 --> 00:39:43,256
+Zeus n'est pas venu nous détruire.
+
+565
+00:39:43,506 --> 00:39:45,800
+Les morts ne se sont pas réveillés.
+
+566
+00:39:49,350 --> 00:39:50,650
+Les responsables,
+
+567
+00:39:51,651 --> 00:39:52,913
+ce sont des gens.
+
+568
+00:39:54,085 --> 00:39:55,086
+Comme vous.
+
+569
+00:39:55,695 --> 00:39:56,696
+Et moi.
+
+570
+00:39:58,765 --> 00:40:02,174
+Sauf que le poids
+du plus gros conglomérat du monde
+
+571
+00:40:02,341 --> 00:40:03,365
+me soutient.
+
+572
+00:40:04,110 --> 00:40:06,664
+Vous comprendrez
+que quand c'est le cas,
+
+573
+00:40:07,293 --> 00:40:11,259
+ce genre de problèmes
+ne tient pas longtemps
+
+574
+00:40:12,650 --> 00:40:13,860
+face à ce poids.
+
+575
+00:40:17,256 --> 00:40:19,096
+Je peux poser une autre question ?
+
+576
+00:40:20,644 --> 00:40:22,094
+Bien sûr, allez-y.
+
+577
+00:40:24,461 --> 00:40:25,574
+Pourquoi moi ?
+
+578
+00:40:26,842 --> 00:40:28,298
+Pourquoi je suis là ?
+
+579
+00:40:30,872 --> 00:40:32,861
+Vous savez qui je suis.
+
+580
+00:40:33,028 --> 00:40:34,831
+Pourquoi vous me laissez être là ?
+
+581
+00:40:35,993 --> 00:40:38,008
+Pourquoi vous me parlez ?
+
+582
+00:40:40,574 --> 00:40:42,134
+Tout ça n'a aucun sens.
+
+583
+00:40:42,935 --> 00:40:44,299
+Quoi qu'il en soit,
+
+584
+00:40:46,771 --> 00:40:48,498
+je vous trouve revigorante.
+
+585
+00:40:49,881 --> 00:40:51,856
+Vous êtes jeune et audacieuse.
+
+586
+00:40:53,221 --> 00:40:55,292
+Juste ce dont on a besoin.
+
+587
+00:40:57,368 --> 00:40:58,228
+Allez.
+
+588
+00:40:58,395 --> 00:40:59,541
+Quoi ?
+
+589
+00:40:59,708 --> 00:41:01,726
+Il doit y avoir autre chose.
+
+590
+00:41:03,982 --> 00:41:05,248
+Un petit conseil.
+
+591
+00:41:06,191 --> 00:41:08,591
+Ne rejetez jamais un compliment.
+
+592
+00:41:09,094 --> 00:41:10,059
+Pardon.
+
+593
+00:41:10,226 --> 00:41:11,283
+Ils sont prêts.
+
+594
+00:41:12,561 --> 00:41:13,562
+Allons-y.
+
+595
+00:41:23,834 --> 00:41:25,441
+Vous pensez à ce matin.
+
+596
+00:41:28,252 --> 00:41:30,751
+Je pourrai jamais
+oublier cette image.
+
+597
+00:41:33,843 --> 00:41:34,945
+Entre nous,
+
+598
+00:41:35,840 --> 00:41:37,639
+j'étais content qu'il se suicide.
+
+599
+00:41:39,369 --> 00:41:40,873
+Il n'avait rien de bon.
+
+600
+00:41:41,870 --> 00:41:44,447
+Il avait un problème de jeu,
+il buvait trop.
+
+601
+00:41:44,614 --> 00:41:46,447
+Et surtout, il était faible.
+
+602
+00:41:47,559 --> 00:41:49,887
+Il manquait cruellement d'instinct.
+
+603
+00:41:51,121 --> 00:41:52,843
+Je hais les gens comme lui.
+
+604
+00:41:53,843 --> 00:41:54,873
+En fait,
+
+605
+00:41:55,040 --> 00:41:56,112
+j'ai pensé...
+
+606
+00:41:58,131 --> 00:42:00,162
+que le monde se portait mieux
+
+607
+00:42:01,581 --> 00:42:03,187
+sans lui.
+
+608
+00:42:06,832 --> 00:42:09,624
+Je pense
+que même sa famille en bénéficiera.
+
+609
+00:42:10,352 --> 00:42:11,444
+À long terme.
+
+610
+00:42:28,644 --> 00:42:30,040
+<i>Avant de commencer,</i>
+
+611
+00:42:31,182 --> 00:42:33,201
+<i>marquons une minute de silence</i>
+
+612
+00:42:34,034 --> 00:42:36,141
+<i>pour notre cher et brave ami,</i>
+
+613
+00:42:37,552 --> 00:42:38,690
+<i>James Plouffe.</i>
+
+614
+00:42:44,937 --> 00:42:46,644
+ON EST ENFIN LIBRES
+
+615
+00:42:55,221 --> 00:42:57,816
+Cet endroit est une boîte de Petri,
+maintenant.
+
+616
+00:42:58,325 --> 00:43:00,578
+On a assez d'empreintes partout.
+
+617
+00:43:01,485 --> 00:43:02,621
+Alors, c'est tout ?
+
+618
+00:43:04,170 --> 00:43:05,417
+"C'est tout ?"
+
+619
+00:43:06,384 --> 00:43:07,496
+"C'est tout ?"
+
+620
+00:43:07,880 --> 00:43:10,204
+Je dirais plutôt que c'est génial.
+
+621
+00:43:11,061 --> 00:43:13,052
+Je propose qu'on célèbre ça,
+
+622
+00:43:13,219 --> 00:43:15,551
+qu'on se félicite
+pour tout le travail accompli.
+
+623
+00:43:16,035 --> 00:43:18,220
+Trenton parlait pas de ce soir.
+
+624
+00:43:19,372 --> 00:43:20,472
+De quoi, alors ?
+
+625
+00:43:20,973 --> 00:43:23,417
+Elle parle de la suite.
+
+626
+00:43:23,584 --> 00:43:26,432
+On fait quoi, maintenant ?
+
+627
+00:43:27,672 --> 00:43:30,061
+On s'en fout de la suite, les gars.
+
+628
+00:43:30,763 --> 00:43:32,234
+Profitons de ce qu'on a fait.
+
+629
+00:43:32,840 --> 00:43:34,737
+Regardez ces gens.
+
+630
+00:43:35,564 --> 00:43:37,900
+Ils sont libres grâce à nous,
+
+631
+00:43:38,540 --> 00:43:40,826
+grâce à ce qu'on a fait ici.
+
+632
+00:43:42,400 --> 00:43:44,616
+Nos yeux sont enfin ouverts !
+
+633
+00:43:51,610 --> 00:43:53,108
+On est enfin en vie.
+
+634
+00:43:56,341 --> 00:43:57,349
+Nos rues !
+
+635
+00:43:58,841 --> 00:44:00,828
+- Les rues de qui ?
+- Nos rues !
+
+636
+00:44:08,240 --> 00:44:09,686
+Je sais que tu l'as tué.
+
+637
+00:44:10,950 --> 00:44:13,360
+Je sais que tu l'as fait.
+
+638
+00:44:13,527 --> 00:44:15,236
+Il est arrivé quoi à Tyrell ?
+
+639
+00:44:17,138 --> 00:44:18,339
+Ferme-la !
+
+640
+00:44:18,506 --> 00:44:20,463
+J'ai été sympa
+pendant trop longtemps.
+
+641
+00:44:20,630 --> 00:44:22,159
+Arrête de te plaindre.
+
+642
+00:44:22,566 --> 00:44:24,537
+Ça changera rien, de toute façon.
+
+643
+00:44:25,582 --> 00:44:27,793
+<i>S'il te plaît, fais quelque chose.</i>
+
+644
+00:44:27,960 --> 00:44:28,962
+<i>Aide-moi.</i>
+
+645
+00:44:29,600 --> 00:44:30,663
+<i>Fais-le parler.</i>
+
+646
+00:44:30,830 --> 00:44:32,294
+Arrête de leur parler.
+
+647
+00:44:33,288 --> 00:44:34,637
+Ils nous aideront pas.
+
+648
+00:44:34,804 --> 00:44:37,091
+On doit faire ça ensemble,
+juste nous.
+
+649
+00:44:38,014 --> 00:44:39,313
+<i>Il a raison, tu sais.</i>
+
+650
+00:44:41,887 --> 00:44:43,847
+<i>Tu blesses toute la famille.</i>
+
+651
+00:44:47,331 --> 00:44:48,561
+<i>C'est pas ma famille.</i>
+
+652
+00:44:49,522 --> 00:44:52,481
+- <i>Ils sont pas réels.</i>
+- Ni les gens à qui tu parles.
+
+653
+00:44:55,373 --> 00:44:56,658
+Alors, t'es pas réel.
+
+654
+00:44:57,877 --> 00:44:58,904
+T'es pas réel.
+
+655
+00:45:00,632 --> 00:45:01,430
+Quoi ?
+
+656
+00:45:01,597 --> 00:45:02,598
+Tu l'es ?
+
+657
+00:45:04,182 --> 00:45:05,661
+Tout ça, c'est réel ?
+
+658
+00:45:06,135 --> 00:45:07,338
+Regarde tout ça.
+
+659
+00:45:08,070 --> 00:45:09,071
+Regarde !
+
+660
+00:45:09,706 --> 00:45:12,042
+Un monde bâti sur du rêve.
+
+661
+00:45:12,292 --> 00:45:13,919
+Des pilules d'émotion synthétique.
+
+662
+00:45:14,169 --> 00:45:17,631
+Une guerre psychologique
+appelée publicité.
+
+663
+00:45:17,881 --> 00:45:20,676
+Des produits chimiques psychotropes
+sous forme de nourriture.
+
+664
+00:45:20,926 --> 00:45:22,970
+Les séminaires lobotomisant
+des médias.
+
+665
+00:45:23,220 --> 00:45:26,348
+Des bulles isolées et contrôlées
+qui forment les réseaux sociaux.
+
+666
+00:45:26,757 --> 00:45:29,268
+C'est réel ?
+Tu veux parler de réalité ?
+
+667
+00:45:29,985 --> 00:45:33,522
+On a rien connu qui s'en rapproche
+depuis le tournant du siècle.
+
+668
+00:45:33,772 --> 00:45:35,607
+On l'a éteinte, enlevé les piles.
+
+669
+00:45:35,774 --> 00:45:37,484
+On a grignoté un sac d'OGM
+
+670
+00:45:37,734 --> 00:45:42,292
+en jetant les restes dans la vaste benne
+de la condition humaine.
+
+671
+00:45:42,459 --> 00:45:43,574
+On a des maisons
+
+672
+00:45:43,824 --> 00:45:45,868
+de marques déposées
+par des entreprises,
+
+673
+00:45:46,118 --> 00:45:47,842
+bâties sur des nombres bipolaires
+
+674
+00:45:48,009 --> 00:45:51,582
+qui sont sur tous les écrans
+et nous font tomber
+
+675
+00:45:51,832 --> 00:45:54,084
+dans le plus grand sommeil
+que l'humanité ait connu.
+
+676
+00:45:54,334 --> 00:45:56,043
+Tu dois creuser profond, gamin,
+
+677
+00:45:56,601 --> 00:45:57,921
+pour trouver du réel.
+
+678
+00:45:58,171 --> 00:46:00,341
+On vit dans un royaume de conneries.
+
+679
+00:46:00,732 --> 00:46:02,635
+Tu y as vécu trop longtemps.
+
+680
+00:46:03,178 --> 00:46:04,094
+Me dis pas
+
+681
+00:46:04,344 --> 00:46:05,978
+que je suis pas réel.
+
+682
+00:46:06,145 --> 00:46:08,432
+Je suis aussi réel
+que le steak de ton Big Mac.
+
+683
+00:46:09,073 --> 00:46:10,142
+Pour toi,
+
+684
+00:46:10,991 --> 00:46:12,416
+je suis très réel.
+
+685
+00:46:12,583 --> 00:46:15,606
+On est tous ensemble,
+que tu le veuilles ou pas.
+
+686
+00:46:15,856 --> 00:46:17,235
+FSOCIETY POUR LA VIE
+
+687
+00:46:17,402 --> 00:46:18,737
+FSOCIETY PRÉSIDENT
+
+688
+00:46:33,358 --> 00:46:34,166
+Partez.
+
+689
+00:46:36,820 --> 00:46:38,045
+Je dois être seul.
+
+690
+00:47:23,674 --> 00:47:25,646
+<i>Tu veux pas ça, tu te rappelles ?</i>
+
+691
+00:47:28,635 --> 00:47:30,812
+<i>Tu te souviens
+comment c'était d'être seul ?</i>
+
+692
+00:47:30,979 --> 00:47:32,699
+<i>Tu souffrais, t'étais pitoyable.</i>
+
+693
+00:47:32,866 --> 00:47:34,420
+<i>C'est pour ça qu'on est là.</i>
+
+694
+00:47:37,600 --> 00:47:40,149
+<i>Ces nuits où tu pleurais
+dans ton appartement.</i>
+
+695
+00:47:41,930 --> 00:47:43,197
+<i>Tu nous as suppliés.</i>
+
+696
+00:47:43,364 --> 00:47:46,101
+<i>Tu nous as demandé de venir,
+tu avais besoin de nous.</i>
+
+697
+00:47:48,429 --> 00:47:49,913
+Je veux que vous partiez !
+
+698
+00:47:51,152 --> 00:47:52,306
+Partez !
+
+699
+00:47:52,473 --> 00:47:53,996
+<i>On est au fond de toi.</i>
+
+700
+00:47:54,717 --> 00:47:57,392
+<i>Tu peux pas nous laisser,
+et nous non plus.</i>
+
+701
+00:47:58,098 --> 00:47:59,099
+<i>Jamais.</i>
+
+702
+00:47:59,690 --> 00:48:00,990
+<i>C'est vrai, mon fils.</i>
+
+703
+00:48:06,503 --> 00:48:08,480
+Je sais pas ce que je dois faire.
+
+704
+00:48:16,810 --> 00:48:18,554
+<i>Je vais te le dire.</i>
+
+705
+00:48:19,299 --> 00:48:21,190
+<i>Commence par nous écouter.</i>
+
+706
+00:48:22,185 --> 00:48:24,653
+<i>Le monde va mieux grâce à nous.</i>
+
+707
+00:48:24,820 --> 00:48:26,612
+<i>Tu finiras par le voir.</i>
+
+708
+00:48:27,650 --> 00:48:29,823
+<i>Voilà ce que tu dois faire.</i>
+
+709
+00:48:32,312 --> 00:48:34,173
+<i>Tu vas marcher jusqu'au métro.</i>
+
+710
+00:48:39,906 --> 00:48:41,566
+<i>Tu vas prendre ton train.</i>
+
+711
+00:48:59,311 --> 00:49:01,260
+<i>Tu vas descendre à ton arrêt.</i>
+
+712
+00:49:09,372 --> 00:49:10,801
+<i>Tu vas rentrer chez toi.</i>
+
+713
+00:49:16,744 --> 00:49:18,574
+<i>Tu vas t'asseoir à ton ordinateur,</i>
+
+714
+00:49:18,741 --> 00:49:21,000
+<i>regarder et apprécier
+le magnifique carnage</i>
+
+715
+00:49:21,167 --> 00:49:22,900
+<i>qu'on a créé tous ensemble.</i>
+
+716
+00:49:23,824 --> 00:49:27,282
+<i>On espère que dans la société
+qui renaîtra de ses cendres,</i>
+
+717
+00:49:27,449 --> 00:49:29,341
+<i>vous forgerez un monde meilleur.</i>
+
+718
+00:50:18,348 --> 00:50:20,724
+SCÈNE POST-GÉNÉRIQUE À SUIVRE
+
+719
+00:52:23,240 --> 00:52:25,322
+Allez-y, à quoi pensez-vous ?
+
+720
+00:52:27,162 --> 00:52:28,163
+Je sais
+
+721
+00:52:28,918 --> 00:52:30,273
+que vous avez vos soucis.
+
+722
+00:52:30,440 --> 00:52:33,162
+Mais nous n'avons pas parlé
+des mines de coltan.
+
+723
+00:52:34,059 --> 00:52:36,526
+Vous voulez en parler maintenant ?
+
+724
+00:52:36,693 --> 00:52:37,980
+Vous avez demandé.
+
+725
+00:52:38,147 --> 00:52:40,199
+J'ai répondu rapidement.
+
+726
+00:52:40,366 --> 00:52:42,290
+J'étais peut-être trop pressé.
+
+727
+00:52:43,369 --> 00:52:46,045
+J'aimerais apprécier la musique,
+pour l'instant.
+
+728
+00:52:47,122 --> 00:52:48,123
+En plus...
+
+729
+00:52:49,079 --> 00:52:50,987
+il y a bien d'autres choses
+au programme.
+
+730
+00:52:51,154 --> 00:52:53,281
+Le putain de Congo peut attendre.
+
+731
+00:52:55,052 --> 00:52:57,392
+Vos problèmes vous pèsent.
+
+732
+00:52:57,978 --> 00:52:59,746
+Je ne comprends pas pourquoi.
+
+733
+00:52:59,913 --> 00:53:03,194
+On m'a dit
+que vous connaissiez le responsable.
+
+734
+00:53:06,190 --> 00:53:07,300
+Bien entendu.
+
+735
+00:53:10,035 --> 00:53:12,269
+Nous nous occuperons
+de cette personne
+
+736
+00:53:13,248 --> 00:53:14,641
+comme d'habitude.
+
+737
+00:53:22,430 --> 00:53:24,938
+Vous semblez vous-même préoccupé.
+
+738
+00:53:26,194 --> 00:53:28,062
+Je ne crois pas en la préoccupation.
+
+739
+00:53:30,163 --> 00:53:31,777
+C'est plutôt une observation.
+
+740
+00:53:32,698 --> 00:53:33,699
+Laquelle ?
+
+741
+00:53:34,123 --> 00:53:36,597
+Le célèbre empereur Néron
+jouait d'un instrument
+
+742
+00:53:36,764 --> 00:53:38,374
+similaire à celui-ci.
+
+743
+00:53:38,541 --> 00:53:39,542
+La lyre.
+
+744
+00:53:40,710 --> 00:53:43,820
+La légende dit qu'il jouait gaiement
+tout en regardant...
+
+745
+00:53:46,725 --> 00:53:48,081
+Tout en regardant ?
+
+746
+00:53:49,884 --> 00:53:51,822
+Tout en regardant Rome brûler.
+

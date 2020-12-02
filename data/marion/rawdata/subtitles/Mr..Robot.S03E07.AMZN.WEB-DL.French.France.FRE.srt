@@ -1,0 +1,2577 @@
+﻿1
+00:00:01,460 --> 00:00:03,379
+PRÉCÉDEMMENT...
+
+2
+00:00:03,587 --> 00:00:06,132
+- Ne bouge pas.
+- Pourquoi il s'est rendu ?
+
+3
+00:00:06,340 --> 00:00:08,175
+- Vous travaillez pour qui ?
+- Fsociety.
+
+4
+00:00:08,384 --> 00:00:10,803
+- Un honeypot. Pour quoi ?
+- Un serveur impliqué
+
+5
+00:00:11,011 --> 00:00:13,514
+dans la dernière attaque de fsociety,
+le cs30.
+
+6
+00:00:13,723 --> 00:00:16,767
+Sachez que ça donnera rien.
+
+7
+00:00:16,976 --> 00:00:19,603
+- On se rencontre enfin.
+- Il est d'attaque ?
+
+8
+00:00:19,812 --> 00:00:23,149
+Il me parlait
+comme si on ne s'était jamais vus.
+
+9
+00:00:23,399 --> 00:00:26,152
+Que ça n'arrive plus.
+Putain de taré.
+
+10
+00:00:26,360 --> 00:00:27,486
+Je t'ai envoyé l'adresse.
+
+11
+00:00:27,695 --> 00:00:29,029
+- Tyrell est là-bas ?
+- Oui.
+
+12
+00:00:29,238 --> 00:00:31,407
+Il faut agir
+avant que Wellick ne disparaisse.
+
+13
+00:00:31,615 --> 00:00:33,367
+Je devais revoir ma famille.
+
+14
+00:00:37,747 --> 00:00:40,082
+Ça ne va pas se passer
+comme on l'avait prévu.
+
+15
+00:00:40,291 --> 00:00:42,710
+Ce que t'a dit Whiterose est faux.
+
+16
+00:00:42,918 --> 00:00:44,211
+Les conséquences étaient nécessaires.
+
+17
+00:00:44,420 --> 00:00:47,131
+- Des gens vont mourir.
+- Non, ils vont s'en sortir.
+
+18
+00:00:47,339 --> 00:00:50,134
+Ecoutez-moi.
+Il faut arrêter l'attaque.
+
+19
+00:00:50,634 --> 00:00:53,262
+Il ne manque qu'une chose
+pour mettre en œuvre
+
+20
+00:00:53,471 --> 00:00:55,139
+toute la frappe de force de Dark Army.
+
+21
+00:00:55,347 --> 00:00:59,852
+Les 71 immeubles détenus par E Corp
+  ont explosé ou subissent un incendie.
+
+22
+00:01:00,060 --> 00:01:02,897
+Quand tu verras Whiterose,
+dis-lui que je t'ai rendu service.
+
+23
+00:01:03,105 --> 00:01:06,442
+- Je vais aller chez un pote en Arizona.
+- Si ce que j'ai découvert est vrai,
+
+24
+00:01:06,692 --> 00:01:09,153
+on peut défaire tout ce qu'on a fait.
+
+25
+00:01:09,361 --> 00:01:11,655
+Pardon. Vous avez l'heure ?
+
+26
+00:01:13,866 --> 00:01:16,243
+Les témoignages affluent
+  dans tout le pays.
+
+27
+00:01:16,452 --> 00:01:20,456
+Etant donné le nombre de cibles,
+  nous vivons actuellement
+
+28
+00:01:20,664 --> 00:01:25,252
+l'une des pires attaques ayant eu lieu
+  sur le territoire américain.
+
+29
+00:01:25,461 --> 00:01:29,548
+Dans une série d'attaques coordonnées
+  dans tout le pays,
+
+30
+00:01:29,757 --> 00:01:32,927
+71 immeubles appartenant à E Corp
+
+31
+00:01:33,135 --> 00:01:34,970
+ont explosé ou
+  ont été victimes d'un incendie.
+
+32
+00:01:35,179 --> 00:01:39,350
+Il n'y a aucune confirmation
+  ou spéculation officielle
+
+33
+00:01:39,558 --> 00:01:42,478
+quant à l'origine des explosions
+  et des incendies.
+
+34
+00:01:42,686 --> 00:01:46,524
+Les autorités affirment
+  que le nombre de morts s'élève...
+
+35
+00:01:46,774 --> 00:01:48,818
+Ça va sembler insignifiant
+vu ce qui se passe
+
+36
+00:01:49,026 --> 00:01:53,197
+mais je n'arrête pas d'y penser.
+
+37
+00:01:53,405 --> 00:01:57,159
+Ça passe en boucle dans ma tête.
+
+38
+00:01:57,368 --> 00:01:58,828
+Frasier.
+
+39
+00:01:59,036 --> 00:02:01,747
+Mon pote disait que c'était génial.
+
+40
+00:02:01,956 --> 00:02:05,793
+La série a gagné un nombre record
+d'Emmy, genre 37.
+
+41
+00:02:06,001 --> 00:02:07,962
+Du coup, j'ai regardé.
+
+42
+00:02:08,128 --> 00:02:11,549
+Je veux bien rentrer dans le jeu,
+
+43
+00:02:11,757 --> 00:02:13,425
+mais là, franchement ?
+
+44
+00:02:13,634 --> 00:02:15,719
+Je dois vraiment croire
+
+45
+00:02:15,928 --> 00:02:21,141
+qu'un mec blanc et dégarni de Seattle
+se fait autant de nanas ?
+
+46
+00:02:22,142 --> 00:02:24,854
+Et en plus il se tape pas des cageots.
+
+47
+00:02:25,062 --> 00:02:27,606
+Ce mec couche plus que R. Kelly.
+
+48
+00:02:27,857 --> 00:02:32,236
+Ça me casse tout le côté comique.
+
+49
+00:02:32,778 --> 00:02:36,615
+J'avais besoin de me purger.
+Elle n'a été nommée qu'une fois,
+
+50
+00:02:36,824 --> 00:02:38,242
+mais je vous jure,
+
+51
+00:02:38,450 --> 00:02:43,539
+je préfère voir un personnage réaliste
+qui fait des trucs de malade
+
+52
+00:02:43,747 --> 00:02:46,041
+comme dans K 2000.
+
+53
+00:02:46,250 --> 00:02:49,211
+Pour l'instant,
+  personne ne revendique l'attaque.
+
+54
+00:02:49,378 --> 00:02:50,838
+USA ATTAQUÉS - EXPLOSIONS
+DE 71 IMMEUBLES E CORP
+
+55
+00:02:52,172 --> 00:02:56,093
+Tu n'es pas obligé de nous tuer.
+On peut bosser avec toi.
+
+56
+00:02:56,302 --> 00:02:58,721
+Il y a assez de gens
+qui sont morts aujourd'hui.
+
+57
+00:02:58,929 --> 00:03:01,348
+Viens là, gros.
+
+58
+00:03:02,641 --> 00:03:04,184
+Détends-toi.
+
+59
+00:03:04,768 --> 00:03:06,645
+Calme-toi.
+
+60
+00:03:07,688 --> 00:03:10,399
+Si je devais te buter,
+
+61
+00:03:10,774 --> 00:03:12,735
+je l'aurais déjà fait.
+
+62
+00:03:12,943 --> 00:03:15,571
+Ton coloc en est un parfait exemple.
+
+63
+00:03:18,324 --> 00:03:21,660
+- Tu veux quoi ? Pourquoi tu es là ?
+- Je vous garde.
+
+64
+00:03:21,869 --> 00:03:23,829
+Je vous protège.
+
+65
+00:03:26,290 --> 00:03:30,669
+Dans les jours à venir,
+  en trouvant les responsables...
+
+66
+00:03:30,878 --> 00:03:32,546
+C'est plutôt triste, en fait.
+
+67
+00:03:32,755 --> 00:03:35,591
+Ce manque de respect envers K 2000.
+
+68
+00:03:35,799 --> 00:03:39,094
+Les frères Crane croulent
+sous les statuettes en or,
+
+69
+00:03:39,303 --> 00:03:42,264
+mais Michael Knight et KITT
+
+70
+00:03:42,765 --> 00:03:46,518
+ont une relation qui prédisait
+notre dépendance à la technologie.
+
+71
+00:03:46,727 --> 00:03:49,396
+Et c'était il y a 30 ans.
+
+72
+00:03:49,813 --> 00:03:52,775
+A chaque fois que Mike balance
+son baratin à une fille,
+
+73
+00:03:52,983 --> 00:03:56,236
+je crois chaque mot qu'il prononce.
+
+74
+00:03:57,613 --> 00:03:59,198
+GRAND-PÈRE
+LE PLUS SEXY DU MONDE
+
+75
+00:04:12,920 --> 00:04:16,256
+K 2000 aurait dû, au moins,
+  gagner une putain de statuette
+
+76
+00:04:16,465 --> 00:04:18,384
+pour son générique.
+
+77
+00:04:18,592 --> 00:04:21,845
+Ça reste dans la tête, ce truc.
+
+78
+00:04:24,264 --> 00:04:27,393
+Je l'ai dans la tête en ce moment même.
+
+79
+00:05:28,662 --> 00:05:33,709
+Le NTAS a émis un bulletin d'alerte
+
+80
+00:05:33,917 --> 00:05:38,464
+suite à l'attaque coordonnée
+  de 71 immeubles appartenant à E Corp,
+
+81
+00:05:38,672 --> 00:05:40,632
+une attaque sans précédent.
+
+82
+00:05:40,841 --> 00:05:43,427
+Beaucoup de questions restent
+  sans réponse.
+
+83
+00:05:43,635 --> 00:05:46,638
+La cause des explosions
+  ayant provoqué autant de dégâts.
+
+84
+00:05:46,847 --> 00:05:50,601
+Ou pire, si d'autres attaques sont prévues.
+
+85
+00:05:50,809 --> 00:05:55,147
+Malheureusement,
+  le nombre de personnes...
+
+86
+00:05:56,565 --> 00:05:59,610
+Les autorités conseillent
+  aux citoyens de rester chez eux...
+
+87
+00:06:02,196 --> 00:06:05,699
+Elliot, ça va aller.
+Détendez-vous et respirez.
+
+88
+00:06:05,908 --> 00:06:10,079
+On pourra parler ensuite. Respirez.
+
+89
+00:06:10,287 --> 00:06:12,581
+Dès que vous serez prêt, parlez.
+
+90
+00:06:25,719 --> 00:06:27,679
+Je crois qu'on...
+
+91
+00:06:27,888 --> 00:06:29,723
+Pardon.
+
+92
+00:06:30,390 --> 00:06:32,476
+Je ne sais pas si je peux le dire.
+
+93
+00:06:33,102 --> 00:06:37,356
+Je ne sais pas si je peux le dire.
+Pardon, Krista.
+
+94
+00:06:38,857 --> 00:06:41,151
+Ce qu'il...
+
+95
+00:06:47,908 --> 00:06:51,537
+Ce qu'on a fait tous les deux.
+Je ne sais pas si je peux le dire.
+
+96
+00:06:51,745 --> 00:06:53,914
+Désolé.
+
+97
+00:06:54,164 --> 00:06:57,709
+Je ne sais pas si je peux le dire.
+
+98
+00:06:57,918 --> 00:06:59,711
+Je suis désolé...
+
+99
+00:07:02,756 --> 00:07:05,259
+Je ne sais pas si je peux le dire.
+
+100
+00:07:14,560 --> 00:07:17,479
+Ravi de vous revoir, ma jolie.
+
+101
+00:07:18,480 --> 00:07:20,858
+Bonjour, M. Robot.
+
+102
+00:07:22,693 --> 00:07:27,322
+Bien entendu, il se précipite chez vous
+après ce qui s'est passé. Si prévisible.
+
+103
+00:07:27,781 --> 00:07:29,616
+Elliot m'a dit qu'il voulait me parler,
+
+104
+00:07:30,742 --> 00:07:34,079
+mais je pense qu'il voulait surtout
+que je vous parle.
+
+105
+00:07:34,288 --> 00:07:38,208
+Pourquoi passer par un intermédiaire ?
+Pourquoi il ne me parle pas directement ?
+
+106
+00:07:38,417 --> 00:07:42,171
+Il ne veut certainement pas,
+mais je peux vous aider à comprendre.
+
+107
+00:07:42,588 --> 00:07:45,257
+Il pense que vous avez fait
+quelque chose de mal.
+
+108
+00:07:45,465 --> 00:07:48,010
+Vous savez de quoi il parle ?
+
+109
+00:07:48,760 --> 00:07:52,514
+C'est arrivé parce qu'il a ignoré
+nos responsabilités.
+
+110
+00:07:54,433 --> 00:07:56,185
+Que s'est-il passé ?
+
+111
+00:07:59,271 --> 00:08:00,439
+L'important...
+
+112
+00:08:02,274 --> 00:08:04,735
+c'est qu'il ne faut pas se méfier de moi.
+
+113
+00:08:04,943 --> 00:08:07,446
+Mais des autres.
+Ceux qui tirent les ficelles.
+
+114
+00:08:07,654 --> 00:08:09,114
+Qui donc ?
+
+115
+00:08:10,449 --> 00:08:14,203
+Vous voulez savoir ce qui se passe ?
+Regardez autour de vous, ma jolie.
+
+116
+00:08:14,411 --> 00:08:16,496
+Je ne suis pas le seul sous leur coupe.
+
+117
+00:08:16,705 --> 00:08:19,499
+Ils manipulent tout,
+tout le temps,
+
+118
+00:08:19,708 --> 00:08:23,295
+pour leurs propres intérêts,
+pour avoir le contrôle absolu.
+
+119
+00:08:23,462 --> 00:08:26,006
+Mais c'est un complot.
+
+120
+00:08:26,215 --> 00:08:28,383
+Elliot et vous,
+
+121
+00:08:28,634 --> 00:08:31,553
+vous souhaitez défier ces manipulateurs.
+
+122
+00:08:32,137 --> 00:08:34,306
+Elliot et moi voulions
+reprendre le contrôle
+
+123
+00:08:34,514 --> 00:08:37,142
+pour leur rendre
+à ceux qui se faisaient écraser.
+
+124
+00:08:37,434 --> 00:08:39,895
+On y était presque,
+mais quelqu'un a volé mes idées
+
+125
+00:08:40,145 --> 00:08:43,565
+et s'en est servi
+pour ses propres intérêts.
+
+126
+00:08:43,774 --> 00:08:47,694
+C'était le but du neuf mai.
+C'était notre révolution.
+
+127
+00:08:48,362 --> 00:08:50,614
+Vous étiez un soutien du neuf mai ?
+
+128
+00:08:51,323 --> 00:08:53,200
+Un soutien ?
+
+129
+00:08:53,408 --> 00:08:54,743
+Je n'étais pas un soutien.
+
+130
+00:08:55,911 --> 00:08:57,246
+J'en étais l'architecte.
+
+131
+00:08:58,664 --> 00:09:02,542
+Dites-moi à quel sujet
+Elliot vous en veut ?
+
+132
+00:09:02,751 --> 00:09:04,711
+Je n'ai pas le temps
+pour ces conneries.
+
+133
+00:09:04,920 --> 00:09:07,297
+Je dois trouver les connards
+qui m'ont entubé.
+
+134
+00:09:07,506 --> 00:09:10,717
+Allumez la télé.
+Les immeubles qui ont explosé...
+
+135
+00:09:10,926 --> 00:09:13,804
+Ils vont me mettre ça sur le dos.
+Il en est hors de question.
+
+136
+00:09:14,388 --> 00:09:18,267
+Les attaques font partie de la révolution
+que vous avez créée ?
+
+137
+00:09:18,475 --> 00:09:20,602
+C'est bien ce que vous dites ?
+
+138
+00:09:24,564 --> 00:09:26,900
+On ne devait s'en prendre
+qu'à un seul lieu,
+
+139
+00:09:27,109 --> 00:09:29,820
+une fois tous les documents centralisés.
+
+140
+00:09:30,028 --> 00:09:32,406
+C'était tout.
+
+141
+00:09:32,864 --> 00:09:37,911
+Je vais être franche avec vous,
+tout cela paraît mégalomaniaque.
+
+142
+00:09:38,412 --> 00:09:41,206
+Comment expliquez-vous
+ce que disent les autorités ?
+
+143
+00:09:41,415 --> 00:09:44,751
+Ils détiennent l'homme
+qui est responsable des attaques.
+
+144
+00:09:45,294 --> 00:09:46,545
+Wellick ?
+
+145
+00:09:47,087 --> 00:09:48,088
+Non.
+
+146
+00:09:48,297 --> 00:09:51,925
+Il travaillait pour moi.
+Vous et le reste du monde
+
+147
+00:09:52,134 --> 00:09:54,636
+n'en saurez jamais rien
+parce que vous avalez sans broncher
+
+148
+00:09:54,845 --> 00:09:58,056
+les couleuvres qu'ils vous fourrent
+dans la gorge.
+
+149
+00:09:58,265 --> 00:10:01,018
+Vous gobez l'histoire
+qu'ils vous racontent depuis des mois.
+
+150
+00:10:01,226 --> 00:10:02,477
+Du miel pour les abeilles.
+
+151
+00:10:08,066 --> 00:10:10,360
+Vous ne me croyez toujours pas.
+
+152
+00:10:13,071 --> 00:10:17,242
+Vous me traitez comme
+l'un de vos patients tarés.
+
+153
+00:10:28,670 --> 00:10:31,506
+Réfléchissez.
+
+154
+00:10:31,798 --> 00:10:36,553
+Elliot travaillait à Allsafe,
+le point de départ du neuf mai.
+
+155
+00:10:36,762 --> 00:10:41,058
+Il a été arrêté pour piratage.
+Il vous a même piratée.
+
+156
+00:10:41,266 --> 00:10:44,227
+Et il est complètement taré.
+
+157
+00:10:44,603 --> 00:10:46,897
+Si vous faites le rapprochement...
+
+158
+00:10:49,775 --> 00:10:53,528
+comment pouvez-vous douter de moi ?
+
+159
+00:10:56,365 --> 00:11:01,244
+Chers êtres humains,
+nous avons plus d'un tour dans notre sac.
+
+160
+00:11:01,453 --> 00:11:04,331
+Les 71 immeubles n'étaient
+qu'un vulgaire tour de passe-passe.
+
+161
+00:11:04,539 --> 00:11:10,587
+Notre prochain tour va vous ébahir
+d'ici 24 heures.
+
+162
+00:11:10,796 --> 00:11:14,216
+A tous les gros bonnets et autres voraces
+
+163
+00:11:14,633 --> 00:11:18,428
+qui commémorent mollement
+
+164
+00:11:18,637 --> 00:11:20,347
+les événements d'aujourd'hui,
+
+165
+00:11:20,555 --> 00:11:24,684
+n'oubliez pas, l'heure tourne.
+
+166
+00:11:30,232 --> 00:11:33,902
+Les gens ne vont plus faire confiance
+au FBI quand ils apprendront
+
+167
+00:11:34,111 --> 00:11:36,905
+que vous avez raté l'occasion
+d'empêcher une attaque.
+
+168
+00:11:37,114 --> 00:11:40,075
+Je ne vous laisserai pas
+faire votre numéro.
+
+169
+00:11:40,283 --> 00:11:43,495
+Alors prenez très au sérieux
+ce que dit mon client.
+
+170
+00:11:43,703 --> 00:11:47,040
+C'est dingue. Le pays est attaqué,
+et vous le protégez ?
+
+171
+00:11:47,249 --> 00:11:52,629
+Wellick a été pris pour cible
+parce qu'il était haut placé à E Corp.
+
+172
+00:11:52,838 --> 00:11:57,426
+Ces terroristes ont menacé
+sa femme et son fils s'il n'obéissait pas.
+
+173
+00:11:57,634 --> 00:12:00,929
+Pendant cinq mois,
+il a été retenu en otage dans un sous-sol.
+
+174
+00:12:01,138 --> 00:12:03,932
+- Vous pensez qu'on va vous croire ?
+- Il a été confirmé
+
+175
+00:12:04,141 --> 00:12:08,145
+que Wellick a autorisé illégalement
+le serveur cs30 à être remis sur le réseau.
+
+176
+00:12:08,395 --> 00:12:11,606
+Le soir de l'attaque.
+Quand il était poursuivi pour meurtre.
+
+177
+00:12:11,815 --> 00:12:14,526
+- Il a été blanchi.
+- Ça ne change rien.
+
+178
+00:12:14,734 --> 00:12:16,403
+Wellick a outrepassé ses prérogatives.
+
+179
+00:12:16,611 --> 00:12:18,530
+Il a été licencié.
+Deux jours plus tard, il a disparu.
+
+180
+00:12:18,738 --> 00:12:21,741
+Quelques heures avant la pire attaque
+qu'on ait connue,
+
+181
+00:12:21,950 --> 00:12:24,202
+Wellick réapparaît
+et prétend avoir été enlevé.
+
+182
+00:12:24,411 --> 00:12:28,915
+Vous poursuivez mon client
+pour réapparition simultanée ?
+
+183
+00:12:29,124 --> 00:12:30,625
+Ce n'est pas une coïncidence.
+
+184
+00:12:30,834 --> 00:12:32,043
+- C'est du baratin.
+- Dom.
+
+185
+00:12:32,252 --> 00:12:34,337
+- On a son mobile.
+- Sans preuve concrète.
+
+186
+00:12:36,715 --> 00:12:38,842
+Voilà ce que vous avez.
+
+187
+00:12:39,050 --> 00:12:43,305
+Un homme qui va vous dire
+où sont les terroristes qui le détenaient.
+
+188
+00:12:43,513 --> 00:12:46,641
+Les personnes derrière l'attaque.
+
+189
+00:12:46,850 --> 00:12:50,187
+Les personnes qui veulent
+causer encore plus de dégâts.
+
+190
+00:12:50,437 --> 00:12:53,940
+M. Wellick peut les identifier
+et vous donner leur localisation
+
+191
+00:12:54,149 --> 00:12:56,693
+en échange d'une protection
+et de l'immunité.
+
+192
+00:12:56,902 --> 00:12:58,820
+- Pas de marché.
+- On le poursuivra
+
+193
+00:12:59,029 --> 00:13:02,574
+- et on ajoutera un chef d'obstruction.
+- Vous avez vu la vidéo.
+
+194
+00:13:02,782 --> 00:13:05,035
+Le temps est compté.
+
+195
+00:13:05,243 --> 00:13:08,747
+Une autre attaque est prévue.
+
+196
+00:13:08,955 --> 00:13:10,540
+Vous allez rester assis là
+
+197
+00:13:10,749 --> 00:13:14,294
+et ergoter sur le cas Wellick ?
+
+198
+00:13:17,881 --> 00:13:20,967
+On va tous les réunir.
+Darlene, Elliot, Angela Moss.
+
+199
+00:13:21,176 --> 00:13:23,345
+On va tous les faire venir et les attaquer.
+
+200
+00:13:23,553 --> 00:13:26,389
+L'avocat de Wellick a raison.
+Le temps est compté.
+
+201
+00:13:26,598 --> 00:13:29,476
+- Si Tyrell peut nous obtenir...
+- On se fait manipuler.
+
+202
+00:13:29,684 --> 00:13:31,019
+Vous ne le voyez pas ?
+
+203
+00:13:31,269 --> 00:13:34,814
+Dark Army est dans le coup.
+Faire venir les autres le prouvera.
+
+204
+00:13:35,023 --> 00:13:38,109
+Je dois faire un topo à Comey
+qui fera un topo au président.
+
+205
+00:13:38,318 --> 00:13:40,987
+Je ne leur transmettrai pas
+des théories vaseuses.
+
+206
+00:13:41,196 --> 00:13:42,989
+Pourquoi vous continuez d'ignorer
+nos sources ?
+
+207
+00:13:43,198 --> 00:13:45,659
+La plus crédible étant dans cette pièce.
+
+208
+00:13:45,867 --> 00:13:49,162
+Le nom de Tyrell Wellick rendra mieux
+que n'importe qui.
+
+209
+00:13:49,371 --> 00:13:53,083
+Rendra mieux ? Vous anticipez déjà
+l'image que ça donnera ?
+
+210
+00:13:53,291 --> 00:13:56,461
+Vous voulez cacher ça
+au directeur du FBI et au président ?
+
+211
+00:13:56,670 --> 00:13:59,464
+Arrêtez avec vos théories du complot.
+Il me faut du solide.
+
+212
+00:13:59,673 --> 00:14:02,551
+- Et s'il ment ?
+- Le marché ne tient plus et on le coffre.
+
+213
+00:14:02,759 --> 00:14:05,178
+C'est gagnant-gagnant.
+Pourquoi vous vous acharnez ?
+
+214
+00:14:05,387 --> 00:14:07,764
+Parce qu'il y un truc qui cloche.
+
+215
+00:14:09,891 --> 00:14:12,227
+Qu'est-ce que vous voulez dire ?
+
+216
+00:14:15,438 --> 00:14:18,608
+Je ne sais pas si vous travaillez trop,
+si vous êtes stressée,
+
+217
+00:14:18,817 --> 00:14:23,321
+ou si vous pensez être une flic
+de haut vol, mais arrêtez tout de suite.
+
+218
+00:14:24,531 --> 00:14:26,700
+Vous êtes sous mes ordres.
+
+219
+00:14:27,284 --> 00:14:29,744
+Il serait temps de s'en souvenir.
+
+220
+00:14:31,246 --> 00:14:33,373
+Quant à l'origine des explosions...
+
+221
+00:14:33,582 --> 00:14:35,417
+Wellick est en garde à vue.
+
+222
+00:14:35,625 --> 00:14:39,629
+Une autre attaque aura lieu
+  dans les prochaines 24 heures.
+
+223
+00:14:39,796 --> 00:14:40,839
+Les documents...
+
+224
+00:14:46,595 --> 00:14:48,597
+Maintenant, c'est estimé à 3 000.
+
+225
+00:14:50,849 --> 00:14:52,183
+Quoi donc ?
+
+226
+00:14:52,767 --> 00:14:54,019
+Le nombre de morts.
+
+227
+00:14:56,187 --> 00:14:57,939
+Et ça continue de grimper.
+
+228
+00:15:01,484 --> 00:15:04,904
+Tu devrais peut-être te calmer
+avec la télé.
+
+229
+00:15:06,197 --> 00:15:08,533
+Ils vont aller bien ?
+
+230
+00:15:09,492 --> 00:15:11,328
+Qui ça ?
+
+231
+00:15:11,870 --> 00:15:13,455
+Les gens qui sont morts.
+
+232
+00:15:16,374 --> 00:15:19,044
+Tu penses que ça va aller pour eux ?
+
+233
+00:15:23,632 --> 00:15:26,801
+Je vais chercher mes affaires et revenir.
+
+234
+00:15:27,260 --> 00:15:29,304
+Je fais vite.
+
+235
+00:15:29,512 --> 00:15:31,723
+Ne pars pas, d'accord ?
+
+236
+00:15:43,276 --> 00:15:45,987
+On peut faire une pause ?
+  J'ai besoin d'une minute.
+
+237
+00:15:46,196 --> 00:15:51,159
+Malheureusement, ce n'est pas possible.
+Nous n'avons pas beaucoup de temps.
+
+238
+00:15:56,623 --> 00:15:59,709
+Mais après ça,
+je pourrai voir ma famille ?
+
+239
+00:15:59,918 --> 00:16:02,879
+Il faut vraiment
+que je voie ma femme et mon fils.
+
+240
+00:16:04,422 --> 00:16:07,425
+Je transmettrai votre demande
+à mon supérieur.
+
+241
+00:16:07,634 --> 00:16:11,179
+Pour l'instant,
+restez concentré sur ce classeur.
+
+242
+00:16:20,939 --> 00:16:25,360
+Tu n'aurais pas dû en parler, maman.
+T'en avoir parlé peut me nuire.
+
+243
+00:16:25,610 --> 00:16:29,989
+Il ne faut pas avoir peur de sortir.
+Il t'en reste deux.
+
+244
+00:16:31,116 --> 00:16:35,495
+N'écoute pas cette vidéo.
+C'est pour faire peur. On a le coupable.
+
+245
+00:16:35,787 --> 00:16:37,664
+D'accord.
+
+246
+00:16:38,373 --> 00:16:41,418
+Je verrai avec le docteur
+si ça peut attendre.
+
+247
+00:16:44,045 --> 00:16:45,505
+Moi aussi, je t'aime.
+
+248
+00:16:48,091 --> 00:16:50,510
+Cela a eu lieu au restaurant
+  La brouette rouge.
+
+249
+00:16:50,719 --> 00:16:52,053
+FSOCIETY REVENDIQUE
+LES EXPLOSIONS
+
+250
+00:16:52,262 --> 00:16:54,556
+C'est un restaurant populaire
+  de Manhattan.
+
+251
+00:17:05,316 --> 00:17:07,360
+Wellick a identifié les deux suspects.
+
+252
+00:17:07,569 --> 00:17:10,530
+Les mêmes identifiés par Sasan Nouri
+qui apparaît dans la vidéo.
+
+253
+00:17:14,367 --> 00:17:16,911
+- Vous l'avez signalé ?
+- On va lancer un avis de recherche.
+
+254
+00:17:20,081 --> 00:17:22,000
+Beau boulot, Stanchek.
+
+255
+00:17:22,208 --> 00:17:24,127
+On se voit dans la salle de conférence.
+
+256
+00:17:27,422 --> 00:17:30,049
+- Monsieur ?
+- Quoi ?
+
+257
+00:17:30,759 --> 00:17:32,218
+C'est Wellick.
+
+258
+00:17:32,427 --> 00:17:36,556
+Il n'arrête pas de parler de sa famille.
+Il veut les voir.
+
+259
+00:18:08,671 --> 00:18:10,799
+Il n'y a que nous.
+
+260
+00:18:11,466 --> 00:18:13,593
+On peut parler librement.
+
+261
+00:18:15,637 --> 00:18:18,223
+Vous avez quelque chose à dire ?
+
+262
+00:18:25,104 --> 00:18:26,898
+Eh bien...
+
+263
+00:18:28,316 --> 00:18:33,530
+certaines informations vont être
+révélées au grand jour.
+
+264
+00:18:33,738 --> 00:18:37,158
+Avant que vous ne l'appreniez
+par votre avocat ou quelqu'un d'autre,
+
+265
+00:18:37,367 --> 00:18:40,829
+je tenais à vous le dire moi-même.
+
+266
+00:18:42,372 --> 00:18:44,499
+Il paraît que vous réclamez votre famille.
+
+267
+00:18:47,669 --> 00:18:50,505
+- On m'a dit que si je coopérais...
+- Votre femme est morte.
+
+268
+00:18:52,298 --> 00:18:54,551
+Il y a deux semaines.
+
+269
+00:18:55,760 --> 00:18:57,262
+Quoi ?
+
+270
+00:18:58,805 --> 00:18:59,973
+Vous devez faire erreur.
+
+271
+00:19:00,181 --> 00:19:02,934
+Une dispute d'amoureux
+avec l'homme qu'elle se faisait.
+
+272
+00:19:04,477 --> 00:19:07,188
+Il l'a tuée d'une balle dans la tête
+à bout portant.
+
+273
+00:19:07,689 --> 00:19:09,816
+Une sale affaire.
+
+274
+00:19:10,692 --> 00:19:12,318
+Mensonges. Vous mentez.
+
+275
+00:19:12,527 --> 00:19:15,029
+Ce qui veut dire que votre fils
+
+276
+00:19:15,238 --> 00:19:18,741
+est actuellement en garde
+dans une famille d'accueil.
+
+277
+00:19:19,242 --> 00:19:22,871
+D'après mes infos,
+seul un enfant sur cinq subi des violences.
+
+278
+00:19:23,079 --> 00:19:25,039
+Il a ses chances.
+
+279
+00:19:32,797 --> 00:19:35,049
+Ce n'est pas possible.
+
+280
+00:19:35,425 --> 00:19:37,677
+Je sais que vous mentez.
+
+281
+00:19:38,553 --> 00:19:41,347
+Je veux voir ma femme. Je l'exige.
+
+282
+00:19:41,556 --> 00:19:44,809
+Si vous comptez parler de moi
+à qui que ce soit ici,
+
+283
+00:19:45,059 --> 00:19:47,478
+si vous ne suivez pas le plan,
+
+284
+00:19:48,855 --> 00:19:53,401
+vous ne vivrez pas assez longtemps
+pour déposer des fleurs sur sa tombe.
+
+285
+00:19:54,068 --> 00:19:56,112
+Et votre fils ?
+
+286
+00:19:56,988 --> 00:20:01,951
+Je m'assurerai personnellement
+qu'il devienne une statistique de plus.
+
+287
+00:20:03,202 --> 00:20:08,416
+Un autre enfant oublié,
+perdu dans le système à jamais.
+
+288
+00:21:58,192 --> 00:22:00,611
+Je sais ce qui se passe.
+Tu as envoyé l'e-mail au FBI.
+
+289
+00:22:00,820 --> 00:22:04,490
+- Je savais qu'ils le découvriraient.
+- Je t'en prie. Je ne l'ai pas envoyé.
+
+290
+00:22:04,699 --> 00:22:07,702
+Comment tu expliques ce qui se passe ?
+Qu'est-ce qu'on fout là ?
+
+291
+00:22:09,829 --> 00:22:12,457
+Peut-être qu'il ne nous tuera pas,
+mais quelqu'un le fera.
+
+292
+00:22:12,665 --> 00:22:16,169
+S'il nous arrive quelque chose,
+si je ne retourne pas à mon ordinateur,
+
+293
+00:22:16,377 --> 00:22:20,673
+l'e-mail sera automatiquement envoyé
+à quelqu'un en qui j'ai confiance.
+
+294
+00:22:23,801 --> 00:22:27,013
+Je suis censé avoir un rencard
+avec Juanita de Jdate,
+
+295
+00:22:27,221 --> 00:22:29,348
+à Ruby Tuesday en ce moment même.
+
+296
+00:22:33,561 --> 00:22:35,271
+Elle doit sûrement s'inquiéter pour moi.
+
+297
+00:22:36,397 --> 00:22:38,066
+Peut-être qu'elle va appeler la police.
+
+298
+00:22:38,274 --> 00:22:39,734
+- Signaler ma disparition.
+- J'en doute.
+
+299
+00:22:39,942 --> 00:22:42,987
+Pourquoi tu vas sur Jdate ?
+Tu n'es pas juif.
+
+300
+00:22:43,196 --> 00:22:46,157
+- Elle non plus, a priori.
+- Mon test ADN indique
+
+301
+00:22:46,365 --> 00:22:47,617
+que je suis Ashkénaze à 6 %.
+
+302
+00:22:47,825 --> 00:22:50,244
+Et elle s'appelle Juanita Rosenberg.
+
+303
+00:22:50,453 --> 00:22:52,330
+Tu crois que ça me plaît
+
+304
+00:22:52,538 --> 00:22:55,208
+d'être coincée dans la Cadillac
+d'un psychopathe avec toi ?
+
+305
+00:22:57,126 --> 00:23:00,963
+Je devrais être chez moi avec ma famille.
+Mon frère doit être en panique.
+
+306
+00:23:01,172 --> 00:23:03,424
+Ton frère doit être en panique ?
+
+307
+00:23:03,633 --> 00:23:07,053
+Ce type a égorgé mon pote.
+
+308
+00:23:07,261 --> 00:23:10,723
+Et maintenant,
+il creuse sûrement une tombe.
+
+309
+00:23:10,973 --> 00:23:13,851
+Si ton frère panique, je suis une blague
+dans un sketch comique.
+
+310
+00:23:14,060 --> 00:23:16,020
+Je suis Shelley Duvall à l'hôtel Overlook.
+
+311
+00:23:16,229 --> 00:23:19,357
+Je suis Christian Bale
+en pleine crise d'hystérie.
+
+312
+00:23:19,565 --> 00:23:22,401
+Alors, s'il te plaît,
+ne parle pas d'être en panique.
+
+313
+00:23:32,537 --> 00:23:34,455
+Tu fous quoi ?
+Fais-nous partir d'ici.
+
+314
+00:23:34,664 --> 00:23:36,833
+- Je ne sais pas conduire.
+- Tu as un QI de génie.
+
+315
+00:23:37,041 --> 00:23:38,876
+Mais une voiture automatique
+te dépasse ?
+
+316
+00:23:39,085 --> 00:23:42,296
+- J'ai grandi en ville. Ce n'était pas utile.
+- Ça l'est maintenant.
+
+317
+00:23:42,463 --> 00:23:45,258
+Lève-toi et appuie sur le champignon.
+
+318
+00:23:57,770 --> 00:23:59,313
+Fonce.
+
+319
+00:24:27,133 --> 00:24:31,304
+Bon sang. C'est pas comme ça
+qu'on traite une Cadillac.
+
+320
+00:24:34,849 --> 00:24:38,895
+Je ne peux pas ne rien faire.
+J'ai failli aller directement à la police.
+
+321
+00:24:39,103 --> 00:24:41,772
+Heureusement que tu m'as appelé
+en premier.
+
+322
+00:24:41,981 --> 00:24:44,692
+Après ce que je t'ai dit,
+comment je peux rester silencieuse ?
+
+323
+00:24:44,901 --> 00:24:47,403
+En tant qu'avocat et ami,
+
+324
+00:24:47,612 --> 00:24:50,948
+je te rappelle que tu es contrainte
+par le secret professionnel.
+
+325
+00:24:51,157 --> 00:24:54,702
+A part s'il menace de faire quelque chose,
+
+326
+00:24:54,911 --> 00:24:57,121
+tu ne peux pas le dénoncer.
+D'après la loi HIPAA,
+
+327
+00:24:57,330 --> 00:24:59,957
+tu risques d'être radiée.
+
+328
+00:25:00,374 --> 00:25:03,461
+Il se passe quelque chose.
+Je le sens bien.
+
+329
+00:25:05,630 --> 00:25:07,465
+Je le connais.
+
+330
+00:25:11,260 --> 00:25:13,346
+Je pense qu'il est vraiment impliqué.
+
+331
+00:25:13,846 --> 00:25:17,683
+Tu sais combien de tarés disent
+être responsables des attaques ?
+
+332
+00:25:17,934 --> 00:25:20,561
+Le FBI et la police sont submergés
+
+333
+00:25:20,770 --> 00:25:24,398
+d'appels venant de personnes
+comme ton client.
+
+334
+00:25:27,652 --> 00:25:28,694
+Putain.
+
+335
+00:25:40,957 --> 00:25:41,999
+L'HORREUR AUX ÉTATS-UNIS
+
+336
+00:25:42,208 --> 00:25:44,418
+DES MILLIERS DE MORTS
+
+337
+00:25:55,680 --> 00:25:57,056
+Du nouveau ?
+
+338
+00:25:58,099 --> 00:26:00,518
+Ils estiment le total à plus de 4 000.
+
+339
+00:26:01,102 --> 00:26:03,646
+Mais le chiffre n'a aucune importance.
+
+340
+00:26:04,814 --> 00:26:05,898
+Même s'il y en a plus.
+
+341
+00:26:07,525 --> 00:26:09,360
+Comment ça,
+"même s'il y en a plus" ?
+
+342
+00:26:10,319 --> 00:26:14,073
+Peu importe ce qui se passera,
+tout ira bien au final.
+
+343
+00:26:25,376 --> 00:26:28,087
+Si d'autres attaques sont prévues,
+il faut m'en parler.
+
+344
+00:26:29,672 --> 00:26:32,591
+Je ne sais rien du tout.
+
+345
+00:26:38,055 --> 00:26:40,057
+Qu'est-ce que tu fais ?
+
+346
+00:26:44,729 --> 00:26:46,814
+Laisse-moi te montrer.
+
+347
+00:26:51,610 --> 00:26:52,611
+Regarde.
+
+348
+00:27:01,370 --> 00:27:02,455
+Tu vois ?
+
+349
+00:27:03,748 --> 00:27:06,167
+Ils sont revenus.
+
+350
+00:27:07,335 --> 00:27:08,961
+Ils vont tous bien.
+
+351
+00:27:14,342 --> 00:27:16,844
+Je recommence.
+
+352
+00:27:28,689 --> 00:27:30,483
+Je te l'avais dit.
+
+353
+00:27:31,400 --> 00:27:33,694
+Tout le monde va bien à nouveau.
+
+354
+00:27:35,613 --> 00:27:37,823
+Tout le monde va s'en sortir.
+
+355
+00:27:39,825 --> 00:27:42,203
+Tout le monde va s'en sortir.
+
+356
+00:28:09,271 --> 00:28:12,566
+D'après une source du FBI,
+  tout porte à croire que Tyrell Wellick
+
+357
+00:28:12,775 --> 00:28:16,737
+se cachait dans le sous-sol du restaurant
+  La brouette rouge.
+
+358
+00:28:16,946 --> 00:28:20,908
+Le FBI enquête sur la possibilité
+  que les membres de fsociety
+
+359
+00:28:21,117 --> 00:28:23,369
+opérant Five/Nine se servaient
+  également du restaurant.
+
+360
+00:28:24,537 --> 00:28:26,580
+Très bizarrement, le sous-sol n'apparaît
+
+361
+00:28:26,789 --> 00:28:30,209
+sur aucun plan enregistré
+  dans le cadastre.
+
+362
+00:28:30,418 --> 00:28:34,338
+Il est possible que Tyrell Wellick
+  et fsociety agissaient
+
+363
+00:28:34,547 --> 00:28:36,590
+à l'insu du restaurant La brouette rouge
+
+364
+00:28:36,799 --> 00:28:39,301
+alors que les employés innocents
+  servaient des milkshakes
+
+365
+00:28:39,510 --> 00:28:43,973
+aux clients juste au-dessus
+  des bureaux du hacker notoire.
+
+366
+00:29:00,739 --> 00:29:04,410
+L'étape deux était mon opération.
+Vous avez fait n'importe quoi.
+
+367
+00:29:18,048 --> 00:29:20,801
+Comme tout le monde le sait,
+
+368
+00:29:21,010 --> 00:29:24,430
+rien ne crée autant de profits
+qu'un conflit mondial.
+
+369
+00:29:24,680 --> 00:29:26,223
+Foutaises.
+
+370
+00:29:26,974 --> 00:29:28,434
+Phillip.
+
+371
+00:29:29,810 --> 00:29:31,812
+C'est toujours un plaisir.
+
+372
+00:29:32,021 --> 00:29:34,773
+Je suis surpris de vous voir
+avec tout ce qui se passe.
+
+373
+00:29:34,982 --> 00:29:37,234
+Vous savez bien que je suis isolé ici.
+
+374
+00:29:37,818 --> 00:29:41,405
+Quelques bonnes nouvelles
+en cette journée éprouvante.
+
+375
+00:29:41,947 --> 00:29:46,452
+Mon gouvernement a enfin signé l'accord.
+
+376
+00:29:46,660 --> 00:29:49,914
+Ecoin va devenir la monnaie de référence.
+
+377
+00:29:50,122 --> 00:29:53,417
+Après votre dernier coup,
+rien ne pourra sauver ma société.
+
+378
+00:29:53,626 --> 00:29:57,129
+Je n'ai jamais voulu
+faire de mal à E Corp.
+
+379
+00:29:57,338 --> 00:30:00,549
+Bien au contraire.
+La bonne vieille compassion américaine
+
+380
+00:30:00,758 --> 00:30:04,678
+va faire des merveilles
+et booster l'Ecoin déjà en hausse.
+
+381
+00:30:04,887 --> 00:30:09,308
+E Corp est trop puissant pour faire faillite.
+
+382
+00:30:09,934 --> 00:30:12,728
+Croyez-moi, E Corp survivra.
+
+383
+00:30:18,442 --> 00:30:20,277
+Mais pas moi.
+
+384
+00:30:24,323 --> 00:30:30,287
+C'était donc ça le but ?
+
+385
+00:30:32,039 --> 00:30:33,541
+Non.
+
+386
+00:30:33,749 --> 00:30:37,127
+Avec la surprise du neuf mai,
+je comprenais votre stratégie.
+
+387
+00:30:37,336 --> 00:30:40,339
+Une opération sous fausse bannière,
+une crise mondiale temporaire,
+
+388
+00:30:40,548 --> 00:30:44,426
+pour m'aider à faire pression
+pour l'annexion du Congo.
+
+389
+00:30:44,969 --> 00:30:47,096
+Tout s'est passé comme prévu.
+
+390
+00:30:47,930 --> 00:30:53,185
+Ce qui m'interroge
+sur l'intérêt de ces attaques.
+
+391
+00:30:55,688 --> 00:30:57,982
+Pourquoi s'en prendre à moi ?
+
+392
+00:31:02,486 --> 00:31:05,447
+Rappelez-vous de cette soirée fatidique.
+
+393
+00:31:08,867 --> 00:31:10,035
+Nous nous sommes assis.
+
+394
+00:31:10,619 --> 00:31:14,331
+Nous avons écouté une femme
+qui jouait de la lyre.
+
+395
+00:31:14,957 --> 00:31:17,960
+Un procès allait s'abattre sur ma centrale.
+
+396
+00:31:18,168 --> 00:31:20,170
+Vous m'avez dit...
+
+397
+00:31:20,379 --> 00:31:24,592
+... m'occuper de cette personne
+comme d'habitude.
+
+398
+00:31:25,092 --> 00:31:30,306
+Mais votre petit projet, Angela Moss,
+
+399
+00:31:30,556 --> 00:31:33,934
+a pu reprendre les poursuites...
+
+400
+00:31:35,603 --> 00:31:38,188
+ce qui a mis à mal mon plan.
+
+401
+00:31:39,732 --> 00:31:41,775
+Votre boulot était simple.
+
+402
+00:31:41,984 --> 00:31:46,196
+La manipuler, la contrôler.
+
+403
+00:31:47,531 --> 00:31:50,618
+Vous n'avez pas réussi,
+je m'en suis chargé.
+
+404
+00:31:52,953 --> 00:31:55,372
+Petite merde.
+
+405
+00:31:55,581 --> 00:32:00,544
+N'oubliez pas,
+j'ai fait de vous le PDG
+
+406
+00:32:00,753 --> 00:32:04,006
+uniquement pour protéger ma centrale.
+
+407
+00:32:04,506 --> 00:32:08,969
+Vous deviez faire
+ce que vous prédécesseur n'avez su faire.
+
+408
+00:32:09,178 --> 00:32:12,181
+Et regardez ce qui lui est arrivé.
+
+409
+00:32:13,849 --> 00:32:16,977
+Vous allez faire tout ce que je vous dis,
+
+410
+00:32:17,186 --> 00:32:19,647
+y compris engager votre successeur.
+
+411
+00:32:19,855 --> 00:32:21,023
+Allez vous faire foutre.
+
+412
+00:32:21,231 --> 00:32:25,194
+Entretemps,
+j'espère bien que rien ne m'empêchera
+
+413
+00:32:25,402 --> 00:32:28,447
+la relocalisation de la centrale au Congo.
+
+414
+00:32:29,365 --> 00:32:32,951
+C'est drôle. Tout ça pour ça.
+
+415
+00:32:33,160 --> 00:32:36,830
+C'est une blague
+avec une mauvaise chute.
+
+416
+00:32:37,039 --> 00:32:40,709
+Vous devrez également gérer
+tous les problèmes logistiques.
+
+417
+00:32:40,918 --> 00:32:44,004
+Un accès pour mon équipe,
+l'envoi de matériel...
+
+418
+00:32:44,213 --> 00:32:47,341
+Je veux connaître
+vos véritables motivations, enfoiré.
+
+419
+00:32:48,509 --> 00:32:50,010
+Vous m'attaquez maintenant.
+
+420
+00:32:51,762 --> 00:32:54,932
+Que croyez-vous y gagner ?
+
+421
+00:32:57,351 --> 00:33:00,479
+L'opportunité de vous donner une leçon.
+
+422
+00:33:01,230 --> 00:33:04,858
+Une leçon ? Pauvre sadique.
+
+423
+00:33:05,067 --> 00:33:07,653
+Vous avez obtenu le vote.
+Vous avez votre centrale.
+
+424
+00:33:07,861 --> 00:33:10,447
+Vous avez tout ce que vous voulez.
+
+425
+00:33:13,951 --> 00:33:15,994
+Vous ne vous en sortirez pas
+aussi facilement.
+
+426
+00:33:16,203 --> 00:33:19,206
+Pas sans m'avoir tout expliqué.
+
+427
+00:33:20,082 --> 00:33:23,919
+Vous deviez faire autant de dégâts ?
+
+428
+00:33:25,462 --> 00:33:27,131
+Pourquoi ?
+
+429
+00:33:29,299 --> 00:33:30,968
+Parce que, Phillip...
+
+430
+00:33:34,012 --> 00:33:36,140
+j'ai dû vous le demander deux fois.
+
+431
+00:33:55,868 --> 00:33:57,870
+Et si on nous recrutait ?
+
+432
+00:33:58,078 --> 00:34:00,789
+Pour creuser notre propre tombe ?
+
+433
+00:34:01,999 --> 00:34:05,711
+Regarde la taille.
+C'est juste assez grand pour ton pote.
+
+434
+00:34:06,211 --> 00:34:09,089
+Si Dark Army nous recrutait ?
+
+435
+00:34:10,007 --> 00:34:11,675
+Ils pouvaient juste demander.
+
+436
+00:34:13,761 --> 00:34:15,929
+Ils prévoient sûrement
+une autre attaque,
+
+437
+00:34:16,180 --> 00:34:18,140
+et ils ont besoin de nous.
+
+438
+00:34:18,348 --> 00:34:20,517
+Je vous entends, vous savez ?
+
+439
+00:34:22,269 --> 00:34:24,313
+Même d'ici.
+
+440
+00:34:24,521 --> 00:34:25,898
+Chaque mot.
+
+441
+00:34:27,858 --> 00:34:32,154
+Dis-nous ce que nous veut Dark Army.
+
+442
+00:34:36,784 --> 00:34:39,995
+Dis-nous ce qui se passe,
+ou on arrête de creuser.
+
+443
+00:34:40,204 --> 00:34:41,413
+On ne plaisante pas.
+
+444
+00:34:43,624 --> 00:34:45,834
+Je vous aime bien, vous deux.
+
+445
+00:34:46,668 --> 00:34:49,922
+Vous êtes drôle façon George et Elaine.
+
+446
+00:34:50,088 --> 00:34:51,799
+Mais ne me cherchez pas.
+
+447
+00:34:52,341 --> 00:34:53,550
+J'ai un boulot à faire,
+
+448
+00:34:53,759 --> 00:34:56,512
+et mieux vaut ne pas savoir
+où ce couteau a traîné.
+
+449
+00:34:57,471 --> 00:34:59,014
+Compris ?
+
+450
+00:35:26,208 --> 00:35:30,087
+Sors de la voiture. Vite.
+Je n'ai pas le temps.
+
+451
+00:35:46,687 --> 00:35:48,730
+Tu vois ça ?
+
+452
+00:35:53,944 --> 00:35:54,987
+C'est quoi ?
+
+453
+00:35:55,195 --> 00:35:57,364
+Tu sais pourquoi
+ces gens prennent du bon temps
+
+454
+00:35:57,573 --> 00:36:01,869
+alors que des milliers de personnes
+sont mortes aujourd'hui ?
+
+455
+00:36:02,077 --> 00:36:04,746
+Ce n'était pas de ma faute.
+Ça ne devait pas arriver.
+
+456
+00:36:04,955 --> 00:36:07,374
+Je veux savoir qui a fait ça.
+C'était Tyrell ?
+
+457
+00:36:07,583 --> 00:36:11,420
+Et l'autre attaque ?
+Ça n'a jamais fait partie du plan.
+
+458
+00:36:12,588 --> 00:36:15,215
+Tu fais erreur depuis le début
+
+459
+00:36:15,424 --> 00:36:18,760
+en croyant que tout ça est lié
+à ton petit plan.
+
+460
+00:36:19,011 --> 00:36:23,223
+Ta révolution a eu le droit d'avoir lieu
+
+461
+00:36:23,432 --> 00:36:27,060
+parce qu'elle était financée
+par des gens comme eux.
+
+462
+00:36:35,485 --> 00:36:36,737
+Accepte-le...
+
+463
+00:36:37,237 --> 00:36:39,072
+peu importe ce que tu fais...
+
+464
+00:36:41,992 --> 00:36:44,286
+ça finira toujours comme ça.
+
+465
+00:36:47,539 --> 00:36:50,500
+Qu'est-ce que tu fais ? Tu y vas ?
+
+466
+00:36:52,127 --> 00:36:54,838
+L'amante d'un sénateur
+qui bosse pour nous
+
+467
+00:36:55,047 --> 00:36:56,882
+a sniffé la mauvaise dope.
+
+468
+00:36:57,090 --> 00:37:00,761
+Elle est morte il y a quelques heures.
+Je viens éviter le scandale.
+
+469
+00:37:05,557 --> 00:37:07,476
+Tu vois ce que je veux dire ?
+
+470
+00:37:07,684 --> 00:37:11,021
+Rien ne doit arrêter les festivités.
+
+471
+00:37:11,229 --> 00:37:13,815
+Ni des milliers de morts.
+
+472
+00:37:14,358 --> 00:37:17,319
+Ni une maîtresse décédée
+dans les toilettes.
+
+473
+00:37:37,005 --> 00:37:39,424
+Ils sont arrivés plus tôt que prévu.
+
+474
+00:37:39,633 --> 00:37:42,010
+Ces enfoirés de lève-tôt.
+
+475
+00:37:42,260 --> 00:37:43,512
+Qu'est-ce qui se passe ?
+
+476
+00:37:43,971 --> 00:37:45,597
+Qui sont ces gens ?
+
+477
+00:37:46,139 --> 00:37:48,141
+C'est ici qu'on se dit au revoir.
+
+478
+00:37:48,684 --> 00:37:51,019
+- Quoi ?
+- Tu nous laisses avec eux ?
+
+479
+00:37:51,228 --> 00:37:54,064
+Je ne suis qu'un chaperon.
+
+480
+00:37:55,899 --> 00:37:57,818
+Qu'est-ce qui va nous arriver ?
+
+481
+00:38:00,028 --> 00:38:01,738
+Ça ne tient qu'à lui.
+
+482
+00:38:02,656 --> 00:38:06,493
+Je croise les doigts pour vous.
+
+483
+00:38:20,340 --> 00:38:21,925
+M. Markesh.
+
+484
+00:38:22,801 --> 00:38:24,344
+Mlle Biswas.
+
+485
+00:38:24,970 --> 00:38:28,682
+Veuillez me suivre au garage.
+
+486
+00:38:35,355 --> 00:38:37,357
+Tu m'écoutes ?
+
+487
+00:38:37,899 --> 00:38:40,944
+Tu es toujours sur ton téléphone.
+
+488
+00:38:41,278 --> 00:38:42,320
+C'est malpoli...
+
+489
+00:38:42,529 --> 00:38:45,073
+Ils ont identifié les auteurs des attaques.
+
+490
+00:38:45,282 --> 00:38:46,450
+Regarde.
+
+491
+00:38:47,993 --> 00:38:51,121
+Tyrell Wellick a identifié
+  les chefs de fsociety...
+
+492
+00:38:51,747 --> 00:38:52,789
+Putain.
+
+493
+00:38:53,749 --> 00:38:55,751
+Frederick et Tanya !
+
+494
+00:38:56,209 --> 00:38:58,045
+Je travaille avec eux !
+
+495
+00:38:58,336 --> 00:39:00,797
+Sans déconner ? Ils vivent ici ?
+
+496
+00:39:02,090 --> 00:39:03,717
+Il faut les signaler.
+
+497
+00:39:18,315 --> 00:39:20,192
+Qu'est-ce qui se passe ?
+
+498
+00:39:21,151 --> 00:39:24,279
+Asseyez-vous.
+
+499
+00:39:35,082 --> 00:39:38,335
+Dites-moi ce que vous voyez.
+
+500
+00:39:41,463 --> 00:39:43,006
+Localisation confirmée.
+  Nous sommes en position.
+
+501
+00:39:43,215 --> 00:39:45,425
+Je répète, localisation confirmée.
+  En position.
+
+502
+00:39:45,634 --> 00:39:47,511
+Attention à vous.
+
+503
+00:39:47,761 --> 00:39:49,554
+Protégez-vous.
+
+504
+00:39:49,721 --> 00:39:52,724
+L'équipe alpha approche de la porte.
+  Restez en alerte. Attendez les ordres.
+
+505
+00:39:57,896 --> 00:39:59,147
+- On y va.
+- Ouais.
+
+506
+00:39:59,356 --> 00:40:02,400
+Force d'assaut du côté blanc,
+nous sommes parés.
+
+507
+00:40:04,653 --> 00:40:06,988
+Base de données des failles sécuritaires
+
+508
+00:40:07,197 --> 00:40:11,201
+C'est un système d'analyse des menaces
+qui guettent le FAA.
+
+509
+00:40:13,120 --> 00:40:15,122
+Service de données aériennes
+
+510
+00:40:15,330 --> 00:40:18,250
+Les adresses ciblées
+sont à Chicago, Atlanta...
+
+511
+00:40:18,458 --> 00:40:19,793
+EXPOSITION AU BRUIT
+Déploiement actuel
+
+512
+00:40:20,001 --> 00:40:21,086
+... Los Angeles.
+
+513
+00:40:31,054 --> 00:40:32,764
+Team Bravo prête.
+Etablissez un périmètre.
+
+514
+00:40:33,765 --> 00:40:38,854
+C'est un malware qui cible
+les systèmes de contrôle aérien
+
+515
+00:40:39,521 --> 00:40:41,606
+dans les plus grands aéroports.
+
+516
+00:40:41,815 --> 00:40:44,192
+Ils prévoient une autre attaque.
+
+517
+00:40:44,401 --> 00:40:49,114
+Comme aujourd'hui
+sauf qu'ils viseront des avions.
+
+518
+00:40:49,531 --> 00:40:51,867
+- Toit sécurisé, tenez-vous prêts.
+  - Bien reçu.
+
+519
+00:40:52,325 --> 00:40:54,786
+L'équipe alpha est en position.
+
+520
+00:40:55,036 --> 00:40:57,789
+- La radio ?
+- C'est bon.
+
+521
+00:41:01,042 --> 00:41:05,005
+Le programme est déjà fait.
+Qu'est-ce que vous voulez de nous ?
+
+522
+00:41:20,604 --> 00:41:23,356
+- Exécution.
+ - Allez, on y va.
+
+523
+00:41:26,860 --> 00:41:28,236
+On y va.
+
+524
+00:41:28,695 --> 00:41:30,947
+L'équipe alpha est entrée.
+
+525
+00:41:31,156 --> 00:41:36,620
+A Dark Army, on sait ce que c'est
+de croire en quelque chose.
+
+526
+00:41:37,662 --> 00:41:41,708
+On est prêt à mourir pour la cause
+sans y réfléchir à deux fois
+
+527
+00:41:41,917 --> 00:41:43,585
+parce qu'on sait
+
+528
+00:41:44,211 --> 00:41:48,715
+que nous sommes des soldats
+dans une entreprise qui nous dépasse.
+
+529
+00:41:48,924 --> 00:41:50,383
+Vérifiez la pièce.
+
+530
+00:41:54,721 --> 00:41:56,640
+Ne nous tuez pas.
+
+531
+00:41:58,141 --> 00:41:59,726
+Ne faites pas ça.
+
+532
+00:42:04,773 --> 00:42:06,358
+La pièce est vide.
+
+533
+00:42:08,902 --> 00:42:10,278
+Equipe B, tenez-vous prêts.
+
+534
+00:42:10,487 --> 00:42:12,781
+Nous croyons aussi en autre chose.
+
+535
+00:42:13,615 --> 00:42:15,450
+Le sacrifice.
+
+536
+00:42:16,743 --> 00:42:20,538
+Nous servons
+une autorité au-dessus nous,
+
+537
+00:42:21,206 --> 00:42:24,376
+rien n'est donc plus honorable
+que le suicide.
+
+538
+00:42:25,001 --> 00:42:29,589
+Vous ne pouvez pas offrir
+plus grand cadeau...
+
+539
+00:42:31,591 --> 00:42:32,842
+à la cause.
+
+540
+00:42:34,177 --> 00:42:35,220
+On y va.
+
+541
+00:42:39,224 --> 00:42:41,434
+- Sécurisez le garage.
+  - On approche de la dernière porte.
+
+542
+00:42:52,779 --> 00:42:57,284
+- On fera tout ce que vous voudrez.
+- S'il vous plaît. On peut être utile.
+
+543
+00:43:06,710 --> 00:43:08,545
+Tout dans cette pièce,
+
+544
+00:43:08,753 --> 00:43:12,215
+les plans pour s'en prendre à des avions
+comme votre présence,
+
+545
+00:43:13,049 --> 00:43:14,968
+a pour but de raconter une histoire.
+
+546
+00:43:16,970 --> 00:43:20,223
+Malheureusement,
+vos talents ne nous serviront à rien.
+
+547
+00:43:20,432 --> 00:43:26,688
+Mais vous êtes utiles
+à une plus grande cause.
+
+548
+00:43:29,524 --> 00:43:30,567
+S'il vous plaît.
+
+549
+00:43:30,775 --> 00:43:32,610
+Ne faites pas ça.
+
+550
+00:43:33,528 --> 00:43:37,198
+- Non ! Arrêtez !
+- Non, s'il vous plaît.
+
+551
+00:43:38,033 --> 00:43:40,160
+Vous n'êtes pas obligé de faire ça.
+
+552
+00:43:53,548 --> 00:43:56,801
+Il y a une caméra. Des terminaux.
+
+553
+00:43:58,178 --> 00:44:00,096
+Il y a un corps.
+
+554
+00:44:04,309 --> 00:44:07,020
+- Il y a un corps.
+  - Un corps ?
+
+555
+00:44:07,228 --> 00:44:08,813
+Mon Dieu.
+
+556
+00:44:11,441 --> 00:44:12,942
+Deux corps.
+
+557
+00:44:15,195 --> 00:44:18,365
+- Tous les deux armés.
+  - On a une source de lumière.
+
+558
+00:44:21,951 --> 00:44:25,372
+Un civil décédé à terre
+avec une arme à la main.
+
+559
+00:44:27,290 --> 00:44:29,959
+Une civile décédée,
+une arme à la main.
+
+560
+00:44:31,086 --> 00:44:32,712
+La pièce est sécurisée.
+
+561
+00:44:32,921 --> 00:44:35,423
+Les deux personnes sont mortes.
+
+562
+00:44:36,049 --> 00:44:37,509
+Envoyez les secouristes.
+
+563
+00:44:37,717 --> 00:44:40,053
+Equipe alpha au commandement,
+  la zone est sécurisée.
+
+564
+00:44:40,261 --> 00:44:42,389
+On dirait des Iraniens.
+
+565
+00:44:43,139 --> 00:44:44,849
+Prévenez l'équipe d'intervention.
+
+566
+00:44:46,684 --> 00:44:48,812
+Il y a un drapeau iranien.
+
+567
+00:44:49,771 --> 00:44:51,898
+Un masque fsociety.
+
+568
+00:44:52,982 --> 00:44:54,234
+Un équipement.
+
+569
+00:44:55,068 --> 00:44:56,319
+Caméra.
+
+570
+00:44:56,653 --> 00:44:58,488
+On dirait un studio de fortune.
+
+571
+00:45:00,657 --> 00:45:02,409
+C'est fini, DiPierro.
+
+572
+00:45:02,617 --> 00:45:05,245
+On aurait préféré les avoir vivants.
+
+573
+00:45:05,453 --> 00:45:07,705
+Mais au moins,
+il n'y aura pas d'autre attaque.
+
+574
+00:46:10,602 --> 00:46:12,479
+DISPARU
+RECHERCHÉ POUR LE NEUF MAI
+
+575
+00:46:12,687 --> 00:46:15,482
+AU FBI
+Aucun enregistrement
+
+576
+00:46:26,826 --> 00:46:29,621
+Dire que vous allez vous en tirer.
+
+577
+00:47:01,569 --> 00:47:03,571
+Traduction :
+ Jessica Mechouar
+

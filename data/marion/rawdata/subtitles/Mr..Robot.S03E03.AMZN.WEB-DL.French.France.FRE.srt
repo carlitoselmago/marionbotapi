@@ -1,0 +1,2340 @@
+﻿1
+00:00:01,001 --> 00:00:03,170
+Tyrell Wellick.
+On va bien s'amuser ensemble.
+
+2
+00:00:03,337 --> 00:00:05,297
+Tu es canon. Viens chez moi.
+
+3
+00:00:05,464 --> 00:00:06,465
+PRÉCÉDEMMENT...
+
+4
+00:00:06,632 --> 00:00:09,176
+Des inspecteurs sont venus.
+Il y avait un cadavre sur le toit.
+
+5
+00:00:09,343 --> 00:00:11,721
+Vous connaissiez la victime,
+Sharon Knowles ?
+
+6
+00:00:11,887 --> 00:00:14,223
+Si tu veux qu'on reste ensemble,
+arrange ça.
+
+7
+00:00:14,390 --> 00:00:17,643
+Notre réseau a été compromis.
+Ce serveur doit rester un honeypot.
+
+8
+00:00:17,810 --> 00:00:20,646
+Tyrell Wellick veut qu'on laisse
+  la requête telle qu'elle est.
+
+9
+00:00:20,813 --> 00:00:23,941
+Notre rencontre n'a rien de fortuite.
+Il y a quelque chose entre nous.
+
+10
+00:00:24,150 --> 00:00:25,693
+Vous ne voyez pas
+ce qu'il y a au-dessus de vous.
+
+11
+00:00:25,860 --> 00:00:27,778
+- Qu'y a-t-il ?
+- Dieu.
+
+12
+00:00:27,945 --> 00:00:31,907
+Tyrell Wellick n'est pas là.
+  Je me suis réveillé dans sa voiture.
+
+13
+00:00:32,074 --> 00:00:35,661
+On enquêtait sur le piratage,
+et on s'est retrouvé dans une fusillade.
+
+14
+00:00:36,537 --> 00:00:38,622
+Ce que tu veux, je le veux aussi.
+
+15
+00:00:38,789 --> 00:00:40,583
+Quelqu'un essaye de me contacter.
+
+16
+00:00:40,750 --> 00:00:41,876
+Entre la 25e et la 8e.
+
+17
+00:00:42,042 --> 00:00:44,837
+L'étape deux. La femtocell.
+La porte dérobée.
+
+18
+00:00:45,004 --> 00:00:46,088
+Je veux tout arrêter.
+
+19
+00:00:46,255 --> 00:00:48,299
+Je tire si j'y suis obligé.
+
+20
+00:00:48,466 --> 00:00:51,594
+J'avais bien dit
+qu'on finirait par travailler ensemble.
+
+21
+00:00:51,761 --> 00:00:53,304
+Tu te souviens du piratage ?
+
+22
+00:00:53,471 --> 00:00:55,097
+Tu sais ce qui s'est passé ?
+
+23
+00:00:59,310 --> 00:01:00,603
+TERMINÉ
+
+24
+00:01:00,770 --> 00:01:03,105
+Localisation des fichiers.
+Encryptage en cours
+
+25
+00:01:03,314 --> 00:01:05,691
+Encryptage / CORBEILLE
+Encryptage / DÉMARRAGE
+
+26
+00:01:05,858 --> 00:01:07,568
+Encryptage / PÉRIPHÉRIQUES
+
+27
+00:01:07,735 --> 00:01:09,153
+Qu'est-ce qui se passe ?
+
+28
+00:01:11,614 --> 00:01:13,616
+C'est en cours.
+
+29
+00:01:33,677 --> 00:01:34,804
+C'est...
+
+30
+00:01:35,513 --> 00:01:37,431
+presque comme si...
+
+31
+00:01:38,390 --> 00:01:40,601
+quelque chose prenait vie.
+
+32
+00:02:17,638 --> 00:02:19,682
+Une seconde, Elliot.
+
+33
+00:02:19,849 --> 00:02:21,892
+On devrait en parler.
+
+34
+00:02:37,616 --> 00:02:39,535
+Vous avez vu ce qui vient
+de se passer ?
+
+35
+00:02:40,870 --> 00:02:43,080
+Vous ne comprenez pas
+ce qui vient d'arriver ?
+
+36
+00:02:43,247 --> 00:02:45,124
+L'arme s'est enrayée.
+Ça n'arrivera plus.
+
+37
+00:02:45,291 --> 00:02:48,085
+C'est bien la preuve.
+Vous ne le voyez pas ?
+
+38
+00:02:48,252 --> 00:02:49,503
+La preuve de quoi ?
+
+39
+00:03:03,392 --> 00:03:06,437
+La preuve de quoi ?
+
+40
+00:03:12,359 --> 00:03:15,362
+D'après vous, je ne vois pas
+ce qui est au-dessus moi,
+
+41
+00:03:15,529 --> 00:03:16,780
+juste ce qui est devant moi.
+
+42
+00:03:18,449 --> 00:03:20,367
+Qu'est-ce que vous racontez ?
+
+43
+00:03:21,410 --> 00:03:22,953
+Nous sommes...
+
+44
+00:03:23,662 --> 00:03:24,872
+des dieux.
+
+45
+00:03:25,497 --> 00:03:26,957
+Vous n'êtes qu'un cinglé.
+
+46
+00:03:27,124 --> 00:03:30,544
+Vous me menaciez d'une arme
+à bout portant et vous avez tiré.
+
+47
+00:03:30,711 --> 00:03:34,298
+Pourtant, je suis encore là à vous parler.
+Quelles sont les probabilités ?
+
+48
+00:03:34,465 --> 00:03:37,718
+- Je ne sais pas. Parfois, ça merde.
+- Ce n'est pas de la chance.
+
+49
+00:03:37,885 --> 00:03:39,720
+C'est une intervention divine.
+
+50
+00:03:39,887 --> 00:03:43,682
+Nous avons été conviés à son cercle
+pour mener cette révolution.
+
+51
+00:03:43,849 --> 00:03:47,645
+- Vous n'avez pas été convié.
+- Votre plan n'est rien comparé au reste.
+
+52
+00:03:47,811 --> 00:03:52,149
+Vous êtes assez intelligent pour savoir
+que le piratage n'est pas suffisant.
+
+53
+00:03:52,524 --> 00:03:54,693
+Quand ils comprendront
+que c'est irrécupérable,
+
+54
+00:03:54,860 --> 00:03:57,488
+ils trouveront un moyen de tout recréer.
+
+55
+00:03:57,655 --> 00:04:00,157
+Et vous aurez alors besoin de moi.
+
+56
+00:04:00,324 --> 00:04:02,201
+Vous ne le voyez toujours pas ?
+
+57
+00:04:02,368 --> 00:04:05,412
+Dès notre première rencontre,
+j'ai senti quelque chose entre nous.
+
+58
+00:04:05,579 --> 00:04:07,164
+C'est ce que j'ai ressenti.
+
+59
+00:04:07,331 --> 00:04:10,334
+Un lien mystérieux.
+Nous sommes censés collaborer.
+
+60
+00:04:10,501 --> 00:04:12,169
+Il en a toujours été ainsi.
+
+61
+00:04:12,336 --> 00:04:15,339
+Vous êtes un psychopathe.
+Comment vous faire confiance ?
+
+62
+00:04:21,387 --> 00:04:23,681
+Appuyez à nouveau sur la détente.
+
+63
+00:04:23,847 --> 00:04:26,558
+J'accepterai ce que
+le destin me réserve.
+
+64
+00:04:29,561 --> 00:04:31,605
+Appuyez !
+
+65
+00:04:40,280 --> 00:04:42,241
+Bien, Looney Tunes.
+
+66
+00:04:43,450 --> 00:04:45,035
+Vous avez raison.
+
+67
+00:04:45,202 --> 00:04:47,454
+Il y a une deuxième étape.
+
+68
+00:04:47,621 --> 00:04:52,167
+Après ce soir,
+je ne sais pas ce qui m'attend.
+
+69
+00:05:00,551 --> 00:05:02,136
+J'aurais bien besoin de vous.
+
+70
+00:05:07,266 --> 00:05:09,059
+Merci, Elliot.
+
+71
+00:05:10,853 --> 00:05:15,190
+- Je vous...
+- Parfois, il vaut mieux ne pas tout dire.
+
+72
+00:05:16,233 --> 00:05:18,318
+Restons dans le sous-entendu.
+
+73
+00:05:20,988 --> 00:05:22,072
+Asseyez-vous.
+
+74
+00:05:33,792 --> 00:05:34,877
+Prenez ça.
+
+75
+00:05:44,970 --> 00:05:48,515
+Vous êtes peut-être bien assez cinglé
+pour me protéger
+
+76
+00:05:49,141 --> 00:05:51,101
+de moi-même.
+
+77
+00:06:14,666 --> 00:06:16,668
+- C'est sa voiture ?
+- Oui.
+
+78
+00:06:17,503 --> 00:06:21,507
+- Ils sont arrivés quand ?
+- Peu après 21 h.
+
+79
+00:06:22,508 --> 00:06:26,845
+C'est la première fois que tu vois
+le Suédois, Tyrell Wellick ?
+
+80
+00:06:30,015 --> 00:06:31,975
+Et le reste de l'équipe ?
+
+81
+00:06:33,268 --> 00:06:34,895
+Aucun signe d'eux.
+
+82
+00:06:37,356 --> 00:06:39,358
+Très bien.
+
+83
+00:06:40,984 --> 00:06:42,361
+Allons-y.
+
+84
+00:06:42,528 --> 00:06:43,821
+Tu sais comment ça se passe.
+
+85
+00:06:43,987 --> 00:06:47,116
+Je fais mon monologue.
+
+86
+00:06:47,491 --> 00:06:51,036
+Et on attend avant de sortir les flingues,
+sauf s'ils jouent au héros.
+
+87
+00:06:51,203 --> 00:06:52,538
+Allez.
+
+88
+00:06:53,288 --> 00:06:56,166
+- Comment ça se passe avec Pontiac ?
+- Rien à redire.
+
+89
+00:06:56,333 --> 00:06:58,210
+Je t'avais dit qu'elle était fiable.
+
+90
+00:06:58,377 --> 00:07:01,004
+Le décryptage leur prendra
+plusieurs semaines.
+
+91
+00:07:01,171 --> 00:07:03,590
+Ça échouera, et ils récupéreront
+les dossiers papiers
+
+92
+00:07:03,757 --> 00:07:07,219
+de toutes les mairies et banques du pays.
+
+93
+00:07:07,386 --> 00:07:10,597
+Les titres, les actes, les documents
+de prêt, les relevés bancaires.
+
+94
+00:07:10,764 --> 00:07:11,974
+C'est notre cible.
+
+95
+00:07:12,141 --> 00:07:16,019
+Je sais qui s'en occupera,
+et quelles sont les procédures.
+
+96
+00:07:16,186 --> 00:07:19,314
+Si j'en crois ce drôle d'accent,
+vous êtes Tyrell Wellick.
+
+97
+00:07:20,566 --> 00:07:21,942
+Vous êtes qui ?
+
+98
+00:07:28,574 --> 00:07:30,284
+N'y pensez même pas.
+
+99
+00:07:33,370 --> 00:07:37,291
+M. Wellick, il va falloir répondre
+à certaines questions.
+
+100
+00:07:37,457 --> 00:07:39,209
+Quelqu'un vous a vu entrer ?
+
+101
+00:07:43,172 --> 00:07:44,715
+M. Wellick ?
+
+102
+00:07:44,882 --> 00:07:46,717
+Quelqu'un sait que vous êtes là ?
+
+103
+00:07:48,385 --> 00:07:50,429
+C'est votre voiture dehors ?
+
+104
+00:07:53,223 --> 00:07:54,850
+- Donnez-moi vos clés.
+- Il se passe quoi ?
+
+105
+00:07:55,017 --> 00:07:57,561
+Je m'occupe de toi après.
+
+106
+00:07:59,855 --> 00:08:01,773
+Allez, M. Wellick.
+
+107
+00:08:01,940 --> 00:08:04,985
+Je n'ai rien demandé d'impossible.
+
+108
+00:08:08,989 --> 00:08:10,657
+Le téléphone aussi.
+
+109
+00:08:19,124 --> 00:08:20,834
+Tu sais conduire ?
+
+110
+00:08:21,335 --> 00:08:22,419
+Réponds par oui ou non.
+
+111
+00:08:22,586 --> 00:08:23,921
+- Oui.
+- Bien.
+
+112
+00:08:24,588 --> 00:08:29,092
+Tu vas aller entre la 17e et la 6e.
+
+113
+00:08:29,259 --> 00:08:32,971
+Tu vas laisser sa voiture dans le parking.
+
+114
+00:08:33,722 --> 00:08:35,766
+Mets ça sur le tableau de bord.
+
+115
+00:08:38,518 --> 00:08:40,771
+Et va-t'en. Personne ne doit te voir.
+
+116
+00:08:40,979 --> 00:08:43,690
+Rentre chez toi et fais-toi discret.
+
+117
+00:08:44,524 --> 00:08:46,360
+Bien, M. Wellick, on y va.
+
+118
+00:08:46,526 --> 00:08:49,154
+Personne n'ira pas nulle part tant que...
+
+119
+00:08:58,789 --> 00:09:00,332
+Si je suis là...
+
+120
+00:09:01,792 --> 00:09:04,127
+c'est que vous avez merdé.
+
+121
+00:09:04,670 --> 00:09:07,089
+Visiblement, votre ami James,
+
+122
+00:09:07,256 --> 00:09:09,216
+un employé d'E Corp, je crois,
+
+123
+00:09:09,383 --> 00:09:11,802
+après avoir installé le honeypot,
+
+124
+00:09:11,969 --> 00:09:15,097
+a contacté Gideon Goddard
+
+125
+00:09:15,264 --> 00:09:17,641
+qui a signalé la chose au FBI.
+
+126
+00:09:17,808 --> 00:09:20,560
+Et ensuite...
+
+127
+00:09:21,728 --> 00:09:23,814
+Dois-je vraiment continuer ?
+
+128
+00:09:24,273 --> 00:09:27,276
+D'après ce que j'ai compris,
+les choses dérapent un peu ce soir,
+
+129
+00:09:27,442 --> 00:09:29,444
+si je reste poli, et je le suis.
+
+130
+00:09:32,155 --> 00:09:34,157
+Et si je refuse ?
+
+131
+00:09:34,700 --> 00:09:37,869
+M. Wellick, très bientôt,
+
+132
+00:09:38,036 --> 00:09:41,415
+vous serez l'homme le plus recherché
+de la planète.
+
+133
+00:09:41,581 --> 00:09:45,002
+Ils entreprendront très certainement
+la plus grande chasse à l'homme
+
+134
+00:09:45,168 --> 00:09:47,587
+depuis Ben Laden,
+étant donné ce que vous avez fait.
+
+135
+00:09:47,754 --> 00:09:51,633
+Je suis votre seule chance
+d'échapper à la prison.
+
+136
+00:09:51,800 --> 00:09:55,262
+Mais si vous voulez essayer
+de vous en sortir tout seul, allez-y.
+
+137
+00:09:55,429 --> 00:09:59,933
+Je filerai aussi vite d'ici
+que vous bouffez du poisson suédois.
+
+138
+00:10:14,156 --> 00:10:15,782
+Vous devriez le suivre.
+
+139
+00:11:48,875 --> 00:11:50,961
+Je dois rester combien de temps ?
+
+140
+00:11:51,670 --> 00:11:53,213
+Aucune idée.
+
+141
+00:12:03,390 --> 00:12:07,894
+Si vous devez parler à votre femme,
+nous avons des moyens sûrs.
+
+142
+00:12:08,103 --> 00:12:09,980
+Donnez-moi juste un peu de temps.
+
+143
+00:12:10,147 --> 00:12:13,150
+Non. Aucun contact.
+
+144
+00:12:13,316 --> 00:12:16,236
+Je serai exilé un bon moment,
+plus je crée une distance,
+
+145
+00:12:16,403 --> 00:12:19,698
+mieux ce sera pour moi et pour elle.
+
+146
+00:12:19,865 --> 00:12:22,200
+C'est la seule façon de m'en sortir.
+
+147
+00:12:22,367 --> 00:12:23,743
+D'accord.
+
+148
+00:12:23,910 --> 00:12:27,330
+Je viendrai vous voir de temps en temps
+pour m'assurer que ça va.
+
+149
+00:12:27,497 --> 00:12:29,791
+Vous partez ? Et Elliot ?
+
+150
+00:12:29,958 --> 00:12:31,501
+On a du pain sur la planche.
+
+151
+00:12:32,169 --> 00:12:35,172
+- C'est en cours d'après ce que je sais.
+- Il me faut mon flingue.
+
+152
+00:12:35,672 --> 00:12:39,301
+Si je reste ici seul,
+j'aurai besoin de protection.
+
+153
+00:12:40,093 --> 00:12:43,138
+On possède 15 hectares de terrain.
+
+154
+00:12:43,305 --> 00:12:47,934
+Il y a des détecteurs de mouvements,
+des caméras, des grilles en fer forgé.
+
+155
+00:12:48,101 --> 00:12:50,270
+C'est une vraie ceinture de chasteté.
+
+156
+00:12:50,479 --> 00:12:52,731
+Rien ne peut entrer.
+
+157
+00:12:53,982 --> 00:12:57,527
+Si vous voulez être protégé,
+ne sortez pas d'ici.
+
+158
+00:13:05,243 --> 00:13:06,828
+Elliot Alderson ?
+
+159
+00:13:06,995 --> 00:13:08,914
+Vous êtes Elliot Alderson ?
+
+160
+00:13:10,957 --> 00:13:14,377
+Vous êtes en état d'arrestation
+pour utilisation illégale d'un ordinateur,
+
+161
+00:13:14,544 --> 00:13:16,588
+piratage informatique et vol qualifié.
+
+162
+00:13:16,755 --> 00:13:20,258
+Il a été arrêté pour piratage et vol.
+
+163
+00:13:20,675 --> 00:13:22,469
+Il a écopé de huit mois de prison.
+
+164
+00:13:22,886 --> 00:13:24,721
+On a essayé
+d'empêcher les poursuites...
+
+165
+00:13:26,223 --> 00:13:28,808
+mais c'est arrivé trop vite.
+
+166
+00:13:30,101 --> 00:13:32,604
+Il a plaidé coupable tout de suite.
+
+167
+00:13:33,313 --> 00:13:34,481
+Puisque votre implication
+
+168
+00:13:34,648 --> 00:13:37,067
+dans cette opération s'accroît,
+
+169
+00:13:37,234 --> 00:13:40,320
+je pense qu'il est temps
+d'apprendre à parler anglais.
+
+170
+00:13:40,487 --> 00:13:42,531
+Il paraît que la pierre de Rosette
+
+171
+00:13:42,697 --> 00:13:43,990
+est facile d'utilisation.
+
+172
+00:13:44,157 --> 00:13:45,909
+En ce qui concerne Elliot,
+
+173
+00:13:46,076 --> 00:13:47,827
+j'ai un agent sur place
+
+174
+00:13:47,994 --> 00:13:50,080
+pour accueillir M. Alderson.
+
+175
+00:13:50,247 --> 00:13:51,831
+Il aura besoin de protection.
+
+176
+00:13:51,998 --> 00:13:54,960
+Recherchez tous les agents disponibles.
+
+177
+00:13:55,126 --> 00:13:57,712
+Travaillons sur une remise en liberté.
+
+178
+00:13:57,837 --> 00:14:00,632
+Il est allé en prison volontairement.
+
+179
+00:14:00,799 --> 00:14:01,800
+Il est fou.
+
+180
+00:14:01,967 --> 00:14:04,386
+Vous n'avez pas compris
+ma demande ?
+
+181
+00:14:05,971 --> 00:14:06,972
+Compris.
+
+182
+00:14:08,265 --> 00:14:09,266
+Bien.
+
+183
+00:14:10,475 --> 00:14:12,185
+Faites entrer
+mon prochain rendez-vous.
+
+184
+00:14:15,397 --> 00:14:17,148
+J'aurais une question.
+
+185
+00:14:18,817 --> 00:14:21,027
+Qu'est-ce que M. Alderson a volé ?
+
+186
+00:14:21,486 --> 00:14:23,905
+Le chien de la victime, Flipper.
+
+187
+00:14:30,870 --> 00:14:34,541
+Je serai le meilleur président,
+  d'après moi.
+
+188
+00:14:42,048 --> 00:14:44,926
+C'est donc votre maison.
+
+189
+00:14:45,093 --> 00:14:47,762
+L'une d'elles, je suppose.
+
+190
+00:14:47,929 --> 00:14:49,764
+C'est ma première fois sur l'île.
+
+191
+00:14:49,931 --> 00:14:52,767
+Elle n'apparaît même pas
+sur Google Maps.
+
+192
+00:14:52,976 --> 00:14:56,438
+Vous retournez à New York
+dans 22 minutes.
+
+193
+00:14:56,605 --> 00:15:00,525
+J'aurais préféré un appel
+plutôt que quatre heures d'avion.
+
+194
+00:15:00,692 --> 00:15:01,776
+Problème de vertèbres.
+
+195
+00:15:02,277 --> 00:15:05,697
+J'ai besoin de redorer
+le blason de Tyrell Wellick.
+
+196
+00:15:05,864 --> 00:15:09,367
+C'est un ex-employé d'E Corp
+qui va porter le chapeau pour le piratage.
+
+197
+00:15:09,534 --> 00:15:14,623
+Peu importe l'ampleur de la médiatisation,
+il faut qu'il soit montré positivement.
+
+198
+00:15:17,417 --> 00:15:19,210
+Obama va s'en prendre à lui ?
+
+199
+00:15:19,377 --> 00:15:21,421
+Les gens adorent défendre
+ce qu'il déteste.
+
+200
+00:15:21,921 --> 00:15:24,549
+J'aimerais que vous exploriez
+une nouvelle trame.
+
+201
+00:15:24,716 --> 00:15:28,511
+Je veux que vous disiez
+que fsociety vient d'Iran.
+
+202
+00:15:29,679 --> 00:15:31,556
+L'Iran ?
+
+203
+00:15:31,723 --> 00:15:34,100
+C'est assez étranger.
+Ça devrait être facile.
+
+204
+00:15:35,185 --> 00:15:36,811
+Une dernière chose.
+
+205
+00:15:36,978 --> 00:15:41,566
+Un candidat potentiel aux présidentielles
+que vous devez soutenir.
+
+206
+00:15:44,277 --> 00:15:48,865
+J'ai créé des milliers d'emplois
+  au cours de ma carrière.
+
+207
+00:15:49,032 --> 00:15:51,117
+Des dizaines de milliers.
+
+208
+00:15:52,911 --> 00:15:56,623
+Les Américains sont désespérés,
+mais quand même pas à ce point.
+
+209
+00:15:57,374 --> 00:15:59,417
+C'est un bouffon.
+
+210
+00:15:59,584 --> 00:16:02,796
+Il ne vit pas dans le monde réel.
+Comment vous allez le contrôler ?
+
+211
+00:16:03,463 --> 00:16:09,511
+Si on tire les bonnes ficelles,
+une marionnette fait tout ce qu'on veut.
+
+212
+00:16:13,056 --> 00:16:16,601
+Il faut rendre sa grandeur à l'Amérique.
+
+213
+00:16:16,810 --> 00:16:18,144
+C'est dit.
+
+214
+00:16:20,063 --> 00:16:21,272
+Je ne vois rien.
+
+215
+00:16:24,442 --> 00:16:27,570
+Il tripote la bombe à résonance.
+  Arrêtez-le !
+
+216
+00:16:34,035 --> 00:16:36,746
+J'ai vérifié tous les ascenseurs, Matt.
+  Je ne trouve pas.
+
+217
+00:16:36,913 --> 00:16:39,082
+C'est forcément là. Cherche.
+
+218
+00:16:45,171 --> 00:16:46,589
+M. Wellick ?
+
+219
+00:16:51,886 --> 00:16:53,471
+Je suis M. Williams.
+
+220
+00:16:53,638 --> 00:16:56,266
+Je vous en prie, entrez.
+Asseyez-vous.
+
+221
+00:16:57,016 --> 00:16:59,269
+Voulez-vous une tasse de thé ?
+
+222
+00:16:59,436 --> 00:17:04,232
+J'ai acheté du Söderblandning
+rien que pour vous.
+
+223
+00:17:04,399 --> 00:17:06,401
+Non, ça va.
+
+224
+00:17:06,568 --> 00:17:09,362
+Vous êtes bien installé ?
+
+225
+00:17:09,529 --> 00:17:11,489
+Vous avez tout ce qu'il faut ?
+
+226
+00:17:11,656 --> 00:17:15,118
+Non, je suis seul depuis quatre jours.
+
+227
+00:17:15,285 --> 00:17:16,828
+Que se passe-t-il ?
+Où est Elliot ?
+
+228
+00:17:21,458 --> 00:17:26,212
+La réponse est intéressante
+à entendre,
+
+229
+00:17:26,379 --> 00:17:31,384
+et on m'a fait venir ici précisément
+pour que je vous explique tout.
+
+230
+00:17:31,551 --> 00:17:33,428
+Asseyez-vous.
+
+231
+00:17:39,601 --> 00:17:42,979
+Tout d'abord, quelques questions.
+
+232
+00:17:43,730 --> 00:17:47,525
+Vous travailliez avec Elliot...
+
+233
+00:17:49,402 --> 00:17:52,739
+sur l'étape deux
+avant ces déconvenues.
+
+234
+00:17:52,906 --> 00:17:56,242
+- Est-ce exact ?
+- Oui, et il faut qu'on s'y mette.
+
+235
+00:17:56,409 --> 00:17:58,870
+E Corp a dû mettre en place
+la récupération.
+
+236
+00:17:59,037 --> 00:18:02,415
+Il faut qu'on commence les recherches.
+Ne gâchons pas notre avance.
+
+237
+00:18:02,582 --> 00:18:05,585
+- Quatre jours, c'est déjà trop.
+- Oui.
+
+238
+00:18:05,752 --> 00:18:08,213
+Mais avant de vous offrir
+nos ressources,
+
+239
+00:18:08,379 --> 00:18:13,384
+je dois m'assurer de votre loyauté
+à notre cause.
+
+240
+00:18:13,551 --> 00:18:18,014
+Nous prenons cela très au sérieux
+si nous devons faire ce genre de choses.
+
+241
+00:18:21,643 --> 00:18:25,814
+Vous parlez de Dark Army ?
+Je vous suis loyal. On est associés.
+
+242
+00:18:25,980 --> 00:18:27,899
+Avez-vous tué Sharon Knowles ?
+
+243
+00:18:28,608 --> 00:18:31,986
+- Quoi ?
+- Avez-vous tué Sharon Knowles ?
+
+244
+00:18:32,153 --> 00:18:34,948
+- Je ne comprends pas.
+- C'est moi qu'il faut regarder.
+
+245
+00:18:35,114 --> 00:18:38,034
+- Avez-vous tué Sharon Knowles ?
+- Que est le rapport ?
+
+246
+00:18:38,201 --> 00:18:39,577
+Avez-vous tué Sharon Knowles ?
+
+247
+00:18:40,453 --> 00:18:42,372
+- Aimez-vous votre femme ?
+- Vous faites quoi ?
+
+248
+00:18:42,539 --> 00:18:44,207
+- Aimez-vous votre femme ?
+- Oui.
+
+249
+00:18:44,374 --> 00:18:47,502
+Avez-vous couché avec quelqu'un d'autre
+depuis que vous êtes marié ?
+
+250
+00:18:47,669 --> 00:18:49,087
+C'est moi qu'il faut regarder.
+
+251
+00:18:49,254 --> 00:18:52,131
+Avez-vous couché avec quelqu'un d'autre
+depuis que vous êtes marié ?
+
+252
+00:18:52,298 --> 00:18:54,300
+- Non.
+- Me serez-vous loyal ?
+
+253
+00:18:54,467 --> 00:18:57,095
+- Oui.
+- Avez-vous été licencié par E Corp ?
+
+254
+00:18:57,262 --> 00:19:00,473
+- J'ai démissionné.
+- Avez-vous peur d'être votre père ?
+
+255
+00:19:00,640 --> 00:19:01,933
+Quoi ?
+
+256
+00:19:02,392 --> 00:19:04,435
+- Détestez-vous votre père ?
+- Non.
+
+257
+00:19:04,602 --> 00:19:06,354
+- Me serez-vous loyal ?
+- Oui.
+
+258
+00:19:06,521 --> 00:19:09,107
+Avez-vous tué Sharon Knowles ?
+
+259
+00:19:09,274 --> 00:19:11,109
+- Ça suffit.
+- Avez-vous tué Sharon Knowles ?
+
+260
+00:19:11,276 --> 00:19:13,194
+- J'ai dit non.
+- Détestez-vous votre père ?
+
+261
+00:19:13,361 --> 00:19:14,487
+Aimez-vous votre femme ?
+
+262
+00:19:14,654 --> 00:19:15,989
+- Oui.
+- Avez-vous été licencié ?
+
+263
+00:19:16,155 --> 00:19:17,490
+Me serez-vous loyal ?
+
+264
+00:19:17,657 --> 00:19:19,158
+- Oui.
+- Regardez-moi.
+
+265
+00:19:19,325 --> 00:19:21,244
+Détestez-vous votre père ?
+
+266
+00:19:21,411 --> 00:19:23,705
+- Avez-vous peur d'être comme lui ?
+- Ça suffit.
+
+267
+00:19:23,872 --> 00:19:25,373
+- Avez-vous été licencié ?
+- Ça suffit.
+
+268
+00:19:25,540 --> 00:19:28,918
+Avez-vous tué Sharon Knowles ?
+Me serez-vous loyal ?
+
+269
+00:19:29,085 --> 00:19:30,461
+Oui.
+
+270
+00:19:31,546 --> 00:19:35,091
+Avez-vous couché avec quelqu'un d'autre
+depuis que vous êtes marié ?
+
+271
+00:19:37,510 --> 00:19:41,764
+Avez-vous couché avec quelqu'un d'autre
+depuis que vous êtes marié ?
+
+272
+00:19:46,185 --> 00:19:47,562
+Oui.
+
+273
+00:19:48,229 --> 00:19:50,106
+Avez-vous trompé votre femme ?
+
+274
+00:19:52,859 --> 00:19:54,277
+Détestez-vous votre père ?
+
+275
+00:20:01,159 --> 00:20:03,077
+Avez-vous été licencié par E Corp ?
+
+276
+00:20:08,583 --> 00:20:11,252
+Avez-vous peur d'être
+comme votre père ?
+
+277
+00:20:14,923 --> 00:20:16,299
+Oui.
+
+278
+00:20:16,466 --> 00:20:19,552
+Avez-vous tué Sharon Knowles ?
+
+279
+00:20:28,645 --> 00:20:30,188
+Oui.
+
+280
+00:20:31,606 --> 00:20:34,359
+Me serez-vous loyal ?
+
+281
+00:20:35,944 --> 00:20:37,654
+Non.
+
+282
+00:20:38,863 --> 00:20:40,573
+Je ne serai pas loyal.
+
+283
+00:21:08,184 --> 00:21:12,063
+Mais je resterai loyal à Elliot.
+
+284
+00:21:30,498 --> 00:21:33,251
+Vous devrez préparer
+l'étape deux ici
+
+285
+00:21:33,418 --> 00:21:37,046
+en attendant qu'on mette en place
+un QG permanent.
+
+286
+00:21:37,171 --> 00:21:40,967
+On vous fournira ce qu'il faut
+pour débuter la reconnaissance.
+
+287
+00:21:41,134 --> 00:21:42,885
+Vous recevrez un téléphone
+
+288
+00:21:43,052 --> 00:21:48,558
+et un ordinateur portable avec un VSAT
+  relié à l'un de nos satellites.
+
+289
+00:21:48,766 --> 00:21:50,935
+D'autres instructions seront données.
+
+290
+00:21:51,102 --> 00:21:54,605
+Le nom de l'opération
+est Brouette rouge.
+
+291
+00:21:56,733 --> 00:22:01,029
+Comme voulu par M. Alderson.
+
+292
+00:22:02,822 --> 00:22:05,783
+Vous n'avez toujours pas répondu.
+
+293
+00:22:05,950 --> 00:22:08,327
+Où est Elliot ?
+
+294
+00:22:10,038 --> 00:22:13,958
+Vous avez un appel en PCV d'un détenu
+  de la prison de Queensboro.
+
+295
+00:22:14,959 --> 00:22:17,253
+Cet appel sera enregistré et contrôlé.
+
+296
+00:22:18,087 --> 00:22:19,922
+Veuillez appuyer sur un pour accepter.
+
+297
+00:22:26,471 --> 00:22:27,805
+Allô ?
+
+298
+00:22:30,933 --> 00:22:32,769
+C'est bien vous ?
+
+299
+00:22:32,935 --> 00:22:34,479
+Qui est-ce ?
+
+300
+00:22:42,862 --> 00:22:46,115
+Death Likes It Hot de Gore Vidal.
+
+301
+00:22:46,282 --> 00:22:47,575
+Premier chapitre.
+
+302
+00:22:47,742 --> 00:22:50,495
+- La mort de Peaches Sandoe, naine...
+ - Elliot ?
+
+303
+00:22:50,661 --> 00:22:52,872
+... tuée des mains ou plutôt des pattes
+
+304
+00:22:53,039 --> 00:22:56,375
+d'un éléphant pris de folie
+  lors d'un spectacle de cirque
+
+305
+00:22:56,542 --> 00:22:58,377
+au Madison Square Garden
+
+306
+00:22:58,544 --> 00:23:00,630
+fut d'abord classé en accident.
+
+307
+00:23:18,439 --> 00:23:20,108
+On est frustré ?
+
+308
+00:23:20,775 --> 00:23:23,402
+C'était Elliot. Il était bizarre.
+
+309
+00:23:25,154 --> 00:23:27,740
+Rien d'inhabituel en somme.
+
+310
+00:23:35,581 --> 00:23:38,042
+On va aller dehors ensemble.
+
+311
+00:23:42,296 --> 00:23:44,298
+Il faut bien se placer.
+
+312
+00:23:44,465 --> 00:23:46,259
+On l'attrape bien.
+
+313
+00:23:46,425 --> 00:23:48,636
+On frappe bien le bois.
+
+314
+00:23:49,262 --> 00:23:51,389
+Je dois retourner travailler.
+
+315
+00:23:51,556 --> 00:23:54,517
+A force, on peut perdre la boule ici.
+
+316
+00:23:56,519 --> 00:23:58,354
+C'est la meilleure méthode
+pour se recentrer.
+
+317
+00:23:58,521 --> 00:24:00,481
+L'équilibre, c'est la clé.
+
+318
+00:24:01,649 --> 00:24:04,026
+Je vais te remontrer.
+
+319
+00:24:17,248 --> 00:24:19,333
+Je faisais ça quand j'étais enfant.
+
+320
+00:24:21,460 --> 00:24:22,628
+Pourquoi avoir arrêté ?
+
+321
+00:24:23,546 --> 00:24:25,089
+Je détestais ça.
+
+322
+00:24:31,095 --> 00:24:32,722
+Même meilleur.
+
+323
+00:24:39,061 --> 00:24:41,981
+Caméra bébé
+Assistance familiale
+
+324
+00:24:53,367 --> 00:24:54,368
+GÉNÉRATEUR
+
+325
+00:25:07,006 --> 00:25:09,425
+Voilà la femtocell.
+Le malware est installé.
+
+326
+00:25:09,592 --> 00:25:12,762
+Je te laisse le modifier
+et faire ce qu'il faut avec les antennes.
+
+327
+00:25:15,389 --> 00:25:18,267
+Cool. Je m'en occupe ce soir.
+
+328
+00:25:18,434 --> 00:25:19,936
+Ce soir ?
+
+329
+00:25:20,102 --> 00:25:21,729
+Maintenant.
+Les délais sont serrés.
+
+330
+00:25:21,896 --> 00:25:24,732
+On a des angoissés
+de la vie à la maison.
+
+331
+00:25:24,899 --> 00:25:28,152
+Former Angela pour le piratage
+a été une plaie.
+
+332
+00:25:31,030 --> 00:25:33,115
+Ça ne va pas ? Tu es bizarre.
+
+333
+00:25:34,075 --> 00:25:36,702
+Tu ne penses jamais à arrêter
+toutes ces conneries ?
+
+334
+00:25:36,869 --> 00:25:38,663
+Laisser tomber ?
+
+335
+00:25:39,413 --> 00:25:43,167
+On ne peut pas être un couple normal
+qui se plaint de la facture d'eau...
+
+336
+00:25:44,001 --> 00:25:47,880
+et cherche des bons plans
+pour un week-end à Budapest ?
+
+337
+00:25:48,464 --> 00:25:51,008
+Je n'aurais jamais dû
+te laisser me sauter.
+
+338
+00:25:52,009 --> 00:25:54,053
+Je plaisante, ducon.
+
+339
+00:25:55,930 --> 00:25:58,391
+On est en plein cœur de la tempête,
+
+340
+00:25:58,599 --> 00:26:01,227
+et ça ne se calmera pas de sitôt.
+
+341
+00:26:01,644 --> 00:26:03,271
+Mais ça ne durera pas.
+
+342
+00:26:03,688 --> 00:26:06,190
+Ensuite, on pourra penser à Budapest.
+
+343
+00:26:24,250 --> 00:26:25,960
+Elle est stressée...
+
+344
+00:26:27,336 --> 00:26:29,046
+il faut vite me la rendre.
+
+345
+00:26:29,213 --> 00:26:30,881
+Elle n'est qu'une mission.
+
+346
+00:26:31,882 --> 00:26:33,676
+Ç'a toujours été le cas.
+
+347
+00:26:33,843 --> 00:26:37,847
+Si ça foire,
+elle sera protégée, pas toi.
+
+348
+00:26:39,265 --> 00:26:41,392
+Pourquoi tu me dis ça ?
+
+349
+00:26:42,018 --> 00:26:44,103
+Arrête de t'inquiéter pour elle.
+
+350
+00:26:45,187 --> 00:26:46,731
+Crois-moi.
+
+351
+00:26:51,610 --> 00:26:53,154
+Salut.
+
+352
+00:27:00,119 --> 00:27:04,373
+Ça doit retourner en ville très vite.
+
+353
+00:27:08,627 --> 00:27:11,047
+Il y un code additionnel là-dedans.
+
+354
+00:27:13,716 --> 00:27:15,509
+Le malware Android.
+
+355
+00:27:15,676 --> 00:27:17,636
+Ça n'a rien à voir avec le plan.
+
+356
+00:27:21,474 --> 00:27:23,851
+Pourquoi je t'en parle ?
+
+357
+00:27:24,769 --> 00:27:26,937
+Je devrais faire ça avec Elliot.
+
+358
+00:27:27,104 --> 00:27:29,815
+Si on était ensemble,
+ce serait déjà fini.
+
+359
+00:27:29,982 --> 00:27:31,525
+Tu as terminé ?
+
+360
+00:28:12,608 --> 00:28:13,609
+CONSIDÉRATIONS ÉCOLOGIQUES
+
+361
+00:28:13,776 --> 00:28:15,653
+Caméra bébé
+Assistance familiale
+
+362
+00:28:21,700 --> 00:28:22,827
+L'histoire de Joanna Wellick
+vrai ou non ?
+
+363
+00:28:26,956 --> 00:28:28,624
+Joanna Wellick a-t-elle un amant ?
+
+364
+00:28:51,313 --> 00:28:53,065
+On tient le coup ?
+
+365
+00:28:56,944 --> 00:28:59,530
+Ça va peut-être
+te redonner le sourire.
+
+366
+00:28:59,905 --> 00:29:01,615
+Poisson suédois
+
+367
+00:29:01,782 --> 00:29:03,534
+Ça te rappellera la maison.
+
+368
+00:29:16,213 --> 00:29:20,551
+Je suppose que tu es au courant
+pour le divorce.
+
+369
+00:29:21,635 --> 00:29:24,972
+Il ne faut pas croire tout ce qu'on lit.
+
+370
+00:29:25,181 --> 00:29:28,017
+La presse à scandale dit des conneries.
+
+371
+00:29:28,976 --> 00:29:31,145
+Ils ont quasiment gâché
+la vie de Richard Gere.
+
+372
+00:29:31,312 --> 00:29:33,772
+Et c'est un bon acteur.
+ Primal Fear, pas vrai ?
+
+373
+00:29:43,324 --> 00:29:46,744
+Celui dont les testicules ont été écrasés
+ou dont l'urètre a été coupé
+
+374
+00:29:46,911 --> 00:29:49,288
+n'entrera pas
+dans le royaume de l'Eternel.
+
+375
+00:29:49,455 --> 00:29:51,790
+Deutéronome 23:1.
+
+376
+00:30:04,637 --> 00:30:07,431
+Merci pour les lunettes de soleil.
+
+377
+00:31:29,305 --> 00:31:31,557
+PRODUITS LOCAUX
+
+378
+00:32:28,656 --> 00:32:30,824
+Ne bougez pas.
+
+379
+00:32:30,991 --> 00:32:32,201
+Montrez-moi vos mains.
+
+380
+00:32:32,368 --> 00:32:34,995
+Mains en l'air. Tout de suite.
+
+381
+00:32:36,747 --> 00:32:39,291
+Je suis en train de le regarder.
+
+382
+00:32:39,458 --> 00:32:43,462
+Oui, monsieur.
+J'ai les coordonnées dans mon GPS.
+
+383
+00:32:43,629 --> 00:32:45,422
+J'arrive dans une heure.
+
+384
+00:32:49,134 --> 00:32:52,346
+Oui, monsieur, il est en fuite.
+On va l'enfermer.
+
+385
+00:32:55,140 --> 00:32:57,976
+Personne. J'arrive tout de suite.
+
+386
+00:32:58,811 --> 00:33:00,479
+M. Wellick, je vous informe
+
+387
+00:33:00,646 --> 00:33:04,692
+que je vous retiens pour fuite illégale
+en vue d'éviter des poursuites.
+
+388
+00:33:04,858 --> 00:33:08,862
+Vous serez remis au FBI
+qui vous poursuivra au niveau fédéral.
+
+389
+00:33:10,948 --> 00:33:12,658
+Je n'arrive pas à croire que ce soit vous.
+
+390
+00:33:13,534 --> 00:33:15,619
+J'ai suivi mon intuition.
+
+391
+00:33:16,870 --> 00:33:18,163
+Vous me comprenez ?
+
+392
+00:33:18,706 --> 00:33:21,542
+Je vais avoir une promotion
+grâce à vous. Vous le savez ?
+
+393
+00:33:22,835 --> 00:33:26,255
+Avant que le FBI ne vous embarque,
+je ferai un selfie avec vous.
+
+394
+00:33:26,922 --> 00:33:29,007
+Personne n'y croira.
+
+395
+00:34:06,253 --> 00:34:07,671
+Ça va ?
+
+396
+00:34:15,596 --> 00:34:16,597
+Enfin.
+
+397
+00:34:38,952 --> 00:34:41,705
+Vous n'avez pas envoyé la cavalerie ?
+
+398
+00:35:06,480 --> 00:35:09,107
+Vous et vos foutus casse-têtes.
+
+399
+00:35:09,274 --> 00:35:12,152
+J'aurais pu arriver plus tôt
+si vous m'aviez filé l'adresse.
+
+400
+00:35:12,653 --> 00:35:15,823
+J'ai résolu un problème mathématique
+pour le savoir.
+
+401
+00:35:15,989 --> 00:35:20,410
+Heureusement que je couvrais la zone,
+et que tout arrivait à moi.
+
+402
+00:35:20,577 --> 00:35:24,122
+Mais je n'avais pas prévu
+de buter un flic.
+
+403
+00:35:24,706 --> 00:35:27,167
+Et s'il avait contacté
+le Barney Fife du coin ?
+
+404
+00:35:27,334 --> 00:35:30,045
+Si vous aviez fait votre boulot...
+
+405
+00:35:30,212 --> 00:35:32,506
+Il faut comprendre mon point de vue.
+
+406
+00:35:32,673 --> 00:35:35,467
+On me met la pression au boulot,
+
+407
+00:35:35,634 --> 00:35:38,428
+et dans mon monde,
+cela conduit vite à être soupçonné.
+
+408
+00:35:38,637 --> 00:35:41,682
+Tout ça à cause
+de ce que vous avez fait.
+
+409
+00:35:41,849 --> 00:35:44,518
+J'ai évité une fusillade en Chine.
+
+410
+00:35:44,685 --> 00:35:46,645
+Ce n'est pas passé inaperçu.
+
+411
+00:35:46,812 --> 00:35:48,564
+Pourquoi il y a eu une fusillade ?
+
+412
+00:35:48,730 --> 00:35:51,525
+Qu'est-ce que j'en sais ?
+Parce que votre patron est taré.
+
+413
+00:35:51,692 --> 00:35:56,071
+Et depuis le piratage du FBI,
+on est dans la merde avec Berenstain.
+
+414
+00:35:56,238 --> 00:35:59,157
+Ça arrive.
+Ce n'était pas notre jour, c'est tout.
+
+415
+00:35:59,324 --> 00:36:00,576
+On a réglé le problème.
+
+416
+00:36:00,742 --> 00:36:02,202
+"On" ?
+
+417
+00:36:02,661 --> 00:36:04,538
+J'ai réglé le problème.
+
+418
+00:36:06,874 --> 00:36:09,126
+Oui, j'avais oublié.
+
+419
+00:36:09,293 --> 00:36:11,837
+Vous n'en avez rien à foutre de moi.
+
+420
+00:36:17,384 --> 00:36:19,720
+Faites en sorte que ça n'arrive plus.
+
+421
+00:36:22,514 --> 00:36:24,933
+Putain de taré.
+
+422
+00:36:38,780 --> 00:36:40,699
+Il ne faut pas faire attention.
+
+423
+00:36:41,158 --> 00:36:42,784
+C'est un petit serpent.
+
+424
+00:36:42,951 --> 00:36:46,830
+Le genre à nous égorger
+quand on lâche une caisse.
+
+425
+00:36:54,504 --> 00:36:55,923
+Bien.
+
+426
+00:36:56,798 --> 00:36:59,760
+Pourquoi tu t'es tiré sans prévenir ?
+
+427
+00:37:03,680 --> 00:37:07,768
+Nos histoires
+ne sont pas très différentes.
+
+428
+00:37:08,310 --> 00:37:11,855
+Je n'ai pas commis le crime du siècle.
+Je suis plus subtil.
+
+429
+00:37:12,022 --> 00:37:15,150
+Mais on est tous les deux mariés
+à notre boulot.
+
+430
+00:37:16,234 --> 00:37:20,656
+Que ce soit par tempérament
+ou par choix.
+
+431
+00:37:24,284 --> 00:37:25,911
+Ceci étant dit...
+
+432
+00:37:27,204 --> 00:37:31,375
+mes garçons étaient tout pour moi.
+
+433
+00:37:33,752 --> 00:37:35,712
+Mais j'ai merdé.
+
+434
+00:37:36,505 --> 00:37:38,924
+Je n'en ai pas pris conscience à temps.
+
+435
+00:37:39,091 --> 00:37:43,720
+Quand ma femme m'a quitté,
+elle les a pris.
+
+436
+00:37:46,390 --> 00:37:47,557
+Qu'est-il arrivé ?
+
+437
+00:37:47,724 --> 00:37:52,020
+J'étais perdu, comme toi en ce moment.
+
+438
+00:37:53,355 --> 00:37:56,149
+Après avoir coupé une tonne de bois,
+
+439
+00:37:56,316 --> 00:37:59,319
+j'ai compris que j'avais besoin d'eux.
+
+440
+00:38:00,278 --> 00:38:03,240
+Mais je savais qu'il fallait
+que je sois patient.
+
+441
+00:38:04,408 --> 00:38:06,660
+Quand le bon moment s'est présenté...
+
+442
+00:38:07,869 --> 00:38:12,499
+j'ai pu prouver à ma femme
+que je pouvais subvenir à leurs besoins,
+
+443
+00:38:12,666 --> 00:38:16,044
+que j'étais un bon père
+et un homme bien.
+
+444
+00:38:17,212 --> 00:38:23,427
+Quand je rentrerai chez moi ce soir,
+mes enfants accourront vers moi.
+
+445
+00:38:25,470 --> 00:38:29,975
+On va faire du popcorn
+et regarder Big Brother ensemble.
+
+446
+00:38:35,647 --> 00:38:37,357
+Quand tout sera terminé ici,
+
+447
+00:38:37,816 --> 00:38:40,944
+tu pourras arranger les choses.
+
+448
+00:38:41,111 --> 00:38:43,530
+Ta femme et ton fils accourront
+
+449
+00:38:43,697 --> 00:38:47,743
+vers toi pour t'accueillir
+après une longue journée de travail.
+
+450
+00:38:48,660 --> 00:38:52,289
+Ma femme doit à nouveau me voir
+comme un homme fort.
+
+451
+00:38:53,707 --> 00:38:56,835
+Elle doit savoir que je vais tout arranger.
+
+452
+00:38:59,087 --> 00:39:02,716
+Mais il faut remettre la mission
+sur les rails.
+
+453
+00:39:03,508 --> 00:39:06,553
+Ça n'arrivera pas
+tant qu'Elliot ne sera pas là.
+
+454
+00:39:09,765 --> 00:39:13,477
+Encore quelques semaines,
+et je te promets...
+
+455
+00:39:14,436 --> 00:39:15,896
+que tu le verras.
+
+456
+00:39:21,818 --> 00:39:23,612
+Parc automobile IRVING
+
+457
+00:39:36,083 --> 00:39:38,627
+- Pas de vente ?
+- Ils sont partis.
+
+458
+00:39:38,794 --> 00:39:40,378
+Qu'est-ce qui s'est passé ?
+
+459
+00:39:42,005 --> 00:39:43,340
+Je vais te le dire.
+
+460
+00:39:43,507 --> 00:39:45,258
+Tu n'as pas su te rapprocher d'eux.
+
+461
+00:39:46,009 --> 00:39:47,552
+Regarde mon thermos, par exemple.
+
+462
+00:39:47,719 --> 00:39:49,596
+Et ? Tu n'as même pas d'enfants.
+
+463
+00:39:49,763 --> 00:39:52,516
+Les gens veulent pouvoir
+se sentir proche.
+
+464
+00:39:53,475 --> 00:39:56,228
+Ça nous rend plus fiables.
+Trimballe-toi ça toute la journée,
+
+465
+00:39:56,394 --> 00:39:59,147
+et tu passes pour un neuneu
+qui est fier d'être père.
+
+466
+00:39:59,314 --> 00:40:01,775
+Ça facilite les ventes.
+
+467
+00:40:03,527 --> 00:40:05,529
+Je vais rester à l'intérieur ce soir.
+
+468
+00:40:05,695 --> 00:40:07,781
+La prochaine fois, conclus la vente.
+
+469
+00:40:38,311 --> 00:40:40,147
+Serviette de plage - A
+Roman
+
+470
+00:40:40,313 --> 00:40:41,523
+Chapitre 4 :
+Ça tourne mal
+
+471
+00:40:53,785 --> 00:40:55,245
+un homme qui travaille
+avec ses mains.
+
+472
+00:40:57,205 --> 00:40:59,541
+Ses mains viriles.
+
+473
+00:41:00,083 --> 00:41:02,002
+Alors, ça va ?
+
+474
+00:41:02,169 --> 00:41:06,715
+C'était cool. J'ai poignardé à mort
+des enfoirés de néo-nazis.
+
+475
+00:41:06,882 --> 00:41:11,136
+Non pas que j'aime tuer,
+je respecte la vie et tout.
+
+476
+00:41:11,344 --> 00:41:14,806
+Mais quand il s'agit
+de néo-nazis, putain,
+
+477
+00:41:14,973 --> 00:41:17,184
+sans déconner, c'était sympa.
+
+478
+00:41:22,522 --> 00:41:24,566
+Je parlais d'Alderson.
+
+479
+00:41:27,694 --> 00:41:29,404
+Il a eu ses papiers.
+
+480
+00:41:29,571 --> 00:41:31,573
+Il devrait bientôt sortir.
+
+481
+00:41:32,324 --> 00:41:35,827
+Il faudrait qu'il tire un coup en sortant.
+
+482
+00:41:35,994 --> 00:41:39,956
+Il a la chatte plus serrée
+que le trou de balle d'un chinchilla.
+
+483
+00:41:49,507 --> 00:41:51,384
+Fais tes valises.
+
+484
+00:41:52,469 --> 00:41:54,471
+Il est relâché.
+
+485
+00:42:58,952 --> 00:43:02,205
+C'est parfait. Il va adorer.
+
+486
+00:43:05,583 --> 00:43:09,587
+Je te rends ça pour ta sécurité.
+
+487
+00:43:11,006 --> 00:43:13,883
+Il était enrayé. Avec un pétard.
+
+488
+00:43:14,092 --> 00:43:16,928
+Le prochain coup t'aurait arraché la main.
+
+489
+00:43:17,095 --> 00:43:19,723
+Tu as de la chance, j'ai tout arrangé.
+
+490
+00:44:33,254 --> 00:44:35,131
+Voilà comment ça va se passer.
+
+491
+00:44:35,298 --> 00:44:36,591
+On a contacté Elliot.
+
+492
+00:44:36,800 --> 00:44:41,137
+On te donnera d'autres instructions
+  dès qu'il entrera en contact.
+
+493
+00:44:42,138 --> 00:44:46,684
+En attendant, tu restes ici,
+  c'est à côté du lieu de rendez-vous.
+
+494
+00:44:46,851 --> 00:44:48,895
+Tu donneras l'adresse à notre chauffeur.
+
+495
+00:44:49,062 --> 00:44:51,439
+Il ne saura pas où tu vas
+  tant que tu n'auras rien dit.
+
+496
+00:44:51,606 --> 00:44:54,442
+Si tu as faim,
+  appelle le service d'étage.
+
+497
+00:44:54,609 --> 00:44:57,612
+Reste éloigné des fenêtres.
+
+498
+00:44:57,779 --> 00:45:00,865
+Il ne faut pas prendre de risque
+maintenant que tu es en ville.
+
+499
+00:45:03,284 --> 00:45:04,285
+Attends.
+
+500
+00:45:04,452 --> 00:45:06,079
+Et mon costume ?
+
+501
+00:45:07,080 --> 00:45:11,126
+- Tyrell, on en a discuté...
+- Il me le faut. Ce n'est pas négociable.
+
+502
+00:45:12,252 --> 00:45:14,170
+Je dois être sur mon 31 pour lui.
+
+503
+00:45:16,047 --> 00:45:17,715
+Il est dans le placard.
+
+504
+00:45:22,679 --> 00:45:26,057
+Je te déconseille de le porter.
+
+505
+00:45:26,224 --> 00:45:28,560
+On n'est plus dans un trou perdu.
+
+506
+00:45:28,726 --> 00:45:32,647
+Si on t'attrape ici,
+on ne pourra rien faire.
+
+507
+00:46:23,490 --> 00:46:26,034
+M. Wellick, Elliot arrive bientôt.
+  En bas.
+
+508
+00:46:26,242 --> 00:46:27,952
+J'arrive.
+
+509
+00:46:41,674 --> 00:46:43,885
+- Elliot ?
+- Comment vous connaissez mon nom ?
+
+510
+00:46:44,052 --> 00:46:45,261
+Pas Elliot ?
+
+511
+00:46:48,223 --> 00:46:49,849
+Attendez.
+
+512
+00:47:01,861 --> 00:47:03,571
+Chambers et Church.
+
+513
+00:47:05,281 --> 00:47:07,575
+Il faut être prudent.
+
+514
+00:47:33,768 --> 00:47:36,521
+Ils disent que ça ira.
+
+515
+00:47:36,688 --> 00:47:38,106
+Asseyez-vous.
+
+516
+00:47:39,274 --> 00:47:41,401
+Quand il se réveillera,
+il ne faut pas lui parler.
+
+517
+00:47:41,568 --> 00:47:43,236
+Je vais m'en occuper.
+
+518
+00:47:43,403 --> 00:47:45,363
+Il devrait être à l'hôpital.
+
+519
+00:47:45,738 --> 00:47:49,450
+Les conditions sont loin d'être idéales.
+
+520
+00:47:49,617 --> 00:47:51,536
+Il est entre de bonnes mains.
+
+521
+00:47:51,703 --> 00:47:54,831
+Je ne comprends pas.
+
+522
+00:47:57,000 --> 00:48:02,046
+On devait former une équipe,
+mais il répétait que ce n'était pas réel.
+
+523
+00:48:02,213 --> 00:48:05,008
+Il disait qu'il ne me voyait pas
+alors que j'étais devant lui.
+
+524
+00:48:05,216 --> 00:48:06,884
+On était en train de parler.
+
+525
+00:48:07,510 --> 00:48:10,305
+Pourquoi il dirait
+que je n'existe pas ?
+
+526
+00:48:11,806 --> 00:48:13,224
+Je ne comprends pas.
+
+527
+00:48:13,391 --> 00:48:14,934
+Je ne comprends pas.
+
+528
+00:48:15,643 --> 00:48:18,563
+C'était comme
+s'il était quelqu'un d'autre.
+
+529
+00:48:19,355 --> 00:48:20,898
+Tyrell.
+
+530
+00:48:27,447 --> 00:48:30,992
+Je dois vous dire une chose
+au sujet d'Elliot.
+
+531
+00:48:31,743 --> 00:48:33,077
+Vous avez raison.
+
+532
+00:48:33,244 --> 00:48:36,664
+Il est parfois quelqu'un d'autre.
+
+533
+00:49:46,567 --> 00:49:48,569
+Traduction :
+ Jessica Mechouar
+

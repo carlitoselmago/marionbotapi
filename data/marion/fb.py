@@ -6,6 +6,8 @@ import codecs
 
 textos=[]
 
+gptmode=False
+
 blacklisted=["sent an attachment","http","@","+34","+33","0034","0033","Click for","roger de","lluria",".pdf",".doc"]
 
 for filename in sorted(glob.glob('fb/*.html')):
@@ -29,12 +31,13 @@ for filename in sorted(glob.glob('fb/*.html')):
             autor=autor.text.strip()
             texto=line.find('div',class_='_3-96 _2let').text.strip()
 
-            if autor=="Marion Balac":
-                newCom.append("")
-                newCom.append("MARION:")
-            else:
-                newCom.append("")
-                newCom.append("LOCUTOR:")
+            if gptmode:
+                if autor=="Marion Balac":
+                    newCom.append("")
+                    newCom.append("MARION:")
+                else:
+                    newCom.append("")
+                    newCom.append("LOCUTOR:")
 
 
             if len(texto)>0:

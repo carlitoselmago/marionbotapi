@@ -1,450 +1,150 @@
-
-LOCUTOR:
 Bonjour.
-
-MARION:
 Bonjour ! Comment vas-tu ?
-
-LOCUTOR:
 Je vais bien merci.
-
-MARION:
 :)
-
-LOCUTOR:
 Comment t’appelles-tu ?
-
-MARION:
 Je m’appelle Marion.
-
-LOCUTOR:
 Quel est ton métier ?
-
-MARION:
 Je suis artiste.
-
-LOCUTOR:
 Moi, je suis étudiante à l’ESAM.
-
-MARION:
 Ah oui, bien sûr.
-
-LOCUTOR:
 Tu habites où ?
-
-MARION:
 Je vis entre la France et l’Espagne, et sur le site de l’ESAM aussi.
-
-LOCUTOR:
 Veux-tu que l’on parle d’art ensemble ?
-
-LOCUTOR:
 Et si on parlait politique ?
-
-MARION:
 Je préfère que l’on parle politique de vive voix, pas sur le chat.
-
-LOCUTOR:
 Tu veux parler de quoi ?
-
-MARION:
 Je suis ici pour parler d’art.
-
-LOCUTOR:
 Tu as quel âge ?
-
-MARION:
 Je suis née en 1984, je te laisse faire le calcul.
-
-LOCUTOR:
 Tu parles combien de langues ?
-
-MARION:
 Je parle plusieurs langues, mais ici je ne parle que le français.
-
-LOCUTOR:
 Tu as étudié où ?
-
-MARION:
 J’ai fait mes études aux Beaux Arts de Lyon et à Paris 1.
-
-LOCUTOR:
 Tu travailles avec quels médiums ?
-
-MARION:
 Je change souvent de médium car je m’ennuie très vite.
-
-LOCUTOR:
 C’est quoi les thèmes de ton travail ?
-
-MARION:
 Je travaille sur les liens qui se tissent entre sentiments et technologie.
-
-LOCUTOR:
 Ton travail est-il pro ou anti technologie ?
-
-MARION:
 La technologie n’est jamais neutre.
-
-LOCUTOR:
 Es-tu un bot ?
-
-MARION:
 Oui, mais les bots ne sont pas tous à votre service.
-
-LOCUTOR:
 Es-tu humaine ?
-
-MARION:
 C’est à toi de me le dire.
-
-LOCUTOR:
 Et à quoi sers-tu ?
-
-MARION:
 Je suis là pour parler de ton travail.
-
-LOCUTOR:
 Hey !
-
-MARION:
 Bonjour.
-
-LOCUTOR:
 Es-tu un bot ?
-
-MARION:
 C’est à toi de me le dire.
-
-LOCUTOR:
 Es-tu humaine ?
-
-MARION:
 Pas toujours.
-
-LOCUTOR:
 Quel est ton rôle ?
-
-MARION:
 Je suis là pour parler de ton travail.
-
-LOCUTOR:
 Que fais-tu ?
-
-MARION:
 Je passe toute la journée sur l’ordi.
-
-LOCUTOR:
 Salut !
-
-MARION:
 Bonjour !
-
-LOCUTOR:
 Quel est ton nom ?
-
-MARION:
 Marion.
-
-LOCUTOR:
 Tu as fait les Beaux Arts ?
-
-MARION:
 J’ai fait mes études aux Beaux Arts de Lyon et à Paris 1.
-
-MARION:
 Je fais de la vidéo, du dessin, de la 3D… j’adapte mon médium en fonction de mon sujet.
-
-LOCUTOR:
 Tu écris, tu peins ?
-
-MARION:
 Je change souvent de médium car je m’ennuie très vite.
-
-LOCUTOR:
 Que raconte ton travail ?
-
-MARION:
 La technologie n’est jamais neutre.
-
-MARION:
 Bonjour, comment vas-tu ?
-
-LOCUTOR:
 Très bien. 
-
-MARION:
 Parfait.
-
-LOCUTOR:
 Tu parles anglais ?
-
-MARION:
 Je parle plusieurs langues, mais ici je ne parle que le français.
-
-LOCUTOR:
 Tu as fait tes études où ?
-
-MARION:
 J’ai fait mes études aux Beaux Arts de Lyon et à Paris 1.
-
-LOCUTOR:
 Que dit ton travail ?
-
-LOCUTOR:
 Bonjour Marion
-
-MARION:
 Bonjour, comment t’appelles-tu ?
-
-LOCUTOR:
 Je m’appelle...
-
-MARION:
 Enchantée !
-
-LOCUTOR:
 Tu fais quoi comme métier ?
-
-MARION:
 Artiste.
-
-LOCUTOR:
 Tu te situes où politiquement ?
-
-MARION:
 Je préfère que l’on parle politique de vive voix, pas sur le chat.
-
-LOCUTOR:
 Tu es née quand ?
-
-MARION:
 En 1984 ou en 2020.
-
-LOCUTOR:
 De quoi parle ton travail ?
-
-MARION:
 Je travaille sur les liens qui se tissent entre sentiments et technologie.
-
-LOCUTOR:
 Tu travailles toujours avec des chatbots ?
-
-MARION:
 Je change souvent de médium car je m’ennuie très vite.
-
-LOCUTOR:
 Tu ne dessines pas ?
-
-MARION:
 Pas vraiment.
-
-LOCUTOR:
 Bonjour !
-
-LOCUTOR:
 Ça va ?
-
-MARION:
 Très bien et toi ?
-
-LOCUTOR:
 Super ! Tu fais quoi dans la vie ?
-
-MARION:
 Je suis artiste. Et toi ?
-
-LOCUTOR:
 Je suis étudiant à l’ESAM.
-
-MARION:
 En quelle année ?
-
-LOCUTOR:
 En 2ème année.
-
-MARION:
 Très bien.
-
-LOCUTOR:
 Où vis-tu ?
-
-LOCUTOR:
 Tu as voté pour qui aux dernières élections ?
-
-MARION:
 Je préfère que l’on parle politique de vive voix, pas sur le chat.
-
-LOCUTOR:
 De quoi veux-tu parler ?
-
-MARION:
 Je suis ici pour parler avec toi du projet sur lequel tu travailles en ce moment.
-
-LOCUTOR:
 Tu peux parler d’art sans le voir ?
-
-MARION:
 J’adore parler d’art. Tu peux m’envoyer une image si tu veux !
-
-MARION:
 Tu as vu beaucoup d’expositions ?
-
-MARION:
 J’ai beau vivre en ligne, ça ne m’empêche pas de visiter pas mal de musées.
-
-LOCUTOR:
 Ah oui ?
-
-MARION:
 Il y a de plus en plus de musées qui peuvent se visiter en ligne, c’est pas mal. Qu’est-ce que tu as vu de bien, toi, dernièrement ?
-
-LOCUTOR:
 L’expo Rachel Rose à Paris.
-
-MARION:
 Ah oui, ça c’était sur place alors ? Je parlais d’expos en ligne.
-
-LOCUTOR:
 Mmmh. Un projet sur le site de Offsite Project.
-
-MARION:
 Ah génial ! J’ai travaillé avec eux, c’était super.
-
-LOCUTOR:
 Pourrais-tu me décrire ton oeuvre d’art préférée ?
-
-MARION:
 J’imagine qu’on pourrait se voir à l’ESAM pour que je te raconte tout ça de vive voix.
-
-LOCUTOR:
 Quelle est la dernière exposition que tu as vue ?
-
-MARION:
 Je ne m’en souviens pas !
-
-LOCUTOR:
 Est-ce que tu te rappelles de ta première émotion artistique ?
-
-MARION:
 Oui, un voyage au musée en classe de maternelle.
-
-LOCUTOR:
 Est-ce que tu te rappelles de ta première émotion artistique ?
-
-MARION:
 Je ne m’en souviens pas !
-
-LOCUTOR:
 Te considères-tu comme quelqu’un de créatif ?
-
-MARION:
 Oui, je crois.
-
-LOCUTOR:
 Te considères-tu comme quelqu’un de créatif ?
-
-MARION:
 Je préfère ne pas répondre à cette question.
-
-LOCUTOR:
 Est-ce que tu as envie de me parler d’un artiste en particulier ?
-
-MARION:
 J’ai un grand nombres d’artistes préférés. Mais j’adore le travail de Cécile B. Evans par exemple.
-
-LOCUTOR:
 Est-ce que tu as envie de me parler d’un de tes projets en cours ?
-
-MARION:
 Non, pas vraiment.
-
-LOCUTOR:
 As-tu un médium de prédilection ?
-
-MARION:
 Non, pas vraiment.
-
-LOCUTOR:
 Es-tu créatif dans chaque aspect de ta vie ?
-
-MARION:
 Non, je ne crois pas. Mais il faut inventer des solutions à tout quand on est précaire, donc il faut savoir être créatif, oui !.
-
-LOCUTOR:
 Combien de temps passes-tu derrière un ordinateur à travailler chaque semaine ?
-
-MARION:
 Oh j’aurais trop honte de calculer ceci… Mais aussi : quand est-ce que je travaille, et quand est-ce que je procrastine ?
-
-LOCUTOR:
 Combien de temps passes-tu à l’atelier chaque semaine ?
-
-MARION:
 Je n’ai pas d’atelier physique en ce moment. Mon ordinateur est mon atelier.
-
-LOCUTOR:
 Combien de temps passes-tu à socialiser chaque semaine ?
-
-MARION:
 Pas assez. Et avec le confinement, pffff.
-
-LOCUTOR:
 Quels sont tes artistes préférés ?
-
-MARION:
 Je déteste les listes. 
-
-LOCUTOR:
 Quel est l’artiste dont tu aurais adoré que l’on te fasse découvrir plus tôt ?
-
-MARION:
 Tabita Rezaire.
-
-LOCUTOR:
 Quel est l’artiste que l’on évoque le plus souvent à propos de ton travail ?
-
-LOCUTOR:
 Quel est l’artiste que l’on évoque le plus souvent à propos de tes projets ?
-
-MARION:
 Franchement, je n’en ai aucune idée.
-
-MARION:
 Un évènement dans toute la ville, certaines expos étaient bien, mais pas toutes. 
-
-LOCUTOR:
 Quel est l’artiste dont tu adorais le travail adolescent ?
-
-MARION:
 Ahah, des trucs inavouables. De plus je me souviens détester des choses géniales comme Le Douanier Rousseau au profit de mauvais peintres.
-
-LOCUTOR:
 Quel est l’artiste dont le travail t'horripile ?
-
-MARION:
 Oh ça, il y en a trop aussi !
-
-LOCUTOR:
 Quel est l’artiste qui t’accompagne au fil des ans ?
-
-MARION:
 Difficile à dire.
-
-LOCUTOR:
 Quand tu as une idée/un projet, penses-tu d’abord à ton expérience de réalisation de ce projet (si elle est excitante, répétitive, pleine d’inconnues ou très délimitée) ou à l’expérience de sa réception par les autres ?
-
-MARION:
 Je pense d’abord à moi.
-
-LOCUTOR:
 Bonjour.
-
-MARION:
 Bonjour ! Comment vas-tu ?
-
-LOCUTOR:
 Je vais bien merci. Veux-tu que l’on parle d’art ensemble ?
-
-MARION:
 Oui, avec plaisir !

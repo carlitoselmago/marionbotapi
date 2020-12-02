@@ -14,9 +14,11 @@ import numpy as np
 from tensorlayer.cost import cross_entropy_seq, cross_entropy_seq_with_mask
 from tqdm import tqdm
 from sklearn.utils import shuffle
+
 try:
     deployed=False
-    from data.twitter import data
+    #from data.twitter import data
+    from data.marion import data
 except:
     from app.botAIapi.marionbotapi.data.twitter import data
     deployed=True
@@ -44,7 +46,7 @@ def inference(seed, top_n):
     model_.eval()
     seed_id = [word2idx.get(w, unk_id) for w in seed.split(" ")]
     #print("seed_id",seed_id)
-    sentence_id = model_(inputs=[[seed_id]], seq_length=20, start_token=start_id, top_n = top_n)
+    sentence_id = model_(inputs=[[seed_id]], seq_length=decoder_seq_length, start_token=start_id, top_n = top_n)
     #print("sentence_id",sentence_id)
     #print("#####")
     #print("")
@@ -91,7 +93,7 @@ src_vocab_size = tgt_vocab_size = src_vocab_size + 2
 
 vocabulary_size = src_vocab_size
 
-num_epochs = 50
+num_epochs = 150
 
 
 
@@ -100,12 +102,22 @@ model_ = Seq2seq(
     decoder_seq_length = decoder_seq_length,
     cell_enc=tf.keras.layers.GRUCell,
     cell_dec=tf.keras.layers.GRUCell,
-    n_layer=3,
-    n_units=256,
+    #n_layer=3,
+    n_layer=6,
+    #n_units=256,
+    n_units=1000,
     embedding_layer=tl.layers.Embedding(vocabulary_size=vocabulary_size, embedding_size=emb_dim),
     )
 
+"""
+model = Seq2seqLuongAttention(
+    hidden_size = 6,
+    cell = tf.keras.layers.GRUCell,
+    embedding_layer=tl.layers.Embedding(vocabulary_size=vocabulary_size, embedding_size=emb_dim),
+    method='general',
 
+)
+"""
 # Uncomment below statements if you have already saved the model
 
 # load_weights = tl.files.load_npz(name='model.npz')

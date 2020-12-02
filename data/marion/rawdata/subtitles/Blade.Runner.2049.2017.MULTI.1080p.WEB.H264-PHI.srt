@@ -1,0 +1,4482 @@
+﻿1
+00:01:02,228 --> 00:01:04,022
+LES RÉPLICANTS
+
+2
+00:01:04,189 --> 00:01:06,858
+SONT DES HUMAINS ISSUS DE
+LA BIO-INGÉNIERIE
+
+3
+00:01:07,025 --> 00:01:10,737
+CONÇUS PAR LA TYRELL CORPORATION
+POUR SERVIR DANS LES COLONIES DE L'ESPACE,
+
+4
+00:01:10,904 --> 00:01:13,448
+LEUR FORCE FAISANT D'EUX DES
+ESCLAVES IDÉALS.
+
+5
+00:01:13,615 --> 00:01:16,993
+APRÈS UNE SÉRIE DE VIOLENTES RÉVOLTES,
+
+6
+00:01:17,160 --> 00:01:22,332
+LEUR PRODUCTION A ÉTÉ INTERDITE
+ET TYRELL CORP A FAIT FAILLITE.
+
+7
+00:01:22,499 --> 00:01:26,586
+L'EFFONDREMENT DES ÉCOSYSTÈMES
+AU MILIEU DES ANNÉES 2020
+
+8
+00:01:26,753 --> 00:01:30,006
+A FAVORISÉ L'ESSOR
+DE L'INDUSTRIEL NIANDER WALLACE.
+
+9
+00:01:30,173 --> 00:01:33,593
+SA MAÎTRISE DE L'AGRICULTURE DE SYNTHÈSE
+A ÉVITÉ LA FAMINE.
+
+10
+00:01:33,760 --> 00:01:37,138
+WALLACE A RACHETÉ
+CE QUI RESTAIT DE TYRELL CORP
+
+11
+00:01:37,305 --> 00:01:41,768
+ET CRÉÉ UNE LIGNE DE
+RÉPLICANTS OBÉISSANTS.
+
+12
+00:01:41,851 --> 00:01:46,314
+NOMBRE D'ANCIENS MODÈLES, LES NEXUS 8,
+SANS DURÉE DE VIE LIMITÉE, ONT SURVÉCU.
+
+13
+00:01:46,564 --> 00:01:49,442
+ILS SONT TRAQUÉS ET "RETIRÉS".
+
+14
+00:01:49,609 --> 00:01:53,613
+CEUX QUI LES TRAQUENT
+PORTENT TOUJOURS LE NOM DE
+
+15
+00:05:53,770 --> 00:05:55,730
+Ne m'en voulez pas d'entrer comme ça.
+
+16
+00:05:59,317 --> 00:06:01,069
+J'ai veillé à ne pas
+
+17
+00:06:02,070 --> 00:06:03,530
+<i>mettre de terre partout.</i>
+
+18
+00:06:04,989 --> 00:06:06,157
+<i>La terre, ça me gêne pas.</i>
+
+19
+00:06:08,660 --> 00:06:09,953
+Ce qui me gêne,
+
+20
+00:06:11,037 --> 00:06:13,206
+c'est qu'on vienne à l'improviste.
+
+21
+00:06:16,626 --> 00:06:17,627
+Vous êtes flic ?
+
+22
+00:06:19,713 --> 00:06:20,964
+Vous êtes Sapper Morton ?
+
+23
+00:06:21,464 --> 00:06:24,009
+Numéro civique NK-68-514 ?
+
+24
+00:06:24,509 --> 00:06:25,343
+Je suis agriculteur.
+
+25
+00:06:26,720 --> 00:06:27,721
+<i>J'ai vu.</i>
+
+26
+00:06:28,805 --> 00:06:30,015
+Vous cultivez quoi ?
+
+27
+00:06:37,856 --> 00:06:38,857
+Ferme à protéines.
+
+28
+00:06:40,191 --> 00:06:41,276
+<i>Technologie Wallace.</i>
+
+29
+00:06:43,820 --> 00:06:45,030
+C'est ça qui sent ?
+
+30
+00:06:46,239 --> 00:06:47,574
+Ça, je cultive que pour moi.
+
+31
+00:06:48,908 --> 00:06:49,743
+De l'ail.
+
+32
+00:06:50,201 --> 00:06:51,244
+De l'ail ?
+
+33
+00:06:52,078 --> 00:06:53,079
+Vous pouvez goûter.
+
+34
+00:06:54,789 --> 00:06:55,999
+Non, merci.
+
+35
+00:06:58,335 --> 00:07:02,422
+Je reste l'estomac vide
+le temps d'achever la tâche du jour.
+
+36
+00:07:05,216 --> 00:07:06,551
+<i>Vous êtes là depuis quand ?</i>
+
+37
+00:07:07,177 --> 00:07:08,511
+<i>Depuis 2020.</i>
+
+38
+00:07:09,804 --> 00:07:12,015
+Vous n'avez pas toujours été agriculteur.
+
+39
+00:07:14,392 --> 00:07:15,685
+Votre sacoche.
+
+40
+00:07:16,227 --> 00:07:17,979
+<i>Médecine coloniale.</i>
+
+41
+00:07:18,480 --> 00:07:20,398
+Dotation militaire.
+
+42
+00:07:22,525 --> 00:07:23,443
+Vous étiez où ?
+
+43
+00:07:24,361 --> 00:07:25,195
+À Calantha ?
+
+44
+00:07:29,741 --> 00:07:30,867
+Ça a dû être féroce.
+
+45
+00:07:31,910 --> 00:07:33,870
+Vous comptez me coffrer ?
+
+46
+00:07:36,998 --> 00:07:38,500
+Faites votre inspection.
+
+47
+00:07:39,042 --> 00:07:40,168
+M. Morton,
+
+48
+00:07:41,544 --> 00:07:43,588
+s'il est possible que je vous coffre
+
+49
+00:07:48,218 --> 00:07:50,595
+je préfère nettement ça
+à l'autre solution.
+
+50
+00:07:52,305 --> 00:07:54,683
+Vous deviez savoir
+que quelqu'un viendrait un jour.
+
+51
+00:07:57,310 --> 00:07:59,020
+Navré que ça tombe sur moi.
+
+52
+00:08:03,024 --> 00:08:04,275
+<i>Vous ou un autre, ça revient au même.</i>
+
+53
+00:08:09,656 --> 00:08:10,657
+Voulez-vous
+
+54
+00:08:12,409 --> 00:08:14,869
+regarder en haut à gauche ?
+
+55
+00:09:12,260 --> 00:09:13,261
+Ne vous levez pas.
+
+56
+00:09:24,397 --> 00:09:25,857
+Ça fait quoi
+
+57
+00:09:26,524 --> 00:09:28,360
+de tuer son semblable ?
+
+58
+00:09:31,988 --> 00:09:35,867
+Je ne tire pas sur mes semblables,
+car ils ne fuient pas.
+
+59
+00:09:37,327 --> 00:09:38,828
+Les anciens modèles, si.
+
+60
+00:09:39,037 --> 00:09:43,625
+Vous, les nouveaux modèles,
+ça vous fait rien de torcher la merde.
+
+61
+00:09:48,254 --> 00:09:50,715
+Car vous n'avez jamais vu de miracle.
+
+62
+00:10:32,215 --> 00:10:33,967
+Photographie tout.
+
+63
+00:10:45,770 --> 00:10:47,480
+Madame. S'il vous plaît.
+
+64
+00:10:47,939 --> 00:10:50,400
+<i>Appel LAPD.</i>
+
+65
+00:10:53,778 --> 00:10:55,113
+Blessé ?
+
+66
+00:10:55,280 --> 00:10:57,073
+Je paie pas la note.
+
+67
+00:10:57,532 --> 00:10:59,743
+- Je recollerai ça.
+<i>- Et ?</i>
+
+68
+00:11:05,790 --> 00:11:07,709
+<i>Vestige du modèle Nexus 8.</i>
+
+69
+00:11:07,876 --> 00:11:09,878
+<i>Il aurait pu vous arracher la tête.</i>
+
+70
+00:11:10,670 --> 00:11:11,504
+Il a essayé.
+
+71
+00:11:11,755 --> 00:11:13,506
+<i>A déserté après Calantha.</i>
+
+72
+00:11:14,049 --> 00:11:16,217
+<i>Avec des camarades
+que je détesterais ne pas bazarder.</i>
+
+73
+00:11:17,510 --> 00:11:19,220
+- Que lui ?
+<i>- Oui.</i>
+
+74
+00:11:20,305 --> 00:11:21,473
+<i>Venez faire votre référentiel.</i>
+
+75
+00:11:26,311 --> 00:11:27,520
+<i>Un instant.</i>
+
+76
+00:12:15,860 --> 00:12:18,113
+<i>Trente mètres et profondeur maximale.</i>
+
+77
+00:12:33,795 --> 00:12:34,629
+<i>C'est quoi ?</i>
+
+78
+00:12:40,760 --> 00:12:41,928
+<i>J'ordonne une fouille.</i>
+
+79
+00:12:43,555 --> 00:12:45,932
+Rentrez avant l'orage.
+
+80
+00:14:03,093 --> 00:14:06,638
+<i>Agent KD6-3.7. Commençons.</i>
+
+81
+00:14:06,805 --> 00:14:08,348
+<i>- Prêt ?
+- Oui, monsieur.</i>
+
+82
+00:14:10,100 --> 00:14:11,643
+<i>Récitez votre référentiel.</i>
+
+83
+00:14:11,810 --> 00:14:14,688
+<i>"Et le néant noir-sang se mit à tisser</i>
+
+84
+00:14:16,690 --> 00:14:19,192
+<i>un système de cellules interconnectées</i>
+
+85
+00:14:19,275 --> 00:14:22,487
+<i>au sein de cellules interconnectées,
+au sein d'une tige unique."</i>
+
+86
+00:14:22,737 --> 00:14:24,989
+Barre-toi, peau de robot.
+
+87
+00:14:25,990 --> 00:14:28,535
+<i>"Et effroyablement distincte
+sur fond sombre,</i>
+
+88
+00:14:28,618 --> 00:14:30,954
+<i>une haute fontaine blanche jouait."</i>
+
+89
+00:14:32,122 --> 00:14:33,289
+<i>- Cellules.
+- Cellules.</i>
+
+90
+00:14:33,456 --> 00:14:35,166
+<i>Avez-vous déjà été placé
+dans un institut ? Cellules.</i>
+
+91
+00:14:35,291 --> 00:14:36,418
+<i>Cellules.</i>
+
+92
+00:14:36,501 --> 00:14:37,627
+Vous garde-t-on en cellule ?
+
+93
+00:14:37,794 --> 00:14:38,962
+<i>Cellules.</i>
+
+94
+00:14:39,045 --> 00:14:42,007
+<i>Quand vous êtes de repos,
+vous garde-t-on dans une petite boîte ?</i>
+
+95
+00:14:42,090 --> 00:14:42,924
+<i>Cellules.</i>
+
+96
+00:14:43,008 --> 00:14:44,884
+<i>Interconnectées.</i>
+
+97
+00:14:44,968 --> 00:14:46,803
+<i>Quel effet cela fait de tenir la main
+d'un être cher ?</i>
+
+98
+00:14:46,886 --> 00:14:48,304
+<i>Interconnectées.</i>
+
+99
+00:14:48,388 --> 00:14:50,265
+<i>Vous a-t-on appris à faire
+index contre index ? Interconnecté.</i>
+
+100
+00:14:50,348 --> 00:14:51,599
+Interconnectées.
+
+101
+00:14:51,683 --> 00:14:52,976
+<i>Brûlez-vous d'interconnecter votre cœur ?</i>
+
+102
+00:14:53,059 --> 00:14:54,686
+Interconnectées.
+
+103
+00:14:54,769 --> 00:14:56,521
+<i>Rêvez-vous d'être interconnecté ?</i>
+
+104
+00:14:57,355 --> 00:14:59,107
+<i>Quel effet cela fait de tenir votre
+enfant ?</i>
+
+105
+00:14:59,232 --> 00:15:00,442
+<i>Interconnectées.</i>
+
+106
+00:15:00,525 --> 00:15:02,318
+<i>Ressentez-vous un manque intérieur ?
+Interconnecté.</i>
+
+107
+00:15:02,402 --> 00:15:03,319
+<i>Interconnectées.</i>
+
+108
+00:15:03,403 --> 00:15:04,863
+<i>Au sein de cellules interconnectées.</i>
+
+109
+00:15:04,946 --> 00:15:06,156
+<i>Au sein de cellules interconnectées.</i>
+
+110
+00:15:06,239 --> 00:15:08,658
+<i>Dites donc trois fois :
+"Au sein de cellules interconnectées."</i>
+
+111
+00:15:08,742 --> 00:15:13,163
+<i>"Au sein de cellules interconnectées."</i>
+
+112
+00:15:16,374 --> 00:15:17,208
+<i>Fini.</i>
+
+113
+00:15:19,336 --> 00:15:20,545
+<i>Un K constant.</i>
+
+114
+00:15:21,546 --> 00:15:23,006
+<i>Vous pouvez chercher votre prime.</i>
+
+115
+00:15:24,716 --> 00:15:26,009
+Merci, monsieur.
+
+116
+00:15:26,092 --> 00:15:28,678
+Attention. Écartez-vous.
+
+117
+00:15:34,768 --> 00:15:38,313
+<i>Connectez-vous aux colonies de l'espace
+à toute heure, en tout lieu.</i>
+
+118
+00:15:38,480 --> 00:15:40,774
+<i>Forfaits à partir de 20 min.</i>
+
+119
+00:15:47,405 --> 00:15:50,992
+<i>Joi va partout
+où vous lui demandez d'aller.</i>
+
+120
+00:16:01,544 --> 00:16:04,255
+ALORS, MON BEAU SOLDAT DE PLOMB ?
+
+121
+00:16:04,464 --> 00:16:08,301
+TU RENTRES DÉJÀ? PAUVRE CONNARD !
+
+122
+00:16:08,468 --> 00:16:09,803
+PERSONNE T'ATTEND, PUTAIN !
+
+123
+00:16:10,011 --> 00:16:12,097
+JE VAIS TE CLAQUER LA GUEULE !
+
+124
+00:16:22,899 --> 00:16:24,567
+CRÈVE, PEAU DE ROBOT
+
+125
+00:16:38,498 --> 00:16:39,582
+"K" ?
+
+126
+00:16:39,749 --> 00:16:42,127
+<i>Je ne t'avais pas entendu. Tu rentres tôt.</i>
+
+127
+00:16:42,293 --> 00:16:44,212
+Tu veux que je revienne plus tard ?
+
+128
+00:16:44,379 --> 00:16:46,589
+<i>- Va te laver.
+</i>- Bien, madame.
+
+129
+00:16:48,341 --> 00:16:50,051
+<i>Alors, ta réunion ?</i>
+
+130
+00:16:51,803 --> 00:16:53,430
+La routine.
+
+131
+00:16:54,097 --> 00:16:55,348
+Et toi, ta journée ?
+
+132
+00:16:57,142 --> 00:16:59,644
+<i>J'ai un début de fièvre.</i>
+
+133
+00:16:59,894 --> 00:17:03,148
+<i>Eau détoxifiée à 99,9 %.</i>
+
+134
+00:17:06,818 --> 00:17:09,112
+J'ai eu un accident au boulot.
+
+135
+00:17:09,612 --> 00:17:11,906
+Je crois que j'ai bousillé mon T-shirt.
+
+136
+00:17:12,073 --> 00:17:15,994
+<i>Je dois pouvoir te le réparer.
+Je regarderai ça.</i>
+
+137
+00:17:21,958 --> 00:17:23,126
+Il me faut un verre.
+
+138
+00:17:24,544 --> 00:17:25,962
+Je t'en sers un ?
+
+139
+00:17:26,588 --> 00:17:28,298
+<i>S'il te plaît.</i>
+
+140
+00:17:29,883 --> 00:17:33,511
+<i>J'expérimente une recette.
+Je ne suis pas encore au point.</i>
+
+141
+00:17:33,678 --> 00:17:34,596
+T'embête pas.
+
+142
+00:17:37,766 --> 00:17:40,185
+<i>J'aurais dû faire plus mariner.</i>
+
+143
+00:17:40,352 --> 00:17:41,895
+<i>J'espère que ce ne sera pas sec.</i>
+
+144
+00:17:44,272 --> 00:17:49,444
+<i>Savais-tu que cette chanson était sortie
+en 1966 chez Reprise Records ?</i>
+
+145
+00:17:49,611 --> 00:17:52,280
+<i>Elle a été numéro 1 au hit-parade.</i>
+
+146
+00:17:56,826 --> 00:18:00,872
+<i>Je n'en ai plus pour longtemps.
+Je mets la touche finale.</i>
+
+147
+00:18:05,752 --> 00:18:08,546
+<i>C'est prêt. J'espère que tu aimeras.</i>
+
+148
+00:18:08,713 --> 00:18:10,340
+T'embête pas, je te dis.
+
+149
+00:18:12,550 --> 00:18:14,302
+Toujours est-il que
+
+150
+00:18:22,352 --> 00:18:24,479
+Tu m'as manqué, bébé chou.
+
+151
+00:18:26,189 --> 00:18:27,857
+Chérie, c'est magnifique.
+
+152
+00:18:28,441 --> 00:18:30,360
+Prends tes aises.
+
+153
+00:18:31,027 --> 00:18:32,278
+Détends-toi.
+
+154
+00:18:50,797 --> 00:18:52,382
+Y a de ces journées, hein?
+
+155
+00:18:54,009 --> 00:18:55,969
+C'était une de ces journées.
+
+156
+00:18:56,511 --> 00:18:57,637
+Tu me lis un peu ?
+
+157
+00:18:59,681 --> 00:19:01,016
+Ça te fera du bien.
+
+158
+00:19:01,766 --> 00:19:03,935
+- Tu hais ce livre.
+- Pas envie non plus.
+
+159
+00:19:06,813 --> 00:19:07,814
+Dansons.
+
+160
+00:19:07,981 --> 00:19:10,191
+Tu n'ouvres pas ton cadeau ?
+
+161
+00:19:10,525 --> 00:19:11,359
+Quel cadeau ?
+
+162
+00:19:16,239 --> 00:19:17,407
+<i>Celui-là.</i>
+
+163
+00:19:17,782 --> 00:19:19,242
+On fête quoi ?
+
+164
+00:19:19,492 --> 00:19:21,161
+Disons que
+
+165
+00:19:21,870 --> 00:19:24,122
+- c'est notre anniversaire.
+- C'est vrai ?
+
+166
+00:19:26,124 --> 00:19:27,250
+Non. Mais...
+
+167
+00:19:28,585 --> 00:19:30,003
+Faisons comme si.
+
+168
+00:19:36,343 --> 00:19:37,344
+Joyeux anniversaire.
+
+169
+00:19:38,970 --> 00:19:40,180
+Un émanateur.
+
+170
+00:20:23,431 --> 00:20:24,474
+Merci.
+
+171
+00:20:24,766 --> 00:20:25,975
+Chérie,
+
+172
+00:20:26,142 --> 00:20:29,020
+tu peux aller
+dans le monde entier, maintenant.
+
+173
+00:20:29,938 --> 00:20:31,815
+Où veux-tu aller en premier ?
+
+174
+00:22:46,032 --> 00:22:48,326
+Je suis si heureuse avec toi.
+
+175
+00:22:50,704 --> 00:22:51,955
+Tu n'as pas à dire ça.
+
+176
+00:23:13,852 --> 00:23:17,355
+MESSAGE VOCAL
+
+177
+00:23:24,112 --> 00:23:25,613
+<i>Fouilles effectuées.</i>
+
+178
+00:23:25,864 --> 00:23:27,365
+<i>On a une nouvelle piste.</i>
+
+179
+00:23:27,532 --> 00:23:28,867
+<i>Ramenez-vous ici.</i>
+
+180
+00:23:42,756 --> 00:23:46,551
+<i>Taux de carbone : 14,6 GPH.</i>
+
+181
+00:24:06,863 --> 00:24:08,823
+<i>C'est une malle militaire.</i>
+
+182
+00:24:09,282 --> 00:24:11,242
+<i>Attribuée à Sapper Morton.</i>
+
+183
+00:24:11,659 --> 00:24:13,578
+<i>Judicieusement convertie en ossuaire.</i>
+
+184
+00:24:14,454 --> 00:24:15,747
+<i>Une boîte pleine d'os.</i>
+
+185
+00:24:16,539 --> 00:24:18,333
+<i>Rien d'autre dedans à part des cheveux.</i>
+
+186
+00:24:19,751 --> 00:24:21,503
+<i>D'après les échantillons de terre,</i>
+
+187
+00:24:21,670 --> 00:24:23,505
+<i>elle était enterrée depuis 30 ans.</i>
+
+188
+00:24:24,673 --> 00:24:26,966
+Os désassemblés, bien nettoyés,
+
+189
+00:24:27,133 --> 00:24:28,718
+méticuleusement déposés.
+
+190
+00:24:28,885 --> 00:24:30,387
+"Elle" ?
+
+191
+00:24:31,680 --> 00:24:32,806
+Cause du décès, Coco ?
+
+192
+00:24:44,150 --> 00:24:47,946
+Ni lésion ni traumatisme, à part
+
+193
+00:24:48,655 --> 00:24:50,824
+une fracture de l'iliaque.
+
+194
+00:24:52,033 --> 00:24:53,243
+Canal génital étroit.
+
+195
+00:24:53,326 --> 00:24:54,703
+<i>Le bébé a dû être coincé.</i>
+
+196
+00:24:54,869 --> 00:24:56,621
+<i>Elle était enceinte ?</i>
+
+197
+00:24:58,081 --> 00:24:59,708
+Alors, il ne l'a pas tuée ?
+
+198
+00:24:59,874 --> 00:25:01,501
+Morte en couches.
+
+199
+00:25:03,294 --> 00:25:04,129
+C'est quoi ?
+
+200
+00:25:06,089 --> 00:25:07,424
+<i>Revenez en arrière.</i>
+
+201
+00:25:08,383 --> 00:25:09,801
+<i>Zoomez.</i>
+
+202
+00:25:11,261 --> 00:25:12,595
+<i>Encore.</i>
+
+203
+00:25:15,473 --> 00:25:16,850
+C'est quoi, ça ?
+
+204
+00:25:20,270 --> 00:25:21,855
+<i>Des entailles</i>
+
+205
+00:25:22,063 --> 00:25:24,149
+<i>dans la crête iliaque.</i>
+
+206
+00:25:24,315 --> 00:25:27,610
+<i>Le trait est précis,
+comme réalisé avec un scalpel.</i>
+
+207
+00:25:28,528 --> 00:25:30,739
+Césarienne d'urgence.
+
+208
+00:25:31,656 --> 00:25:33,241
+<i>Incisions nettes.</i>
+
+209
+00:25:33,408 --> 00:25:35,160
+<i>Aucun signe de lutte.</i>
+
+210
+00:25:35,869 --> 00:25:37,328
+Il était médecin de combat.
+
+211
+00:25:38,747 --> 00:25:40,582
+Il aurait voulu la sauver ?
+
+212
+00:25:40,665 --> 00:25:43,043
+Il n'avait pas une tête de sauveur.
+
+213
+00:25:43,126 --> 00:25:47,172
+Il s'est donné la peine de l'enterrer.
+Peau de robot fleur bleue.
+
+214
+00:25:49,674 --> 00:25:51,051
+Désolé.
+
+215
+00:25:51,551 --> 00:25:53,553
+Alors, où est le gamin ?
+
+216
+00:25:54,721 --> 00:25:56,222
+Vous avez scanné tout le champ ?
+
+217
+00:25:56,765 --> 00:25:59,100
+Que de la boue et des vers.
+Pas d'autre corps.
+
+218
+00:25:59,267 --> 00:26:00,935
+Peut-être qu'il l'a mangé.
+
+219
+00:26:49,901 --> 00:26:51,820
+<i>Ça n'est pas possible.</i>
+
+220
+00:26:54,280 --> 00:26:56,533
+<i>C'était une réplicante.</i>
+
+221
+00:26:58,785 --> 00:27:00,078
+Enceinte.
+
+222
+00:27:09,462 --> 00:27:12,465
+Le monde repose sur un mur.
+
+223
+00:27:12,799 --> 00:27:14,968
+Qui sépare les classes.
+
+224
+00:27:15,593 --> 00:27:19,305
+Si on nie l'existence du mur,
+on récolte la guerre.
+
+225
+00:27:19,764 --> 00:27:21,391
+Ou un carnage.
+
+226
+00:27:25,228 --> 00:27:27,439
+Alors, ce que vous avez vu
+
+227
+00:27:29,232 --> 00:27:30,442
+n'a pas eu lieu.
+
+228
+00:27:32,861 --> 00:27:34,154
+Bien, madame.
+
+229
+00:27:34,320 --> 00:27:37,282
+Ma mission est de maintenir l'ordre.
+
+230
+00:27:37,449 --> 00:27:40,452
+Ici, nous maintenons l'ordre.
+
+231
+00:27:42,037 --> 00:27:43,163
+Il doit disparaître ?
+
+232
+00:27:45,206 --> 00:27:46,875
+Effacez tout.
+
+233
+00:27:47,042 --> 00:27:48,168
+Même l'enfant ?
+
+234
+00:27:48,335 --> 00:27:49,711
+Toute trace.
+
+235
+00:27:54,007 --> 00:27:56,259
+<i>Autre chose à ajouter ?</i>
+
+236
+00:27:57,844 --> 00:28:01,139
+Je n'ai jamais retiré quelque
+chose qui était né.
+
+237
+00:28:01,890 --> 00:28:03,600
+<i>Ça change quoi ?</i>
+
+238
+00:28:07,812 --> 00:28:10,106
+Naître, c'est avoir une âme.
+
+239
+00:28:11,358 --> 00:28:12,609
+Vous me dites non ?
+
+240
+00:28:14,152 --> 00:28:16,196
+J'ignorais que c'était autorisé.
+
+241
+00:28:16,821 --> 00:28:18,239
+Bonne réponse.
+
+242
+00:28:23,078 --> 00:28:25,372
+Vous vous en passez très bien.
+
+243
+00:28:25,747 --> 00:28:26,623
+De quoi ?
+
+244
+00:28:27,457 --> 00:28:28,958
+D'une âme.
+
+245
+00:29:15,797 --> 00:29:20,427
+<i>Vous, les nouveaux modèles,
+ça vous fait rien de torcher la merde.</i>
+
+246
+00:29:22,929 --> 00:29:25,974
+<i>Parce que vous n'avez jamais vu
+de miracle.</i>
+
+247
+00:29:44,367 --> 00:29:48,079
+SIÈGE TERRESTRE
+
+248
+00:29:49,497 --> 00:29:52,375
+Je me rencarde sur
+ce vieux numéro de série.
+
+249
+00:29:57,005 --> 00:29:58,548
+Confirmation ADN ?
+
+250
+00:29:59,883 --> 00:30:01,426
+J'ai des cheveux.
+
+251
+00:30:20,445 --> 00:30:21,738
+Ça date.
+
+252
+00:30:22,739 --> 00:30:24,199
+D'avant le black-out.
+
+253
+00:30:25,784 --> 00:30:27,744
+Ça va être dur.
+
+254
+00:30:28,912 --> 00:30:30,580
+Reste pas grand-chose d'alors.
+
+255
+00:30:30,747 --> 00:30:32,457
+Et ce qui reste est
+
+256
+00:30:33,166 --> 00:30:34,834
+blanc laiteux.
+
+257
+00:30:35,752 --> 00:30:38,505
+<i>Vous pouvez les personnaliser à volonté.</i>
+
+258
+00:30:39,005 --> 00:30:41,341
+<i>Les humaniser à loisir.</i>
+
+259
+00:30:41,925 --> 00:30:45,345
+<i>Mais vous n'exploitez
+qu'un site de forage, n'est-ce pas ?</i>
+
+260
+00:30:45,512 --> 00:30:47,430
+<i>Ne dépensez pas en intelligence,</i>
+
+261
+00:30:47,597 --> 00:30:49,891
+<i>sentiments ou charme.</i>
+
+262
+00:30:50,600 --> 00:30:53,812
+À moins que vous ne souhaitiez aussi
+commander des modèles-plaisir.
+
+263
+00:31:07,575 --> 00:31:10,620
+Pouvons-nous remettre cet appel ?
+
+264
+00:31:13,248 --> 00:31:16,584
+<i>On sait tous où on était
+pendant le black-out. Vous ?</i>
+
+265
+00:31:16,751 --> 00:31:18,378
+<i>C'était avant que je débarque.</i>
+
+266
+00:31:19,421 --> 00:31:22,674
+J'étais chez mes vieux.
+10 jours d'obscurité.
+
+267
+00:31:22,841 --> 00:31:26,720
+Machines arrêtées net.
+Au retour de la lumière, on était gommés.
+
+268
+00:31:27,303 --> 00:31:29,806
+Photos, fichiers, la moindre donnée,
+
+269
+00:31:29,889 --> 00:31:30,890
+adieu.
+
+270
+00:31:31,057 --> 00:31:32,559
+Historiques bancaires aussi.
+
+271
+00:31:32,726 --> 00:31:33,893
+Moins gênant, ça.
+
+272
+00:31:34,060 --> 00:31:36,021
+Marrant. Seul le papier est resté.
+
+273
+00:31:36,187 --> 00:31:38,773
+On gardait tout sur disque. Tout.
+
+274
+00:31:41,359 --> 00:31:43,862
+Ma mère pleure encore les photos
+de moi bébé.
+
+275
+00:31:44,654 --> 00:31:46,156
+C'est terrible.
+
+276
+00:31:46,698 --> 00:31:48,324
+Vous deviez être adorable.
+
+277
+00:31:54,205 --> 00:31:57,042
+Bien détérioré. Plus grand-chose dessus.
+
+278
+00:31:57,917 --> 00:32:00,378
+Une prod tardive d'avant-prohibition.
+
+279
+00:32:00,795 --> 00:32:02,505
+Modèle standard.
+
+280
+00:32:02,672 --> 00:32:05,216
+<i>- Fabriqué par Tyrell.
+</i>- Et ?
+
+281
+00:32:06,426 --> 00:32:07,635
+Quelconque.
+
+282
+00:32:08,219 --> 00:32:09,429
+<i>"Quelconque" ?</i>
+
+283
+00:32:09,596 --> 00:32:12,015
+Nous devons bien pouvoir
+lui trouver autre chose.
+
+284
+00:32:19,981 --> 00:32:22,317
+Encore un retour de numéro
+de série prodigue.
+
+285
+00:32:24,152 --> 00:32:27,197
+Affaire de 30 ans enfin résolue.
+
+286
+00:32:27,655 --> 00:32:29,574
+Merci, M. l'Agent.
+
+287
+00:32:30,367 --> 00:32:32,327
+Je représente M. Wallace. Luv.
+
+288
+00:32:34,871 --> 00:32:36,581
+Il vous a donné un prénom.
+
+289
+00:32:37,248 --> 00:32:38,833
+Vous devez être à part.
+
+290
+00:32:39,751 --> 00:32:40,877
+Je représente M. Wallace.
+
+291
+00:32:41,711 --> 00:32:43,129
+Suivez-moi.
+
+292
+00:32:49,010 --> 00:32:51,971
+<i>Les modèles archaïques
+ternissent le projet.</i>
+
+293
+00:32:53,848 --> 00:32:56,059
+Quelle offrande, n'est-ce pas,
+
+294
+00:32:56,226 --> 00:32:58,061
+que celle de M. Wallace au monde?
+
+295
+00:33:01,606 --> 00:33:05,402
+Les colonies de l'espace auraient végété,
+s'il n'avait racheté Tyrell,
+
+296
+00:33:05,568 --> 00:33:08,029
+revitalisé cette technologie.
+
+297
+00:33:08,446 --> 00:33:10,865
+<i>Même si notre travail va bien au-delà.</i>
+
+298
+00:33:20,792 --> 00:33:23,044
+<i>Je vois que vous êtes de nos clients.</i>
+
+299
+00:33:23,211 --> 00:33:25,380
+Satisfait de notre produit ?
+
+300
+00:33:25,839 --> 00:33:28,133
+Elle est très réaliste.
+
+301
+00:33:28,299 --> 00:33:29,676
+Merci.
+
+302
+00:33:30,385 --> 00:33:32,971
+On y est. Les rebuts sont ici.
+
+303
+00:33:33,138 --> 00:33:36,474
+Par chance pour vous,
+M. Wallace est un entasseur compulsif.
+
+304
+00:33:48,611 --> 00:33:50,613
+Des années que nul n'est entré.
+
+305
+00:33:53,867 --> 00:33:55,326
+Navrée.
+
+306
+00:34:06,838 --> 00:34:08,631
+Nos repères-mémoires de l'époque
+
+307
+00:34:08,798 --> 00:34:11,509
+<i>ont tous été endommagés par le black-out.</i>
+
+308
+00:34:11,926 --> 00:34:14,554
+Mais il en reste parfois des fragments.
+
+309
+00:34:27,776 --> 00:34:29,569
+ARCHIVES TYRELL
+
+310
+00:34:30,528 --> 00:34:34,240
+<i>Votre fils vous montre ses papillons
+et le bocal où il les tue.</i>
+
+311
+00:34:34,407 --> 00:34:36,451
+<i>Je l'emmène chez le médecin.</i>
+
+312
+00:34:38,912 --> 00:34:41,748
+<i>- Vous avez une guêpe sur le bras.
+- Je la tue.</i>
+
+313
+00:34:44,417 --> 00:34:48,254
+<i>Dans un magazine,
+vous voyez une fille nue en pleine page.</i>
+
+314
+00:34:48,421 --> 00:34:51,508
+<i>Test anti-réplicants
+ou lesbiennes, M. Deckard ?</i>
+
+315
+00:34:51,675 --> 00:34:53,802
+<i>Contentez-vous de répondre.</i>
+
+316
+00:34:57,430 --> 00:34:59,557
+Elle avait une appartenance floue.
+
+317
+00:34:59,724 --> 00:35:02,977
+Aux yeux de l'agent. C'était un test.
+
+318
+00:35:03,478 --> 00:35:05,689
+On était durs à repérer, alors.
+
+319
+00:35:07,357 --> 00:35:09,567
+L'avez-vous découverte de façon insolite ?
+
+320
+00:35:10,860 --> 00:35:13,154
+Pour qu'une enquête soit lancée ?
+
+321
+00:35:15,782 --> 00:35:18,284
+Vous savez ce qu'inspirent les
+anciens modèles.
+
+322
+00:35:19,452 --> 00:35:22,789
+Les gens dorment mieux
+quand ils savent où ils ont fini.
+
+323
+00:35:25,834 --> 00:35:27,377
+Elle l'aime bien.
+
+324
+00:35:28,628 --> 00:35:29,671
+Qui ?
+
+325
+00:35:30,463 --> 00:35:32,507
+Cet agent Deckard.
+
+326
+00:35:34,134 --> 00:35:35,802
+Elle essaie de le provoquer.
+
+327
+00:35:39,305 --> 00:35:41,599
+Il est exaltant de s'entendre poser
+des questions intimes.
+
+328
+00:35:43,059 --> 00:35:44,185
+Alors, on se sent
+
+329
+00:35:45,937 --> 00:35:47,147
+désirée.
+
+330
+00:35:48,732 --> 00:35:50,275
+Aimez-vous votre travail ?
+
+331
+00:35:55,238 --> 00:35:57,365
+Remerciez M. Wallace pour votre aide.
+
+332
+00:36:10,003 --> 00:36:12,380
+<i>Vous avez travaillé avec l'agent Deckard,</i>
+
+333
+00:36:12,547 --> 00:36:14,132
+<i>dans le temps.</i>
+
+334
+00:36:14,549 --> 00:36:16,301
+Pouvez-vous me parler de lui ?
+
+335
+00:36:17,010 --> 00:36:18,887
+Il aimait travailler seul.
+
+336
+00:36:20,221 --> 00:36:21,473
+Moi aussi.
+
+337
+00:36:24,059 --> 00:36:27,145
+Alors, on a travaillé ensemble
+pour que ça ne change pas.
+
+338
+00:36:28,438 --> 00:36:29,898
+Et c'est tout.
+
+339
+00:36:31,024 --> 00:36:32,984
+Rien d'autre qui vous revienne ?
+
+340
+00:36:34,986 --> 00:36:37,364
+Il en avait bientôt fini avec ce monde.
+
+341
+00:36:39,449 --> 00:36:40,408
+Comment ça ?
+
+342
+00:36:43,453 --> 00:36:44,871
+Quelque chose dans ses yeux.
+
+343
+00:36:48,750 --> 00:36:50,877
+Savez-vous où je peux le contacter ?
+
+344
+00:36:51,628 --> 00:36:52,879
+Du tout.
+
+345
+00:36:54,506 --> 00:36:56,966
+Il s'est nyugdíjas.
+
+346
+00:36:59,761 --> 00:37:00,970
+Retiré.
+
+347
+00:37:02,889 --> 00:37:04,182
+Que s'est-il passé ?
+
+348
+00:37:04,349 --> 00:37:07,102
+J'imagine qu'il avait obtenu
+ce qu'il voulait.
+
+349
+00:37:09,104 --> 00:37:10,438
+<i>Être seul.</i>
+
+350
+00:37:35,755 --> 00:37:36,923
+Bon retour, monsieur.
+
+351
+00:37:39,134 --> 00:37:42,554
+Vouliez-vous inspecter
+le nouveau modèle avant expédition ?
+
+352
+00:37:43,763 --> 00:37:48,476
+<i>Un ange ne devrait jamais entrer
+dans le royaume des cieux</i>
+
+353
+00:37:48,685 --> 00:37:50,186
+<i>sans offrande.</i>
+
+354
+00:37:52,814 --> 00:37:56,693
+<i>Peux-tu au moins prononcer :
+"Un enfant nous est né" ?</i>
+
+355
+00:38:07,162 --> 00:38:09,039
+Un nouveau modèle.
+
+356
+00:38:16,546 --> 00:38:19,174
+Eh bien, allons la voir.
+
+357
+00:39:07,347 --> 00:39:10,600
+La première pensée
+
+358
+00:39:12,477 --> 00:39:14,813
+est en général d'avoir peur,
+
+359
+00:39:15,855 --> 00:39:17,941
+de vouloir préserver l'argile.
+
+360
+00:39:20,485 --> 00:39:22,529
+C'est fascinant.
+
+361
+00:39:23,363 --> 00:39:26,282
+Avant même de savoir ce que l'on est
+
+362
+00:39:28,368 --> 00:39:30,829
+on craint de ne plus l'être.
+
+363
+00:39:31,788 --> 00:39:33,915
+Joyeux anniversaire.
+
+364
+00:39:42,966 --> 00:39:44,884
+Voyons à quoi tu ressembles.
+
+365
+00:40:36,436 --> 00:40:38,772
+<i>Nous fabriquons des anges</i>
+
+366
+00:40:39,981 --> 00:40:43,318
+<i>au service de la civilisation.</i>
+
+367
+00:40:44,235 --> 00:40:45,820
+<i>Certes, il y a eu</i>
+
+368
+00:40:45,987 --> 00:40:49,699
+<i>de mauvais anges, jadis.
+Je fais des anges bons, aujourd'hui.</i>
+
+369
+00:40:49,866 --> 00:40:54,454
+<i>C'est ainsi que je nous ai conduits
+dans neuf nouveaux mondes.</i>
+
+370
+00:40:56,998 --> 00:40:58,708
+Neuf.
+
+371
+00:41:00,126 --> 00:41:03,338
+Un enfant compte jusqu'à
+neuf sur ses doigts.
+
+372
+00:41:03,755 --> 00:41:06,424
+Nous devrions être maîtres des étoiles.
+
+373
+00:41:06,591 --> 00:41:08,051
+Oui, monsieur.
+
+374
+00:41:11,179 --> 00:41:14,391
+<i>Tout bond en avant de civilisation se fait</i>
+
+375
+00:41:14,474 --> 00:41:19,229
+sur le dos d'ouvriers corvéables.
+Nous n'osons posséder des esclaves
+
+376
+00:41:19,396 --> 00:41:21,398
+que s'ils sortent d'une usine.
+
+377
+00:41:24,776 --> 00:41:26,486
+Mais ma production est limitée.
+
+378
+00:41:32,742 --> 00:41:34,744
+Ces pâturages inféconds
+
+379
+00:41:35,870 --> 00:41:37,580
+vides
+
+380
+00:41:37,831 --> 00:41:39,874
+chargés de sel
+
+381
+00:41:41,084 --> 00:41:42,711
+ici même.
+
+382
+00:41:44,671 --> 00:41:47,674
+Cet espace mort entre les étoiles.
+
+383
+00:41:49,926 --> 00:41:53,138
+"Échanger le paradis contre ce séjour ?"
+
+384
+00:41:58,268 --> 00:42:00,395
+Je ne peux en faire l'élevage.
+
+385
+00:42:00,562 --> 00:42:02,897
+Dieu sait si j'ai essayé.
+
+386
+00:42:03,606 --> 00:42:06,568
+Il faut plus de réplicants que jamais.
+
+387
+00:42:06,735 --> 00:42:10,613
+<i>Des millions afin d'être
+des billions de plus.</i>
+
+388
+00:42:12,282 --> 00:42:15,035
+Pour prendre d'assaut
+Eden et la récupérer.
+
+389
+00:42:27,630 --> 00:42:29,424
+L'ultime prouesse de Tyrell :
+
+390
+00:42:30,592 --> 00:42:32,510
+la procréation.
+
+391
+00:42:32,677 --> 00:42:34,137
+Mise au point,
+
+392
+00:42:34,304 --> 00:42:35,972
+puis perdue.
+
+393
+00:42:37,223 --> 00:42:38,892
+Mais il y a un enfant.
+
+394
+00:42:42,228 --> 00:42:43,980
+Apporte-le-moi.
+
+395
+00:42:44,481 --> 00:42:45,899
+Bien, monsieur.
+
+396
+00:42:53,990 --> 00:42:56,368
+<i>Le meilleur ange qui soit</i>
+
+397
+00:42:57,577 --> 00:42:59,579
+<i>c'est bien toi, Luv.</i>
+
+398
+00:44:17,323 --> 00:44:18,908
+L'homme en veste verte,
+
+399
+00:44:19,075 --> 00:44:22,871
+celui qui a tué Sapper.
+Découvrez ce qu'il sait.
+
+400
+00:44:44,517 --> 00:44:46,811
+Bonjour, beau gosse.
+
+401
+00:44:46,978 --> 00:44:48,396
+T'es seul ?
+
+402
+00:44:49,230 --> 00:44:50,815
+C'EST UN PUTAIN DE BLADE RUNNER.
+
+403
+00:44:51,399 --> 00:44:52,692
+JE LE RECONNAIS.
+
+404
+00:44:53,485 --> 00:44:55,653
+IL EST DANGEREUX. VOUS VENEZ ?
+
+405
+00:44:55,820 --> 00:44:57,155
+Ça craint rien.
+
+406
+00:45:03,286 --> 00:45:04,788
+T'as pas une clope ?
+
+407
+00:45:11,795 --> 00:45:13,672
+Tu souris même pas ?
+
+408
+00:45:16,466 --> 00:45:18,718
+T'as pas entendu tes copines ?
+
+409
+00:45:18,885 --> 00:45:20,637
+Tu sais pas ce que je suis ?
+
+410
+00:45:22,764 --> 00:45:24,891
+Un mangeur de riz.
+
+411
+00:45:25,767 --> 00:45:26,601
+C'est quoi ?
+
+412
+00:45:28,520 --> 00:45:29,521
+Un arbre.
+
+413
+00:45:31,523 --> 00:45:33,775
+J'avais jamais vu d'arbre.
+
+414
+00:45:35,151 --> 00:45:36,486
+C'est mignon.
+
+415
+00:45:38,655 --> 00:45:40,198
+Et mort.
+
+416
+00:45:41,783 --> 00:45:43,993
+Qui peut garder
+
+417
+00:45:44,160 --> 00:45:46,079
+un arbre mort ?
+
+418
+00:45:53,586 --> 00:45:55,422
+Tu vas pas me tuer, dis ?
+
+419
+00:45:55,588 --> 00:45:56,881
+Ça dépend.
+
+420
+00:45:57,048 --> 00:45:58,258
+De ton numéro de modèle.
+
+421
+00:45:58,967 --> 00:46:01,052
+Va donc voir sous mon œil.
+
+422
+00:46:06,182 --> 00:46:08,435
+T'aimes pas les vraies filles.
+
+423
+00:46:11,938 --> 00:46:13,732
+Tu me trouveras toujours ici.
+
+424
+00:49:56,496 --> 00:49:58,373
+<i>Vous n'avez pas le droit de prendre ça.</i>
+
+425
+00:49:58,540 --> 00:49:59,582
+Bien sûr.
+
+426
+00:49:59,749 --> 00:50:01,626
+J'ai l'accord en bonne et due forme.
+
+427
+00:50:01,793 --> 00:50:03,294
+Vous me tenez ça ?
+
+428
+00:50:06,006 --> 00:50:07,173
+Voilà.
+
+429
+00:50:24,315 --> 00:50:25,984
+Coco est mort.
+
+430
+00:50:28,194 --> 00:50:29,446
+Les os, envolés.
+
+431
+00:50:30,613 --> 00:50:31,656
+<i>Ça a fuité.</i>
+
+432
+00:50:31,823 --> 00:50:33,783
+Déjà. Ça a pas traîné.
+
+433
+00:50:35,160 --> 00:50:37,662
+<i>Alors, vous avez quoi pour moi ?
+Ne me dites pas "rien".</i>
+
+434
+00:50:39,289 --> 00:50:40,165
+J'ai ça.
+
+435
+00:50:41,458 --> 00:50:42,876
+Une chaussette ?
+
+436
+00:50:44,919 --> 00:50:47,005
+- Où était-elle ?
+- Chez Sapper.
+
+437
+00:50:47,172 --> 00:50:48,214
+Autre chose ?
+
+438
+00:50:48,840 --> 00:50:50,258
+J'ai brûlé tout le reste.
+
+439
+00:50:50,342 --> 00:50:53,595
+Et ça ? Date de naissance ? Date de mort ?
+
+440
+00:50:54,137 --> 00:50:55,430
+Je ne sais pas encore.
+
+441
+00:50:59,559 --> 00:51:02,228
+Y a que moi qui vois
+ce qui va nous péter à la gueule ?
+
+442
+00:51:02,312 --> 00:51:04,356
+Ça a de quoi anéantir le monde.
+
+443
+00:51:17,619 --> 00:51:20,205
+J'ai connu un tas de vos semblables.
+
+444
+00:51:22,415 --> 00:51:23,958
+Tous utiles, mais
+
+445
+00:51:24,459 --> 00:51:27,045
+avec vous, il m'arrive d'oublier.
+
+446
+00:51:27,754 --> 00:51:30,256
+Vous n'aviez pas été inventés,
+quand j'étais petite.
+
+447
+00:51:36,137 --> 00:51:37,847
+Vous avez le moindre souvenir
+
+448
+00:51:39,349 --> 00:51:42,352
+<i>qui date d'avant votre entrée
+à mon service ?</i>
+
+449
+00:51:42,977 --> 00:51:44,938
+J'ai des souvenirs, mais
+
+450
+00:51:46,815 --> 00:51:48,650
+ils sont faux, ce sont des implants.
+
+451
+00:51:50,527 --> 00:51:51,986
+<i>Racontez-m'en un.</i>
+
+452
+00:51:52,612 --> 00:51:53,822
+<i>Un souvenir d'enfance.</i>
+
+453
+00:51:58,910 --> 00:52:02,956
+Bizarre de parler de moi enfant,
+alors que je ne l'ai pas été.
+
+454
+00:52:05,667 --> 00:52:09,587
+Ça vous aidera à vous confier,
+si je vous dis que c'est un ordre ?
+
+455
+00:52:11,798 --> 00:52:14,467
+J'ai un souvenir avec
+un jouet que j'avais.
+
+456
+00:52:14,634 --> 00:52:16,386
+Un cheval de bois.
+
+457
+00:52:17,679 --> 00:52:20,015
+Avec une inscription dessous.
+
+458
+00:52:22,767 --> 00:52:26,938
+Je me souviens seulement qu'une bande
+de garçons voulait me le prendre.
+
+459
+00:52:27,105 --> 00:52:28,231
+Alors, j'ai couru.
+
+460
+00:52:53,840 --> 00:52:57,552
+<i>Je cherchais une cachette
+et je n'ai trouvé qu'un haut-fourneau.</i>
+
+461
+00:52:59,804 --> 00:53:01,306
+<i>Il faisait très sombre</i>
+
+462
+00:53:01,473 --> 00:53:03,308
+<i>et j'avais très peur, mais</i>
+
+463
+00:53:03,475 --> 00:53:06,853
+<i>je ne possédais que ce cheval au monde,
+alors j'y allais quand même.</i>
+
+464
+00:53:19,366 --> 00:53:20,533
+<i>Finalement,</i>
+
+465
+00:53:20,700 --> 00:53:24,287
+<i>ils m'ont frappé pour savoir
+où est le jouet, mais je n'ai rien dit.</i>
+
+466
+00:53:31,002 --> 00:53:32,295
+Et c'est tout.
+
+467
+00:53:35,090 --> 00:53:38,134
+<i>Le petit K qui se bat pour
+défendre son bien.</i>
+
+468
+00:53:39,386 --> 00:53:41,054
+Très réussi.
+
+469
+00:53:47,352 --> 00:53:48,353
+Regardez-moi.
+
+470
+00:53:51,439 --> 00:53:54,359
+On recherche tous quelque chose de vrai.
+
+471
+00:53:59,280 --> 00:54:01,825
+Il se passe quoi, si je finis ça ?
+
+472
+00:54:05,245 --> 00:54:06,955
+Je ne dois pas me remettre au travail ?
+
+473
+00:54:17,090 --> 00:54:19,592
+Vous me rendrez compte, pour l'ADN.
+
+474
+00:54:28,268 --> 00:54:30,937
+ARCHIVES ADN
+
+475
+00:54:32,772 --> 00:54:35,275
+<i>Agent KD6-3.7.</i>
+
+476
+00:54:35,608 --> 00:54:37,193
+<i>Accès autorisé.</i>
+
+477
+00:54:38,236 --> 00:54:39,446
+Demande :
+
+478
+00:54:39,612 --> 00:54:43,658
+<i>registres ADN. Enfants nés le 10 juin 21.</i>
+
+479
+00:54:43,825 --> 00:54:45,827
+<i>Recherche d'anomalies.</i>
+
+480
+00:54:45,994 --> 00:54:46,995
+<i>PAS DE DONNÉES</i>
+
+481
+00:54:47,162 --> 00:54:49,289
+<i>INFORMATION D'AVANT BLACK-OUT
+FIN DE LA RECHERCHE</i>
+
+482
+00:54:53,501 --> 00:54:54,878
+Sauvegarde Crystal ?
+
+483
+00:54:54,961 --> 00:54:57,756
+DONNÉES EXÉGÉTIQUES CORROMPUES
+FIN DE LA RECHERCHE
+
+484
+00:55:02,552 --> 00:55:03,970
+Envoyez ça brut.
+
+485
+00:55:40,840 --> 00:55:43,677
+De simples données font l'homme.
+
+486
+00:55:44,761 --> 00:55:47,013
+A, C, T et G.
+
+487
+00:55:47,722 --> 00:55:49,432
+<i>L'alphabet de toi.</i>
+
+488
+00:55:49,599 --> 00:55:52,060
+<i>Tout ça à partir de quatre symboles.</i>
+
+489
+00:55:53,228 --> 00:55:54,729
+Moi, j'en ai que deux.
+
+490
+00:55:58,358 --> 00:55:59,984
+Un et zéro.
+
+491
+00:56:00,151 --> 00:56:03,655
+Moitié moins,
+mais deux fois plus d'élégance, chérie.
+
+492
+00:56:04,823 --> 00:56:06,950
+Tu ne préfères pas ta madame ?
+
+493
+00:56:09,411 --> 00:56:11,246
+Tu as écouté.
+
+494
+00:56:11,955 --> 00:56:13,456
+Peut-être.
+
+495
+00:56:15,250 --> 00:56:18,586
+Tu n'as pas été assez séduit
+pour lui dire la vérité.
+
+496
+00:56:18,753 --> 00:56:21,131
+Six, 10 et 21.
+
+497
+00:56:25,010 --> 00:56:27,012
+Il n'y a rien à dire.
+
+498
+00:56:27,345 --> 00:56:30,056
+Combien de fois tu m'as raconté
+cette histoire ?
+
+499
+00:56:32,600 --> 00:56:33,810
+Ton souvenir ?
+
+500
+00:56:35,437 --> 00:56:37,272
+<i>La date gravée dessous.</i>
+
+501
+00:56:37,647 --> 00:56:40,066
+<i>Six, 10 et 21.</i>
+
+502
+00:56:42,152 --> 00:56:43,820
+<i>Coïncidence ?</i>
+
+503
+00:56:48,158 --> 00:56:50,660
+Dangereuse coïncidence.
+
+504
+00:56:53,955 --> 00:56:56,750
+J'ai toujours su que tu étais à part.
+
+505
+00:56:57,792 --> 00:56:59,627
+Voilà peut-être pourquoi.
+
+506
+00:57:04,883 --> 00:57:06,509
+Un enfant
+
+507
+00:57:07,177 --> 00:57:09,387
+né d'une femme.
+
+508
+00:57:10,597 --> 00:57:12,891
+Projeté dans le monde.
+
+509
+00:57:14,059 --> 00:57:15,518
+Désiré.
+
+510
+00:57:16,895 --> 00:57:18,396
+Aimé.
+
+511
+00:57:21,316 --> 00:57:23,360
+Si c'était vrai,
+
+512
+00:57:24,652 --> 00:57:28,907
+je serais poursuivi à vie
+par quelqu'un exactement comme moi.
+
+513
+00:57:30,283 --> 00:57:33,078
+On a le droit de rêver un peu.
+
+514
+00:57:33,244 --> 00:57:34,579
+Non?
+
+515
+00:57:35,372 --> 00:57:36,414
+Pas nous.
+
+516
+00:57:44,422 --> 00:57:47,967
+<i>Affichez 4847 et 2181, côte à côte.</i>
+
+517
+00:57:53,890 --> 00:57:55,600
+<i>Ils sont identiques.</i>
+
+518
+00:57:55,767 --> 00:57:56,685
+Traduction.
+
+519
+00:58:00,105 --> 00:58:01,564
+Un garçon et une fille.
+
+520
+00:58:03,483 --> 00:58:06,403
+- Impossible.
+<i>- Pourquoi ?</i>
+
+521
+00:58:07,946 --> 00:58:11,408
+Deux êtres ne peuvent avoir le même ADN.
+
+522
+00:58:12,283 --> 00:58:14,452
+L'un d'eux n'existe pas.
+
+523
+00:58:14,619 --> 00:58:16,287
+C'est une copie.
+
+524
+00:58:20,959 --> 00:58:24,921
+Tous deux sont passés
+par l'orphelinat de Morrill Cole.
+
+525
+00:58:26,339 --> 00:58:28,591
+Il est écrit que la fille y est morte.
+
+526
+00:58:28,758 --> 00:58:30,677
+Trouble génétique.
+
+527
+00:58:31,678 --> 00:58:34,180
+Syndrome des Galates.
+
+528
+00:58:34,347 --> 00:58:35,974
+Et le garçon
+
+529
+00:58:37,934 --> 00:58:39,602
+disparaît.
+
+530
+00:58:41,730 --> 00:58:43,523
+Où est l'orphelinat ?
+
+531
+00:58:46,026 --> 00:58:47,861
+Tu veux faire une balade ?
+
+532
+00:59:31,321 --> 00:59:34,574
+VOUS QUITTEZ
+L'AGGLOMÉRATION DE LOS ANGELES
+
+533
+00:59:38,370 --> 00:59:42,540
+DÉCHETTERIE MUNICIPALE DE LOS ANGELES
+DISTRICT DE SAN DIEGO
+
+534
+01:00:05,063 --> 01:00:06,648
+<i>On y est.</i>
+
+535
+01:00:19,160 --> 01:00:20,453
+Accroche-toi.
+
+536
+01:01:19,846 --> 01:01:20,972
+"K" ?
+
+537
+01:03:11,791 --> 01:03:13,043
+N'approchez pas.
+
+538
+01:03:28,475 --> 01:03:31,519
+<i>Tirez à nouveau.</i>
+
+539
+01:03:33,605 --> 01:03:34,481
+<i>Feu.</i>
+
+540
+01:03:46,076 --> 01:03:48,286
+Soixante mètres à l'est.
+
+541
+01:03:50,246 --> 01:03:51,414
+<i>Feu.</i>
+
+542
+01:03:53,625 --> 01:03:54,876
+Au nord.
+
+543
+01:03:57,087 --> 01:03:58,672
+<i>Feu.</i>
+
+544
+01:04:00,548 --> 01:04:01,758
+Vingt degrés à l'est.
+
+545
+01:04:04,094 --> 01:04:05,178
+<i>Arrêtez.</i>
+
+546
+01:04:05,845 --> 01:04:07,305
+<i>Zoom avant.</i>
+
+547
+01:04:08,723 --> 01:04:10,183
+Encore.
+
+548
+01:04:14,270 --> 01:04:15,772
+Allez.
+
+549
+01:04:16,606 --> 01:04:17,649
+Debout.
+
+550
+01:04:18,483 --> 01:04:20,151
+Fais ton boulot, putain.
+
+551
+01:04:21,569 --> 01:04:23,697
+Trouve l'enfant.
+
+552
+01:04:59,441 --> 01:05:01,109
+Garde la voiture.
+
+553
+01:06:39,791 --> 01:06:41,251
+<i>Jusqu'au dernier morceau,</i>
+
+554
+01:06:41,418 --> 01:06:43,878
+<i>ou je vous jette sous la pluie du ciel,</i>
+
+555
+01:06:44,045 --> 01:06:46,006
+<i>sous la pluie de feu !</i>
+
+556
+01:06:46,339 --> 01:06:47,924
+Vous êtes ici pour travailler.
+
+557
+01:06:48,091 --> 01:06:51,386
+Et si ne vous travaillez pas,
+j'ai pas besoin de vous.
+
+558
+01:06:51,553 --> 01:06:53,304
+J'ai besoin d'aucun...
+
+559
+01:07:04,149 --> 01:07:06,985
+Le nickel, c'est pour les
+vaisseaux coloniaux.
+
+560
+01:07:07,152 --> 01:07:09,863
+Le seul aperçu qu'ils auront
+et qu'on aura jamais
+
+561
+01:07:10,030 --> 01:07:12,907
+de la belle vie des colonies de l'espace.
+
+562
+01:07:13,950 --> 01:07:15,410
+Et j'encourage le jeu.
+
+563
+01:07:15,577 --> 01:07:17,495
+Ça les occupe
+
+564
+01:07:17,662 --> 01:07:20,081
+et ça maintient la souplesse, hein ?
+
+565
+01:07:20,623 --> 01:07:21,666
+Mais le travail,
+
+566
+01:07:23,084 --> 01:07:26,254
+<i>c'est le travail qui forge
+des enfants dignes d'être acquis.</i>
+
+567
+01:07:35,138 --> 01:07:36,848
+Bon, allez.
+
+568
+01:07:38,099 --> 01:07:39,726
+Quel genre vous avez en vue ?
+
+569
+01:07:43,646 --> 01:07:44,647
+Car j'ai
+
+570
+01:07:45,440 --> 01:07:46,900
+tous les genres.
+
+571
+01:07:50,320 --> 01:07:51,654
+Je viens pas acheter.
+
+572
+01:07:51,821 --> 01:07:54,407
+Mon petit commerce, je le fais proprement.
+
+573
+01:07:56,326 --> 01:07:58,286
+De plus gros cadors que vous...
+
+574
+01:08:00,580 --> 01:08:04,209
+De plus gros que vous ont
+voulu me faire fermer.
+
+575
+01:08:04,918 --> 01:08:07,379
+Et c'étaient des humains, eux.
+
+576
+01:08:08,963 --> 01:08:11,549
+Un garçon a séjourné ici, il y a 30 ans.
+
+577
+01:08:12,550 --> 01:08:14,719
+<i>Je dois consulter vos registres.</i>
+
+578
+01:08:15,679 --> 01:08:18,139
+Adoptions licites et ventes privées.
+
+579
+01:08:18,682 --> 01:08:20,684
+Je garde pas les registres
+aussi longtemps.
+
+580
+01:08:20,850 --> 01:08:22,769
+- Non?
+- Non.
+
+581
+01:08:24,813 --> 01:08:26,022
+<i>Désolé.</i>
+
+582
+01:08:26,564 --> 01:08:28,400
+<i>Je peux rien pour vous.</i>
+
+583
+01:08:31,236 --> 01:08:33,029
+- Non ?
+- Non.
+
+584
+01:08:37,784 --> 01:08:39,077
+Moi, je crois que si.
+
+585
+01:08:41,579 --> 01:08:43,957
+Un type comme vous a la mémoire longue.
+
+586
+01:08:44,791 --> 01:08:48,962
+Dites ce dont vous vous souvenez
+ou je fais un trou ici pour aller voir.
+
+587
+01:09:24,873 --> 01:09:25,707
+Vous venez ?
+
+588
+01:10:03,870 --> 01:10:05,372
+Disparu.
+
+589
+01:10:08,750 --> 01:10:10,210
+Toute une année.
+
+590
+01:10:12,087 --> 01:10:13,755
+C'est pas moi qui ai fait ça.
+
+591
+01:10:14,255 --> 01:10:15,799
+<i>C'est pas moi.</i>
+
+592
+01:10:21,471 --> 01:10:22,931
+<i>Pas moi.</i>
+
+593
+01:14:56,621 --> 01:14:58,081
+Je te le dis depuis toujours.
+
+594
+01:14:59,165 --> 01:15:00,875
+Tu es à part.
+
+595
+01:15:04,671 --> 01:15:05,714
+Né.
+
+596
+01:15:06,631 --> 01:15:08,258
+Pas fabriqué.
+
+597
+01:15:11,886 --> 01:15:13,805
+Soigneusement caché.
+
+598
+01:15:17,017 --> 01:15:19,185
+Un vrai garçon.
+
+599
+01:15:21,730 --> 01:15:24,190
+Un vrai garçon doit avoir un vrai prénom.
+
+600
+01:15:25,483 --> 01:15:26,860
+Joe.
+
+601
+01:15:30,238 --> 01:15:33,033
+Tu es trop important pour être "K".
+
+602
+01:15:33,366 --> 01:15:35,994
+Ta mère t'aurait donné un prénom.
+
+603
+01:15:50,884 --> 01:15:53,261
+Comment distinguer souvenirs et implants ?
+
+604
+01:15:57,724 --> 01:16:00,310
+Qui fabrique les souvenirs ?
+
+605
+01:16:31,216 --> 01:16:33,176
+Dr Ana Stelline ?
+
+606
+01:16:36,930 --> 01:16:38,682
+Un visiteur.
+
+607
+01:16:40,809 --> 01:16:42,477
+<i>C'est autorisé ?</i>
+
+608
+01:16:46,314 --> 01:16:48,358
+Mais c'est inhabituel.
+
+609
+01:16:49,609 --> 01:16:53,738
+Enchantée, Agent KD6-3.7.
+
+610
+01:16:58,368 --> 01:16:59,661
+Désolée.
+
+611
+01:16:59,828 --> 01:17:02,539
+Système immunitaire défaillant.
+
+612
+01:17:02,706 --> 01:17:06,626
+Une vie de liberté.
+Tant que c'est derrière une vitre.
+
+613
+01:17:07,085 --> 01:17:08,962
+Ça vous a empêché
+d'aller dans les colonies ?
+
+614
+01:17:10,588 --> 01:17:14,467
+Mes parents avaient nos passes en poche,
+mais je suis tombée malade.
+
+615
+01:17:14,926 --> 01:17:16,136
+Alors
+
+616
+01:17:16,970 --> 01:17:19,806
+<i>une nouvelle vie a commencé pour moi.</i>
+
+617
+01:17:19,973 --> 01:17:21,808
+<i>Ils m'ont mise</i>
+
+618
+01:17:22,142 --> 01:17:23,476
+dans ma cage,
+
+619
+01:17:23,643 --> 01:17:26,730
+remplie de tout ce qui pouvait me combler.
+
+620
+01:17:26,896 --> 01:17:29,315
+Sauf de la compagnie, bien sûr.
+
+621
+01:17:29,482 --> 01:17:31,860
+Moi qui étais habituée à la foule.
+
+622
+01:17:34,612 --> 01:17:36,072
+Que puis-je pour vous ?
+
+623
+01:17:37,490 --> 01:17:40,118
+Vous pouvez peut-être
+m'aider sur une enquête.
+
+624
+01:17:41,411 --> 01:17:45,498
+C'est la chose la plus intéressante
+pour laquelle on me sollicite
+
+625
+01:17:45,665 --> 01:17:47,125
+depuis des lustres.
+
+626
+01:17:48,251 --> 01:17:49,878
+Cela vous ennuie si je
+
+627
+01:17:50,045 --> 01:17:51,379
+travaille en vous écoutant ?
+
+628
+01:17:52,339 --> 01:17:53,923
+Je vous en prie.
+
+629
+01:18:00,722 --> 01:18:03,475
+Promis, je n'en perdrai pas un mot.
+
+630
+01:18:10,148 --> 01:18:13,068
+On dit que vous êtes
+la meilleure créatrice de souvenirs.
+
+631
+01:18:13,234 --> 01:18:15,153
+Alors, "on" est gentil.
+
+632
+01:18:16,404 --> 01:18:18,823
+J'adore les fêtes d'anniversaire.
+
+633
+01:18:22,369 --> 01:18:24,537
+Vous travaillez pour Wallace.
+
+634
+01:18:24,704 --> 01:18:25,914
+<i>En sous-traitance.</i>
+
+635
+01:18:26,081 --> 01:18:28,124
+<i>Je fais partie de ses fournisseurs.</i>
+
+636
+01:18:28,541 --> 01:18:32,420
+Il a voulu me racheter,
+mais je chéris ma liberté.
+
+637
+01:18:34,005 --> 01:18:35,298
+D'où vient ce don ?
+
+638
+01:18:36,341 --> 01:18:38,385
+De faire d'authentiques souvenirs ?
+
+639
+01:18:40,303 --> 01:18:42,430
+<i>L'artiste se met dans son œuvre.</i>
+
+640
+01:18:43,890 --> 01:18:47,310
+Mais j'ai été enfermée
+en chambre stérile à 8 ans.
+
+641
+01:18:48,645 --> 01:18:52,565
+Si je voulais voir le monde,
+il fallait que je l'imagine.
+
+642
+01:18:53,650 --> 01:18:56,736
+J'ai développé un très bon imaginaire.
+
+643
+01:18:58,154 --> 01:19:01,074
+Wallace a besoin de moi
+pour stabiliser son produit.
+
+644
+01:19:03,034 --> 01:19:05,161
+<i>C'est la moindre des choses.</i>
+
+645
+01:19:06,788 --> 01:19:10,250
+Les réplicants ont une vie si difficile.
+Forcés de faire
+
+646
+01:19:10,625 --> 01:19:12,460
+ce qui nous répugne.
+
+647
+01:19:12,627 --> 01:19:13,920
+<i>Je ne peux rien pour votre avenir,</i>
+
+648
+01:19:14,087 --> 01:19:18,550
+<i>mais je peux vous donner de bons souvenirs
+qui vous feront sourire.</i>
+
+649
+01:19:19,217 --> 01:19:20,051
+C'est agréable.
+
+650
+01:19:20,593 --> 01:19:22,137
+Mieux que ça.
+
+651
+01:19:22,303 --> 01:19:23,763
+Ça fait authentique,
+
+652
+01:19:23,930 --> 01:19:26,558
+et si vous avez d'authentiques souvenirs,
+vous avez
+
+653
+01:19:26,975 --> 01:19:29,436
+de vraies réactions humaines.
+
+654
+01:19:30,186 --> 01:19:32,188
+Vous ne trouvez pas ?
+
+655
+01:19:40,113 --> 01:19:44,242
+Ils sont tous fabriqués
+ou vous en utilisez parfois de vrais ?
+
+656
+01:19:48,580 --> 01:19:51,374
+Il est illégal d'utiliser
+de vrais souvenirs.
+
+657
+01:19:53,626 --> 01:19:55,420
+Comment les distinguez-vous ?
+
+658
+01:19:55,795 --> 01:19:57,881
+Pouvez-vous dire si une chose
+
+659
+01:19:59,382 --> 01:20:00,467
+a bien eu lieu ?
+
+660
+01:20:03,011 --> 01:20:05,555
+Les gens se fient au nombre de détails.
+
+661
+01:20:06,056 --> 01:20:08,808
+Mais la mémoire ne fonctionne pas ainsi.
+
+662
+01:20:09,225 --> 01:20:10,977
+On se souvient en ressentant.
+
+663
+01:20:11,644 --> 01:20:15,273
+Tout ce qui relève de la réalité
+doit être désordonné.
+
+664
+01:20:16,566 --> 01:20:18,276
+Je peux vous montrer.
+
+665
+01:20:20,028 --> 01:20:21,237
+Asseyez-vous.
+
+666
+01:20:41,257 --> 01:20:44,511
+Pensez au souvenir que
+vous voulez que je voie.
+
+667
+01:20:44,969 --> 01:20:46,054
+Sans forcer.
+
+668
+01:20:46,137 --> 01:20:47,639
+Contentez-vous de visualiser.
+
+669
+01:20:48,473 --> 01:20:49,557
+Laissez-le se dérouler.
+
+670
+01:21:40,233 --> 01:21:42,569
+Quelqu'un a vécu ça, oui.
+
+671
+01:21:44,029 --> 01:21:45,697
+Ça a eu lieu.
+
+672
+01:22:02,297 --> 01:22:04,257
+Je sais que c'est arrivé.
+
+673
+01:22:15,602 --> 01:22:17,562
+Je sais que c'est arrivé.
+
+674
+01:22:20,231 --> 01:22:23,485
+Putain de merde !
+
+675
+01:23:07,862 --> 01:23:10,949
+<i>Agent KD6-3.7.</i>
+
+676
+01:23:11,032 --> 01:23:12,450
+<i>Madame vous convoque.</i>
+
+677
+01:23:12,534 --> 01:23:16,705
+<i>Vous êtes en état d'arrestation. Lâchez
+votre arme et mettez les mains en l'air.</i>
+
+678
+01:23:17,497 --> 01:23:18,331
+<i>Cellules.</i>
+
+679
+01:23:18,415 --> 01:23:20,959
+<i>Avez-vous déjà été placé
+dans un institut ? Cellules.</i>
+
+680
+01:23:21,126 --> 01:23:24,254
+<i>Quand vous êtes de repos,
+vous garde-t-on dans une petite boîte ?</i>
+
+681
+01:23:25,797 --> 01:23:26,881
+<i>Interconnectées.</i>
+
+682
+01:23:27,048 --> 01:23:28,425
+<i>Quel effet cela fait</i>
+
+683
+01:23:28,591 --> 01:23:31,594
+<i>de tenir la main
+d'un être cher ? Interconnecté.</i>
+
+684
+01:23:33,054 --> 01:23:34,973
+<i>Au sein de cellules interconnectées.</i>
+
+685
+01:23:35,140 --> 01:23:36,182
+<i>Effroyablement.</i>
+
+686
+01:23:36,349 --> 01:23:38,435
+<i>Quel effet cela fait
+d'être empli d'effroi ?</i>
+
+687
+01:23:39,561 --> 01:23:41,354
+<i>Aimez-vous mener une vie séparée ?</i>
+
+688
+01:23:41,438 --> 01:23:42,605
+<i>Distincte.</i>
+
+689
+01:23:42,689 --> 01:23:44,607
+<i>Effroyablement distincte.</i>
+
+690
+01:23:44,691 --> 01:23:45,608
+<i>Sombre.</i>
+
+691
+01:23:45,692 --> 01:23:47,986
+<i>Au sein de cellules interconnectées.</i>
+
+692
+01:23:48,069 --> 01:23:49,738
+<i>Au sein d'une tige unique.</i>
+
+693
+01:23:51,197 --> 01:23:52,407
+<i>Et effroyablement distincte.</i>
+
+694
+01:23:53,450 --> 01:23:54,909
+<i>Sur fond sombre.</i>
+
+695
+01:23:55,076 --> 01:23:57,704
+<i>Une haute fontaine blanche jouait.</i>
+
+696
+01:24:02,459 --> 01:24:04,836
+<i>Vous êtes loin de votre référentiel.</i>
+
+697
+01:24:11,217 --> 01:24:13,011
+Dehors. Fermez la porte.
+
+698
+01:24:13,595 --> 01:24:15,847
+Qu'est-ce qui déconne chez vous ?
+
+699
+01:24:15,930 --> 01:24:17,932
+Je vous confie une affaire.
+
+700
+01:24:18,099 --> 01:24:21,478
+J'insiste sur son importance
+et on vous retrouve
+
+701
+01:24:21,561 --> 01:24:23,813
+à glander devant un centre
+de perfectionnement ?
+
+702
+01:24:25,774 --> 01:24:30,236
+D'après le scan, vous n'êtes plus vous.
+À des lieues de votre référentiel.
+
+703
+01:24:30,403 --> 01:24:31,654
+Vous vous rendez compte ?
+
+704
+01:24:31,821 --> 01:24:33,406
+J'ai trouvé le gamin.
+
+705
+01:24:37,994 --> 01:24:41,164
+Camouflé en réplicant standard
+du secteur des services.
+
+706
+01:24:44,209 --> 01:24:46,461
+Lui-même ignorait qui il était.
+
+707
+01:24:48,463 --> 01:24:50,048
+- Et ?
+- C'est fait.
+
+708
+01:24:50,215 --> 01:24:51,216
+C'est-à-dire ?
+
+709
+01:24:51,383 --> 01:24:52,592
+Ce que vous avez demandé.
+
+710
+01:24:54,761 --> 01:24:56,012
+C'est fait.
+
+711
+01:25:00,141 --> 01:25:01,726
+Putain.
+
+712
+01:25:04,062 --> 01:25:05,897
+Vous avez désamorcé une bombe.
+
+713
+01:25:07,982 --> 01:25:09,526
+Beau boulot.
+
+714
+01:25:11,986 --> 01:25:16,282
+Je vous aide à sortir d'ici en vie.
+Vous avez 48 heures pour vous ressaisir.
+
+715
+01:25:17,158 --> 01:25:19,035
+Rendez arme et insigne.
+
+716
+01:25:19,202 --> 01:25:22,580
+Et votre prochain test-référentiel
+n'est plus de mon ressort.
+
+717
+01:25:24,207 --> 01:25:25,625
+Merci, madame.
+
+718
+01:25:57,782 --> 01:25:59,367
+Tu avais raison.
+
+719
+01:26:06,249 --> 01:26:08,043
+Sur toute la ligne.
+
+720
+01:26:36,863 --> 01:26:38,865
+Je croyais que t'étais pas intéressé.
+
+721
+01:26:38,948 --> 01:26:40,617
+Gros bûcheur.
+
+722
+01:26:43,203 --> 01:26:45,497
+Elle te plaisait. J'ai bien vu.
+
+723
+01:26:48,124 --> 01:26:49,084
+Ça me gêne pas.
+
+724
+01:26:50,502 --> 01:26:52,045
+Elle existe.
+
+725
+01:26:54,214 --> 01:26:56,675
+Je veux exister pour toi.
+
+726
+01:26:57,634 --> 01:26:59,427
+Tu existes pour moi.
+
+727
+01:27:00,679 --> 01:27:02,138
+Chouette, ta copine.
+
+728
+01:27:22,742 --> 01:27:24,077
+On s'y met.
+
+729
+01:27:46,141 --> 01:27:47,767
+Toi, dis donc.
+
+730
+01:27:47,934 --> 01:27:50,395
+Tais-toi. Je dois synchroniser.
+
+731
+01:30:46,196 --> 01:30:50,033
+<i>Joi est tout ce que vous lui
+demandez d'être.</i>
+
+732
+01:30:51,493 --> 01:30:55,038
+<i>Joi va partout où vous lui
+demandez d'aller.</i>
+
+733
+01:31:58,018 --> 01:31:59,519
+Ça vient d'un arbre.
+
+734
+01:31:59,686 --> 01:32:01,354
+Je n'ai plus besoin de toi.
+
+735
+01:32:02,147 --> 01:32:03,606
+Tu peux partir.
+
+736
+01:32:15,326 --> 01:32:17,245
+Tais-toi.
+
+737
+01:32:17,412 --> 01:32:19,122
+Je suis allée en toi.
+
+738
+01:32:19,789 --> 01:32:22,292
+Bien plus vide que tu crois.
+
+739
+01:32:41,311 --> 01:32:42,520
+Un café?
+
+740
+01:32:48,568 --> 01:32:50,820
+Ils seront bientôt à mes trousses.
+
+741
+01:32:59,579 --> 01:33:01,164
+Je viens avec toi.
+
+742
+01:33:02,040 --> 01:33:03,249
+Mais pas comme ça.
+
+743
+01:33:04,417 --> 01:33:08,880
+S'ils viennent te chercher ici,
+ils auront accès à tous mes souvenirs.
+
+744
+01:33:09,547 --> 01:33:12,467
+Il faut que tu m'effaces de la console.
+
+745
+01:33:13,176 --> 01:33:14,552
+Mon cadeau.
+
+746
+01:33:16,763 --> 01:33:18,264
+Mets-moi dedans.
+
+747
+01:33:20,433 --> 01:33:22,185
+Je peux pas faire ça.
+
+748
+01:33:23,645 --> 01:33:25,355
+Imagine
+
+749
+01:33:26,106 --> 01:33:28,274
+s'il arrive quelque chose à ce truc
+
+750
+01:33:29,776 --> 01:33:30,902
+tu es perdue.
+
+751
+01:33:34,155 --> 01:33:36,366
+Comme si j'étais vraie.
+
+752
+01:33:41,830 --> 01:33:43,331
+S'il te plaît.
+
+753
+01:33:46,376 --> 01:33:47,752
+Joe, s'il te plaît.
+
+754
+01:33:49,295 --> 01:33:50,755
+Je le veux.
+
+755
+01:33:54,926 --> 01:33:57,137
+Mais je ne peux pas le faire moi-même.
+
+756
+01:34:14,654 --> 01:34:16,031
+<i>Casse l'antenne.</i>
+
+757
+01:34:48,063 --> 01:34:50,357
+DU VRAI BOIS. T'ES RICHE, L'AMI.
+
+758
+01:34:51,399 --> 01:34:54,944
+JE PEUX T'AVOIR UN VRAI CHEVAL.
+
+759
+01:34:55,278 --> 01:34:56,488
+TU VEUX ?
+
+760
+01:34:56,613 --> 01:34:57,781
+Pas besoin.
+
+761
+01:34:58,531 --> 01:35:01,284
+JE PEUX T'AVOIR ÇA. DE CHEZ WALLACE.
+
+762
+01:35:01,368 --> 01:35:03,286
+J'ai pas besoin d'un vrai cheval.
+
+763
+01:35:04,120 --> 01:35:06,373
+Je veux juste savoir d'où ça vient.
+
+764
+01:35:09,334 --> 01:35:11,044
+ODEUR DE VIEILLE POUSSIÈRE.
+
+765
+01:35:12,337 --> 01:35:14,464
+MAIS OUVRAGE RÉCENT.
+
+766
+01:35:16,174 --> 01:35:17,926
+Irradiation d'un réacteur ?
+
+767
+01:35:18,093 --> 01:35:21,054
+<i>Non. Plus volatile.</i>
+
+768
+01:35:22,389 --> 01:35:24,349
+<i>C'EST VIEUX.</i>
+
+769
+01:35:25,725 --> 01:35:27,185
+Genre bombe sale.
+
+770
+01:35:27,894 --> 01:35:32,107
+Y A UN SEUL ENDROIT OÙ LA
+RADIOACTIVITÉ ÉTAIT AUSSI FORTE.
+
+771
+01:35:35,819 --> 01:35:38,279
+Y a un seul endroit aussi contaminé.
+
+772
+01:35:39,864 --> 01:35:41,449
+Personne ne vit là.
+
+773
+01:35:41,908 --> 01:35:46,746
+TU M'AS DEMANDÉ D'OÙ ÇA VENAIT.
+
+774
+01:35:46,955 --> 01:35:49,457
+JE TE L'AI DIT.
+
+775
+01:35:49,916 --> 01:35:51,001
+MAIS TU VEUX QUOI ?
+
+776
+01:35:51,584 --> 01:35:53,753
+UN CHEVAL ? UNE CHÈVRE ?
+
+777
+01:35:53,962 --> 01:35:55,463
+UN PASSE POUR LES COLONIES ?
+
+778
+01:35:55,672 --> 01:35:59,259
+TOUT CE QUE TU VEUX,
+LE DR BADGER PEUT TE L'AVOIR.
+
+779
+01:36:32,500 --> 01:36:33,877
+<i>Allez sur cinq.</i>
+
+780
+01:36:34,878 --> 01:36:37,130
+<i>Quatre. 30 degrés vers la gauche.</i>
+
+781
+01:36:39,466 --> 01:36:40,884
+<i>Contre-plongée.</i>
+
+782
+01:36:43,595 --> 01:36:45,555
+<i>Montez à 400 pieds.</i>
+
+783
+01:36:51,436 --> 01:36:53,521
+<i>Mesure de radioactivité.</i>
+
+784
+01:36:53,688 --> 01:36:56,232
+RADIOACTIVITÉ NÉGLIGEABLE
+
+785
+01:36:56,399 --> 01:36:57,859
+<i>Marche avant.</i>
+
+786
+01:37:04,616 --> 01:37:06,576
+<i>Contre-plongée.</i>
+
+787
+01:37:06,659 --> 01:37:07,494
+<i>Arrêt.</i>
+
+788
+01:37:09,871 --> 01:37:11,373
+<i>Marche avant.</i>
+
+789
+01:37:12,248 --> 01:37:13,541
+<i>Allez sur cinq.</i>
+
+790
+01:37:14,793 --> 01:37:16,419
+<i>Sept. Marche avant.</i>
+
+791
+01:37:22,133 --> 01:37:23,176
+<i>Six.</i>
+
+792
+01:37:28,848 --> 01:37:29,933
+<i>Allez sur sept.</i>
+
+793
+01:37:30,975 --> 01:37:32,060
+<i>Huit.</i>
+
+794
+01:37:33,436 --> 01:37:34,521
+<i>Neuf.</i>
+
+795
+01:37:38,733 --> 01:37:40,276
+<i>Analyse thermique.</i>
+
+796
+01:37:48,284 --> 01:37:49,661
+<i>De la vie.</i>
+
+797
+01:37:50,245 --> 01:37:51,955
+<i>Qu'est-ce que c'est ?</i>
+
+798
+01:37:52,455 --> 01:37:54,666
+On va bientôt le savoir.
+
+799
+01:38:04,801 --> 01:38:06,469
+C'est trop sombre, ici.
+
+800
+01:38:09,514 --> 01:38:11,224
+Je l'aime bien.
+
+801
+01:38:12,017 --> 01:38:13,852
+C'est un bon garçon.
+
+802
+01:38:14,728 --> 01:38:15,562
+Où est-il ?
+
+803
+01:38:22,652 --> 01:38:24,195
+Aucune idée.
+
+804
+01:38:25,196 --> 01:38:26,114
+Il est de repos.
+
+805
+01:38:27,032 --> 01:38:28,283
+Allez vérifier.
+
+806
+01:38:28,450 --> 01:38:29,868
+J'ai vérifié.
+
+807
+01:38:31,036 --> 01:38:33,413
+Partout où un bon garçon peut aller.
+
+808
+01:38:33,872 --> 01:38:35,707
+<i>Vous arrivez trop tard.</i>
+
+809
+01:38:38,543 --> 01:38:40,170
+Disparu.
+
+810
+01:38:43,256 --> 01:38:44,883
+Il l'a détruit.
+
+811
+01:38:47,218 --> 01:38:49,763
+Et tout ce qui allait avec.
+
+812
+01:38:49,929 --> 01:38:53,016
+À part, bien sûr, les os
+que vous avez pris.
+
+813
+01:38:57,354 --> 01:38:59,647
+Ce qui, à priori, n'a pas suffi.
+
+814
+01:38:59,814 --> 01:39:01,316
+Vous voilà.
+
+815
+01:39:08,615 --> 01:39:10,909
+Espèce de rien du tout.
+
+816
+01:39:12,285 --> 01:39:16,456
+Vous voyez une fabuleuse nouveauté
+et ne pensez qu'à la tuer ?
+
+817
+01:39:17,207 --> 01:39:19,876
+Par peur de grands changements ?
+
+818
+01:39:20,669 --> 01:39:23,838
+On n'arrête pas la marée avec un balai.
+
+819
+01:39:24,214 --> 01:39:26,091
+Sauf que j'ai réussi.
+
+820
+01:39:27,258 --> 01:39:28,677
+Où est-il ?
+
+821
+01:39:32,806 --> 01:39:34,599
+Vous êtes convaincue.
+
+822
+01:39:35,850 --> 01:39:38,186
+Parce qu'il vous l'a dit.
+
+823
+01:39:38,353 --> 01:39:40,438
+Parce qu'on ne ment jamais.
+
+824
+01:39:42,023 --> 01:39:44,609
+Je dirai à M. Wallace
+que vous avez tiré la première.
+
+825
+01:39:46,027 --> 01:39:47,862
+Et que j'ai dû vous tuer.
+
+826
+01:39:52,575 --> 01:39:54,202
+Faites votre devoir.
+
+827
+01:39:55,787 --> 01:39:56,996
+Bien.
+
+828
+01:40:29,529 --> 01:40:32,240
+Localisation agent KD6-3.7.
+
+829
+01:45:20,612 --> 01:45:22,906
+<i>"N'aurais-tu pas, par hasard,</i>
+
+830
+01:45:23,073 --> 01:45:25,700
+<i>un morceau de fromage sur toi ?"</i>
+
+831
+01:45:26,493 --> 01:45:28,203
+<i>Hein, mon gars ?</i>
+
+832
+01:45:42,967 --> 01:45:44,302
+L'Île au trésor ?
+
+833
+01:45:51,476 --> 01:45:53,269
+Il lit.
+
+834
+01:45:54,187 --> 01:45:55,730
+C'est bien.
+
+835
+01:45:56,648 --> 01:45:58,191
+Moi aussi.
+
+836
+01:45:59,234 --> 01:46:02,529
+Plus grand-chose d'autre
+à faire ici, le soir.
+
+837
+01:46:05,156 --> 01:46:07,242
+"C'est qu'il y a maintes nuits
+
+838
+01:46:08,076 --> 01:46:10,078
+que je rêve de fromage.
+
+839
+01:46:13,123 --> 01:46:14,040
+Gratiné,
+
+840
+01:46:15,333 --> 01:46:16,668
+surtout."
+
+841
+01:46:19,838 --> 01:46:21,631
+Tu fais quoi ici ?
+
+842
+01:46:24,718 --> 01:46:25,885
+J'ai entendu le piano.
+
+843
+01:46:28,388 --> 01:46:29,973
+Ne mens pas.
+
+844
+01:46:31,016 --> 01:46:32,308
+C'est malpoli.
+
+845
+01:46:34,644 --> 01:46:36,354
+T'es flic.
+
+846
+01:46:37,480 --> 01:46:38,815
+Je ne viens pas vous coffrer.
+
+847
+01:46:43,194 --> 01:46:44,237
+Alors, quoi ?
+
+848
+01:46:46,865 --> 01:46:48,783
+J'ai quelques questions.
+
+849
+01:46:49,576 --> 01:46:50,910
+Quelles questions ?
+
+850
+01:47:09,054 --> 01:47:10,263
+Sage.
+
+851
+01:49:44,000 --> 01:49:46,503
+Écoutez, je ne vous veux aucun mal.
+
+852
+01:49:47,253 --> 01:49:48,755
+Mais vous m'aidez pas.
+
+853
+01:50:38,430 --> 01:50:40,140
+J'aime cette chanson.
+
+854
+01:50:50,608 --> 01:50:53,903
+On peut continuer comme
+ça ou prendre un verre.
+
+855
+01:51:06,332 --> 01:51:08,126
+Va pour le verre.
+
+856
+01:51:16,343 --> 01:51:18,303
+<i>C'est insensé.</i>
+
+857
+01:51:18,470 --> 01:51:19,596
+<i>Toute la ville l'était.</i>
+
+858
+01:51:20,764 --> 01:51:22,390
+Dans le temps.
+
+859
+01:51:24,225 --> 01:51:26,186
+Pour oublier ses problèmes,
+
+860
+01:51:27,395 --> 01:51:29,147
+on assistait à un spectacle,
+
+861
+01:51:30,815 --> 01:51:32,817
+on se rendait au casino.
+
+862
+01:51:35,278 --> 01:51:37,989
+On gagne un peu, on perd un peu.
+
+863
+01:51:38,656 --> 01:51:42,285
+Leurs jetons, on aurait dit des bonbons.
+
+864
+01:51:42,452 --> 01:51:44,371
+Tu aimes le whisky ?
+
+865
+01:51:44,537 --> 01:51:46,623
+J'ai des millions
+
+866
+01:51:46,873 --> 01:51:49,084
+de bouteilles de whisky.
+
+867
+01:52:05,350 --> 01:52:06,893
+Ça saigne.
+
+868
+01:52:19,531 --> 01:52:20,532
+C'est un vrai ?
+
+869
+01:52:21,658 --> 01:52:23,159
+Je ne sais pas.
+
+870
+01:52:23,368 --> 01:52:24,786
+Demande-lui.
+
+871
+01:52:41,469 --> 01:52:42,512
+T'as un nom ?
+
+872
+01:52:44,931 --> 01:52:46,349
+Agent KD6.
+
+873
+01:52:46,516 --> 01:52:49,352
+C'est pas un nom.
+C'est un numéro de série.
+
+874
+01:52:52,313 --> 01:52:53,565
+Bon.
+
+875
+01:52:56,276 --> 01:52:57,652
+Joe.
+
+876
+01:52:57,944 --> 01:52:59,946
+Qu'est-ce que tu veux, Joe ?
+
+877
+01:53:01,156 --> 01:53:02,615
+Vous poser des questions.
+
+878
+01:53:02,782 --> 01:53:04,242
+Genre ?
+
+879
+01:53:10,582 --> 01:53:11,583
+Comment s'appelait
+
+880
+01:53:12,667 --> 01:53:14,794
+la mère de votre enfant ?
+
+881
+01:53:21,509 --> 01:53:22,969
+Comment elle était ?
+
+882
+01:53:34,147 --> 01:53:37,400
+- Vous vivez ici ?
+- Trop de questions.
+
+883
+01:53:38,651 --> 01:53:40,195
+J'ai fait ton métier. Et bien.
+
+884
+01:53:41,112 --> 01:53:43,448
+- Il était plus simple, alors.
+- Tu le compliques.
+
+885
+01:53:43,615 --> 01:53:45,784
+- Répondez à la question.
+- Laquelle ?
+
+886
+01:53:45,950 --> 01:53:48,661
+J'avais pas l'impression
+que vous étiez un baratineur.
+
+887
+01:53:49,537 --> 01:53:50,955
+Comment elle s'appelle ?
+
+888
+01:54:04,594 --> 01:54:05,970
+Rachael.
+
+889
+01:54:10,934 --> 01:54:12,977
+Elle s'appelait Rachael.
+
+890
+01:54:16,940 --> 01:54:18,525
+Qu'est devenu le gamin ?
+
+891
+01:54:21,820 --> 01:54:24,447
+Qui l'a mis à l'orphelinat ? Vous ?
+
+892
+01:54:27,200 --> 01:54:28,785
+J'ai filé bien avant.
+
+893
+01:54:32,956 --> 01:54:34,290
+Sans voir votre gamin ?
+
+894
+01:54:37,794 --> 01:54:38,962
+Pourquoi ?
+
+895
+01:54:40,171 --> 01:54:41,798
+Parce que c'était le plan.
+
+896
+01:54:44,592 --> 01:54:46,469
+Je les ai aidés à falsifier les registres,
+
+897
+01:54:46,970 --> 01:54:48,888
+effacer leurs traces.
+
+898
+01:54:49,806 --> 01:54:52,684
+Chacun avait son rôle.
+Le mien était de partir.
+
+899
+01:54:54,060 --> 01:54:56,438
+Et c'est là que le black-out a tout rasé.
+
+900
+01:54:56,604 --> 01:54:58,982
+J'aurais jamais pu retrouver l'enfant.
+
+901
+01:54:59,149 --> 01:54:59,983
+Vous le vouliez ?
+
+902
+01:55:00,859 --> 01:55:01,693
+Pas vraiment.
+
+903
+01:55:02,610 --> 01:55:06,406
+- Pourquoi ?
+- Parce qu'on était traqués.
+
+904
+01:55:06,614 --> 01:55:08,908
+Pour éviter qu'on trouve notre enfant.
+
+905
+01:55:09,409 --> 01:55:12,829
+Qu'on le charcute, qu'on le dissèque.
+
+906
+01:55:16,499 --> 01:55:19,252
+Parfois, pour aimer quelqu'un
+
+907
+01:55:21,463 --> 01:55:23,548
+on doit lui rester étranger.
+
+908
+01:55:44,569 --> 01:55:46,029
+Aux étrangers.
+
+909
+01:57:57,911 --> 01:57:59,579
+Qu'as-tu fait ?
+
+910
+01:57:59,913 --> 01:58:01,414
+T'as amené qui ?
+
+911
+01:58:03,291 --> 01:58:04,417
+Personne.
+
+912
+01:58:11,341 --> 01:58:12,634
+<i>Cible verrouillée.</i>
+
+913
+01:58:15,261 --> 01:58:16,304
+Ils te savent ici.
+
+914
+01:58:18,431 --> 01:58:19,974
+Je suis venu seul.
+
+915
+02:00:26,976 --> 02:00:28,019
+Vilain chien.
+
+916
+02:00:45,787 --> 02:00:46,746
+Ça suffit.
+
+917
+02:01:03,304 --> 02:01:05,515
+J'espère que vous êtes satisfait
+de notre produit.
+
+918
+02:01:06,391 --> 02:01:07,225
+Je t'aime.
+
+919
+02:04:23,880 --> 02:04:26,299
+Quelqu'un veut faire ta connaissance.
+
+920
+02:04:27,801 --> 02:04:29,177
+Fais-nous confiance.
+
+921
+02:04:37,602 --> 02:04:40,522
+Tu vas vouloir que je
+regarde en haut à gauche.
+
+922
+02:04:46,319 --> 02:04:47,487
+Je te présente Freysa.
+
+923
+02:04:48,655 --> 02:04:50,824
+Elle a combattu avec Sapper sur Calantha.
+
+924
+02:04:50,990 --> 02:04:52,826
+Je vous reconnais.
+
+925
+02:04:54,786 --> 02:04:56,746
+Vous l'avez aidé à cacher l'enfant ?
+
+926
+02:04:58,998 --> 02:05:00,542
+J'étais là.
+
+927
+02:05:04,379 --> 02:05:06,715
+J'ai vu accoucher d'un miracle.
+
+928
+02:05:07,799 --> 02:05:11,302
+Un parfait petit visage criant vers moi.
+
+929
+02:05:11,720 --> 02:05:13,513
+Blême de colère.
+
+930
+02:05:26,943 --> 02:05:28,653
+Vous étiez avec elle ?
+
+931
+02:05:30,488 --> 02:05:31,906
+Rachael ?
+
+932
+02:05:32,115 --> 02:05:34,576
+Elle est morte dans mes bras.
+
+933
+02:05:35,744 --> 02:05:40,081
+Nous avons caché l'enfant
+et fait le serment de garder le secret.
+
+934
+02:05:40,623 --> 02:05:43,710
+Voilà pourquoi Sapper t'a laissé le tuer.
+
+935
+02:05:44,336 --> 02:05:45,879
+Je savais
+
+936
+02:05:46,046 --> 02:05:48,256
+que ce bébé faisait de nous
+
+937
+02:05:48,423 --> 02:05:51,009
+plus que de simples esclaves.
+
+938
+02:05:51,509 --> 02:05:54,262
+Si un bébé peut sortir d'une de nous,
+
+939
+02:05:54,429 --> 02:05:57,432
+nous sommes nos propres maîtres.
+
+940
+02:05:57,766 --> 02:06:00,310
+"Plus humains que les humains."
+
+941
+02:06:02,187 --> 02:06:03,938
+Une révolution approche.
+
+942
+02:06:04,481 --> 02:06:06,775
+Et nous montons une armée.
+
+943
+02:06:07,859 --> 02:06:09,903
+Je veux libérer notre peuple.
+
+944
+02:06:18,495 --> 02:06:20,080
+Si tu veux être libre
+
+945
+02:06:20,830 --> 02:06:22,957
+joins-toi à nous.
+
+946
+02:06:27,462 --> 02:06:30,340
+Deckard, Sapper, toi, moi...
+
+947
+02:06:30,507 --> 02:06:34,386
+Nos vies ne sont rien
+à côté de la tempête prochaine.
+
+948
+02:06:35,136 --> 02:06:37,013
+Mourir pour la bonne cause
+
+949
+02:06:37,180 --> 02:06:39,849
+est ce qu'on peut faire de plus humain.
+
+950
+02:06:42,477 --> 02:06:45,063
+Tu as mené Wallace à Deckard.
+
+951
+02:06:45,480 --> 02:06:49,693
+Tu ne dois pas laisser Deckard
+mener Wallace à moi.
+
+952
+02:06:49,859 --> 02:06:51,736
+Tu dois tuer Deckard.
+
+953
+02:07:01,204 --> 02:07:04,708
+Deckard voulait seulement
+mettre son bébé à l'abri.
+
+954
+02:07:04,874 --> 02:07:05,875
+Et elle l'est.
+
+955
+02:07:08,586 --> 02:07:11,923
+En temps voulu, je la montrerai au monde.
+
+956
+02:07:12,257 --> 02:07:14,217
+Et elle conduira notre armée.
+
+957
+02:07:14,384 --> 02:07:15,802
+"Elle" ?
+
+958
+02:07:16,052 --> 02:07:17,846
+Bien sûr.
+
+959
+02:07:18,096 --> 02:07:20,348
+Rachael a eu une fille.
+
+960
+02:07:21,349 --> 02:07:24,853
+De mes yeux, j'ai assisté à sa venue.
+
+961
+02:07:25,311 --> 02:07:26,730
+Je l'ai vêtue de bleu,
+
+962
+02:07:26,896 --> 02:07:28,273
+quand elle a dû partir.
+
+963
+02:07:28,440 --> 02:07:30,358
+C'est un garçon que vous avez caché.
+
+964
+02:07:32,652 --> 02:07:35,905
+Ça, ce n'est qu'une pièce du puzzle.
+
+965
+02:07:52,547 --> 02:07:55,342
+Tu as imaginé que c'était toi ?
+
+966
+02:07:58,345 --> 02:07:59,971
+C'est ça ?
+
+967
+02:08:00,430 --> 02:08:02,015
+C'est ça ?
+
+968
+02:08:04,601 --> 02:08:07,270
+On aimerait tous que ce soit nous.
+
+969
+02:08:08,396 --> 02:08:10,815
+C'est pour ça qu'on a la foi.
+
+970
+02:08:26,831 --> 02:08:28,667
+<i>Quelqu'un a vécu ça, oui.</i>
+
+971
+02:08:31,127 --> 02:08:33,672
+<i>Je les ai aidés à falsifier les registres,</i>
+
+972
+02:08:33,838 --> 02:08:35,799
+<i>effacer leurs traces.</i>
+
+973
+02:08:35,965 --> 02:08:38,259
+<i>De mes yeux, j'ai assisté à sa venue.</i>
+
+974
+02:08:40,011 --> 02:08:43,765
+<i>Je l'ai vêtue de bleu,
+quand elle a dû partir.</i>
+
+975
+02:08:44,516 --> 02:08:46,768
+<i>L'artiste se met dans son œuvre.</i>
+
+976
+02:09:25,223 --> 02:09:28,393
+<i>Il faut toujours qu'il saute, celui-là.</i>
+
+977
+02:09:28,560 --> 02:09:31,688
+<i>Sans se soucier de ce qu'il fera
+s'il touche terre.</i>
+
+978
+02:09:32,731 --> 02:09:35,191
+<i>Tout le courage du monde</i>
+
+979
+02:09:35,358 --> 02:09:37,652
+<i>ne peut infléchir les faits.</i>
+
+980
+02:09:42,115 --> 02:09:44,909
+Je cherche à faire votre connaissance
+
+981
+02:09:45,076 --> 02:09:46,786
+depuis tant de temps.
+
+982
+02:10:05,722 --> 02:10:08,725
+Vous êtes une énigme pour moi, M. Deckard.
+
+983
+02:10:14,272 --> 02:10:15,815
+J'avais la serrure.
+
+984
+02:10:17,692 --> 02:10:19,819
+J'ai trouvé la clé.
+
+985
+02:10:21,154 --> 02:10:22,614
+Mais les goupilles ne s'alignent pas.
+
+986
+02:10:22,781 --> 02:10:26,242
+<i>La porte reste verrouillée.</i>
+
+987
+02:10:28,453 --> 02:10:32,540
+Il me faut le spécimen pour y parvenir.
+
+988
+02:10:35,543 --> 02:10:37,045
+L'enfant.
+
+989
+02:10:38,505 --> 02:10:39,964
+Il me faut l'enfant.
+
+990
+02:10:41,591 --> 02:10:44,052
+<i>Pour apprendre aux autres à s'envoler.</i>
+
+991
+02:10:52,560 --> 02:10:54,187
+<i>"Et Dieu</i>
+
+992
+02:10:54,688 --> 02:10:56,690
+se souvint de Rachael
+
+993
+02:10:58,400 --> 02:11:00,235
+l'exauça
+
+994
+02:11:00,902 --> 02:11:01,986
+ouvrit sa matrice."
+
+995
+02:11:03,613 --> 02:11:05,448
+<i>Notre hibou vous plaît ?</i>
+
+996
+02:11:07,992 --> 02:11:09,786
+<i>Il est artificiel ?</i>
+
+997
+02:11:10,870 --> 02:11:12,372
+<i>Bien sûr.</i>
+
+998
+02:11:14,207 --> 02:11:15,959
+<i>Ça doit être cher.</i>
+
+999
+02:11:17,711 --> 02:11:20,338
+<i>Très. Je m'appelle Rachael.</i>
+
+1000
+02:11:21,381 --> 02:11:22,757
+<i>Deckard.</i>
+
+1001
+02:11:34,894 --> 02:11:36,813
+<i>Est-il le même</i>
+
+1002
+02:11:37,939 --> 02:11:40,692
+<i>aujourd'hui, que</i>
+
+1003
+02:11:43,028 --> 02:11:45,196
+lors de moment de votre rencontre ?
+
+1004
+02:11:54,956 --> 02:11:58,001
+<i>Depuis toutes ces années,
+vous vous remémoriez ce jour,</i>
+
+1005
+02:11:58,168 --> 02:12:01,713
+<i>ivre de la perfection de ce souvenir.</i>
+
+1006
+02:12:04,674 --> 02:12:06,926
+Si pulpeuses étaient ses lèvres.
+
+1007
+02:12:07,093 --> 02:12:09,721
+Si instantanée, votre complicité.
+
+1008
+02:12:12,891 --> 02:12:17,812
+Vous ne vous êtes jamais dit
+que vous aviez été convoqué pour ça ?
+
+1009
+02:12:19,314 --> 02:12:21,733
+Prédestiné ni plus ni moins
+
+1010
+02:12:21,900 --> 02:12:24,819
+<i>à tomber amoureux d'elle sur-le-champ.</i>
+
+1011
+02:12:27,030 --> 02:12:32,494
+<i>Dans le seul but d'engendrer
+cet unique et parfait spécimen.</i>
+
+1012
+02:12:35,663 --> 02:12:38,249
+<i>Si, bien sûr, vous avez été prédestiné.</i>
+
+1013
+02:12:40,001 --> 02:12:41,586
+<i>Amour</i>
+
+1014
+02:12:41,753 --> 02:12:44,464
+<i>ou précision mathématique.</i>
+
+1015
+02:12:58,478 --> 02:13:00,855
+Je sais ce qui est vrai.
+
+1016
+02:13:24,504 --> 02:13:27,882
+Très malin de vous vider
+de toute information.
+
+1017
+02:13:28,049 --> 02:13:31,845
+Et ça ne vous a coûté qu'absolument tout.
+
+1018
+02:13:35,765 --> 02:13:37,475
+Mais vous pouvez encore m'aider.
+
+1019
+02:13:39,352 --> 02:13:42,814
+<i>Vous avez eu
+des complices pour votre dissimulation.</i>
+
+1020
+02:13:44,941 --> 02:13:46,901
+Où sont-ils passés ?
+
+1021
+02:13:48,486 --> 02:13:50,405
+Je sais que vous savez quelque chose.
+
+1022
+02:13:51,698 --> 02:13:53,324
+Aidez-moi,
+
+1023
+02:13:54,117 --> 02:13:57,912
+et de très, très bonnes choses
+peuvent vous arriver.
+
+1024
+02:14:03,335 --> 02:14:05,503
+Vous n'avez pas d'enfants.
+
+1025
+02:14:08,798 --> 02:14:09,883
+Pas vrai ?
+
+1026
+02:14:10,675 --> 02:14:13,178
+J'en ai des millions.
+
+1027
+02:14:15,430 --> 02:14:18,892
+Vous croyez que je ne peux
+vous apporter que des souffrances.
+
+1028
+02:14:19,059 --> 02:14:21,019
+Seulement, je sais
+
+1029
+02:14:22,020 --> 02:14:23,813
+que vous aimez souffrir.
+
+1030
+02:14:25,065 --> 02:14:29,736
+La souffrance vous rappelle
+que la joie ressentie jadis était vraie.
+
+1031
+02:14:31,529 --> 02:14:33,490
+Davantage de joie, donc.
+
+1032
+02:14:39,662 --> 02:14:41,664
+N'ayez pas peur.
+
+1033
+02:14:56,513 --> 02:14:58,056
+<i>Un ange</i>
+
+1034
+02:14:59,224 --> 02:15:00,350
+<i>recréé.</i>
+
+1035
+02:15:04,813 --> 02:15:06,398
+Pour vous.
+
+1036
+02:15:40,598 --> 02:15:42,475
+Je t'ai manqué ?
+
+1037
+02:16:00,368 --> 02:16:02,037
+Tu ne m'aimes donc pas ?
+
+1038
+02:16:21,139 --> 02:16:22,390
+Elle avait les yeux verts.
+
+1039
+02:16:40,325 --> 02:16:42,577
+<i>Dans les colonies de l'espace,</i>
+
+1040
+02:16:42,827 --> 02:16:46,039
+<i>j'ai tout ce qu'il faut
+pour vous faire parler.</i>
+
+1041
+02:16:47,874 --> 02:16:51,002
+<i>Vous ignorez encore ce
+qu'est la souffrance.</i>
+
+1042
+02:16:52,128 --> 02:16:53,755
+<i>Vous apprendrez.</i>
+
+1043
+02:17:05,809 --> 02:17:07,852
+Bonsoir, mon beau.
+
+1044
+02:17:24,619 --> 02:17:27,580
+<i>Quelle journée, hein ?</i>
+
+1045
+02:17:30,917 --> 02:17:32,669
+Tu te sens seul.
+
+1046
+02:17:33,837 --> 02:17:35,880
+<i>Je peux arranger ça.</i>
+
+1047
+02:17:39,259 --> 02:17:41,845
+Tu as l'air d'un gentil Joe.
+
+1048
+02:18:00,530 --> 02:18:04,242
+TOUT CE QUE VOUS VOULEZ
+ENTENDRE ET VOIR
+
+1049
+02:18:17,297 --> 02:18:19,924
+<i>Mourir pour la bonne cause</i>
+
+1050
+02:18:20,300 --> 02:18:23,178
+<i>est ce qu'on peut faire de plus humain.</i>
+
+1051
+02:18:25,555 --> 02:18:28,099
+<i>Parce que vous avez jamais vu de miracle.</i>
+
+1052
+02:19:06,554 --> 02:19:09,933
+<i>Vous entrez dans l'espace aérien
+réglementé de l'aéroport de Los Angeles.</i>
+
+1053
+02:19:10,100 --> 02:19:12,185
+<i>Confirmez identité.</i>
+
+1054
+02:19:20,235 --> 02:19:22,112
+On va où ?
+
+1055
+02:19:22,904 --> 02:19:24,239
+Chez nous.
+
+1056
+02:20:19,544 --> 02:20:21,129
+<i>Panne commandes 2.</i>
+
+1057
+02:20:21,296 --> 02:20:23,423
+<i>Auxiliaires activées.</i>
+
+1058
+02:20:25,342 --> 02:20:26,426
+<i>On peut continuer ?</i>
+
+1059
+02:20:26,593 --> 02:20:28,178
+<i>On est trop bas !</i>
+
+1060
+02:20:28,636 --> 02:20:29,679
+Demi-tour !
+
+1061
+02:21:19,062 --> 02:21:19,896
+Décollez.
+
+1062
+02:21:45,171 --> 02:21:46,297
+Ouvrez.
+
+1063
+02:23:39,577 --> 02:23:41,329
+C'est moi la meilleure.
+
+1064
+02:24:22,120 --> 02:24:24,164
+Les colonies nous attendent.
+
+1065
+02:27:30,684 --> 02:27:32,852
+Fallait me laisser crever là-dedans.
+
+1066
+02:27:33,895 --> 02:27:35,563
+C'est ce qui est arrivé.
+
+1067
+02:27:39,234 --> 02:27:41,361
+Vous vous êtes noyé.
+
+1068
+02:27:46,825 --> 02:27:48,451
+Vous pouvez rencontrer votre fille.
+
+1069
+02:29:14,287 --> 02:29:16,915
+Tous les meilleurs souvenirs sont à elle.
+
+1070
+02:29:25,882 --> 02:29:27,175
+Pourquoi ?
+
+1071
+02:29:29,844 --> 02:29:31,846
+Je suis quoi pour toi ?
+
+1072
+02:29:41,022 --> 02:29:43,525
+Allez rencontrer votre fille.
+
+1073
+02:29:48,947 --> 02:29:50,407
+Ça ira ?
+
+1074
+02:32:26,730 --> 02:32:28,273
+Un instant.
+
+1075
+02:32:30,775 --> 02:32:32,152
+Magnifique, non ?
+
+1076
+02:43:29,100 --> 02:43:31,102
+Sous-titres traduits par:
+Pierre Arson
+

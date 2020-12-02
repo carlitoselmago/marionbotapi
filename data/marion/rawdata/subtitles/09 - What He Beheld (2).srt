@@ -1,0 +1,2028 @@
+1
+01:23:57,031 --> 01:24:02,435
+<i>Dans le futur, mon fils guidera l'humanité
+dans une guerre contre Skynet,</i>
+
+2
+01:24:03,037 --> 01:24:06,666
+<i>le programme informatique programmé
+pour détruire le monde.</i>
+
+3
+01:24:07,809 --> 01:24:10,744
+<i>Skynet a renvoyé des machines
+dans notre temps.</i>
+
+4
+01:24:11,012 --> 01:24:12,502
+<i>Certaines pour le tuer.</i>
+
+5
+01:24:12,680 --> 01:24:14,238
+<i>Une pour le protéger.</i>
+
+6
+01:24:14,682 --> 01:24:18,083
+<i>Aujourd'hui, nous nous battons
+pour empêcher sa création.</i>
+
+7
+01:24:18,252 --> 01:24:20,686
+<i>Pour changer notre futur.</i>
+
+8
+01:24:20,855 --> 01:24:23,153
+<i>Pour changer son destin.</i>
+
+9
+01:24:23,758 --> 01:24:27,421
+<i>La guerre pour sauver l'humanité
+commence maintenant.</i>
+
+10
+01:24:36,559 --> 01:24:38,550
+21 AVRIL 2011
+
+11
+01:24:40,529 --> 01:24:43,521
+LE JUGEMENT DERNIER
+
+12
+01:24:43,866 --> 01:24:46,926
+<i>Quand John était petit,
+il dormait avec sa main sous mon menton.</i>
+
+13
+01:24:47,102 --> 01:24:48,126
+Allez.
+
+14
+01:24:48,304 --> 01:24:50,238
+<i>Je restais éveillée pour le regarder.</i>
+
+15
+01:24:50,406 --> 01:24:53,398
+<i>Calme, paisible, heureuse.</i>
+
+16
+01:24:53,843 --> 01:24:55,367
+<i>Je voulais arrêter le temps</i>
+
+17
+01:24:55,678 --> 01:24:58,340
+<i>et lui faire vivre ce moment pour l'éternité.</i>
+
+18
+01:24:59,515 --> 01:25:01,039
+<i>Mais on ne peut pas arrêter le temps.</i>
+
+19
+01:25:01,217 --> 01:25:04,675
+<i>On ne peut pas protéger
+ses enfants de leur futur.</i>
+
+20
+01:25:05,287 --> 01:25:07,812
+- C'est dur de manier la batte.
+- Tu es parfait, Kyle,
+
+21
+01:25:07,990 --> 01:25:11,323
+souviens-toi ce que je t'ai montré.
+Anticipe la balle.
+
+22
+01:25:12,361 --> 01:25:14,022
+<i>Le moment est là,</i>
+
+23
+01:25:14,196 --> 01:25:15,424
+<i>et puis...</i>
+
+24
+01:25:16,899 --> 01:25:19,129
+- Oui.
+- Oui, enfin.
+
+25
+01:25:19,301 --> 01:25:20,461
+<i>... il passe.</i>
+
+26
+01:25:22,104 --> 01:25:23,298
+Des feux d'artifice.
+
+27
+01:25:24,840 --> 01:25:26,102
+Cool.
+
+28
+01:25:47,296 --> 01:25:49,526
+Il a le sang chaud.
+
+29
+01:25:50,366 --> 01:25:53,233
+- J'ai appris l'arménien.
+- L'arménien.
+
+30
+01:25:53,602 --> 01:25:56,093
+Le type avec qui on a rendez-vous
+s'appelle Sarkissian.
+
+31
+01:25:56,272 --> 01:25:58,797
+- C'est arménien.
+- On n'est pas venu le charmer,
+
+32
+01:25:58,974 --> 01:26:01,499
+on est ici pour acheter le Turc.
+C'est simple.
+
+33
+01:26:01,677 --> 01:26:03,508
+Il a dit qu'il serait à la table 19.
+
+34
+01:26:03,679 --> 01:26:06,147
+Excusez-moi, nous avons
+une petite affaire à régler.
+
+35
+01:26:08,851 --> 01:26:10,409
+PRIX : 60 $ LA JOURNÉE
+ÇA VEUT DIRE VOUS !
+
+36
+01:26:11,153 --> 01:26:13,121
+Bien sûr. Désolée. Table 19 ?
+
+37
+01:26:13,856 --> 01:26:15,517
+- C'est ici.
+- Gardez la monnaie.
+
+38
+01:26:19,795 --> 01:26:22,491
+Rappelle-moi pourquoi
+les mecs restent dehors
+
+39
+01:26:22,665 --> 01:26:24,860
+et les filles sont à l'intérieur ?
+
+40
+01:26:25,534 --> 01:26:28,662
+Parce que l'un des mecs
+est recherché pour meurtre
+
+41
+01:26:29,338 --> 01:26:32,307
+et l'une des filles est plus coriace
+que des ongles nucléaires.
+
+42
+01:26:32,474 --> 01:26:33,839
+Et l'autre est une cyborg.
+
+43
+01:26:37,112 --> 01:26:39,307
+- Vous voulez savoir ce qu'on fait ici ?
+- Dis-moi ?
+
+44
+01:26:39,481 --> 01:26:41,108
+La loi de Moore.
+
+45
+01:26:41,483 --> 01:26:43,974
+La loi de Moore.
+Le fondateur d'd'Intel a dit
+
+46
+01:26:44,153 --> 01:26:47,782
+que tous les deux ans, le nombre
+de transistors d'un ordinateur doublait.
+
+47
+01:26:47,957 --> 01:26:51,518
+Il y a trente ans,
+c'était une observation, pas une loi.
+
+48
+01:26:51,694 --> 01:26:54,288
+Les entreprises ont dépensé
+des milliards là-dedans.
+
+49
+01:26:54,797 --> 01:26:56,230
+Et ?
+
+50
+01:26:57,232 --> 01:27:00,724
+C'est comme ça qu'on peut passer
+d'un ordinateur qui joue aux échecs
+
+51
+01:27:00,903 --> 01:27:04,236
+à l'apocalypse en juste quatre ans.
+
+52
+01:27:05,407 --> 01:27:07,068
+Beaucoup de choses peuvent se passer
+
+53
+01:27:07,242 --> 01:27:09,210
+en quatre ans.
+
+54
+01:27:11,413 --> 01:27:13,347
+Beaucoup de choses peuvent
+se passer en quatre secondes.
+
+55
+01:27:14,683 --> 01:27:17,550
+Je peux très bien jouer au baseball
+avec mon frère
+
+56
+01:27:17,720 --> 01:27:19,847
+et la minute suivante,
+on regarde le ciel embrasé.
+
+57
+01:27:20,689 --> 01:27:22,589
+Le Jugement Dernier.
+
+58
+01:27:24,393 --> 01:27:25,417
+Vous avez fait quoi ?
+
+59
+01:27:25,594 --> 01:27:27,994
+La seule chose à faire.
+J'ai emmené Kyle sous terre.
+
+60
+01:27:31,734 --> 01:27:33,224
+Il était comment ?
+
+61
+01:27:36,005 --> 01:27:38,769
+C'était un enfant quand tout ça est arrivé.
+
+62
+01:27:40,542 --> 01:27:43,238
+Il avait huit ans. J'en avais 15.
+
+63
+01:27:47,983 --> 01:27:51,043
+Comment dire à un môme de huit ans
+que les machines nous contrôlent ?
+
+64
+01:27:52,054 --> 01:27:53,885
+Comment ?
+
+65
+01:27:57,993 --> 01:27:59,460
+On ne le fait pas.
+
+66
+01:28:12,041 --> 01:28:13,804
+Il est peut-être à une autre table.
+
+67
+01:28:17,780 --> 01:28:20,271
+Vous semblez vous intéresser au Turc.
+
+68
+01:28:30,426 --> 01:28:31,450
+Oui
+
+69
+01:28:35,230 --> 01:28:37,164
+500 000 $.
+Centre commercial Valley Square Mall.
+
+70
+01:28:37,332 --> 01:28:38,890
+Demain. 14 h.
+À côté du distributeur.
+
+71
+01:28:43,472 --> 01:28:46,566
+- J'aime traiter avec vous.
+- On n'a pas 500 000 dollars.
+
+72
+01:28:46,742 --> 01:28:48,004
+Pas encore.
+
+73
+01:29:05,828 --> 01:29:07,022
+M. Dixon.
+
+74
+01:29:07,196 --> 01:29:09,562
+Ça fait combien de temps,
+huit ans ?
+
+75
+01:29:13,068 --> 01:29:15,229
+Vous êtes un homme de foi.
+
+76
+01:29:17,272 --> 01:29:19,240
+Non, ma femme est catholique.
+
+77
+01:29:19,408 --> 01:29:20,466
+C'est à sa mère.
+
+78
+01:29:20,943 --> 01:29:23,377
+Connaissez-vous l'histoire
+du ravissement, M. Dixon ?
+
+79
+01:29:24,279 --> 01:29:26,474
+Je le répète. C'est ma femme.
+
+80
+01:29:29,418 --> 01:29:33,582
+Et j'entendis comme un bruit de tonnerre.
+
+81
+01:29:34,490 --> 01:29:37,687
+Et j'entendis la voix
+de la quatrième créature me dire :
+
+82
+01:29:37,860 --> 01:29:39,555
+"Viens."
+
+83
+01:29:39,728 --> 01:29:41,127
+Et je regardai.
+
+84
+01:29:41,830 --> 01:29:44,731
+Et je vis un cheval pâle.
+
+85
+01:29:45,434 --> 01:29:49,427
+Celui qui le montait se nommait la Mort.
+
+86
+01:29:49,938 --> 01:29:52,498
+Et le séjour des morts l'accompagnait.
+
+87
+01:29:53,275 --> 01:29:54,708
+Le Livre des révélations.
+
+88
+01:29:54,877 --> 01:29:56,572
+Que faites-vous ?
+
+89
+01:30:00,149 --> 01:30:02,982
+J'ai vu des choses, M. Dixon.
+
+90
+01:30:04,987 --> 01:30:09,151
+J'ai vu des choses de mes propres yeux
+et les ai entendues de mes propres oreilles.
+
+91
+01:30:11,160 --> 01:30:13,128
+J'ai vu des choses.
+
+92
+01:30:14,062 --> 01:30:18,055
+Et d'après ces visions,
+j'en viens à la conclusion
+
+93
+01:30:18,233 --> 01:30:20,258
+que même si c'est nouveau pour moi,
+
+94
+01:30:21,336 --> 01:30:22,894
+ce pourrait ne pas l'être pour vous.
+
+95
+01:30:23,438 --> 01:30:25,497
+Qu'est-ce que vous racontez ?
+
+96
+01:30:25,941 --> 01:30:28,102
+Sarah Connor est vivante.
+
+97
+01:30:28,277 --> 01:30:30,040
+Et je pense que vous savez
+où elle se trouve.
+
+98
+01:30:30,212 --> 01:30:31,577
+Vous êtes fou.
+
+99
+01:30:37,419 --> 01:30:40,786
+Si Sarah est vivante,
+chose dont je suis convaincu,
+
+100
+01:30:40,956 --> 01:30:46,519
+nous vivons dans un monde
+où pratiquement tout est possible.
+
+101
+01:30:47,029 --> 01:30:48,724
+Les robots,
+
+102
+01:30:48,897 --> 01:30:50,728
+les soldats venus du futur,
+
+103
+01:30:50,899 --> 01:30:52,560
+Skynet.
+
+104
+01:30:57,339 --> 01:30:58,670
+Si...
+
+105
+01:30:58,974 --> 01:31:01,033
+Sarah était vivante...
+
+106
+01:31:01,877 --> 01:31:03,936
+je suis sûr qu'elle aimerait
+vous entendre dire ça.
+
+107
+01:31:05,914 --> 01:31:08,144
+Voyons, dites-moi ce que vous savez.
+
+108
+01:31:09,418 --> 01:31:10,646
+Je vais vous dire
+
+109
+01:31:11,353 --> 01:31:13,480
+ce que j'ai dit à votre collègue.
+
+110
+01:31:14,089 --> 01:31:15,147
+Je ne sais rien.
+
+111
+01:31:15,757 --> 01:31:16,883
+- Mon collègue ?
+- Oui.
+
+112
+01:31:17,059 --> 01:31:19,550
+L'autre agent que vous m'avez envoyé.
+
+113
+01:31:20,295 --> 01:31:21,557
+Kester.
+
+114
+01:31:23,232 --> 01:31:24,756
+Kester.
+
+115
+01:32:05,040 --> 01:32:06,735
+Je ne sais pas, mec.
+
+116
+01:32:16,051 --> 01:32:18,144
+Je peux t'aider, mon pote ?
+
+117
+01:32:21,023 --> 01:32:23,617
+- Joli sabre.
+- Hé.
+
+118
+01:32:23,859 --> 01:32:25,884
+- Ne touche pas à ça.
+- Un bien de famille ?
+
+119
+01:32:26,061 --> 01:32:28,222
+- Ça ne te regarde pas.
+- Tu as raison.
+
+120
+01:32:29,731 --> 01:32:31,198
+En revanche, ça me regarde.
+
+121
+01:32:35,971 --> 01:32:37,836
+Tu connais cette femme ?
+
+122
+01:32:41,710 --> 01:32:43,371
+Je ne l'ai jamais vue de ma vie.
+
+123
+01:32:45,013 --> 01:32:46,378
+Je vais t'aider.
+
+124
+01:32:46,548 --> 01:32:48,140
+Elle s'appelle Sarah Connor.
+
+125
+01:32:48,483 --> 01:32:51,884
+- Je le sais, car j'ai lu son dossier du FBI.
+- Je viens de te dire
+
+126
+01:32:52,054 --> 01:32:53,919
+que je ne la connais pas.
+
+127
+01:32:55,691 --> 01:32:58,558
+C'est très intéressant.
+
+128
+01:33:00,395 --> 01:33:02,522
+Car ton oncle Enrique la connaissait.
+
+129
+01:33:02,698 --> 01:33:06,156
+Il la connaissait plutôt bien, en fait.
+Et tu sais quoi ?
+
+130
+01:33:07,202 --> 01:33:09,670
+Il apparaît également dans ce dossier.
+
+131
+01:33:09,838 --> 01:33:12,272
+C'est l'un de ses derniers associés,
+
+132
+01:33:12,441 --> 01:33:14,409
+et un informateur du FBI.
+
+133
+01:33:18,780 --> 01:33:20,680
+Tu sais ce que je pense ?
+
+134
+01:33:23,885 --> 01:33:27,821
+Je pense qu'elle est allée le voir
+pour une identification.
+
+135
+01:33:28,390 --> 01:33:30,688
+Et je pense qu'il l'a envoyée te voir.
+
+136
+01:33:31,927 --> 01:33:34,259
+Et quand elle a obtenu ce qu'elle voulait,
+
+137
+01:33:35,630 --> 01:33:38,098
+elle est allée voir Enrique.
+
+138
+01:33:41,503 --> 01:33:42,936
+Et je pense qu'elle l'a tué.
+
+139
+01:33:44,373 --> 01:33:46,898
+J'ai maintenant quelque chose qu'elle veut.
+
+140
+01:33:47,542 --> 01:33:49,032
+Où est-elle ?
+
+141
+01:33:59,554 --> 01:34:03,388
+Ce sont les six soldats morts
+en défendant le château Chapultepec.
+
+142
+01:34:06,428 --> 01:34:07,827
+Des braves gars.
+
+143
+01:34:23,812 --> 01:34:24,904
+Écoute-moi, mon ami...
+
+144
+01:34:28,316 --> 01:34:29,840
+Es-tu si brave que ça ?
+
+145
+01:34:43,632 --> 01:34:45,657
+Je m'en occupe.
+
+146
+01:34:47,002 --> 01:34:50,096
+- Que fais-tu ici ? Rentre chez toi.
+- Je dois te parler.
+
+147
+01:34:54,209 --> 01:34:55,836
+L'agent Ellison est venu me voir.
+
+148
+01:34:56,011 --> 01:34:58,673
+- Et tu viens me voir chez moi ?
+- Je sais. C'est bon.
+
+149
+01:34:58,847 --> 01:35:02,613
+Tu vas avoir du mal à le croire,
+mais il semble prêt à te croire.
+
+150
+01:35:02,784 --> 01:35:05,116
+Me croire ?
+Charlie, ce n'est pas la question.
+
+151
+01:35:05,287 --> 01:35:09,121
+- S'il te croit, il peut te protéger.
+- Tu te souviens de ce que tu as vu ?
+
+152
+01:35:09,291 --> 01:35:10,952
+Ce qu'on a détruit ? Qui l'a détruit ?
+
+153
+01:35:11,126 --> 01:35:14,289
+Le FBI ne peut pas nous protéger,
+toi non plus.
+
+154
+01:35:14,463 --> 01:35:17,398
+Si l'un d'eux te suit jusqu'ici...
+Pas le FBI.
+
+155
+01:35:17,566 --> 01:35:19,193
+... l'un d'entre eux,
+
+156
+01:35:19,501 --> 01:35:21,332
+tu nous auras tués.
+
+157
+01:35:21,536 --> 01:35:24,733
+Emmène ta femme aussi loin que possible.
+
+158
+01:35:24,906 --> 01:35:27,466
+Oublie-moi, oublie John et pars.
+
+159
+01:35:40,422 --> 01:35:41,912
+Teinte jaune pâle.
+
+160
+01:35:42,090 --> 01:35:43,284
+Calibre M.
+
+161
+01:35:43,458 --> 01:35:45,358
+Légère inclusion, taille basse.
+
+162
+01:35:45,527 --> 01:35:49,759
+Tu ne peux pas espérer obtenir
+le Turc contre une valise pleine d'argent.
+
+163
+01:35:49,931 --> 01:35:51,262
+Bien sûr que si.
+
+164
+01:35:51,433 --> 01:35:55,164
+Ils étaient dans ma planque.
+Techniquement, ils sont à moi.
+
+165
+01:35:55,337 --> 01:35:56,668
+J'imagine que tu les as volés.
+
+166
+01:35:56,838 --> 01:35:59,136
+Techniquement, c'est un acte criminel.
+
+167
+01:36:02,277 --> 01:36:03,505
+Combien a-t-on ?
+
+168
+01:36:03,678 --> 01:36:06,545
+J'estime la valeur à 246 000 dollars.
+
+169
+01:36:06,715 --> 01:36:08,580
+Vous n'avez pas assez.
+
+170
+01:36:09,017 --> 01:36:10,951
+Nous négocierons.
+
+171
+01:36:17,659 --> 01:36:19,650
+On ne sait même à quoi il ressemble.
+
+172
+01:36:19,828 --> 01:36:22,058
+On sait à quoi, le Turc ressemble.
+
+173
+01:36:23,164 --> 01:36:24,722
+J'adore ce genre d'endroit.
+
+174
+01:36:24,900 --> 01:36:26,458
+Les centres commerciaux ?
+
+175
+01:36:26,635 --> 01:36:29,627
+Le jour suivant notre retour,
+on est allés au Century City Mall
+
+176
+01:36:29,804 --> 01:36:31,704
+et on y a passé la journée.
+
+177
+01:36:32,173 --> 01:36:34,107
+On a tous vomi.
+
+178
+01:36:35,010 --> 01:36:38,969
+Ce qui est drôle, c'est que dans le futur,
+c'est un camp de concentration.
+
+179
+01:36:41,650 --> 01:36:43,117
+On y est ?
+
+180
+01:36:43,652 --> 01:36:45,779
+DAB
+
+181
+01:36:46,521 --> 01:36:48,386
+Où est-il ?
+
+182
+01:36:55,096 --> 01:36:57,189
+Ce fils de pute
+nous a encore fait faux bond ?
+
+183
+01:36:57,732 --> 01:36:58,926
+On doit partir.
+
+184
+01:36:59,434 --> 01:37:02,665
+- On est venus pour le Turc.
+- On ne l'aura pas si on va en prison.
+
+185
+01:37:11,446 --> 01:37:12,743
+Sarah Connor.
+
+186
+01:37:16,251 --> 01:37:18,082
+Je vous rencontre enfin.
+
+187
+01:37:20,889 --> 01:37:22,686
+Voyez-vous, une femme
+
+188
+01:37:22,891 --> 01:37:25,223
+m'appelle sur mon portable
+
+189
+01:37:25,393 --> 01:37:29,693
+et me dit qu'elle est intéressée
+par cet ordinateur très spécial.
+
+190
+01:37:30,699 --> 01:37:31,961
+Que feriez-vous ?
+
+191
+01:37:32,133 --> 01:37:34,624
+Vous vous retournez et vous lui vendez ?
+
+192
+01:37:35,503 --> 01:37:37,027
+Ou peut-être...
+
+193
+01:37:44,145 --> 01:37:46,010
+Vous êtes très belle...
+
+194
+01:37:47,048 --> 01:37:48,072
+pour une morte.
+
+195
+01:37:48,249 --> 01:37:51,878
+Laissez-nous acheter cet ordinateur
+et vous ne nous reverrez plus.
+
+196
+01:37:52,053 --> 01:37:54,317
+Si je voulais vous vendre le Turc,
+
+197
+01:37:54,489 --> 01:37:56,457
+vous l'auriez déjà.
+
+198
+01:37:56,625 --> 01:37:58,115
+C'est ma contre-offre.
+
+199
+01:37:58,560 --> 01:38:00,653
+L'argent que vous alliez m'offrir,
+
+200
+01:38:00,829 --> 01:38:03,798
+prenez cette somme
+et multipliez-la par quatre.
+
+201
+01:38:04,299 --> 01:38:05,994
+Deux millions de dollars ?
+
+202
+01:38:06,167 --> 01:38:08,431
+Vous êtes une fugitive, Mme Connor.
+
+203
+01:38:09,237 --> 01:38:11,569
+Ce n'est pas cher payé
+pour être libre.
+
+204
+01:38:14,075 --> 01:38:15,633
+Voici ma contre-offre.
+
+205
+01:38:16,144 --> 01:38:18,510
+Dites-nous où se trouve le Turc,
+on garde notre argent
+
+206
+01:38:18,680 --> 01:38:20,910
+et je vous enterre dans le jardin.
+
+207
+01:38:21,983 --> 01:38:23,883
+Voulez-vous m'écouter ?
+
+208
+01:38:24,152 --> 01:38:26,916
+Si je ne sors pas d'ici dans 10 minutes,
+
+209
+01:38:27,088 --> 01:38:30,387
+mes hommes ont reçu l'ordre
+d'appeler le FBI
+
+210
+01:38:30,558 --> 01:38:32,788
+et de leur dire tout ce que je sais.
+
+211
+01:38:32,961 --> 01:38:35,088
+- Vos hommes ?
+- Oui.
+
+212
+01:38:35,263 --> 01:38:36,696
+Mes hommes.
+
+213
+01:38:36,865 --> 01:38:39,129
+Les mêmes personnes
+qui surveillent votre fils.
+
+214
+01:38:40,769 --> 01:38:42,532
+Il est parti pour la journée, pas vrai ?
+
+215
+01:38:42,704 --> 01:38:44,365
+Avec sa classe ?
+
+216
+01:38:44,806 --> 01:38:46,501
+Un musée des sciences, je pense.
+
+217
+01:38:49,044 --> 01:38:51,376
+Vos hommes ignorent
+ce dans quoi ils mettent les pieds.
+
+218
+01:38:51,546 --> 01:38:52,706
+Derek.
+
+219
+01:38:58,787 --> 01:39:00,880
+Combien de temps a-t-on
+pour obtenir l'argent ?
+
+220
+01:39:02,123 --> 01:39:04,318
+Vous avez 24 heures.
+
+221
+01:39:08,063 --> 01:39:09,587
+Suivez-le.
+
+222
+01:39:40,862 --> 01:39:42,659
+Tu n'as pas parlé depuis 28 minutes.
+
+223
+01:39:45,767 --> 01:39:47,394
+Oh, ce n'est rien.
+
+224
+01:39:51,773 --> 01:39:52,933
+D'accord.
+
+225
+01:39:53,108 --> 01:39:54,370
+Mon anniversaire est demain.
+
+226
+01:39:54,542 --> 01:39:55,702
+D'accord ?
+
+227
+01:39:55,877 --> 01:39:57,777
+Je sais que maman a oublié.
+
+228
+01:39:57,946 --> 01:40:00,779
+- Ton anniversaire ?
+- Tu ne sais pas ce que c'est ?
+
+229
+01:40:00,949 --> 01:40:02,246
+C'est le jour de ta naissance.
+
+230
+01:40:02,917 --> 01:40:04,851
+C'est assez mémorable pour une mère.
+
+231
+01:40:05,019 --> 01:40:06,452
+C'était il y a 16 ans.
+
+232
+01:40:06,621 --> 01:40:08,452
+Non, un anniversaire,
+c'est comme une fête.
+
+233
+01:40:08,623 --> 01:40:10,784
+Une fois par an, tous les ans,
+
+234
+01:40:10,959 --> 01:40:14,690
+les gens nous honorent,
+en quelque sorte.
+
+235
+01:40:15,497 --> 01:40:17,988
+Et on reçoit des cadeaux,
+on mange un gâteau et...
+
+236
+01:40:18,166 --> 01:40:19,565
+c'est agréable.
+
+237
+01:40:20,335 --> 01:40:22,098
+C'est censé l'être.
+
+238
+01:40:22,637 --> 01:40:24,867
+L'année dernière,
+maman m'a acheté un gilet pare-balles.
+
+239
+01:40:26,307 --> 01:40:27,638
+C'est un cadeau cool.
+
+240
+01:40:29,110 --> 01:40:30,236
+Non.
+
+241
+01:40:30,411 --> 01:40:31,844
+Non, ce n'est pas cool.
+
+242
+01:40:33,014 --> 01:40:35,539
+Peu importe, écoute...
+Je ne sais pas pourquoi j'y pense.
+
+243
+01:40:35,717 --> 01:40:39,676
+Je conduis depuis mes 12 ans et en fait,
+c'est mon 24e anniversaire.
+
+244
+01:40:39,854 --> 01:40:42,755
+J'ai voyagé dans le temps
+et sauté huit anniversaires.
+
+245
+01:40:43,825 --> 01:40:45,417
+J'ai un anniversaire, moi aussi ?
+
+246
+01:40:50,265 --> 01:40:51,289
+Je ne sais pas.
+
+247
+01:40:52,500 --> 01:40:54,297
+Tu es née ?
+
+248
+01:40:54,803 --> 01:40:56,168
+J'ai été construite.
+
+249
+01:40:57,972 --> 01:41:00,236
+Tu as peut-être un jour de fabrication.
+
+250
+01:41:01,342 --> 01:41:03,242
+Hé, Cameron. Écoute ça.
+
+251
+01:41:04,345 --> 01:41:06,279
+Hé, qu'est-ce que tu écoutes, mec ?
+
+252
+01:41:06,748 --> 01:41:08,010
+<i>Hatful of Hollow</i>.
+
+253
+01:41:08,183 --> 01:41:10,344
+Je l'ai téléchargé ce matin.
+
+254
+01:41:10,785 --> 01:41:13,652
+Mec, tu rigoles, j'adore les Smiths.
+
+255
+01:41:14,122 --> 01:41:15,146
+Oui, tiens.
+
+256
+01:41:16,057 --> 01:41:17,752
+Je n'ai pas cet album.
+
+257
+01:41:29,571 --> 01:41:30,697
+Cameron.
+
+258
+01:41:30,872 --> 01:41:32,169
+Reste avec le groupe, s'il te plaît.
+
+259
+01:41:34,576 --> 01:41:36,100
+Désolée.
+
+260
+01:41:53,261 --> 01:41:54,455
+Hé, Cameron.
+
+261
+01:41:54,896 --> 01:41:58,024
+Te voilà.
+Ton frère te cherchait.
+
+262
+01:42:00,735 --> 01:42:02,532
+C'est ta voiture ?
+
+263
+01:42:02,737 --> 01:42:05,638
+Non. Elle appartient au mec
+que j'ai tué et mis dans le coffre.
+
+264
+01:42:05,807 --> 01:42:07,206
+Hé.
+
+265
+01:42:07,375 --> 01:42:10,173
+Où étais-tu ? Maman veut
+qu'on rentre immédiatement.
+
+266
+01:42:10,745 --> 01:42:14,545
+- C'est quoi cette voiture ?
+- Elle a mis un cadavre dans le coffre.
+
+267
+01:42:14,716 --> 01:42:15,876
+Il nous suivait.
+
+268
+01:42:19,621 --> 01:42:21,418
+Ta sœur a un côté sombre, mec.
+
+269
+01:42:21,589 --> 01:42:23,750
+- Tu vas adorer les Smiths.
+- Oui, elle est...
+
+270
+01:42:23,925 --> 01:42:26,723
+- Elle est très goth.
+- Monte.
+
+271
+01:42:27,228 --> 01:42:29,719
+Attends, Cameron. Hé.
+
+272
+01:42:30,765 --> 01:42:33,393
+Je veux te demander un truc.
+
+273
+01:42:34,836 --> 01:42:37,771
+Tu veux bien aller au bal
+de fin d'année avec moi ?
+
+274
+01:42:40,742 --> 01:42:42,505
+- Dis oui.
+- Oui.
+
+275
+01:42:55,123 --> 01:42:57,148
+Génial. Génial.
+
+276
+01:42:59,494 --> 01:43:00,893
+Salut, Karen.
+
+277
+01:43:01,062 --> 01:43:02,359
+Tu peux me chercher un nom ?
+
+278
+01:43:02,530 --> 01:43:04,498
+Je pensais
+que tu connaissais tout le monde.
+
+279
+01:43:05,667 --> 01:43:09,103
+- Qui cherches-tu ?
+- Un certain Kester. C'est un agent.
+
+280
+01:43:09,537 --> 01:43:11,334
+Ça ne me dit rien. Une seconde.
+
+281
+01:43:11,506 --> 01:43:12,973
+BASE DE DONNÉES DU FBI
+
+282
+01:43:13,141 --> 01:43:14,631
+Et voilà.
+
+283
+01:43:14,809 --> 01:43:16,470
+C'est lui ?
+
+284
+01:43:28,089 --> 01:43:31,525
+On est débordés, je fais de mon mieux
+pour l'organisation.
+
+285
+01:43:31,693 --> 01:43:32,955
+Quel dossier voulez-vous ?
+
+286
+01:43:33,127 --> 01:43:37,029
+Le dossier numéro 100-655371.
+
+287
+01:43:37,198 --> 01:43:39,189
+Le dossier de Sarah Connor.
+
+288
+01:43:41,002 --> 01:43:43,470
+Le dossier a été sorti, mon ami.
+
+289
+01:43:44,305 --> 01:43:45,397
+C'est Ellison qui l'a.
+
+290
+01:43:46,474 --> 01:43:48,635
+- James Ellison ?
+- En personne.
+
+291
+01:43:49,310 --> 01:43:51,278
+Merci de votre aide.
+
+292
+01:43:57,118 --> 01:43:59,518
+Oh, attendez.
+
+293
+01:44:29,617 --> 01:44:31,084
+Il nous menaçait.
+
+294
+01:44:31,953 --> 01:44:34,444
+Il a dit quelque chose ?
+Un nom ? Un endroit ?
+
+295
+01:44:34,622 --> 01:44:35,987
+Il n'a pas dit grand-chose.
+
+296
+01:44:36,157 --> 01:44:38,091
+Ensuite, il s'est tu.
+
+297
+01:44:42,964 --> 01:44:45,262
+Sarkissian m'a semé
+au col de Cahuenga.
+
+298
+01:44:46,234 --> 01:44:47,258
+Mince.
+
+299
+01:44:47,902 --> 01:44:50,735
+- On doit le retrouver.
+- On doit quitter cette maison.
+
+300
+01:44:50,905 --> 01:44:53,066
+- Non. On ne partira pas.
+- Il sait où l'on habite.
+
+301
+01:44:53,241 --> 01:44:54,606
+On ne s'enfuira pas.
+Pas aujourd'hui.
+
+302
+01:44:54,776 --> 01:44:57,939
+Cette maison a une cible
+sur la porte d'entrée.
+
+303
+01:45:12,427 --> 01:45:13,860
+Vas-y.
+
+304
+01:45:16,397 --> 01:45:19,525
+- Allô ?
+- <i>Tu surveilles toujours les mômes ?</i>
+
+305
+01:45:19,700 --> 01:45:21,292
+Je les ai devant moi.
+
+306
+01:45:21,469 --> 01:45:25,838
+<i>Je pense qu'ils m'ont fait suivre.
+On ne joue plus, amène-les ici.</i>
+
+307
+01:45:28,810 --> 01:45:30,277
+"Ici" ? C'est où, "ici" ?
+
+308
+01:45:32,146 --> 01:45:35,206
+Il s'attend à ce que ce type
+le rejoigne d'un moment à l'autre.
+
+309
+01:45:35,383 --> 01:45:38,352
+Quand il ne le verra pas,
+il viendra ici en premier lieu.
+
+310
+01:45:39,053 --> 01:45:40,520
+Maman.
+
+311
+01:45:40,755 --> 01:45:43,349
+On ne peut pas rester, John.
+Pas tant qu'il nous cherche.
+
+312
+01:45:43,524 --> 01:45:44,821
+C'est trop risqué.
+
+313
+01:45:45,760 --> 01:45:47,421
+Je suis désolée.
+
+314
+01:46:17,358 --> 01:46:18,950
+Attends ici.
+
+315
+01:46:34,375 --> 01:46:35,808
+- Où est-il ?
+- Qui ?
+
+316
+01:46:36,944 --> 01:46:38,844
+Lui. Dois-je répéter ?
+
+317
+01:47:15,950 --> 01:47:19,044
+John, va voir dans le bureau,
+regarde s'il y a caché le Turc.
+
+318
+01:47:19,220 --> 01:47:21,085
+Peux-tu défoncer la porte ?
+
+319
+01:47:22,823 --> 01:47:24,313
+Oui.
+
+320
+01:47:24,825 --> 01:47:26,884
+Mais le mur sera plus rapide.
+
+321
+01:47:55,089 --> 01:47:56,954
+Salut. Qu'est-ce que tu fais ici ?
+
+322
+01:47:57,124 --> 01:47:59,251
+J'attends que mon père finisse de travailler.
+
+323
+01:48:00,695 --> 01:48:02,356
+D'accord, écoute.
+
+324
+01:48:02,530 --> 01:48:05,590
+Je veux que tu restes dans cette pièce
+la porte fermée, d'accord ?
+
+325
+01:48:05,766 --> 01:48:08,667
+Même si tu entends du bruit
+ou si tu as peur,
+
+326
+01:48:08,836 --> 01:48:11,396
+tu dois rester ici.
+Tu peux faire ça pour moi ?
+
+327
+01:48:11,572 --> 01:48:13,972
+- Oui.
+- Oui ? Très bien.
+
+328
+01:49:13,134 --> 01:49:14,863
+Laissez-le partir.
+
+329
+01:49:15,036 --> 01:49:17,027
+Ce n'est pas ma fille.
+
+330
+01:49:17,204 --> 01:49:18,796
+Ce n'est pas la mienne,
+non plus.
+
+331
+01:49:23,678 --> 01:49:25,202
+Tu vas bien ?
+
+332
+01:49:26,580 --> 01:49:28,241
+Oui. Tu vas bien ?
+
+333
+01:49:33,354 --> 01:49:34,787
+John.
+
+334
+01:49:40,928 --> 01:49:42,293
+Rentrons.
+
+335
+01:49:42,463 --> 01:49:44,124
+Allons à l'intérieur.
+
+336
+01:50:16,364 --> 01:50:18,025
+Hé.
+
+337
+01:50:20,668 --> 01:50:22,636
+C'est ton papa, dehors ?
+
+338
+01:50:22,803 --> 01:50:24,293
+Non.
+
+339
+01:50:24,638 --> 01:50:27,300
+Mon papa travaille au café.
+
+340
+01:50:27,975 --> 01:50:29,966
+Tu sais comment retrouver ton chemin ?
+
+341
+01:50:31,712 --> 01:50:35,307
+Va chercher ton papa.
+Ne te retourne pas. Vas-y.
+
+342
+01:50:44,992 --> 01:50:46,960
+Le disque dur de Sarkissian.
+
+343
+01:50:47,128 --> 01:50:48,652
+Allons-y.
+
+344
+01:51:11,218 --> 01:51:12,913
+Dois-je te tuer, maintenant ?
+
+345
+01:51:48,255 --> 01:51:49,916
+Bureau fédéral d'investigation
+
+346
+01:51:50,891 --> 01:51:52,085
+Kester.
+
+347
+01:51:52,259 --> 01:51:56,662
+C'est le nom qu'il se donne
+quand il porte son costume du FBI.
+
+348
+01:51:56,831 --> 01:51:59,129
+George Laszlo est meilleur acteur
+qu'on ne pensait.
+
+349
+01:51:59,300 --> 01:52:00,699
+Ce n'est pas Laszlo.
+
+350
+01:52:00,868 --> 01:52:05,032
+James, a-t-on la même photo ?
+C'est notre homme.
+
+351
+01:52:06,106 --> 01:52:07,539
+C'est Laszlo.
+
+352
+01:52:08,042 --> 01:52:09,441
+Le sang n'était pas le sien.
+
+353
+01:52:15,049 --> 01:52:18,143
+Voyons. Qu'êtes-vous en train de dire ?
+Que ce type a tué six personnes
+
+354
+01:52:18,319 --> 01:52:23,416
+et qu'il est allé voir un chirurgien
+pour prendre l'apparence de George Laszlo ?
+
+355
+01:52:23,858 --> 01:52:25,450
+Et ensuite quoi ?
+
+356
+01:52:25,626 --> 01:52:27,856
+Il a tué Laszlo, volé son identité
+
+357
+01:52:28,028 --> 01:52:32,328
+puis il a mis son nom dans la base
+de données du FBI en tant que Kester ?
+
+358
+01:52:33,100 --> 01:52:35,728
+Pourquoi ? Dans quel but ?
+
+359
+01:52:37,004 --> 01:52:38,130
+Qui est-il ?
+
+360
+01:52:38,939 --> 01:52:40,338
+Qu'est-il ?
+
+361
+01:52:43,878 --> 01:52:45,311
+"Qu'est-il" ?
+
+362
+01:52:46,347 --> 01:52:47,746
+Oui.
+
+363
+01:52:47,915 --> 01:52:49,576
+Qu'est-ce qu'il est ?
+
+364
+01:52:50,317 --> 01:52:52,751
+Qu'y a-t-il d'humain chez lui,
+
+365
+01:52:52,920 --> 01:52:55,946
+après avoir tué deux hommes
+en 36 heures ?
+
+366
+01:52:56,590 --> 01:52:59,218
+Et lorsqu'on le questionne
+sur son implication,
+
+367
+01:52:59,593 --> 01:53:01,823
+il ne fait pas que mentir,
+il ment à la perfection.
+
+368
+01:53:01,996 --> 01:53:03,759
+Non seulement il ment à la perfection,
+
+369
+01:53:03,931 --> 01:53:06,399
+mais il ne cligne pas des yeux,
+ne vacille pas,
+
+370
+01:53:06,567 --> 01:53:10,628
+et ne montre aucune réaction humaine
+face à la situation.
+
+371
+01:53:12,006 --> 01:53:13,439
+Alors, oui.
+
+372
+01:53:13,607 --> 01:53:16,633
+C'est normal de se demander
+ce qu'il est.
+
+373
+01:53:18,979 --> 01:53:20,844
+Vous le savez aussi bien que moi.
+
+374
+01:53:21,015 --> 01:53:22,880
+Certains hommes sont des monstres.
+
+375
+01:53:24,118 --> 01:53:25,642
+Oui.
+
+376
+01:53:26,253 --> 01:53:27,550
+Des monstres.
+
+377
+01:53:30,457 --> 01:53:31,788
+Allons le coincer.
+
+378
+01:53:32,359 --> 01:53:33,986
+Oui.
+
+379
+01:53:53,647 --> 01:53:55,842
+- Maman.
+- Désolée.
+
+380
+01:53:56,016 --> 01:53:58,075
+Il a sécurisé le disque dur
+par un double cryptage.
+
+381
+01:53:58,252 --> 01:54:01,483
+J'en ai déverrouillé une bonne partie,
+mais il en reste beaucoup.
+
+382
+01:54:01,655 --> 01:54:03,179
+Combien ?
+
+383
+01:54:03,357 --> 01:54:06,884
+Environ mille fichiers utiles.
+Il me faut cinq minutes par fichier
+
+384
+01:54:07,061 --> 01:54:08,528
+et j'en suis au numéro 37.
+
+385
+01:54:08,696 --> 01:54:10,061
+Fais le calcul.
+
+386
+01:54:11,332 --> 01:54:12,993
+Préviens-moi quand tu auras quelque chose.
+
+387
+01:54:27,514 --> 01:54:29,106
+Tu tiens le coup ?
+
+388
+01:54:29,283 --> 01:54:30,875
+Je vais bien.
+
+389
+01:54:39,193 --> 01:54:40,785
+C'est donc ton anniversaire.
+
+390
+01:54:44,064 --> 01:54:45,998
+Comment...
+Comment le savez-vous ?
+
+391
+01:54:46,967 --> 01:54:48,628
+Tu veux rire ?
+
+392
+01:54:49,069 --> 01:54:51,037
+J'ai fêté tes 30 ans avec toi.
+
+393
+01:54:54,241 --> 01:54:55,469
+C'était comment ?
+
+394
+01:54:57,578 --> 01:54:59,409
+Tu as bu comme un trou.
+
+395
+01:55:03,050 --> 01:55:04,381
+Je te paye une bière.
+
+396
+01:55:04,985 --> 01:55:06,612
+Je n'ai que 16 ans.
+
+397
+01:55:07,154 --> 01:55:10,783
+Très bien, je te paye une glace.
+Allez, c'est ton anniversaire.
+
+398
+01:55:10,958 --> 01:55:14,189
+Quand on a quelque chose à célébrer,
+il faut le faire.
+
+399
+01:55:14,795 --> 01:55:16,228
+Allons-y.
+
+400
+01:55:27,841 --> 01:55:30,366
+Ta mère n'a jamais tué quiconque ?
+
+401
+01:55:34,181 --> 01:55:37,776
+Elle a le regard d'une assassine,
+mais son cœur est pur.
+
+402
+01:55:38,719 --> 01:55:42,120
+C'est une bonne chose, tu sais...
+Garder le cœur pur.
+
+403
+01:55:48,696 --> 01:55:50,721
+C'est joli, ici, tu ne trouves pas ?
+
+404
+01:55:55,636 --> 01:55:59,470
+Quand on reste suffisamment longtemps,
+on croirait presque
+
+405
+01:55:59,640 --> 01:56:01,699
+que ça restera toujours comme ça.
+
+406
+01:56:01,875 --> 01:56:05,367
+Puis on se rappelle comment
+cet endroit sera sous les flammes et...
+
+407
+01:56:06,547 --> 01:56:10,381
+on se rend compte qu'on fera tout
+pour éviter ce scénario.
+
+408
+01:56:45,352 --> 01:56:47,479
+C'est toi ?
+
+409
+01:56:53,227 --> 01:56:55,991
+- Et le petit garçon. C'est... ?
+- Kyle.
+
+410
+01:57:01,435 --> 01:57:03,335
+Pas mal, pour un petit de 5 ans, non ?
+
+411
+01:57:06,673 --> 01:57:08,698
+Ton père a toujours eu un bon bras.
+
+412
+01:57:14,381 --> 01:57:17,714
+- Comment le sais-tu ?
+- Quand je te regarde, je le vois.
+
+413
+01:57:20,554 --> 01:57:22,283
+En plus, ta mère est son genre.
+
+414
+01:57:29,997 --> 01:57:31,726
+Bon anniversaire.
+
+415
+01:58:33,760 --> 01:58:36,786
+<i>Tous les pompiers et secouristes
+en état d'alerte.</i>
+
+416
+01:58:36,964 --> 01:58:38,556
+<i>Raid du FBI à North Hollywood.</i>
+
+417
+01:58:38,732 --> 01:58:41,462
+<i>Le suspect est probablement armé
+et extrêmement dangereux.</i>
+
+418
+01:58:41,635 --> 01:58:45,503
+<i>Il pourrait se faire passer pour un agent
+du FBI. Nom de famille : Kester.</i>
+
+419
+01:58:49,610 --> 01:58:50,975
+POMPIERS DE LOS ANGELES
+
+420
+01:59:25,379 --> 01:59:26,676
+En avant, en avant, en avant !
+
+421
+01:59:26,847 --> 01:59:28,940
+On y va, on y va, on y va !
+
+422
+01:59:56,843 --> 01:59:58,640
+Reculez !
+
+423
+01:59:58,845 --> 02:00:01,040
+Reculez immédiatement !
+
+424
+02:00:08,488 --> 02:00:09,682
+Tirez !
+
+425
+02:01:00,374 --> 02:01:04,743
+<i>Dans</i> Sa Majesté des mouches<i>, un groupe
+de garçons tue un cochon dans la jungle.</i>
+
+426
+02:01:05,345 --> 02:01:08,041
+<i>Ils le torturent
+et plantent sa tête sur piquet pointu</i>
+
+427
+02:01:08,215 --> 02:01:12,481
+<i>en offrande à la bête qui plane
+comme un Dieu au-dessus de l'île.</i>
+
+428
+02:01:57,197 --> 02:01:59,529
+<i>Le sang noir dégouline des dents du cochon</i>
+
+429
+02:01:59,699 --> 02:02:01,826
+<i>et les garçons s'enfuient.</i>
+
+430
+02:02:11,812 --> 02:02:14,440
+<i>Plus tard, un des garçons
+se met à pleurer.</i>
+
+431
+02:02:14,614 --> 02:02:16,775
+<i>Mais pas pour le cochon.</i>
+
+432
+02:02:17,951 --> 02:02:22,911
+<i>Le garçon pleure pour la fin de l'innocence
+et la noirceur du cœur des hommes.</i>
+
+433
+02:02:42,042 --> 02:02:43,134
+Tu as vu Derek ?
+
+434
+02:02:45,512 --> 02:02:46,536
+Non.
+
+435
+02:02:46,713 --> 02:02:48,613
+Il est resté au parc, je pense.
+
+436
+02:02:48,782 --> 02:02:50,477
+Que faisiez-vous ?
+
+437
+02:02:52,352 --> 02:02:54,843
+Rien. On est allés manger une glace.
+
+438
+02:02:56,756 --> 02:02:58,053
+Tiens.
+
+439
+02:02:58,825 --> 02:03:00,554
+Jette un œil.
+
+440
+02:03:03,230 --> 02:03:05,926
+On dirait bien qu'on n'était pas
+les seuls à chercher le Turc.
+
+441
+02:03:06,666 --> 02:03:08,395
+- Qui est-ce ?
+- Je n'en suis pas sûr.
+
+442
+02:03:08,568 --> 02:03:11,264
+Mais il était après Dmitri et avant toi.
+
+443
+02:03:11,438 --> 02:03:13,929
+Sarkissian a eu le temps
+de lui vendre le Turc.
+
+444
+02:03:14,107 --> 02:03:16,575
+Ce n'est pas grand-chose,
+mais c'est mieux que rien.
+
+445
+02:03:23,083 --> 02:03:26,610
+- Pourquoi ne ferais-tu pas une pause ?
+- Je peux continuer.
+
+446
+02:03:26,786 --> 02:03:30,722
+Comment va-t-on fêter ton anniversaire
+si tu restes devant l'ordinateur ?
+
+447
+02:03:32,259 --> 02:03:34,989
+Tu pensais vraiment
+que j'avais oublié ton anniversaire ?
+
+448
+02:03:37,664 --> 02:03:40,861
+Il y a plus important
+que mon fichu anniversaire.
+
+449
+02:03:41,034 --> 02:03:42,797
+Ton anniversaire est important.
+
+450
+02:03:43,236 --> 02:03:45,636
+Non... Ce n'est pas important.
+
+451
+02:03:45,805 --> 02:03:49,468
+Trouver le Turc, arrêter Skynet,
+le Jugement Dernier, c'est important.
+
+452
+02:03:49,643 --> 02:03:51,167
+C'est...
+
+453
+02:03:51,778 --> 02:03:53,211
+C'est notre vie.
+
+454
+02:03:53,380 --> 02:03:55,473
+C'est notre mission.
+
+455
+02:03:56,283 --> 02:03:57,307
+Ça, c'est notre vie.
+
+456
+02:03:57,484 --> 02:04:00,681
+Si on ne s'en soucie plus,
+on est perdus.
+
+457
+02:04:03,023 --> 02:04:04,786
+Si tu le prends comme ça...
+
+458
+02:04:04,958 --> 02:04:06,755
+J'ai envoyé Cameron acheter un gâteau.
+
+459
+02:04:09,229 --> 02:04:10,696
+Qu'est-ce que tu veux pour dîner ?
+
+460
+02:04:10,864 --> 02:04:15,130
+Sans vouloir faire affront à tes talents
+de cuisinière, on peut aller au resto ?
+
+461
+02:04:15,368 --> 02:04:16,494
+On peut, oui.
+
+462
+02:04:18,038 --> 02:04:20,165
+Bien...
+Laisse-moi éteindre l'ordinateur.
+
+463
+02:04:25,812 --> 02:04:27,871
+Quoi ? Qu'est-ce qui se passe ?
+
+464
+02:04:28,848 --> 02:04:31,510
+Le type que Derek a tué
+derrière l'immeuble.
+
+465
+02:04:31,952 --> 02:04:33,078
+Sarkissian.
+
+466
+02:04:33,620 --> 02:04:35,247
+Je ne pense pas que c'était Sarkissian.
+
+467
+02:05:56,703 --> 02:05:58,694
+[FRENCH]
+

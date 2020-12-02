@@ -1,0 +1,1359 @@
+1
+00:00:09,460 --> 00:00:11,510
+Si on a espéré que ce robot soit humain...
+
+2
+00:00:15,190 --> 00:00:18,390
+Si on a espéré que ce robot soit humain...
+
+3
+00:00:22,310 --> 00:00:23,980
+on plie un doigt.
+
+4
+00:00:24,530 --> 00:00:29,810
+♫ <i>Aimer quelqu'un de tout ton cœur</i> ♫
+
+5
+00:00:31,070 --> 00:00:39,540
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+6
+00:00:39,540 --> 00:00:46,060
+♫ <i>J'en suis si jalouse</i> ♫
+
+7
+00:00:46,060 --> 00:00:55,700
+♫ <i>J'ai trop peur d'être blessée alors je prends du recul</i> ♫
+
+8
+00:00:57,780 --> 00:01:04,250
+Je ne suis pas un robot.
+
+9
+00:01:05,130 --> 00:01:15,140
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+10
+00:01:16,580 --> 00:01:18,670
+<i>~ Épisode 15 ~</i>
+
+11
+00:01:20,560 --> 00:01:24,010
+Il semblerait qu'on se soit fait avoir par Sun Hye.
+
+12
+00:01:24,790 --> 00:01:28,620
+Désolé pour ça. C'est parce qu'elle ne m'aime pas du tout.
+
+13
+00:01:28,620 --> 00:01:31,500
+C'est la seule âme sœur de Jo Ji Ah.
+
+14
+00:01:32,640 --> 00:01:38,090
+En voyant les réactions de Sun Hye, j'ai vraiment dû blesser Ji Ah.
+
+15
+00:01:38,910 --> 00:01:42,960
+On dirait vraiment que je vis un amour à sens unique en ce moment.
+
+16
+00:01:44,970 --> 00:01:48,700
+Mais nous sommes quand même arrivés si loin.
+
+17
+00:01:48,700 --> 00:01:50,240
+C'est entièrement grâce à vous tous.
+
+18
+00:01:50,240 --> 00:01:56,470
+Si seulement je n'avais pas envoyé ce courrier menaçant au MIT à ce moment-là, vous n'auriez pas eu toutes ces difficultés.
+
+19
+00:01:56,470 --> 00:01:59,480
+Si tu es désolée, tu devrais te dépêcher de réparer AG-3.
+
+20
+00:01:59,480 --> 00:02:00,910
+D'accord.
+
+21
+00:02:03,840 --> 00:02:05,920
+La lune est si belle.
+
+22
+00:02:07,650 --> 00:02:09,830
+Mais ce n'est qu'un croissant de lune.
+
+23
+00:02:17,590 --> 00:02:20,040
+Mais pourquoi vous lui touchez les oreilles ?
+
+24
+00:02:23,570 --> 00:02:26,930
+C'est le seul moyen de l'endormir. Dors, dors.
+
+25
+00:02:32,290 --> 00:02:35,430
+Je pense qu'il y a un problème avec le capteur de pression.
+
+26
+00:02:35,430 --> 00:02:37,270
+Je pense qu'il faut le stabiliser.
+
+27
+00:02:42,950 --> 00:02:45,730
+Oh, elle bouge. Donc elle est réparée maintenant ?
+
+28
+00:02:45,730 --> 00:02:49,360
+Elle a besoin de temps pour se stabiliser. Il faut aussi qu'elle soit synchronisée avec toi.
+
+29
+00:02:50,130 --> 00:02:52,980
+Se stabiliser ? Et se synchroniser ?
+
+30
+00:02:52,980 --> 00:02:57,130
+Ce que ça signifie c'est que... AG-3, prends le verre.
+
+31
+00:03:00,670 --> 00:03:02,660
+Comme tu peux le voir, le système n'est pas encore stabilisé.
+
+32
+00:03:02,660 --> 00:03:06,880
+On dirait que les informations que tu as reçues des profonds apprentissages d'AG-3 ont heurté son système principal.
+
+33
+00:03:06,880 --> 00:03:12,050
+Mais Kim Min Kyu ne doit pas découvrir qu'AG-3 et toi avez été échangées. Si elle est comme ça, nous nous ferons prendre immédiatement.
+
+34
+00:03:12,920 --> 00:03:14,390
+Je comprends.
+
+35
+00:03:14,390 --> 00:03:17,910
+Dans trois jours, AG-3 et toi serez échangées et le test sera fini en un rien de temps.
+
+36
+00:03:17,910 --> 00:03:21,270
+Et à ce moment, je dirai à Kim Min Kyu tout ce qu'il en est.
+
+37
+00:03:21,270 --> 00:03:24,870
+D'ici là, tu dois t'assurer de ne pas te faire attraper en tant qu'humaine.
+
+38
+00:03:25,800 --> 00:03:29,670
+Ce test en particulier est très important pour Kim Min Kyu aussi.
+
+39
+00:03:30,400 --> 00:03:35,510
+Trois jours ? D'accord, bien. J'attendrai.
+
+40
+00:03:35,510 --> 00:03:38,260
+Oh, c'est vrai. J'ai une faveur à te demander.
+
+41
+00:03:38,260 --> 00:03:41,760
+Tu penses pouvoir m'autoriser à venir travailler tard demain soir ?
+
+42
+00:03:41,760 --> 00:03:44,830
+J'ai quelque chose à faire en journée.
+
+43
+00:03:44,830 --> 00:03:46,430
+Bien sûr.
+
+44
+00:03:47,040 --> 00:03:53,740
+Merci de m'avoir tout expliqué en détails et d'avoir mis fin à ma curiosité.
+
+45
+00:04:23,400 --> 00:04:27,060
+Je suis en Corée actuellement. On dirait que je vais enfin pouvoir rencontrer AG-3.
+
+46
+00:04:27,060 --> 00:04:31,170
+J'ai un rendez-vous dans l'après-midi, ça va si je passe en y allant ?
+
+47
+00:04:32,900 --> 00:04:34,920
+Une prochaine fois.
+
+48
+00:04:34,920 --> 00:04:38,810
+Pourquoi ? Quelque chose est arrivé au robot ?
+
+49
+00:04:38,810 --> 00:04:43,140
+Non, ce n'est pas ça. En fait, quelque chose m'est arrivé, à moi.
+
+50
+00:04:43,140 --> 00:04:44,680
+<i>Quel genre de problème ?</i>
+
+51
+00:04:44,680 --> 00:04:49,990
+J'étais tranquille puisque vous n'avez pas demandé à vous faire prescrire des somnifères. C'est un autre problème maintenant ?
+
+52
+00:04:49,990 --> 00:04:54,270
+Le problème est arrivé soudainement et je vais m'en occuper aujourd'hui.
+
+53
+00:04:54,270 --> 00:04:59,240
+Très bien, bonne chance pour ça. Aujourd'hui, c'est le jour de votre prise de sang, pas vrai ? Envoyez-la de suite.
+
+54
+00:05:01,520 --> 00:05:04,070
+Récemment, il semblait heureux que le robot l'aime, mais...
+
+55
+00:05:04,070 --> 00:05:07,880
+Je me demande si quelque chose est arrivé ces deux derniers jours ?
+
+56
+00:05:08,740 --> 00:05:13,240
+Que devrais-je dire ? Quel genre d'expression devrais-je avoir quand je le vois ?
+
+57
+00:05:16,090 --> 00:05:19,220
+Calme-toi. Calme-toi.
+
+58
+00:05:27,850 --> 00:05:29,830
+Maître !
+
+59
+00:05:40,670 --> 00:05:42,810
+Où êtes-vous ?
+
+60
+00:05:45,470 --> 00:05:47,400
+Maître !
+
+61
+00:05:48,250 --> 00:05:52,900
+Va te changer. On sort.
+
+62
+00:05:53,990 --> 00:05:56,610
+Que devrais-je porter ?
+
+63
+00:05:56,610 --> 00:06:01,390
+Porte quelque chose de chaud. Tu ne peux pas perdre de la batterie à cause du froid.
+
+64
+00:06:01,390 --> 00:06:06,000
+<i>La chambre de ma Belle</i>
+
+65
+00:06:11,790 --> 00:06:13,850
+Cette tenue ne va pas.
+
+66
+00:06:17,080 --> 00:06:18,940
+Que se passe-t-il ?
+
+67
+00:06:20,530 --> 00:06:25,960
+Peut-être... un rendez-vous ?
+
+68
+00:06:53,590 --> 00:06:56,170
+De la tête aux pieds, comme ça.
+
+69
+00:06:56,170 --> 00:06:57,720
+Bien.
+
+70
+00:07:22,220 --> 00:07:24,010
+Porte ça.
+
+71
+00:07:30,490 --> 00:07:31,950
+Allons-y.
+
+72
+00:07:35,410 --> 00:07:40,200
+C'est quoi ça ? Il n'a même pas regardé. Il ne m'a même pas dit que j'étais jolie non plus.
+
+73
+00:07:40,200 --> 00:07:42,840
+Pourquoi il m'achète tout ça pour être comme ça ?
+
+74
+00:07:56,140 --> 00:07:59,620
+Attendez une minute. Par ici, s'il vous plaît.
+
+75
+00:08:17,610 --> 00:08:21,210
+Nous apporterons le repas tel qu'il a été réservé.
+
+76
+00:08:35,100 --> 00:08:37,210
+Merci d'avoir accepté mon invitation.
+
+77
+00:08:37,210 --> 00:08:41,890
+C'est moi qui voulait manger avec toi et Ri El.
+
+78
+00:08:45,520 --> 00:08:47,800
+Je le savais.
+
+79
+00:08:50,250 --> 00:08:55,870
+Quand même. Il aurait dû me le dire plus tôt que je puisse me préparer émotionnellement.
+
+80
+00:09:34,800 --> 00:09:37,300
+Comment est la nourriture ?
+
+81
+00:09:37,300 --> 00:09:39,350
+C'est très bon. J'en suis plutôt fan.
+
+82
+00:09:39,350 --> 00:09:42,230
+Je suis heureux de savoir que le goût vous plaît.
+
+83
+00:09:42,230 --> 00:09:44,530
+C'est parfait pour moi aussi.
+
+84
+00:09:45,470 --> 00:09:49,020
+Donc, quelle était la chose importante que tu voulais nous dire ?
+
+85
+00:09:49,860 --> 00:09:52,820
+Fiançons-nous d'abord.
+
+86
+00:09:56,590 --> 00:10:01,050
+Je veux suivre les bonnes procédures pour Ri El.
+
+87
+00:10:01,050 --> 00:10:04,510
+Se fiancer ? Je ne t'ai même pas encore embrassé.
+
+88
+00:10:04,510 --> 00:10:07,210
+C'est une bonne idée. Les procédures sont importantes.
+
+89
+00:10:07,210 --> 00:10:10,150
+- Papa. 
+ - Il est nécessaire pour les gens
+
+90
+00:10:10,150 --> 00:10:13,430
+de nous reconnaître officiellement comme un.
+
+91
+00:10:13,430 --> 00:10:16,780
+Ainsi, personne ne fera des efforts en vain.
+
+92
+00:10:16,780 --> 00:10:18,520
+Je suis d'accord avec vous.
+
+93
+00:10:18,520 --> 00:10:21,570
+Hé, je suis celle qui se marie.
+
+94
+00:10:21,570 --> 00:10:23,890
+Pouvez-vous aussi écouter ma pensée ?
+
+95
+00:10:23,890 --> 00:10:25,690
+Mangeons.
+
+96
+00:10:30,510 --> 00:10:33,070
+Veuillez m'excuser un moment.
+
+97
+00:10:47,190 --> 00:10:56,480
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+98
+00:10:56,480 --> 00:10:59,540
+Quand as-tu commencé à aimer Ri El ?
+
+99
+00:10:59,540 --> 00:11:02,330
+Il y a 15 ans.
+
+100
+00:11:02,330 --> 00:11:08,190
+Ri El m'a envoyé une carte d'anniversaire chaque année.
+
+101
+00:11:08,190 --> 00:11:10,210
+Je te remercie vraiment pour cela.
+
+102
+00:11:10,210 --> 00:11:13,810
+Des cartes ? Quand ai-je...
+
+103
+00:11:16,100 --> 00:11:18,630
+Elle a tendance à être très affectueuse.
+
+104
+00:11:36,360 --> 00:11:40,250
+Papa, qu'était-ce tout cela à l'instant ?
+
+105
+00:11:40,250 --> 00:11:42,920
+As-tu envoyé des cartes à Min Kyu en utilisant mon nom ?
+
+106
+00:11:42,920 --> 00:11:43,730
+Pourquoi ferais-tu cela ?
+
+107
+00:11:43,730 --> 00:11:48,390
+Si je l'envoie, c'est comme s'il s'agissait de toi.
+
+108
+00:11:48,390 --> 00:11:50,170
+Papa, tu peux partir en premier.
+
+109
+00:11:50,170 --> 00:11:52,320
+Je vais dire la vérité à Min Kyu.
+
+110
+00:11:52,320 --> 00:11:54,020
+Min Kyu a dit merci.
+
+111
+00:11:54,020 --> 00:11:56,240
+Si tu lui dis la vérité,
+
+112
+00:11:56,240 --> 00:11:59,030
+cela blessera beaucoup Min Kyu.
+
+113
+00:11:59,030 --> 00:12:01,350
+Si ennuyant.
+
+114
+00:12:01,350 --> 00:12:02,950
+Omo, qu'est-ce que cette femme fait ?
+
+115
+00:12:02,950 --> 00:12:05,970
+Il est difficile d'avoir une réservation ici et elle est venue toute seule. Quelle mal élevée.
+
+116
+00:12:05,970 --> 00:12:08,540
+Gâcher de l'argent comme cela.
+
+117
+00:12:17,710 --> 00:12:20,810
+Lève-toi. Allons-y.
+
+118
+00:12:37,830 --> 00:12:40,310
+Vous allez bien ?
+
+119
+00:12:40,310 --> 00:12:41,890
+À quel propos ?
+
+120
+00:12:43,540 --> 00:12:46,580
+Vous ne pouvez pas manger de la nourriture faite par d'autres.
+
+121
+00:12:46,580 --> 00:12:49,320
+- Alors plus tôt... 
+ - Es-tu vraiment inquiète
+
+122
+00:12:49,320 --> 00:12:53,490
+ou est-ce juste un dialogue fait par des données ?
+
+123
+00:12:54,700 --> 00:12:57,020
+Pourquoi m'avez-vous emmenée aujourd'hui ?
+
+124
+00:12:57,020 --> 00:12:59,680
+Tu devais être là.
+
+125
+00:13:02,490 --> 00:13:04,720
+Vous rappelez-vous ce que vous avez dit la nuit dernière ?
+
+126
+00:13:04,720 --> 00:13:08,520
+J'ai dit que j'aimerais que tu sois humaine.
+
+127
+00:13:08,520 --> 00:13:10,140
+Je me rappelle de tout ce que j'ai dit.
+
+128
+00:13:10,140 --> 00:13:14,290
+Alors ? Qu'est-ce que cela t'évoque ?
+
+129
+00:13:14,290 --> 00:13:16,170
+Pourquoi ?
+
+130
+00:13:17,350 --> 00:13:19,750
+Vas-tu m'épouser à la place ?
+
+131
+00:13:22,140 --> 00:13:25,400
+Si ce que j'ai dit te dérange, alors efface-le comme la dernière fois.
+
+132
+00:13:25,400 --> 00:13:29,480
+Cela m'est égal que tu t'en rappelles ou non.
+
+133
+00:13:29,480 --> 00:13:31,000
+Tu n'es vraiment pas une bonne personne.
+
+134
+00:13:31,000 --> 00:13:33,400
+Je t'ai dit que je te réinitialiserais si le mode ami apparaissait !
+
+135
+00:13:33,400 --> 00:13:34,780
+Réinitialise-moi alors !
+
+136
+00:13:34,780 --> 00:13:38,790
+Mais je vais dire ce que je dois dire. Pourquoi me fais-tu cela ?
+
+137
+00:13:44,340 --> 00:13:46,530
+C'est ce que je veux demander. Pourquoi me fais-tu cela ?
+
+138
+00:13:46,530 --> 00:13:50,180
+Tu n'es qu'un robot, pourquoi me pousses-tu à me préoccuper de tes sentiments ?
+
+139
+00:13:50,180 --> 00:13:53,280
+Pourquoi me rends-tu curieux de tes pensées ?
+
+140
+00:13:53,280 --> 00:13:57,140
+À toi, qui n'a ni sentiments ni pensées. Pourquoi ?
+
+141
+00:14:07,540 --> 00:14:10,030
+Fais une liste de robes
+
+142
+00:14:10,030 --> 00:14:11,220
+que Ri El pourrait porter.
+
+143
+00:14:11,220 --> 00:14:16,080
+C'est ce qu'un robot comme toi devrait faire.
+
+144
+00:14:41,160 --> 00:14:43,160
+Qu'est-ce qui ne va pas avec ton visage ?
+
+145
+00:14:43,160 --> 00:14:44,090
+Ce n'est rien.
+
+146
+00:14:44,090 --> 00:14:45,320
+S'est-il passé quelque chose avec Kim Min Kyu ?
+
+147
+00:14:45,320 --> 00:14:47,430
+Non, vraiment pas.
+
+148
+00:14:49,060 --> 00:14:51,700
+Qu'est-ce que ce minable a fait cette fois-ci ?
+
+149
+00:14:59,400 --> 00:15:01,990
+<i>J'ai dit que j'aimerais que tu sois humaine. </i>
+
+150
+00:15:01,990 --> 00:15:05,150
+<i>Alors ? Qu'est-ce que cela t'évoque ?</i>
+
+151
+00:15:05,150 --> 00:15:07,110
+<i>Pourquoi ? </i>
+
+152
+00:15:08,340 --> 00:15:11,130
+<i>Vas-tu m'épouser à la place ? </i>
+
+153
+00:15:22,630 --> 00:15:26,530
+♫ <i>Je souffre depuis quelques jours</i> ♫
+
+154
+00:15:26,530 --> 00:15:30,030
+<i>Hong Joo : Es-tu occupée ? Peux-tu emmener Dong Hyeon à l'hôpital ? </i>
+
+155
+00:15:30,030 --> 00:15:34,500
+♫ <i>Parce que tu as bouleversé mon cœur</i> ♫
+
+156
+00:15:34,500 --> 00:15:37,340
+♫ <i>Même respirer et dormir est difficile</i> ♫
+
+157
+00:15:37,340 --> 00:15:40,100
+♫ <i>Même respirer et dormir est difficile</i> ♫
+
+158
+00:15:40,100 --> 00:15:43,230
+♫ <i>Même respirer et dormir est difficile</i> ♫
+
+159
+00:15:43,230 --> 00:15:46,410
+♫ <i>Même si je me tiens à tes côtés</i> ♫
+
+160
+00:15:46,410 --> 00:15:53,330
+♫ <i>Mon cœur ne peut être avec toi</i> ♫
+
+161
+00:15:53,330 --> 00:15:56,860
+<i>Pour Min Kyu : Tu vas bien ? Joyeux 15e anniversaire. Je suis en Slovénie actuellement. Passe un bon anniversaire. De la part de Ri El. </i>
+
+162
+00:15:56,860 --> 00:16:00,410
+<i>Passe un bon anniversaire. De la part de Ri El. </i>
+
+163
+00:16:00,410 --> 00:16:02,400
+<i>De la part de Ri El. </i>
+
+164
+00:16:02,400 --> 00:16:04,810
+Les écritures sont
+
+165
+00:16:07,310 --> 00:16:09,120
+toutes différentes.
+
+166
+00:16:11,130 --> 00:16:15,810
+♫ <i>Je veux t'appeler</i> ♫
+
+167
+00:16:15,810 --> 00:16:19,220
+Pourquoi l'ignorais-tu tout ce temps,
+
+168
+00:16:19,220 --> 00:16:21,160
+Kim Min Kyu ?
+
+169
+00:16:21,160 --> 00:16:27,880
+♫ <i>Je les répète encore et encore</i> 
+ <i>Ces mots que j'ai dans le cœur</i> ♫
+
+170
+00:16:27,880 --> 00:16:33,400
+♫ <i>Peu importe combien je crie</i> ♫
+
+171
+00:16:33,400 --> 00:16:39,080
+♫ <i>On dirait que tu ne m'entends pas</i> ♫
+
+172
+00:16:39,080 --> 00:16:44,630
+♫ <i>Tous les jours, seulement dans mon cœur</i> 
+ <i>Seulement avec les yeux</i> ♫
+
+173
+00:16:44,630 --> 00:16:47,810
+♫ <i>J'ai pu professer mon amour pour toi</i> ♫
+
+174
+00:16:47,810 --> 00:16:55,720
+♫ <i>J'ai pu professer mon amour pour toi</i> ♫
+
+175
+00:16:58,530 --> 00:17:02,030
+<i>Chers clients qui visitent notre boutique, bienvenue ! </i>
+
+176
+00:17:02,030 --> 00:17:04,590
+<i>Bienvenue, chers clients. </i>
+
+177
+00:17:04,590 --> 00:17:06,470
+<i>Chers clients qui visitent notre boutique, bienvenue !</i>
+
+178
+00:17:06,470 --> 00:17:08,250
+Bon sang, j'ai eu peur.
+
+179
+00:17:08,250 --> 00:17:10,500
+C'est quoi ça ? Cela a l'air inutilement réel.
+
+180
+00:17:10,500 --> 00:17:12,620
+<i>Chers clients qui visitent notre boutique, bienvenue !</i>
+
+181
+00:17:12,620 --> 00:17:17,950
+♫ <i>Je veux te les dire</i> ♫
+
+182
+00:17:17,950 --> 00:17:23,520
+♫ <i>Je veux que tu les entendes</i> ♫
+
+183
+00:17:23,520 --> 00:17:27,920
+♫ <i>Toujours au bout de mes lèvres</i> ♫
+
+184
+00:17:27,920 --> 00:17:34,650
+♫ <i>Je les répète encore et encore</i> 
+ <i>Ces mots que j'ai dans le cœur</i> ♫
+
+185
+00:17:34,650 --> 00:17:40,380
+♫ <i>Peu importe combien je crie</i> ♫
+
+186
+00:17:40,380 --> 00:17:45,990
+♫ <i>On dirait que tu ne m'entends pas</i> ♫
+
+187
+00:17:45,990 --> 00:17:51,510
+♫ <i>Tous les jours, seulement dans mon cœur</i> 
+ <i>Seulement avec les yeux</i> ♫
+
+188
+00:17:51,510 --> 00:17:54,610
+♫ <i>J'ai pu professer mon amour pour toi</i> ♫
+
+189
+00:17:54,610 --> 00:18:01,630
+♫ <i>J'ai pu professer mon amour pour toi</i> ♫
+
+190
+00:18:28,120 --> 00:18:30,310
+Descends.
+
+191
+00:18:30,310 --> 00:18:32,930
+Je n'ai pas AG-3. Tenez-vous là et dites-moi.
+
+192
+00:18:32,930 --> 00:18:34,580
+Tu vas beaucoup mieux. Sors.
+
+193
+00:18:34,580 --> 00:18:37,060
+Je dois te parler en face à face.
+
+194
+00:18:45,900 --> 00:18:47,200
+Que voulez-vous dire ?
+
+195
+00:18:47,200 --> 00:18:51,410
+Je t'avais demandé de ne pas l'utiliser imprudemment.
+
+196
+00:18:51,410 --> 00:18:53,670
+Ne pas l'utiliser imprudemment ?
+
+197
+00:18:53,670 --> 00:18:58,990
+Vous parlez comme si quelqu'un avait blessé le robot.
+
+198
+00:18:58,990 --> 00:19:00,710
+L'existence de ce robot m'est spéciale.
+
+199
+00:19:00,710 --> 00:19:02,100
+N'est-ce pas la même chose pour toi ?
+
+200
+00:19:02,100 --> 00:19:03,520
+Tu as dit que l'existence de ce robot avait guéri ta maladie.
+
+201
+00:19:03,520 --> 00:19:06,210
+Le robot n'a même pas d'émotions.
+
+202
+00:19:06,210 --> 00:19:07,810
+Elle est un robot que tu es supposé entraîner.
+
+203
+00:19:07,810 --> 00:19:09,220
+Tu dois y passer du temps et des efforts.
+
+204
+00:19:09,220 --> 00:19:10,960
+Et alors quoi ?
+
+205
+00:19:10,960 --> 00:19:13,930
+Le robot a-t-il développé des émotions ?
+
+206
+00:19:13,930 --> 00:19:16,290
+Le robot ne le peut pas.
+
+207
+00:19:16,290 --> 00:19:18,100
+À la fin, ce n'est rien.
+
+208
+00:19:18,100 --> 00:19:19,930
+Comment cela peut-il n'être rien ?
+
+209
+00:19:19,930 --> 00:19:22,850
+Les moments que vous avez passés ensemble ne sont-ils rien ?
+
+210
+00:19:22,850 --> 00:19:24,960
+Chaque action que tu as entreprise est devenue une part d'elle.
+
+211
+00:19:24,960 --> 00:19:26,080
+Comment cela peut-il n'être rien ?
+
+212
+00:19:26,080 --> 00:19:28,650
+Si ce n'est pas rien,
+
+213
+00:19:29,830 --> 00:19:31,970
+alors effacez-le.
+
+214
+00:19:31,970 --> 00:19:34,050
+C'est si facile.
+
+215
+00:19:35,770 --> 00:19:37,420
+Hé, Kim Min Kyu.
+
+216
+00:19:40,530 --> 00:19:43,130
+Ce n'est pas comme s'il traversait la puberté, alors qu'est-ce qui ne va pas chez lui ?
+
+217
+00:19:47,560 --> 00:19:49,420
+Un moment, je vous prie.
+
+218
+00:20:01,330 --> 00:20:04,150
+Ssanip a mangé de la nourriture appartenant à Jo Ji Ah.
+
+219
+00:20:04,150 --> 00:20:08,810
+Je l'ai vue lui donner tout ce qu'elle avait à manger.
+
+220
+00:20:08,810 --> 00:20:14,010
+Me rendant compte que nous avions dû un peu trop sous-estimer Jo Ji Ah,
+
+221
+00:20:14,010 --> 00:20:17,360
+j'ai analysé ses données.
+
+222
+00:20:17,360 --> 00:20:22,250
+Ce qui a motivé Jo Ji Ah à commencer ce travail à temps partiel, c'est l'argent.
+
+223
+00:20:22,250 --> 00:20:26,320
+Mais quelle est la raison pour laquelle elle a repris ce travail, même si elle n'était pas payée ?
+
+224
+00:20:26,320 --> 00:20:28,960
+Elle a dit qu'elle était mal à l'aise d'avoir reçu trop d'argent.
+
+225
+00:20:28,960 --> 00:20:33,540
+Si on traduit ça librement, est-ce que ça ne signifie pas qu'elle pensait à moi ?
+
+226
+00:20:33,540 --> 00:20:35,470
+Est-ce que ça pourrait vraiment être ça ?
+
+227
+00:20:35,470 --> 00:20:41,590
+Pour l'instant, nous devons analyser le contenu de sa valise.
+
+228
+00:20:41,590 --> 00:20:47,230
+Sa valise était pour le gîte et le couvert. Alors pourquoi a-t-elle apporté deux exemplaires identiques de lampes cœurs ?
+
+229
+00:20:47,230 --> 00:20:51,100
+Pourquoi a-t-elle demandé d'être logée et nourrie ici ?
+
+230
+00:20:52,610 --> 00:20:54,210
+À cause de moi ?
+
+231
+00:20:54,210 --> 00:20:56,390
+Vous n'êtes qu'une constante.
+
+232
+00:20:56,390 --> 00:21:00,910
+Cependant, dans des moments pareils, une variable peut contrôler la situation.
+
+233
+00:21:02,250 --> 00:21:07,470
+Il n'y a pas longtemps, KM Financial a organisé un concours pour jeunes entrepreneurs.
+
+234
+00:21:07,470 --> 00:21:12,470
+J'ai découvert que ses lampes cœurs avaient réussi à arriver en finale.
+
+235
+00:21:12,470 --> 00:21:15,000
+De plus, le prototype de la lampe cœur
+
+236
+00:21:15,000 --> 00:21:19,120
+est arrivé au deuxième tour il y a quatre ans lors d'un concours d'idées parmi les étudiants universitaires.
+
+237
+00:21:19,120 --> 00:21:22,720
+Je l'ai découvert en regardant sur Internet.
+
+238
+00:21:22,720 --> 00:21:26,000
+Jo Ji Ah traite ces lampes comme des reliques.
+
+239
+00:21:26,000 --> 00:21:30,770
+Même si vous n'avez pas su reconnaître ces lampes, vous les avez réparées pour elle.
+
+240
+00:21:30,770 --> 00:21:34,230
+C'est la seule chose qui relie le passé et le présent.
+
+241
+00:21:34,230 --> 00:21:41,180
+J'en ai déduit que ces lampes cœurs pourraient être votre partie brisée qu'il faut réparer.
+
+242
+00:21:48,960 --> 00:21:53,780
+C'est très gonflé. Ça te démange beaucoup ? Tu as le nez qui coule ?
+
+243
+00:21:53,780 --> 00:21:57,220
+Je vais bien. Détends-toi, Tata.
+
+244
+00:21:57,220 --> 00:22:01,380
+Je suis désolée. J'avais des crampes d'estomac.
+
+245
+00:22:02,190 --> 00:22:07,080
+Petit, ne mène pas la vie dure à ta maman.
+
+246
+00:22:07,080 --> 00:22:09,150
+Tu n'as pas besoin d'aller à l'hôpital ?
+
+247
+00:22:09,150 --> 00:22:11,070
+Ils ont dit que tant que je ne me surmène pas, ça va.
+
+248
+00:22:11,070 --> 00:22:14,230
+Par contre... Dong Hyeon doit y aller.
+
+249
+00:22:14,230 --> 00:22:16,790
+Vous avez déjà mangé ?
+
+250
+00:22:18,650 --> 00:22:21,190
+Ça a l'air bon.
+
+251
+00:22:22,890 --> 00:22:24,800
+Ouah, ça a l'air bon.
+
+252
+00:22:24,800 --> 00:22:26,610
+Ça me rappelle le bon vieux temps.
+
+253
+00:22:26,610 --> 00:22:31,740
+En pique-nique, les enfants avaient vu que tu avais apporté des boules de riz et s'étaient moqués de toi.
+
+254
+00:22:31,740 --> 00:22:38,110
+Je pensais que mes boules de riz étaient plutôt bonnes, mais, en voyant que personne ne voulait en manger, j'étais un peu triste.
+
+255
+00:22:38,110 --> 00:22:43,380
+C'est vrai. Sachant qu'une élève de primaire les avait cuisinées, elles étaient très bonnes.
+
+256
+00:22:43,380 --> 00:22:45,410
+C'est bon, hein ?
+
+257
+00:22:53,710 --> 00:22:55,760
+<i>J'ai pris un rendez-vous spécial pour elle, dans un hôpital universitaire.</i>
+
+258
+00:22:55,760 --> 00:22:59,460
+<i>J'ai trouvé le meilleur médecin spécialiste des allergies. </i>
+
+259
+00:22:59,460 --> 00:23:03,210
+<i>Vu que c'est la première fois qu'elle y va, explique bien les choses à ma place.</i>
+
+260
+00:23:05,750 --> 00:23:10,530
+Dong Hyeon, ces patchs ont dû bien te démanger, mais tu les as supportées. C'est bien.
+
+261
+00:23:12,270 --> 00:23:16,800
+Il n'y a pas que les arachides, mais aussi le raisin vert, les blancs d'œufs et les tomates.
+
+262
+00:23:16,800 --> 00:23:19,270
+Elle fait même des réactions allergiques aux tiques.
+
+263
+00:23:19,270 --> 00:23:21,050
+- Vous pouvez faire les vérifications ?
+ - Oui.
+
+264
+00:23:21,050 --> 00:23:23,270
+Allons-y.
+
+265
+00:23:23,270 --> 00:23:27,040
+Outre ses allergies, son taux de saturation en oxygène est faible, alors je vais lui prescrire un traitement.
+
+266
+00:23:27,040 --> 00:23:30,330
+Cela a empiré récemment, donc nous étions inquiètes.
+
+267
+00:23:30,330 --> 00:23:35,610
+C'est peu probable, mais il pourrait y avoir une urgence, alors je vais aussi vous prescrire de l'épinéphrine.
+
+268
+00:23:37,600 --> 00:23:43,140
+Puis-je vous poser une question ?
+
+269
+00:23:43,140 --> 00:23:48,660
+Je sais que cela n'a rien de sensé et que cela peut sembler étrange, mais,
+
+270
+00:23:48,660 --> 00:23:55,950
+par hasard, existe-t-il une allergie qui empêche tout contact avec une autre personne ?
+
+271
+00:24:01,040 --> 00:24:05,250
+<i>Il n'existe que peu de cas dans le monde, mais ce type d'allergie existe bien.</i>
+
+272
+00:24:05,250 --> 00:24:10,640
+<i>Toutefois, le problème est que c'est très difficile à traiter, étant donné que l'origine est de nature psychologique.</i>
+
+273
+00:24:12,280 --> 00:24:15,870
+Pourquoi ? Vous connaissez quelqu'un comme cela ?
+
+274
+00:24:15,870 --> 00:24:22,330
+Non, non. Comment soigne-t-on une personne allergique aux humains ?
+
+275
+00:24:22,330 --> 00:24:26,860
+Il existe un cas où la personne est allée mieux en trouvant quelqu'un en qui elle avait entièrement confiance.
+
+276
+00:24:26,860 --> 00:24:30,160
+L'esprit humain est assez mystérieux, n'est-ce pas ?
+
+277
+00:24:31,190 --> 00:24:35,180
+Il existe vraiment une telle allergie.
+
+278
+00:24:36,750 --> 00:24:40,500
+Kim Min Kyu serait-il allergique aux humains ?
+
+279
+00:24:40,500 --> 00:24:46,510
+Mais je suis une personne. Je l'ai vu être en contact avec des gens.
+
+280
+00:24:48,270 --> 00:24:51,180
+C'est insensé.
+
+281
+00:24:51,180 --> 00:24:55,350
+Vu que notre Dong Hyeon est allée à l'hôpital, voici un cadeau.
+
+282
+00:24:57,240 --> 00:25:00,690
+Je dois aller au marché. Hong Joo veut que je lui prenne des choses.
+
+283
+00:25:00,690 --> 00:25:03,130
+Dong Hyeon, Tata revient vite.
+
+284
+00:25:03,130 --> 00:25:04,330
+Rapporte-moi de quoi grignoter.
+
+285
+00:25:04,330 --> 00:25:06,610
+Ne le dis pas à ta mère, c'est un secret.
+
+286
+00:25:22,550 --> 00:25:27,470
+Dong Hyeon, je vais aux toilettes et ça va prendre un petit peu de temps. Si des clients viennent...
+
+287
+00:25:27,470 --> 00:25:31,180
+J'ai compris. Je m'accroche à eux pour qu'ils ne partent pas.
+
+288
+00:25:31,180 --> 00:25:34,100
+Tu as compris, ma petite Dong Hyeon.
+
+289
+00:26:06,040 --> 00:26:08,600
+Pour moi, ce sont les arachides.
+
+290
+00:26:09,470 --> 00:26:10,780
+Quoi ?
+
+291
+00:26:10,780 --> 00:26:15,850
+Je suis allergique aux arachides. Quelle est votre allergie ?
+
+292
+00:26:17,630 --> 00:26:18,990
+Mon allergie est plus forte que la tienne.
+
+293
+00:26:18,990 --> 00:26:23,130
+Je suis allergique aux tiques, aux œufs et aux tomates.
+
+294
+00:26:23,130 --> 00:26:26,770
+Je n'en ai qu'une. Mais elle est très sévère.
+
+295
+00:26:26,770 --> 00:26:29,020
+Moi, c'est Dong Hyeon.
+
+296
+00:26:29,020 --> 00:26:31,160
+- Quoi ?
+ - Dong Hyeon. Jo Dong Hyeon.
+
+297
+00:26:31,160 --> 00:26:34,960
+C'est mon nom. Quel est votre nom, Ahjusshi ?
+
+298
+00:26:40,840 --> 00:26:42,560
+Kim Min Kyu.
+
+299
+00:26:42,560 --> 00:26:45,150
+Ma tata n'a pas de petit ami.
+
+300
+00:26:47,420 --> 00:26:50,470
+En quoi ça me concerne ?
+
+301
+00:26:50,470 --> 00:26:53,220
+C'est ce que ma tante a préparé.
+
+302
+00:26:56,820 --> 00:26:58,370
+Tu veux que je le mange ?
+
+303
+00:26:58,370 --> 00:27:00,520
+C'est à moi.
+
+304
+00:27:03,720 --> 00:27:07,110
+Quand ma tante avait à peu près mon âge, elle est allée à un pique-nique.
+
+305
+00:27:07,110 --> 00:27:10,850
+Mais elle ne savait pas faire les kimbap, alors elle a fait des boules de riz,
+
+306
+00:27:10,850 --> 00:27:15,770
+comme ça. C'était la première fois qu'elle en préparait.
+
+307
+00:27:16,510 --> 00:27:20,020
+Pourquoi une enfant ferait-elle des kimbap ?
+
+308
+00:27:20,020 --> 00:27:24,970
+Elle a dit qu'il n'y avait personne pour lui en cuisiner. C'est vraiment bon.
+
+309
+00:27:27,870 --> 00:27:33,240
+Elle a dû bien se faire chahuter par les autres. Je parle de ta tante.
+
+310
+00:27:33,240 --> 00:27:38,130
+Personne n'a mangé les boules de riz avec elle. Sauf ma mère.
+
+311
+00:27:38,130 --> 00:27:41,960
+Alors ma tante est devenue l'ange gardien de ma mère.
+
+312
+00:27:47,550 --> 00:27:49,660
+Kim Min Kyu ?
+
+313
+00:27:52,250 --> 00:27:55,740
+Grâce à votre aide, je vais me fiancer.
+
+314
+00:27:57,180 --> 00:28:01,690
+La personne qui a volé votre premier baiser est-elle au courant ?
+
+315
+00:28:01,690 --> 00:28:06,070
+Oui, elle le sait. Elle était juste à côté de moi.
+
+316
+00:28:06,070 --> 00:28:09,040
+Espèce d'enfoiré.
+
+317
+00:28:09,040 --> 00:28:09,810
+Comment ?
+
+318
+00:28:09,810 --> 00:28:14,020
+Non, il y a un petit instant, un enfoiré est passé.
+
+319
+00:28:16,000 --> 00:28:17,950
+Espèce d'imbécile.
+
+320
+00:28:21,400 --> 00:28:25,470
+Vous n'êtes sûrement pas venu ici pour me dire ça, si ?
+
+321
+00:28:29,280 --> 00:28:34,770
+Ce jour-là, vous disiez que cette fille et moi flirtions, n'est-ce pas ?
+
+322
+00:28:34,770 --> 00:28:41,500
+Sun Hye, semblait-elle s'intéresser à moi, selon vous ?
+
+323
+00:28:42,400 --> 00:28:44,240
+Oui, beaucoup.
+
+324
+00:28:44,240 --> 00:28:47,160
+Qu'est-ce qui vous a amenée à cette conclusion ?
+
+325
+00:28:47,160 --> 00:28:49,860
+Je vous vois.
+
+326
+00:28:57,370 --> 00:29:00,140
+<i>Ascidies salées</i>
+
+327
+00:29:02,610 --> 00:29:06,670
+<i>Ces ascidies salées sont pour notre originaire de Masan… Chercheur 1.</i>
+
+328
+00:29:06,670 --> 00:29:09,730
+<i>Ces ascidies salées sont pour notre originaire de Masan… Chercheur 1.</i>
+
+329
+00:29:09,730 --> 00:29:13,500
+Elle ne cessait de vous contempler.
+
+330
+00:29:13,500 --> 00:29:17,400
+Là où vont les yeux est là où va le cœur.
+
+331
+00:29:19,240 --> 00:29:25,970
+Le cœur. C'est un raisonnement infondé.
+
+332
+00:29:25,970 --> 00:29:29,870
+Comment peut-on vérifier quelque chose qui est invisible ?
+
+333
+00:29:29,870 --> 00:29:35,170
+Ce que quelqu'un ressent est ce qu'il y a de plus vrai. Je m'arrête là.
+
+334
+00:29:35,170 --> 00:29:40,860
+Si j'en dis plus, je pense que je vais commencer à frapper des choses.
+
+335
+00:29:50,610 --> 00:29:53,970
+Avez-vous l'intention d'accepter ses sentiments ?
+
+336
+00:29:56,530 --> 00:30:01,010
+Quels que soient les changements dans son apparence ?
+
+337
+00:30:02,150 --> 00:30:09,130
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+

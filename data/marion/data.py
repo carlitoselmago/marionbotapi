@@ -1,10 +1,10 @@
-EN_WHITELIST = "0123456789abcdefghijklmnopqrstuvwxyzàâæçéêëîïôœùûüÿ' " # space is included in whitelist
+EN_WHITELIST = "0123456789abcdefghijklmnopqrstuvwxyzàâäæçèéêëîïôöœùûüÿ' " # space is included in whitelist
 EN_WHITELIST+='❤️♥💜💙💚💗💟💕💞💔💤👑😻🐱👶😀🙂😛😊😅😆😅😂😳🤣😍🥰🤩😘☺💁👦💋💥✨👀🐶😎😁😉🤓🐩🐽🐷🍤💨⛄🎉💩🎤�️❄️☔️🍸🔥🙏💪🏾👍👌🍕🍻🚨🎥🌛😮👂🌌😡😠😞😕🤔😓😢😫😭😤😰😱😮🙄🤯'
 #EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
-EN_BLACKLIST = '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~'
+EN_BLACKLIST = '"#$%&()*+,-./:;<=>@[\\]^_`{|}~'
 
 #FILENAME = 'fb.txt'
-FILENAME = 'all.txt'
+FILENAME = 'COMBINED/ALL.txt'
 
 limit = {
         'maxq' : 20,
@@ -14,7 +14,7 @@ limit = {
         }
 
 UNK = 'unk'
-VOCAB_SIZE = 9000#10000#6000
+VOCAB_SIZE = 8000#10000#6000
 
 import random
 import sys

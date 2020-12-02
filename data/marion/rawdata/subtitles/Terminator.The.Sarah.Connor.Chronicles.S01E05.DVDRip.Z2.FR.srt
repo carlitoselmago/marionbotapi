@@ -1,0 +1,1933 @@
+1
+00:00:02,520 --> 00:00:07,958
+<i>Dans le futur, mon fils guidera l'humanité</i>
+<i>dans une guerre contre Skynet,</i>
+
+2
+00:00:08,280 --> 00:00:12,034
+<i>le système informatique programmé</i>
+<i>pour détruire le monde.</i>
+
+3
+00:00:12,840 --> 00:00:15,638
+<i>Skynet a renvoyé des machines</i>
+<i>dans notre temps.</i>
+
+4
+00:00:15,800 --> 00:00:17,153
+<i>Certaines pour le tuer.</i>
+
+5
+00:00:17,440 --> 00:00:18,998
+<i>Une pour le protéger.</i>
+
+6
+00:00:19,360 --> 00:00:22,716
+<i>Aujourd'hui, nous nous battons</i>
+<i>pour empêcher sa création.</i>
+
+7
+00:00:22,880 --> 00:00:25,394
+<i>Pour changer notre futur.</i>
+
+8
+00:00:25,560 --> 00:00:27,835
+<i>Pour changer son destin.</i>
+
+9
+00:00:28,200 --> 00:00:31,988
+<i>La guerre pour sauver l'humanité</i>
+<i>commence maintenant.</i>
+
+10
+00:00:56,080 --> 00:00:59,516
+<i>De tous les entraînements que</i>
+<i>John a reçus en Amérique Centrale,</i>
+
+11
+00:01:00,120 --> 00:01:02,509
+<i>rien ne l'a aussi bien préparé</i>
+<i>au combat</i>
+
+12
+00:01:03,480 --> 00:01:05,277
+<i>que les échecs.</i>
+
+13
+00:01:08,280 --> 00:01:12,114
+<i>Les échecs lui ont tout enseigné</i>
+<i>sur la guerre.</i>
+
+14
+00:01:15,640 --> 00:01:18,518
+<i>Notamment que pour gagner</i>
+<i>il faut être patient...</i>
+
+15
+00:01:19,440 --> 00:01:21,351
+<i>audacieux...</i>
+
+16
+00:01:22,360 --> 00:01:24,430
+<i>calculateur...</i>
+
+17
+00:01:25,520 --> 00:01:26,839
+<i>et, par-dessus tout...</i>
+
+18
+00:01:28,920 --> 00:01:31,275
+<i>prêt au sacrifice.</i>
+
+19
+00:01:55,960 --> 00:01:58,554
+Andy. Ça faisait longtemps.
+
+20
+00:01:58,760 --> 00:02:01,593
+<i>Désolé d'avoir été injoignable,</i>
+<i>mais après l'incendie...</i>
+
+21
+00:02:01,760 --> 00:02:04,433
+<i>Comment dire ?</i>
+<i>C'est un mal pour un bien.</i>
+
+22
+00:02:05,000 --> 00:02:07,036
+<i>- On peut se voir ?</i>
+- Où es-tu ?
+
+23
+00:02:07,280 --> 00:02:09,669
+Un hôtel de Pasadena.
+Je participe à un tournoi.
+
+24
+00:02:09,840 --> 00:02:11,956
+<i>- Un tournoi ?</i>
+- Oui, d'échecs.
+
+25
+00:02:15,360 --> 00:02:16,759
+Charlie Dixon.
+
+26
+00:02:16,920 --> 00:02:19,753
+Agent Kester, FBI.
+J'ai quelques questions.
+
+27
+00:02:19,920 --> 00:02:21,876
+- À quel sujet ?
+- Sarah Connor.
+
+28
+00:02:27,440 --> 00:02:29,510
+Oui, entrez.
+
+29
+00:02:31,960 --> 00:02:33,996
+Tu es très bonne en maths.
+
+30
+00:02:34,160 --> 00:02:35,798
+Oui.
+
+31
+00:02:37,240 --> 00:02:39,037
+Tu veux faire mon devoir ?
+
+32
+00:02:39,200 --> 00:02:40,758
+Oui.
+
+33
+00:02:42,080 --> 00:02:43,195
+On a un problème.
+
+34
+00:02:43,400 --> 00:02:45,709
+Andy Goode a recréé
+son programme d'échecs.
+
+35
+00:02:47,760 --> 00:02:50,069
+Le Turc.
+Tu l'avais pourtant détruit.
+
+36
+00:02:50,240 --> 00:02:52,435
+Depuis, il a passé son temps
+
+37
+00:02:52,600 --> 00:02:56,115
+à réécrire le code de mémoire
+dans un café de Van Nuys.
+
+38
+00:02:56,280 --> 00:02:58,635
+C'est comme une chanson,
+ça doit sortir.
+
+39
+00:02:58,800 --> 00:03:00,870
+Cette chanson pourrait
+détruire le monde.
+
+40
+00:03:01,040 --> 00:03:03,349
+Vous auriez dû le tuer
+quand vous le pouviez.
+
+41
+00:03:03,560 --> 00:03:06,028
+Ça m'étonne que
+tu ne l'aies pas dit plus tôt.
+
+42
+00:03:06,560 --> 00:03:09,028
+Je suis occupée à faire
+les devoirs de John.
+
+43
+00:03:12,440 --> 00:03:14,158
+Andy participe à un tournoi.
+
+44
+00:03:14,640 --> 00:03:17,074
+- Machine contre humain ?
+- Machine contre machine.
+
+45
+00:03:17,240 --> 00:03:18,355
+C'est la mode.
+
+46
+00:03:18,520 --> 00:03:21,080
+Ces programmes sont trop puissants
+pour les hommes.
+
+47
+00:03:21,240 --> 00:03:23,470
+Et ils s'améliorent
+pendant qu'on discute.
+
+48
+00:03:23,640 --> 00:03:24,755
+Allez en cours.
+
+49
+00:03:24,920 --> 00:03:27,036
+Tin Miss et toi m'y rejoindrez.
+
+50
+00:03:27,200 --> 00:03:30,988
+- Tu connais rien aux échecs.
+- Je connais un peu Andy.
+
+51
+00:03:31,160 --> 00:03:34,311
+Et puis, si tu manques l'école
+tu te feras remarquer.
+
+52
+00:03:34,480 --> 00:03:38,359
+OK. J'ai pigé. J'irai. Je peux avoir
+de quoi payer mon déjeuner ?
+
+53
+00:03:56,280 --> 00:03:58,191
+C'est le plus récent ?
+
+54
+00:03:58,360 --> 00:04:00,954
+C'est la nouvelle édition,
+elle vient de sortir.
+
+55
+00:04:04,520 --> 00:04:06,351
+C'est génial, non ?
+
+56
+00:04:06,520 --> 00:04:08,431
+Bon sang, j'adore les robots.
+
+57
+00:04:13,720 --> 00:04:15,312
+Viens.
+
+58
+00:04:21,880 --> 00:04:25,589
+- Celui-ci est mieux ou pire ?
+- Eh bien, il est différent.
+
+59
+00:04:25,760 --> 00:04:27,478
+Plus adaptable, mais imprévisible.
+
+60
+00:04:27,640 --> 00:04:30,871
+Moins puissant pour l'instant,
+mais plus rapide à se lancer.
+
+61
+00:04:31,040 --> 00:04:34,874
+Il a une grande soif de connaissances,
+mais ce qu'il apprend...
+
+62
+00:04:35,040 --> 00:04:36,598
+Sonne parfois plus humain.
+
+63
+00:04:37,080 --> 00:04:38,513
+Pour faire une analogie,
+
+64
+00:04:38,680 --> 00:04:41,513
+je dirais que Turc l était devenu
+un ado rêveur
+
+65
+00:04:41,680 --> 00:04:44,240
+et que Turc II est encore
+un enfant précoce.
+
+66
+00:04:45,440 --> 00:04:49,513
+En parlant de rêveur et précoce,
+voici mon associé, Dmitri Shipkov.
+
+67
+00:04:49,680 --> 00:04:52,990
+J'ai conçu le Turc, mais Dmitri lui a
+appris à jouer aux échecs.
+
+68
+00:04:53,960 --> 00:04:56,235
+Elle ne couchera jamais avec toi.
+
+69
+00:04:56,760 --> 00:04:57,875
+Branche-le.
+
+70
+00:04:58,040 --> 00:05:00,918
+Ouais. Ne l'écoute pas.
+
+71
+00:05:01,080 --> 00:05:03,594
+Il est stressé à propos
+du contrat militaire.
+
+72
+00:05:03,760 --> 00:05:05,512
+On a prévu de partager l'argent.
+
+73
+00:05:05,680 --> 00:05:08,638
+- Quel contrat militaire ?
+- Celui qui revient au gagnant.
+
+74
+00:05:15,080 --> 00:05:18,356
+Essayez de vous mettre d'accord.
+Elle est morte ou pas ?
+
+75
+00:05:18,520 --> 00:05:21,990
+Sarah Connor a survécu à l'explosion,
+ainsi que son fils.
+
+76
+00:05:22,160 --> 00:05:25,869
+Oui, c'était il y a huit ans.
+Et vous venez de percuter ?
+
+77
+00:05:33,880 --> 00:05:37,190
+- Oui.
+- Oui ? "Oui", quoi ?
+
+78
+00:05:37,680 --> 00:05:40,990
+- Oui, on vient de percuter.
+- Chéri, qui est-ce ?
+
+79
+00:05:43,600 --> 00:05:44,828
+Bonjour, madame.
+
+80
+00:05:45,240 --> 00:05:48,277
+- Il est du FBI.
+- J'ai quelques questions.
+
+81
+00:05:49,360 --> 00:05:51,635
+- Il y a un problème, Charlie ?
+- Non.
+
+82
+00:05:51,800 --> 00:05:54,951
+- Je cherche les Connor.
+- Sarah Connor ? Ton ex ?
+
+83
+00:05:55,120 --> 00:05:56,917
+- Je les cherche ici.
+- Ici ?
+
+84
+00:05:57,080 --> 00:05:59,355
+M. Dixon voulait
+l'épouser avant vous.
+
+85
+00:05:59,520 --> 00:06:01,670
+Elle est vivante.
+Il la cache peut-être.
+
+86
+00:06:01,840 --> 00:06:04,912
+Quoi ? Je vous l'ai déjà dit : "Non".
+
+87
+00:06:05,080 --> 00:06:06,832
+Non. D'accord ?
+
+88
+00:06:07,000 --> 00:06:10,879
+Avec tout le respect
+que je vous dois, agent Kester,
+
+89
+00:06:11,040 --> 00:06:13,235
+la femme que je connaissais,
+Sarah Reese,
+
+90
+00:06:13,400 --> 00:06:15,630
+a péri dans une explosion
+il y a huit ans.
+
+91
+00:06:18,440 --> 00:06:22,319
+Je n'ai jamais connu,
+et je ne connais pas, Sarah Connor.
+
+92
+00:06:30,360 --> 00:06:33,591
+Si vous apprenez quoi que ce soit,
+appelez-moi.
+
+93
+00:06:34,760 --> 00:06:37,672
+N'importe quand. Je ne dors jamais.
+
+94
+00:06:50,800 --> 00:06:51,789
+Petit rappel.
+
+95
+00:06:51,960 --> 00:06:55,157
+Les séances de soutien auront
+lieu toute la semaine.
+
+96
+00:07:03,640 --> 00:07:07,918
+- Que font-ils ?
+- Ils écrivent à Jordan.
+
+97
+00:07:10,160 --> 00:07:11,309
+Elle est morte.
+
+98
+00:07:12,200 --> 00:07:15,317
+- Je sais, j'ai assisté à sa chute.
+- Moi aussi.
+
+99
+00:07:15,800 --> 00:07:17,916
+Comment pourra-t-elle lire
+ces messages ?
+
+100
+00:07:18,080 --> 00:07:20,958
+- Elle ne les lira pas.
+- Mais tu as dit que...
+
+101
+00:07:21,120 --> 00:07:23,315
+Parfois, il arrive
+des choses si terribles
+
+102
+00:07:23,480 --> 00:07:26,836
+que les gens ne savent pas
+comment gérer leur chagrin.
+
+103
+00:07:27,000 --> 00:07:28,433
+Alors, ils l'écrivent.
+
+104
+00:07:28,600 --> 00:07:30,830
+Je croyais que les gens pleuraient.
+
+105
+00:07:31,000 --> 00:07:32,877
+Parfois, ça ne suffit pas.
+
+106
+00:07:46,000 --> 00:07:47,831
+Est-ce que tu vas...
+
+107
+00:07:49,640 --> 00:07:51,471
+Je ne la connaissais pas vraiment.
+
+108
+00:07:52,440 --> 00:07:53,555
+Moi non plus.
+
+109
+00:07:55,320 --> 00:07:56,878
+J'aime l'idée des messages.
+
+110
+00:08:09,360 --> 00:08:12,238
+Trente-huit. Allez.
+
+111
+00:08:12,400 --> 00:08:14,994
+Passe-moi le 50 mm...
+
+112
+00:08:15,960 --> 00:08:19,475
+OK, alors 19 mm, ouvert.
+
+113
+00:08:23,720 --> 00:08:25,631
+Je peux avoir le kit de diagnostique ?
+
+114
+00:08:27,120 --> 00:08:28,109
+On s'en sert.
+
+115
+00:08:28,600 --> 00:08:29,874
+Vous le monopolisez, oui.
+
+116
+00:08:30,360 --> 00:08:32,157
+Ça te pose un problème ?
+
+117
+00:08:33,720 --> 00:08:35,312
+Si vous comptez vous prendre
+
+118
+00:08:35,480 --> 00:08:37,232
+la tête, donnez-le-moi.
+
+119
+00:08:39,120 --> 00:08:40,997
+Pas mal, l'accent, blanc-bec.
+
+120
+00:08:48,760 --> 00:08:52,548
+Je sais pas ce qu'ils ont.
+Ils me cherchent sans arrêt.
+
+121
+00:08:53,760 --> 00:08:55,318
+Hé, j'en sais rien, moi.
+
+122
+00:08:55,480 --> 00:08:57,596
+- Je m'appelle Morris.
+- John.
+
+123
+00:08:57,800 --> 00:09:00,473
+Je t'ai vu parler
+à Cheri Westin ce matin.
+
+124
+00:09:00,680 --> 00:09:03,558
+Tu dois pas savoir, t'es nouveau.
+Elle est givrée.
+
+125
+00:09:04,280 --> 00:09:07,033
+C'est mon binôme en chimie.
+Tu la connais ?
+
+126
+00:09:07,200 --> 00:09:10,510
+Personne ne la connaît.
+Il s'est passé un truc
+
+127
+00:09:10,680 --> 00:09:14,150
+dans son ancien lycée, mais quoi ?
+Son père la séquestre.
+
+128
+00:09:15,960 --> 00:09:17,393
+C'est barbant comme rumeur.
+
+129
+00:09:18,040 --> 00:09:20,429
+- C'est la vérité.
+- Pas sûr.
+
+130
+00:09:22,080 --> 00:09:23,718
+Je veille sur toi, c'est tout.
+
+131
+00:09:25,880 --> 00:09:27,791
+Oui, comme tous les autres.
+
+132
+00:09:27,960 --> 00:09:29,393
+Tournoi d'Échecs Informatiques
+
+133
+00:09:30,160 --> 00:09:32,754
+<i>La partie est très serrée</i>
+<i>entre les ordinateurs</i>
+
+134
+00:09:32,920 --> 00:09:35,514
+<i>américain et japonais</i>
+<i>au cours de cette finale.</i>
+
+135
+00:09:35,720 --> 00:09:38,029
+<i>Les Américains,</i>
+<i>menés par Andrew Goode,</i>
+
+136
+00:09:38,200 --> 00:09:41,078
+<i>ont pris un léger avantage.</i>
+
+137
+00:09:51,920 --> 00:09:55,629
+<i>Les Japonais prennent le contrôle</i>
+<i>du centre avec leur fou en C5.</i>
+
+138
+00:10:06,720 --> 00:10:09,871
+La construction n'est pas cohérente.
+
+139
+00:10:38,640 --> 00:10:41,677
+Tu sais combien de champions
+d'échecs sont dans la salle ?
+
+140
+00:10:43,000 --> 00:10:44,228
+Comment il s'en sort ?
+
+141
+00:10:44,400 --> 00:10:46,994
+Ça dépend de la façon
+dont tu vois les choses.
+
+142
+00:10:47,160 --> 00:10:49,230
+D'un côté, Andy est en finale.
+
+143
+00:10:50,200 --> 00:10:54,193
+D'un autre côté, le gagnant
+remporte un contrat militaire.
+
+144
+00:10:55,640 --> 00:10:58,757
+Militaire ? T'es sérieuse ?
+
+145
+00:11:02,080 --> 00:11:03,832
+Que fait-on ?
+
+146
+00:11:05,120 --> 00:11:09,079
+Prie pour que les Japonais gagnent.
+Sinon, Cameron le tuera.
+
+147
+00:11:21,600 --> 00:11:24,034
+<i>Déplacement peu orthodoxe</i>
+<i>de la part des Japonais</i>
+
+148
+00:11:24,200 --> 00:11:26,395
+<i>qui laissent leur reine</i>
+<i>sans défense en B6.</i>
+
+149
+00:11:26,920 --> 00:11:29,195
+<i>L'ordinateur américain calcule</i>
+<i>le coup suivant.</i>
+
+150
+00:11:35,440 --> 00:11:36,429
+J'ai pas compris.
+
+151
+00:11:36,600 --> 00:11:40,388
+Ce fou en C5 a été décisif.
+Les noirs sont en zugzwang.
+
+152
+00:11:40,560 --> 00:11:43,472
+- Traduction ?
+- Les Japonais on perdu leur reine.
+
+153
+00:11:43,640 --> 00:11:47,189
+- Ils sont mal barrés.
+- Andy va gagner.
+
+154
+00:11:54,600 --> 00:11:58,036
+Quelle comédie tout à l'heure.
+Avec l'agent.
+
+155
+00:11:58,200 --> 00:12:01,795
+C'était pas une comédie.
+C'était... C'était ce que c'était.
+
+156
+00:12:04,720 --> 00:12:05,789
+Un mensonge.
+
+157
+00:12:07,120 --> 00:12:09,634
+- Quoi ?
+- Un mensonge.
+
+158
+00:12:10,600 --> 00:12:12,636
+Tu as un tic.
+
+159
+00:12:13,880 --> 00:12:17,031
+- Un quoi ? Un tic ?
+- Tu as un tic.
+
+160
+00:12:17,200 --> 00:12:18,553
+Quand tu mens.
+
+161
+00:12:20,360 --> 00:12:24,911
+Tu sais pourquoi tu m'aimes ?
+Je vais te le dire.
+
+162
+00:12:25,080 --> 00:12:27,310
+Parce que je ne suis pas
+ce genre de filles.
+
+163
+00:12:27,480 --> 00:12:29,516
+Je ne suis pas jalouse.
+
+164
+00:12:29,680 --> 00:12:31,477
+Je suis sûre de moi.
+
+165
+00:12:31,640 --> 00:12:33,517
+- Je ne suis pas mesquine.
+- Je sais.
+
+166
+00:12:33,680 --> 00:12:38,117
+Alors, ne m'oblige pas
+à le devenir en me mentant.
+
+167
+00:12:38,960 --> 00:12:41,679
+Si cette femme est vivante,
+si tu l'as vue...
+
+168
+00:12:42,880 --> 00:12:43,869
+C'est important.
+
+169
+00:12:53,360 --> 00:12:54,509
+J'ai vu John.
+
+170
+00:12:56,160 --> 00:12:57,752
+Quoi ?
+
+171
+00:12:58,120 --> 00:13:01,829
+- Où ça ?
+- Ici. Dans notre maison.
+
+172
+00:13:02,000 --> 00:13:04,355
+Dans notre maison ?
+
+173
+00:13:04,520 --> 00:13:06,476
+Dans notre maison ?
+Que voulait-il ?
+
+174
+00:13:07,120 --> 00:13:08,917
+Je ne sais pas.
+
+175
+00:13:09,400 --> 00:13:11,072
+Simplement me voir, je pense.
+
+176
+00:13:12,480 --> 00:13:13,913
+Que vas-tu faire ?
+
+177
+00:13:15,280 --> 00:13:16,315
+Aucune idée.
+
+178
+00:13:16,480 --> 00:13:19,836
+Ce sont des fugitifs, Charlie.
+Ils sont dangereux.
+
+179
+00:13:20,320 --> 00:13:21,355
+Pas Sarah.
+
+180
+00:13:21,520 --> 00:13:23,988
+Oh, peut-être pas la Sarah
+que tu connaissais.
+
+181
+00:13:24,160 --> 00:13:25,798
+Mais Sarah Connor a tué un homme.
+
+182
+00:13:25,960 --> 00:13:29,077
+- On n'en sait rien.
+- Et qu'est-ce qu'on en sait ?
+
+183
+00:13:30,160 --> 00:13:32,276
+Qu'est-ce que tu en sais ?
+
+184
+00:13:44,480 --> 00:13:46,755
+<i>Les Japonais cherchent à riposter</i>
+
+185
+00:13:46,920 --> 00:13:50,276
+<i>après la perte catastrophique</i>
+<i>de leur reine.</i>
+
+186
+00:13:50,560 --> 00:13:53,154
+<i>La victoire semble imminente</i>
+<i>pour les Américains.</i>
+
+187
+00:13:53,320 --> 00:13:56,392
+<i>Le Turc d'Andy Goode a pris</i>
+<i>le contrôle de la partie</i>
+
+188
+00:13:56,560 --> 00:13:59,154
+<i>et semble à quelques déplacements</i>
+<i>de la victoire.</i>
+
+189
+00:14:10,840 --> 00:14:12,751
+<i>Tour en C2.</i>
+
+190
+00:14:13,000 --> 00:14:15,230
+<i>Échec et mat.</i>
+<i>Quel retournement de situation.</i>
+
+191
+00:14:15,400 --> 00:14:19,109
+<i>L'équipe japonaise remporte</i>
+<i>le tournoi et le contrat militaire.</i>
+
+192
+00:14:23,760 --> 00:14:25,478
+C'est terminé.
+
+193
+00:14:26,160 --> 00:14:28,151
+- Andy a perdu.
+- Et l'autre équipe ?
+
+194
+00:14:28,320 --> 00:14:30,356
+Ils ont sacrifié leur reine.
+
+195
+00:14:30,520 --> 00:14:33,080
+Comme lors de la partie
+Byrne-Fischer.
+
+196
+00:14:33,240 --> 00:14:35,595
+Byrne-Fischer, en 1956 ?
+
+197
+00:14:36,240 --> 00:14:38,754
+- Oublie. Le fait est...
+- Le Turc s'est fait avoir ?
+
+198
+00:14:38,920 --> 00:14:40,558
+Il vient de suffoquer.
+
+199
+00:14:40,720 --> 00:14:41,914
+Et maintenant ?
+
+200
+00:14:42,880 --> 00:14:43,869
+On les poursuit ?
+
+201
+00:14:44,040 --> 00:14:47,589
+Non, leurs noms n'étaient pas
+mentionnés. Celui d'Andy, si.
+
+202
+00:14:48,360 --> 00:14:51,238
+Quelle erreur a pu les laisser
+mettre leur fou en E6 ?
+
+203
+00:14:51,400 --> 00:14:52,833
+Ce truc est stupide.
+
+204
+00:14:53,000 --> 00:14:54,991
+Plus personne ne voudra
+de son programme.
+
+205
+00:14:55,160 --> 00:14:58,470
+- Ce truc déraille.
+- Il peut encore être une menace.
+
+206
+00:14:59,520 --> 00:15:02,717
+- Il peut encore devenir Skynet.
+- Ou Pong.
+
+207
+00:15:03,840 --> 00:15:06,513
+- Que vas-tu faire ?
+- Je n'en sais rien.
+
+208
+00:15:06,680 --> 00:15:09,148
+Peut-être simplement
+tout expliquer à Andy.
+
+209
+00:15:31,960 --> 00:15:33,598
+Andy.
+
+210
+00:16:17,880 --> 00:16:19,359
+Qui êtes-vous ?
+
+211
+00:16:30,440 --> 00:16:31,873
+Mains sur la tête.
+
+212
+00:16:32,040 --> 00:16:35,476
+Tout de suite. Tournez-vous.
+Tournez-vous.
+
+213
+00:16:35,640 --> 00:16:39,349
+- Écartez les jambes.
+- Mains derrière le dos.
+
+214
+00:16:40,360 --> 00:16:41,873
+En évidence.
+
+215
+00:17:00,640 --> 00:17:03,074
+Je suis vraiment désolée, Andy.
+
+216
+00:17:26,960 --> 00:17:28,279
+Qu'est-ce que c'est ?
+
+217
+00:17:28,440 --> 00:17:31,876
+Vous devriez écrire à Andy.
+Si vous n'arrivez pas à pleurer.
+
+218
+00:17:49,640 --> 00:17:51,631
+Ça t'est égal qu'il soit mort, hein ?
+
+219
+00:17:51,800 --> 00:17:53,552
+Le monde est plus sûr sans lui.
+
+220
+00:17:54,640 --> 00:17:57,916
+C'était trop simple.
+Les pare-feux de la police sont nuls.
+
+221
+00:17:58,080 --> 00:17:59,638
+Montre-moi ce que tu as.
+
+222
+00:17:59,800 --> 00:18:04,430
+Regarde. Aucun nom.
+Mais il a ce tatouage sur le bras.
+
+223
+00:18:05,480 --> 00:18:06,549
+Il est l'un d'eux.
+
+224
+00:18:08,960 --> 00:18:11,428
+C'est un tatouage
+de camp de travail Skynet.
+
+225
+00:18:11,600 --> 00:18:12,794
+Un résistant.
+
+226
+00:18:12,960 --> 00:18:15,599
+Du futur ?
+Comme les trois types à la planque ?
+
+227
+00:18:15,760 --> 00:18:18,479
+- Il était le quatrième.
+- Alors, tu le connais.
+
+228
+00:18:18,640 --> 00:18:22,474
+Toi aussi. C'est un
+de tes meilleurs soldats.
+
+229
+00:18:22,680 --> 00:18:27,310
+Ils surveillaient Andy Goode.
+Tout comme nous.
+
+230
+00:18:27,480 --> 00:18:30,040
+Pas tout à fait.
+Il a été jusqu'à le tuer.
+
+231
+00:18:30,800 --> 00:18:34,395
+Ce n'était pas sa mission.
+Tu l'as envoyé pour nous attendre.
+
+232
+00:18:35,120 --> 00:18:37,429
+Dans ce cas, il a changé d'avis.
+
+233
+00:18:38,840 --> 00:18:40,273
+Je dois lui parler.
+
+234
+00:18:41,720 --> 00:18:44,757
+Lui parler ? Comment ?
+Il est au trou.
+
+235
+00:18:53,880 --> 00:18:55,472
+IDENTITÉ CONFIRMÉE
+OBJECTIF ÉLIMINER
+
+236
+00:19:09,120 --> 00:19:10,792
+Plus un geste !
+
+237
+00:19:20,880 --> 00:19:22,029
+Que fais-tu ?
+
+238
+00:19:22,400 --> 00:19:25,392
+- Des maths.
+- J'ai déjà fait ton devoir.
+
+239
+00:19:25,560 --> 00:19:27,630
+Je dois quand même passer l'examen.
+
+240
+00:19:28,760 --> 00:19:30,910
+Il me faut savoir tous ces trucs.
+
+241
+00:19:31,440 --> 00:19:33,510
+Pourquoi m'avoir demandé
+de le faire alors ?
+
+242
+00:19:37,080 --> 00:19:39,833
+Peut-être parce qu'il est dur
+de se concentrer
+
+243
+00:19:40,040 --> 00:19:41,712
+quand tout le monde meurt.
+
+244
+00:19:44,360 --> 00:19:46,715
+Tu ne sais pas
+de quoi je parle, hein ?
+
+245
+00:19:46,880 --> 00:19:48,711
+Tu es en deuil.
+
+246
+00:19:51,000 --> 00:19:52,035
+En deuil ?
+
+247
+00:19:52,920 --> 00:19:54,512
+Tu sais ce que c'est ?
+
+248
+00:19:54,680 --> 00:19:56,272
+J'ai lu tous les messages.
+
+249
+00:19:56,440 --> 00:19:58,954
+Cameron Baum ?
+M. Harris veut te voir.
+
+250
+00:20:07,400 --> 00:20:10,358
+Je sais qu'il est difficile
+pour vous d'en parler.
+
+251
+00:20:10,520 --> 00:20:14,479
+J'aimerais que vous soyez forte.
+D'accord ?
+
+252
+00:20:14,640 --> 00:20:18,155
+- Vous pouvez faire ça pour moi ?
+- Oui, je peux être forte.
+
+253
+00:20:18,680 --> 00:20:24,437
+On dit que vous êtes la dernière
+à avoir parlé à Jordan avant sa mort.
+
+254
+00:20:24,600 --> 00:20:26,989
+- C'est vrai ?
+- Je ne sais pas.
+
+255
+00:20:27,160 --> 00:20:31,119
+La question est : "Dit-on que
+j'ai été la dernière à lui parler ?"
+
+256
+00:20:31,280 --> 00:20:33,999
+ou "Ai-je été la dernière
+à lui parler ?"
+
+257
+00:20:34,680 --> 00:20:37,911
+- Avez-vous été la dernière ?
+- Je ne sais pas.
+
+258
+00:20:38,240 --> 00:20:40,276
+Que vous a-t-elle dit ?
+
+259
+00:20:40,440 --> 00:20:45,309
+Était-ce quelque chose
+de bouleversant à entendre ?
+
+260
+00:20:47,160 --> 00:20:48,752
+Elle a dit :
+
+261
+00:20:49,560 --> 00:20:52,074
+"Tu l'as vu, pas vrai ? Pas vrai ?
+
+262
+00:20:52,240 --> 00:20:56,950
+Tu l'as vu ?
+C'est carrément énorme. "
+
+263
+00:21:03,360 --> 00:21:05,874
+Elle parlait du graffiti ?
+
+264
+00:21:06,040 --> 00:21:07,632
+Il est carrément énorme.
+
+265
+00:21:09,040 --> 00:21:10,678
+Oui.
+
+266
+00:21:11,480 --> 00:21:12,595
+En effet.
+
+267
+00:21:12,760 --> 00:21:14,830
+- Et non.
+- Non ?
+
+268
+00:21:15,000 --> 00:21:17,560
+Ce n'était pas bouleversant
+à entendre.
+
+269
+00:21:17,720 --> 00:21:19,438
+A-t-elle mentionné des noms ?
+
+270
+00:21:19,600 --> 00:21:22,239
+Des gens contre lesquels
+elle était en colère ?
+
+271
+00:21:22,400 --> 00:21:24,470
+- Ses parents.
+- Quelqu'un d'autre ?
+
+272
+00:21:24,680 --> 00:21:26,989
+- Les surveillants.
+- Quelqu'un d'autre ?
+
+273
+00:21:28,920 --> 00:21:30,512
+Vous posez beaucoup cette question.
+
+274
+00:21:32,440 --> 00:21:35,352
+Souhaitez-vous me dire autre chose ?
+
+275
+00:21:37,400 --> 00:21:39,516
+Je ne vous ai rien dit, je crois.
+
+276
+00:21:39,680 --> 00:21:41,750
+Oh, d'accord.
+
+277
+00:21:43,800 --> 00:21:44,835
+Je peux y aller ?
+
+278
+00:21:45,880 --> 00:21:48,792
+Je n'ai plus besoin de séances,
+je me sens bien mieux.
+
+279
+00:21:48,960 --> 00:21:52,919
+Oui. Vous pouvez y aller.
+
+280
+00:22:17,360 --> 00:22:20,477
+Hé, John Doe. Tu as de la visite.
+
+281
+00:22:25,920 --> 00:22:27,672
+Elles vous font mal ?
+
+282
+00:22:29,400 --> 00:22:33,279
+Parfois, ils les serrent au maximum
+avant de vous faire entrer ici.
+
+283
+00:22:33,440 --> 00:22:35,954
+Ainsi, il se peut
+que vous me demandiez
+
+284
+00:22:36,120 --> 00:22:38,236
+de les desserrer,
+chose que je peux exiger.
+
+285
+00:22:39,560 --> 00:22:41,551
+C'est une ruse.
+
+286
+00:22:42,080 --> 00:22:44,275
+Cela instaure un lien entre nous.
+
+287
+00:22:46,080 --> 00:22:48,594
+Mais nous avons déjà un lien.
+
+288
+00:22:56,360 --> 00:22:58,669
+Vos empreintes sont partout.
+
+289
+00:23:04,240 --> 00:23:08,950
+Sur le four, l'interrupteur,
+les toilettes, le coffre.
+
+290
+00:23:10,520 --> 00:23:13,751
+Nous ne l'avions pas vu.
+Mais quelqu'un a su le trouver.
+
+291
+00:23:14,320 --> 00:23:16,390
+Quand la police a estimé
+avoir tout examiné,
+
+292
+00:23:16,560 --> 00:23:19,199
+quelqu'un est revenu
+et a vidé le coffre.
+
+293
+00:23:19,640 --> 00:23:23,918
+Il n'a pas été forcé.
+On connaissait la combinaison.
+
+294
+00:23:24,440 --> 00:23:30,037
+On vous a cueilli en train de fuir
+la scène du meurtre d'Andrew Goode.
+
+295
+00:23:30,640 --> 00:23:33,757
+Vous étiez également sur les lieux
+de ces trois crimes,
+
+296
+00:23:33,920 --> 00:23:37,515
+vous les avez quittés et vous y êtes
+vraisemblablement retourné.
+
+297
+00:23:39,000 --> 00:23:42,470
+Une aubaine pour un procureur.
+
+298
+00:23:42,640 --> 00:23:48,112
+Mais je possède également une preuve
+médicolégale reliant ceci...
+
+299
+00:23:49,400 --> 00:23:51,152
+à ceci.
+
+300
+00:23:53,280 --> 00:23:54,952
+Et à ceci.
+
+301
+00:23:57,920 --> 00:24:00,229
+On voit le lien à présent ?
+
+302
+00:24:06,680 --> 00:24:07,954
+Qu'est-ce que c'est ?
+
+303
+00:24:09,880 --> 00:24:13,077
+La preuve qui relie tous ces gens.
+Qu'est-ce que c'est ?
+
+304
+00:24:13,560 --> 00:24:15,278
+Du sang.
+
+305
+00:24:16,520 --> 00:24:17,839
+Pas mon sang ?
+
+306
+00:24:18,560 --> 00:24:21,233
+Non, pas votre sang.
+
+307
+00:24:22,360 --> 00:24:26,831
+Techniquement, ce n'en est pas.
+C'est une sorte de sang synthétique.
+
+308
+00:24:29,560 --> 00:24:33,872
+Allez, aidez-moi un peu.
+Dites-moi une chose que j'ignore.
+
+309
+00:24:43,520 --> 00:24:45,909
+Nous allons tous mourir.
+
+310
+00:24:51,480 --> 00:24:54,233
+Oui. Je veux qu'il soit transféré
+aujourd'hui.
+
+311
+00:24:54,440 --> 00:24:58,069
+Il cache un truc et quand il parlera,
+je veux que ce soit aux fédéraux.
+
+312
+00:25:16,160 --> 00:25:17,752
+Oui, je suis la mère de Cameron.
+
+313
+00:25:17,920 --> 00:25:21,879
+<i>Mme Baum, vous êtes au courant</i>
+<i>de la tragédie qui a frappé l'école ?</i>
+
+314
+00:25:22,040 --> 00:25:23,996
+- Jordan quelque chose.
+<i>- Cowan.</i>
+
+315
+00:25:24,160 --> 00:25:29,757
+Quand j'en ai discuté avec Cameron,
+elle semblait très peu affectée.
+
+316
+00:25:29,920 --> 00:25:32,275
+Je suis sûr
+que vous faites de votre mieux.
+
+317
+00:25:32,440 --> 00:25:34,590
+Nous vivons une période difficile.
+
+318
+00:25:34,800 --> 00:25:38,509
+D'abord, la tornade,
+puis le déménagement.
+
+319
+00:25:38,680 --> 00:25:42,559
+La tornade ? Désolé,
+elle ne m'a rien dit à ce sujet.
+
+320
+00:25:43,320 --> 00:25:48,110
+Cela expliquerait ce qui semble être
+un cas de stress post-traumatique.
+
+321
+00:25:48,280 --> 00:25:50,350
+Je vous entends très mal.
+
+322
+00:26:11,360 --> 00:26:12,509
+Vous n'auriez pas dû.
+
+323
+00:26:12,720 --> 00:26:15,792
+- Je sais qui vous êtes.
+- Et je sais qui vous êtes.
+
+324
+00:26:18,680 --> 00:26:22,229
+Seule Sarah Connor aurait pu
+incendier la maison de ce gosse.
+
+325
+00:26:22,400 --> 00:26:25,153
+C'était vous, n'est-ce pas ?
+Sous le porche d'Andy.
+
+326
+00:26:25,320 --> 00:26:26,435
+Vous l'observiez.
+
+327
+00:26:28,280 --> 00:26:31,795
+Vous vouliez tuer ce gosse.
+Et vous l'avez fait.
+
+328
+00:26:35,800 --> 00:26:37,552
+Je ne l'ai pas tué.
+
+329
+00:26:40,000 --> 00:26:41,797
+Je voulais le Turc, c'est tout.
+
+330
+00:26:42,000 --> 00:26:44,116
+Quelqu'un d'autre l'a tué
+et a pris la machine.
+
+331
+00:26:44,600 --> 00:26:47,876
+- Quoi ?
+- Il était déjà mort à mon arrivée.
+
+332
+00:26:48,040 --> 00:26:50,838
+Le Turc avait disparu.
+J'espérais que c'était vous.
+
+333
+00:26:51,000 --> 00:26:53,230
+- Vous pensiez que je l'avais tué ?
+- Vous êtes ici.
+
+334
+00:26:54,720 --> 00:26:57,280
+Et le Turc est quelque part dehors.
+
+335
+00:26:58,840 --> 00:27:01,400
+Nous avons tous deux échoué.
+
+336
+00:27:08,120 --> 00:27:09,553
+Vous devez partir d'ici.
+
+337
+00:27:10,040 --> 00:27:12,793
+Vous n'avez pas compris ?
+J'ai un T-888 aux trousses.
+
+338
+00:27:12,960 --> 00:27:16,589
+Si vous avez réussi à me trouver,
+il en fera de même.
+
+339
+00:27:16,760 --> 00:27:18,113
+- On va vous aider.
+- Partez.
+
+340
+00:27:19,800 --> 00:27:22,758
+Trouvez l'associé, le Russe.
+Il doit tremper dans tout ça.
+
+341
+00:27:22,920 --> 00:27:24,273
+- Vous mourrez.
+- Partez.
+
+342
+00:27:25,240 --> 00:27:26,389
+Je vous en prie.
+
+343
+00:27:28,560 --> 00:27:31,552
+Je refuse d'être celui
+qui attirera le métal sur les Connor.
+
+344
+00:27:37,720 --> 00:27:39,597
+Vous êtes plus jolie qu'en photo.
+
+345
+00:27:40,800 --> 00:27:42,199
+En photo ?
+
+346
+00:27:43,120 --> 00:27:44,872
+Je vous ai reconnue grâce à ça.
+
+347
+00:27:46,960 --> 00:27:50,794
+- Mon frère gardait votre photo.
+- Qui est votre frère ?
+
+348
+00:27:52,080 --> 00:27:55,277
+Quelle importance ? Vous ignorez
+qui sont les frères Reese.
+
+349
+00:27:57,360 --> 00:28:00,397
+- Les frères Reese ?
+- Je m'appelle Derek Reese.
+
+350
+00:28:01,360 --> 00:28:02,839
+Mon frère s'appelle Kyle.
+
+351
+00:28:10,960 --> 00:28:13,838
+<i>Quand John a envoyé Kyle</i>
+<i>dans le passé pour me protéger,</i>
+
+352
+00:28:14,040 --> 00:28:15,632
+<i>on a passé deux jours ensemble.</i>
+
+353
+00:28:16,600 --> 00:28:18,591
+<i>Il m'a parlé du futur,</i>
+
+354
+00:28:19,960 --> 00:28:21,757
+<i>de l'apocalypse</i>
+
+355
+00:28:22,840 --> 00:28:26,196
+<i>et d'un monde de terreur,</i>
+<i>dominé par les machines.</i>
+
+356
+00:28:40,280 --> 00:28:42,350
+<i>Kyle Reese m'a sauvé la vie.</i>
+
+357
+00:28:42,520 --> 00:28:43,953
+<i>Et m'a donné un fils.</i>
+
+358
+00:28:48,840 --> 00:28:51,673
+<i>Il ne m'a jamais dit</i>
+<i>qu'il avait un frère.</i>
+
+359
+00:28:52,680 --> 00:28:55,797
+<i>Il ne m'a jamais dit</i>
+<i>que nous aurions une famille</i>
+
+360
+00:28:55,960 --> 00:28:58,713
+<i>et que, dans notre chagrin,</i>
+<i>nous ne serions pas seuls.</i>
+
+361
+00:29:04,640 --> 00:29:06,232
+Cheri.
+
+362
+00:29:07,520 --> 00:29:10,034
+- Cheri.
+- Va-t'en.
+
+363
+00:29:10,520 --> 00:29:12,272
+S'il te plaît, John.
+
+364
+00:29:26,040 --> 00:29:28,998
+Séquestrée, mon frère.
+Séquestrée.
+
+365
+00:29:29,160 --> 00:29:30,991
+Maman est là.
+
+366
+00:29:32,760 --> 00:29:36,150
+Salut, je suis Morris.
+Le nouveau meilleur ami de ton frère.
+
+367
+00:29:38,080 --> 00:29:40,674
+- Cameron.
+- Jolie poigne.
+
+368
+00:29:45,400 --> 00:29:49,393
+Fais gaffe à toi.
+Je veille sur toi, c'est tout.
+
+369
+00:29:54,840 --> 00:29:57,957
+- On va sur le terrain.
+- Je vais devant.
+
+370
+00:29:58,200 --> 00:29:59,838
+Je vais derrière.
+
+371
+00:30:02,960 --> 00:30:07,158
+À quelle heure mon prisonnier
+va-t-il arriver ? Entendu.
+
+372
+00:31:09,320 --> 00:31:12,710
+- Lâchez votre arme. Dégagez.
+- Du calme, du calme.
+
+373
+00:31:12,920 --> 00:31:16,435
+Prends la jeep et suis-nous de près.
+
+374
+00:31:20,760 --> 00:31:24,799
+- Saloperie de machine.
+- Elle est avec nous.
+
+375
+00:31:31,160 --> 00:31:32,912
+Un T-888. Débarrasse-toi de lui.
+
+376
+00:31:49,520 --> 00:31:51,795
+PRISON
+DU COMTÉ
+
+377
+00:32:46,320 --> 00:32:47,639
+- Partons.
+- Où est Cameron ?
+
+378
+00:32:47,840 --> 00:32:50,070
+- Laisse-la. Partons d'ici.
+- On y va.
+
+379
+00:32:56,440 --> 00:32:58,032
+Reste ici.
+
+380
+00:33:11,040 --> 00:33:12,234
+À terre.
+
+381
+00:33:32,000 --> 00:33:34,355
+Apportez-moi la boîte à outils.
+
+382
+00:33:42,880 --> 00:33:44,199
+Couteau à cran d'arrêt.
+
+383
+00:33:48,640 --> 00:33:50,358
+Tenailles.
+
+384
+00:34:23,520 --> 00:34:26,557
+- Fais quelque chose.
+- Ne la laissez pas me toucher.
+
+385
+00:34:26,720 --> 00:34:28,312
+On doit arrêter l'hémorragie.
+
+386
+00:34:28,480 --> 00:34:31,711
+Ne bougez pas,
+vous perdez plus de sang.
+
+387
+00:34:38,400 --> 00:34:41,278
+STATUT : SIGNES VITAUX CRITIQUES
+MORT IMMINENTE
+
+388
+00:34:41,440 --> 00:34:43,829
+- Je ne peux pas.
+- Tu m'as extrait une balle.
+
+389
+00:34:44,040 --> 00:34:47,953
+Il y a des dégâts internes.
+Il lui faut des soins médicaux.
+
+390
+00:34:56,040 --> 00:34:59,510
+- Un pistolet paralysant ? Ça va pas ?
+- Il lui faut un médecin.
+
+391
+00:34:59,760 --> 00:35:01,398
+Donc, tu vas en kidnapper un ?
+
+392
+00:35:01,600 --> 00:35:03,830
+Les urgences sont à 1,5 km.
+Il fera bientôt nuit.
+
+393
+00:35:04,000 --> 00:35:07,675
+- C'est de la folie, même pour toi.
+- Nous devons le sauver.
+
+394
+00:35:07,840 --> 00:35:10,115
+- Et si tu te fais arrêter ?
+- Il faut essayer.
+
+395
+00:35:10,320 --> 00:35:13,118
+- Tu ne sais même pas qui il est.
+- C'est ton oncle.
+
+396
+00:35:15,120 --> 00:35:16,951
+Il l'ignore.
+
+397
+00:35:17,600 --> 00:35:19,830
+C'est le frère de ton père.
+
+398
+00:35:20,120 --> 00:35:21,348
+Il s'appelle Derek Reese.
+
+399
+00:35:28,920 --> 00:35:30,512
+John.
+
+400
+00:35:32,600 --> 00:35:37,435
+Deux femmes,
+d'environ 1,65 m et 55 kg,
+
+401
+00:35:37,600 --> 00:35:40,592
+vous ont maîtrisés,
+vous et votre partenaire,
+
+402
+00:35:41,120 --> 00:35:44,908
+vous ont tendu une embuscade
+et ont kidnappé mon prisonnier.
+
+403
+00:35:45,080 --> 00:35:49,232
+Ai-je récapitulé avec exactitude
+ce qui s'est passé, officier ?
+
+404
+00:35:51,600 --> 00:35:53,238
+Oui.
+
+405
+00:35:58,800 --> 00:36:00,950
+1,65 m.
+
+406
+00:36:01,480 --> 00:36:03,789
+1,65 m.
+
+407
+00:36:23,880 --> 00:36:28,635
+<i>S'il existe une faille aux échecs</i>
+<i>en tant que jeu de guerre, la voici :</i>
+
+408
+00:36:28,840 --> 00:36:32,116
+<i>contrairement à la guerre,</i>
+<i>les règles des échecs ne changent pas.</i>
+
+409
+00:36:32,280 --> 00:36:34,510
+<i>Les pions ne changent pas.</i>
+
+410
+00:36:34,680 --> 00:36:38,070
+<i>On ne peut gagner le cœur d'une tour</i>
+<i>ou l'esprit d'un cavalier.</i>
+
+411
+00:36:38,240 --> 00:36:43,075
+<i>Ils restent sourds à vos arguments,</i>
+<i>et c'est ainsi.</i>
+
+412
+00:36:52,160 --> 00:36:55,675
+<i>Aux échecs,</i>
+<i>le but est l'annihilation totale.</i>
+
+413
+00:36:57,280 --> 00:36:59,714
+<i>Mais à la guerre,</i>
+<i>même lorsque le sang afflue</i>
+
+414
+00:36:59,880 --> 00:37:02,553
+<i>aux tempes et qu'on prend</i>
+<i>son ennemi en chasse,</i>
+
+415
+00:37:02,720 --> 00:37:06,554
+<i>on espère toujours qu'un esprit</i>
+<i>plus raisonnable nous arrêtera.</i>
+
+416
+00:37:07,320 --> 00:37:11,313
+<i>À la guerre, les règles</i>
+<i>peuvent être changées.</i>
+
+417
+00:37:11,480 --> 00:37:13,072
+<i>On peut conclure une trêve.</i>
+
+418
+00:37:13,240 --> 00:37:16,949
+<i>Nos pires ennemis peuvent devenir</i>
+<i>nos meilleurs amis.</i>
+
+419
+00:37:17,280 --> 00:37:18,872
+Derek ?
+
+420
+00:37:20,160 --> 00:37:21,878
+Derek ?
+
+421
+00:37:22,680 --> 00:37:24,318
+Il ne respire plus.
+
+422
+00:37:24,480 --> 00:37:27,153
+Reese. Reese.
+
+423
+00:37:42,720 --> 00:37:46,395
+<i>À la guerre, il y a un espoir.</i>
+
+424
+00:38:26,000 --> 00:38:27,991
+<i>Sous-titrage :</i>
+SDI Media Group
+
+425
+00:38:28,160 --> 00:38:30,151
+[FRENCH]
+

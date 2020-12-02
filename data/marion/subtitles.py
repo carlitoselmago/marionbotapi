@@ -11,6 +11,8 @@ textos=[]
 blacklisted=[""]
 clean=["- ","<i>","</i>","...","*"]
 
+gptmode=False
+
 def srt_time_to_seconds(time):
     split_time=time.split(',')
     major, minor = (split_time[0].split(':'), split_time[1])
@@ -52,12 +54,13 @@ for filename in sorted(glob.glob('rawdata/subtitles/*.srt')):
                 texto=texto.strip()
 
                 if len(texto)>0:
-                    if (count % 2) == 0:
-                        textos.append("")
-                        textos.append("MARION:")
-                    else:
-                        textos.append("")
-                        textos.append("LOCUTOR:")
+                    if gptmode:
+                        if (count % 2) == 0:
+                            textos.append("")
+                            textos.append("MARION:")
+                        else:
+                            textos.append("")
+                            textos.append("LOCUTOR:")
 
                     textos.append(texto.replace('\n', ' ').replace('\r', ''))
 

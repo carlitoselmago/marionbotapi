@@ -1,0 +1,1820 @@
+1
+00:00:08,200 --> 00:00:11,700
+Quoi ? La partie est allée en Afrique ?
+
+2
+00:00:11,700 --> 00:00:14,070
+Ça ne prend qu'un jour pour venir du Japon donc pourquoi ça irait jusqu'en Afrique ?
+
+3
+00:00:14,070 --> 00:00:18,520
+Ils disent… avoir mis la mauvaise étiquette pour l'expédition.
+
+4
+00:00:20,230 --> 00:00:22,260
+De l'Afrique,
+
+5
+00:00:22,260 --> 00:00:25,160
+- ça va prendre au moins cinq jours. 
+- Je vais devenir fou.
+
+6
+00:00:26,500 --> 00:00:28,110
+Ouah.
+
+7
+00:00:29,620 --> 00:00:31,300
+Ah zut. 
+<i>[PDG Kim Min Kyu]</i>
+
+8
+00:00:33,350 --> 00:00:36,630
+- Oui, M. le PDG. 
+<i>- La performance du robot dépasse mes espérances.</i>
+
+9
+00:00:36,630 --> 00:00:40,270
+C'est vraiment bien. Vous avez mes applaudissements.
+
+10
+00:00:41,080 --> 00:00:46,360
+Je me suis donc décidé à ne pas prendre ma décision avant un mois.
+
+11
+00:00:46,360 --> 00:00:50,020
+Je pensais entraîner le robot. Vous avez dit que ça prenait un mois, n'est-ce pas ?
+
+12
+00:00:50,020 --> 00:00:54,940
+S'il vous plaît, envoyez AG-3 chez moi pour un mois à compter de demain.
+
+13
+00:00:54,940 --> 00:00:59,230
+Ce… sera impossible.
+
+14
+00:00:59,830 --> 00:01:02,420
+Y a-t-il un problème ?
+
+15
+00:01:02,420 --> 00:01:06,220
+C'est que… le déménagement… Oui, c'est cela.
+
+16
+00:01:06,220 --> 00:01:10,770
+Le contrat de location de ce bâtiment se finit, nous devons donc trouver un endroit où emménager.
+
+17
+00:01:10,770 --> 00:01:13,430
+Je crois que ce sera possible après une semaine et quelque…
+
+18
+00:01:13,430 --> 00:01:15,680
+Alors vous pouvez laisser AG-3 demain chez moi.
+
+19
+00:01:15,680 --> 00:01:18,920
+Non, ce n'est pas possible. Le robot doit être chargé tous les jours jusqu'à midi.
+
+20
+00:01:18,920 --> 00:01:22,510
+Charger le robot n'est possible qu'ici au laboratoire en raison de la forte quantité d'électricité demandée.
+
+21
+00:01:22,510 --> 00:01:26,490
+J'enverrai quelqu'un me chercher AG-3 tous les jours.
+
+22
+00:01:26,490 --> 00:01:29,590
+Vous ne pouvez pas le faire. D'autres pourraient se méprendre
+
+23
+00:01:29,590 --> 00:01:31,970
+et la casser.
+
+24
+00:01:32,780 --> 00:01:36,460
+Ne suis-je pas le propriétaire légitime de AG-3 actuellement ?
+
+25
+00:01:36,460 --> 00:01:38,680
+Avant le contrat, nous la partagions moitié-moitié.
+
+26
+00:01:38,680 --> 00:01:41,610
+Je vous l'enverrai dans une semaine.
+
+27
+00:01:44,330 --> 00:01:47,700
+- Je vous appellerai une autre fois. 
+- Oui.
+
+28
+00:01:48,740 --> 00:01:55,330
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+29
+00:01:59,180 --> 00:02:02,660
+<i>De Madame - X
+ Re : demande du dossier-X du défunt PDG de Navire Daeyang, Park Seong Jin</i>
+
+30
+00:02:11,970 --> 00:02:13,490
+<i>Lettre de démission</i>
+
+31
+00:02:14,450 --> 00:02:17,420
+Chef d'équipe Jo, vous devriez aussi être vigilant.
+
+32
+00:02:17,420 --> 00:02:21,180
+Savez-vous ce que les employés de notre entreprise disent au sujet de ceux qui suivent Bâton ?
+
+33
+00:02:23,220 --> 00:02:27,780
+Qu'ils sont sur le Jourdain Express les menant en enfer.
+
+34
+00:02:27,780 --> 00:02:31,780
+Bâton est le fils du défunt PDG. Le directeur général est le fils du président actuel.
+
+35
+00:02:31,780 --> 00:02:33,940
+C'est une compétition entre les deux de la deuxième génération.
+
+36
+00:02:33,940 --> 00:02:38,360
+Même si Bâton est capable, c'est évident que ce sera le fils du président actuel qui gagnera, vous ne pensez pas ?
+
+37
+00:02:38,360 --> 00:02:41,330
+Donc, avant de traverser le Jourdain,
+
+38
+00:02:41,330 --> 00:02:44,830
+partez en exil. Dépêchez-vous de vous enfuir.
+
+39
+00:02:44,830 --> 00:02:47,400
+Le Jourdain…
+
+40
+00:02:57,610 --> 00:02:59,660
+Montez dans la voiture, s'il vous plaît.
+
+41
+00:03:01,660 --> 00:03:03,640
+Le siège arrière.
+
+42
+00:03:07,990 --> 00:03:09,890
+J'entre.
+
+43
+00:03:18,540 --> 00:03:20,320
+Désolé.
+
+44
+00:03:21,330 --> 00:03:23,550
+On s'est occupé de la lettre de démission du chef d'équipe responsable de la contribution sociale.
+
+45
+00:03:23,550 --> 00:03:27,290
+Je suis quasiment sûr que vous avez arrêté tous les projets sur lesquels l'équipe travaillait, n'est-ce pas ?
+
+46
+00:03:27,290 --> 00:03:29,940
+- Il ne reste plus que la sélection finale pour le parrainage des jeunes entrepreneurs... 
+- Arrêtez-le.
+
+47
+00:03:29,940 --> 00:03:33,010
+D'accord… Et pour cette affaire de vol de collier, nous vérifions les caméras de vidéo-surveillance...
+
+48
+00:03:33,010 --> 00:03:38,480
+Ça n'a plus d'importance. Regardez d'abord les documents à côté de vous.
+
+49
+00:03:38,480 --> 00:03:39,960
+D'accord.
+
+50
+00:03:41,610 --> 00:03:46,830
+Le PDG Park Seong Jin de Navire Daeyang était très intéressé par les robots pour le futur de l'entreprise, mais le conseil d'administration était contre.
+
+51
+00:03:46,830 --> 00:03:49,360
+Comment se fait-il que personne ne soit au courant ?
+
+52
+00:03:49,360 --> 00:03:53,190
+Le PDG Park s'est donc secrètement associé avec le docteur Hong Baek Gyun.
+
+53
+00:03:53,190 --> 00:03:56,600
+En créant l'équipe Santa Maria et en faisant croire qu'il s'agissait d'une équipe en recherche et développement pour les navires ?
+
+54
+00:03:56,600 --> 00:03:58,950
+Tous les rapports internes ont été directement envoyés au PDG.
+
+55
+00:03:58,950 --> 00:04:03,450
+Ainsi après la mort du PDG, l'existence de cette équipe de recherche a été gardée secrète.
+
+56
+00:04:03,450 --> 00:04:05,410
+C'est pourquoi ça n'a pas été trouvé dans la phase de contrôle préalable.
+
+57
+00:04:05,410 --> 00:04:10,050
+Une équipe qui avait 100 millions en fonds de recherche.
+
+58
+00:04:10,050 --> 00:04:13,960
+Je crois que l'autre équipe de recherche et développement aura besoin d'une enquête poussée.
+
+59
+00:04:13,960 --> 00:04:16,300
+Dois-je le rapporter au directeur général ?
+
+60
+00:04:19,650 --> 00:04:24,600
+Nous sommes les seuls à être au courant.
+
+61
+00:04:24,600 --> 00:04:27,500
+Ce dont je suis curieux,
+
+62
+00:04:27,500 --> 00:04:32,430
+c'est qui le sait et que savent-ils au juste.
+
+63
+00:04:32,430 --> 00:04:36,300
+Vous devez enquêter là-dessus, Chef d'équipe Jo.
+
+64
+00:04:36,300 --> 00:04:40,750
+Surtout sur l'entourage du directeur général Hwang Yoo Cheol et
+
+65
+00:04:40,750 --> 00:04:45,100
+sur le président Hwang Do Won.
+
+66
+00:04:45,100 --> 00:04:52,020
+<i>Le Jourdain Express les menant en enfer, le Jourdain Express.</i>
+
+67
+00:04:55,420 --> 00:04:58,180
+C'est un travail pour l'équipe d'audit.
+
+68
+00:04:58,180 --> 00:05:01,970
+Voulez-vous que je vous fasse chef d'équipe d'audit ?
+
+69
+00:05:01,970 --> 00:05:07,090
+Non. Je ferai de mon mieux dans l'enquête.
+
+70
+00:05:07,090 --> 00:05:13,070
+C'est bien. Mais vous devez faire quelque chose avant de faire une autre vérification.
+
+71
+00:05:15,730 --> 00:05:19,900
+Vous nous dites de venir dans la maison principale ?
+
+72
+00:05:19,900 --> 00:05:22,390
+Si je devais vous donner un petit conseil,
+
+73
+00:05:22,390 --> 00:05:26,520
+si le PDG suggère quelque chose, considérez-le comme le destin
+
+74
+00:05:26,520 --> 00:05:28,450
+et acceptez-le.
+
+75
+00:05:28,450 --> 00:05:29,930
+Ça vous mettra plus à l'aise.
+
+76
+00:05:29,930 --> 00:05:31,840
+Et si je refusais ?
+
+77
+00:05:31,840 --> 00:05:36,320
+Que ce soit investir davantage dans l'équipe Santa Maria ou la vendre à une autre entreprise,
+
+78
+00:05:36,320 --> 00:05:39,060
+tout dépendra de la décision du PDG après avoir vu les résultats du test.
+
+79
+00:05:39,060 --> 00:05:43,980
+Si Santa Maria est vendue à une autre entreprise,
+
+80
+00:05:43,980 --> 00:05:46,930
+il y aura alors de fortes chances que l'équipe soit séparée.
+
+81
+00:05:50,070 --> 00:05:56,490
+<i>Kim Myeong Hoon 
+Yoon Soo Jeong</i>
+
+82
+00:05:57,850 --> 00:06:02,450
+Ça fait déjà quinze ans.
+
+83
+00:06:04,650 --> 00:06:10,410
+Papa, si tu étais vivant maintenant, on aurait fêté ton 60e anniversaire.
+
+84
+00:06:13,100 --> 00:06:17,550
+Maman, je suis encore
+
+85
+00:06:19,040 --> 00:06:23,660
+en vie et je vais bien.
+
+86
+00:06:28,970 --> 00:06:34,540
+Je suis venu parce que ça aurait été le 60e anniversaire de ton père.
+
+87
+00:06:34,540 --> 00:06:37,660
+Je peux enfin te voir là.
+
+88
+00:06:42,310 --> 00:06:44,460
+Yoo Cheol a des difficultés.
+
+89
+00:06:44,460 --> 00:06:48,000
+Il a beaucoup de défauts par rapport à toi, pas vrai ? Je le sais aussi.
+
+90
+00:06:48,000 --> 00:06:51,720
+Mais quand même, Yoo Cheol est ton ami de longue date.
+
+91
+00:06:51,720 --> 00:06:56,860
+Il essaie de faire quelque chose en tant que directeur général.
+
+92
+00:06:56,860 --> 00:07:00,090
+Ne peux-tu pas devenir sa force en tant qu'ami ?
+
+93
+00:07:03,030 --> 00:07:08,250
+Je n'ai pas la force de le faire,
+
+94
+00:07:08,250 --> 00:07:10,720
+Président Hwang Do Won.
+
+95
+00:07:14,060 --> 00:07:18,260
+J'ai du travail, je vais donc y aller.
+
+96
+00:07:41,250 --> 00:07:44,270
+Chérie, es-tu là ?
+
+97
+00:07:45,410 --> 00:07:49,010
+Je suis là.
+
+98
+00:07:50,270 --> 00:07:53,120
+Ouah, c'est intéressant maintenant que je le vois en vrai.
+
+99
+00:07:53,120 --> 00:07:55,550
+C'est vraiment cool.
+
+100
+00:07:57,880 --> 00:07:59,880
+Oui, allô ?
+
+101
+00:07:59,880 --> 00:08:02,360
+Oui, c'est Jo Ji Ah.
+
+102
+00:08:04,030 --> 00:08:08,240
+Qu... Qu'avez-vous dit ? La sélection finale a été reportée pour une durée indéterminée ?
+
+103
+00:08:08,240 --> 00:08:10,790
+C'est comme dire que ça n'arrivera jamais alors.
+
+104
+00:08:10,790 --> 00:08:14,530
+Qui a pris une décision si absurde ?
+
+105
+00:08:18,710 --> 00:08:21,860
+Le PDG du conseil d'administration apparemment.
+
+106
+00:08:21,860 --> 00:08:24,520
+Le grand chef de KM Financial.
+
+107
+00:08:25,750 --> 00:08:27,940
+Je suis vraiment sans voix.
+
+108
+00:08:27,940 --> 00:08:31,820
+C'était trop beau. Je le savais.
+
+109
+00:08:31,820 --> 00:08:34,510
+Je vis une vie où les choses ne peuvent pas bien se passer ?
+
+110
+00:08:34,510 --> 00:08:36,860
+Que ça marche ! Sans problème.
+
+111
+00:08:36,860 --> 00:08:43,010
+Abandonne. Quel pouvoir ont les employés de bas niveau face aux décisions du grand chef ?
+
+112
+00:08:43,840 --> 00:08:49,270
+Hé, on doit juste faire en sorte que le gars qui s'en occupe change sa décision.
+
+113
+00:08:50,240 --> 00:08:54,000
+Tu bois de jour ? Comment vas-tu faire ?
+
+114
+00:08:54,000 --> 00:08:57,790
+- Une requête écrite avec flatterie et hypocrisie. 
+- Quoi ?
+
+115
+00:08:57,790 --> 00:09:01,470
+On peut faire une requête et lui dire de la reprendre.
+
+116
+00:09:01,470 --> 00:09:06,500
+Dès que tu la lui donneras, tu vas être traînée par la peau du cou.
+
+117
+00:09:06,500 --> 00:09:11,070
+Plutôt que d'aller à l'entreprise, envoie-la directement chez le grand chef.
+
+118
+00:09:11,070 --> 00:09:13,370
+Tu connais l'adresse de ce gars, pas vrai ?
+
+119
+00:09:14,200 --> 00:09:16,660
+Ah oui. Tu ne sais pas.
+
+120
+00:09:16,660 --> 00:09:19,940
+Attends une seconde. Parmi mes ex,
+
+121
+00:09:19,940 --> 00:09:22,690
+il y avait un "homme 99" (craignos).
+
+122
+00:09:26,520 --> 00:09:30,020
+Je ne savais pas que ton ex serait si utile !
+
+123
+00:09:30,020 --> 00:09:32,120
+Sois plus souvent en couple à l'avenir !
+
+124
+00:09:33,430 --> 00:09:36,460
+Tourne à droite dans 100 mètres.
+
+125
+00:09:36,460 --> 00:09:39,220
+D'accord ! Je tourne à droite !
+
+126
+00:09:49,650 --> 00:09:51,440
+C'est le bon endroit ?
+
+127
+00:09:51,440 --> 00:09:55,010
+Exactement, c'est le bon endroit.
+
+128
+00:09:55,680 --> 00:09:57,560
+Hé, je n'arrive pas à voir la maison.
+
+129
+00:09:57,560 --> 00:09:59,180
+Que peut-il y avoir d'autre ?
+
+130
+00:09:59,180 --> 00:10:02,390
+C'est donc une maison ? Pas un hôtel ?
+
+131
+00:10:02,390 --> 00:10:04,950
+Il n'y a pas d'hôtel ici.
+
+132
+00:10:04,950 --> 00:10:06,690
+C'est la maison du PDG Kim Min Kyu.
+
+133
+00:10:06,690 --> 00:10:10,710
+La maison est si grande que même si on met ça dans la boîte à lettre,
+
+134
+00:10:10,710 --> 00:10:13,590
+je me demande si ça va bien arriver dans les mains de ce gars ?
+
+135
+00:10:13,590 --> 00:10:16,300
+Alors tu vas l'envoyer à l'entreprise ?
+
+136
+00:10:16,300 --> 00:10:18,530
+- Cherche la sonnette. 
+- Tu vas entrer ?
+
+137
+00:10:18,530 --> 00:10:20,810
+Je suis venue jusqu'ici, je devrais donc faire au moins quelque chose.
+
+138
+00:10:20,810 --> 00:10:23,440
+Qui sait ? Cette personne pourrait être touchée par notre grande sincérité.
+
+139
+00:10:24,260 --> 00:10:27,690
+Zut, où est donc cette sonnette ?
+
+140
+00:10:28,290 --> 00:10:30,360
+Cette propriété est vraiment énorme.
+
+141
+00:10:32,820 --> 00:10:35,080
+Qu'est-ce qui se passe...
+
+142
+00:10:57,350 --> 00:11:00,600
+Mais qu'est-ce que cet enfoiré de profiteur fait ici ?
+
+143
+00:11:05,440 --> 00:11:11,420
+Attends... Cet enfoiré de psychopathe est le patron de KM Financial ?
+
+144
+00:11:13,370 --> 00:11:16,070
+Vraiment, de toute ma vie,
+
+145
+00:11:16,070 --> 00:11:21,930
+comment les choses peuvent être aussi pourries et affreusement tordues ?
+
+146
+00:11:21,930 --> 00:11:26,910
+Je me fais fouetter, je suis accusée de vol et je suis la victime d'un acte pervers.
+
+147
+00:11:27,630 --> 00:11:31,760
+Mais, par-dessus tout, ce taré de profiteur est le patron ?
+
+148
+00:11:38,580 --> 00:11:43,400
+Sun Hye, je l'ai sauvé d'un accident quasi mortel. Dois-je lui demander de me rembourser cette faveur ?
+
+149
+00:11:43,400 --> 00:11:46,860
+Ce n'était pas toi, ma chère, mais le robot.
+
+150
+00:11:48,390 --> 00:11:50,620
+Maintenant je sais ce que ressentait la petite sirène.
+
+151
+00:11:50,620 --> 00:11:54,990
+Je l'ai sauvé ! C'est moi qui l'ai sauvé ! Je peux comprendre ce qu'elle ressentait, incapable de dire ces mots.
+
+152
+00:11:54,990 --> 00:11:57,990
+C'est vrai. Et tu as même écrit une requête.
+
+153
+00:11:57,990 --> 00:12:01,680
+Cet être humain n'est pas du genre à accepter une requête, cet enfoiré de psychopathe.
+
+154
+00:12:01,680 --> 00:12:04,520
+<i>Jo Ji Ah, dépêche-toi de sortir.</i>
+
+155
+00:12:06,040 --> 00:12:08,100
+Quoi ?
+
+156
+00:12:10,030 --> 00:12:12,270
+J'ai déjà remboursé l'argent. Qu'est-ce qu'il y a ?
+
+157
+00:12:12,270 --> 00:12:14,390
+Où as-tu eu cet argent ?
+
+158
+00:12:15,220 --> 00:12:17,620
+Oh, je l'ai eu quelque part.
+
+159
+00:12:17,620 --> 00:12:19,330
+Où t'es-tu donc procuré 10 millions de wons du jour au lendemain ?
+
+160
+00:12:19,330 --> 00:12:21,960
+J'ai fait un petit boulot. Un travail honnête.
+
+161
+00:12:21,960 --> 00:12:24,330
+Parlons-en plus tard. Je suis fatiguée.
+
+162
+00:12:24,330 --> 00:12:27,450
+Dis quelque chose de sensé. Sois honnête.
+
+163
+00:12:27,450 --> 00:12:32,130
+Tu es allée chez un prêteur sur gage ou bien tu as signé un contrat de vente d'organe ?
+
+164
+00:12:32,760 --> 00:12:35,490
+Réponds-moi pour que j'arrange ça rapidement.
+
+165
+00:12:35,490 --> 00:12:38,340
+Oppa, je sais que tu es intelligent, vu que tu es avocat.
+
+166
+00:12:38,340 --> 00:12:42,440
+Mais ici-bas il y a des tas et des tas de choses vraiment étranges qui ne peuvent être exprimées par des mots.
+
+167
+00:12:42,440 --> 00:12:46,020
+Oppa, le monde dans lequel tu vis n'est pas le seul qui existe.
+
+168
+00:12:47,240 --> 00:12:50,720
+Quoi ? Pourquoi tu entres dans ma chambre ?
+
+169
+00:12:53,180 --> 00:12:56,160
+Qu'est-ce que tu fais ? Pourquoi tu entres dans la chambre d'une fille et tout ça ?
+
+170
+00:12:56,160 --> 00:12:58,730
+Je t'avais dit d'arrêter, pas vrai ?
+
+171
+00:12:58,730 --> 00:13:02,680
+Oppa, Oppa, allons parler dehors.
+
+172
+00:13:02,680 --> 00:13:06,190
+Je t'avais dit de te préparer à chercher du travail, non ? Je t'avais dit de rédiger ton CV, pas vrai ?
+
+173
+00:13:18,960 --> 00:13:21,620
+C'est ça ? C'est pour fabriquer ce déchet, que tu as dépensé 10 millions de won ?
+
+174
+00:13:21,620 --> 00:13:24,180
+Oppa, ne touche pas à ces petits.
+
+175
+00:13:24,180 --> 00:13:26,160
+Frappe-moi, plutôt. Bats-moi.
+
+176
+00:13:26,160 --> 00:13:29,690
+Où t'es-tu procuré l'argent ? Sois honnête.
+
+177
+00:13:29,690 --> 00:13:31,660
+Vraiment ! Je t'ai dit que j'ai pris un petit boulot !
+
+178
+00:13:31,660 --> 00:13:34,030
+Alors tu ne comptes pas me dire la vérité ?
+
+179
+00:13:40,430 --> 00:13:46,480
+Va-t'en. Si tu ne comptes pas me dire où tu as eu l'argent, prends ce déchet et va-t'en immédiatement.
+
+180
+00:13:55,260 --> 00:13:57,360
+Ma lampe cœur.
+
+181
+00:13:58,960 --> 00:14:01,420
+Qu'est-ce que je vais faire ? Elle est cassée.
+
+182
+00:14:03,620 --> 00:14:05,720
+Tu exagères vraiment.
+
+183
+00:14:05,720 --> 00:14:09,940
+Suis-je jamais allée chez un prêteur sur gage ? Ai-je jamais fait quelque chose de bizarre ?
+
+184
+00:14:09,940 --> 00:14:12,180
+Je n'ai jamais fait ça. Je t'ai dit que je ne l'ai pas fait !
+
+185
+00:14:12,180 --> 00:14:15,360
+Mais tu n'as jamais fait quoi que ce soit de fiable, non plus, espèce de morveuse !
+
+186
+00:14:15,360 --> 00:14:17,620
+Tu ne sais pas dans quel état d'esprit j'étais quand j'ai créé ça.
+
+187
+00:14:17,620 --> 00:14:22,320
+C'est mon dernier espoir, alors pourquoi tu ne l'acceptes pas ?
+
+188
+00:14:22,320 --> 00:14:24,950
+Ce que je veux faire, ce que je souhaite...
+
+189
+00:14:24,950 --> 00:14:27,610
+pourquoi tu ne l'acceptes pas ? Laisse-moi souffler un peu !
+
+190
+00:14:27,610 --> 00:14:29,590
+C'est à toi de me laisser souffler !
+
+191
+00:14:29,590 --> 00:14:32,670
+Je suis tellement en rogne que je ne pense plus pouvoir supporter de te voir.
+
+192
+00:14:32,670 --> 00:14:37,070
+Alors si tu veux vivre à ta guise, n'apparais plus devant moi.
+
+193
+00:14:40,350 --> 00:14:42,070
+Entendu.
+
+194
+00:14:42,720 --> 00:14:46,540
+Je vais partir. Je ne peux plus vivre avec toi, moi non plus.
+
+195
+00:14:50,650 --> 00:14:54,340
+Ji Ah. Tu pars vraiment après ça ?
+
+196
+00:14:54,340 --> 00:14:58,220
+Ton frère disait juste ça comme ça, et tu le sais bien. Rentre.
+
+197
+00:14:58,220 --> 00:15:01,980
+Ne t'en fais pas. Je vais aller chez Sun Hye.
+
+198
+00:15:01,980 --> 00:15:06,790
+Il vaut mieux qu'Oppa et moi ne nous voyions pas pour l'instant, sinon l'un de nous deux mourra d'avoir perdu tout son sang.
+
+199
+00:15:06,790 --> 00:15:11,150
+♫ <i>Ne fais pas la tête</i> ♫
+
+200
+00:15:11,150 --> 00:15:12,880
+Oui, Patron.
+
+201
+00:15:12,880 --> 00:15:16,050
+Le propriétaire de l'immeuble a demandé d'évacuer l'entrepôt avant ce soir.
+
+202
+00:15:16,050 --> 00:15:18,590
+Je devais te le dire plus tôt mais j'ai complètement oublié.
+
+203
+00:15:18,590 --> 00:15:22,250
+Ce n'est rien. Je vous suis tellement reconnaissante de m'avoir laissé stocker mes affaires chez vous jusqu'à présent.
+
+204
+00:15:22,250 --> 00:15:24,250
+Mais non, voyons.
+
+205
+00:15:29,150 --> 00:15:32,180
+Il n'y a rien de plus énervant que de vieilles marchandises qu'on n'arrive pas à vendre, pas vrai ?
+
+206
+00:15:32,180 --> 00:15:36,860
+Présidente Jo, ne te mets pas dans cet état et confie-les à une consigne bon marché.
+
+207
+00:15:38,190 --> 00:15:41,680
+Patron, vous avez une charrette, non ?
+
+208
+00:15:49,100 --> 00:15:53,510
+Bonsoir, venez jeter un œil. Jetez juste un œil avant de partir.
+
+209
+00:15:53,510 --> 00:15:57,050
+C'est 30 000 won (± 23 €). Chaque article est vendu 30 000 won.
+
+210
+00:15:57,050 --> 00:16:03,420
+Un vêtement de nettoyage qu'on peut porter pour nettoyer notre maison en se roulant ne coûte que 30 000 won.
+
+211
+00:16:03,420 --> 00:16:07,700
+Ce sac gorille avec un support pour tasse ne coûte que 30 000 won. Venez voir.
+
+212
+00:16:07,700 --> 00:16:10,300
+Bonsoir, ceci ne coûte que 10 000 won (± 8 €).
+
+213
+00:16:10,300 --> 00:16:14,770
+Bonsoir, regardez, s'il vous plaît. Ils ne coûtent que 10 000 won chacun.
+
+214
+00:16:14,770 --> 00:16:17,380
+Madame, ça ne coûte que 10 000 won. Utilisez-le juste une fois.
+
+215
+00:16:17,380 --> 00:16:21,030
+Laisse tomber. Si je prends ce truc, ça va finir en déchet.
+
+216
+00:16:25,400 --> 00:16:27,310
+C'est amusant ?
+
+217
+00:16:33,430 --> 00:16:40,510
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+218
+00:16:51,400 --> 00:16:55,190
+<i>Ma princesse, que faites-vous ?</i>
+
+219
+00:17:00,170 --> 00:17:05,350
+<i>Ma voisine de bureau vient d'arriver d'une autre école, mais elle est venue hier avec un pied cassé.</i>
+
+220
+00:17:05,350 --> 00:17:08,140
+<i>Je pense qu'elle a beaucoup de mal à marcher.</i>
+
+221
+00:17:08,140 --> 00:17:11,780
+<i>Si je lui mets des roues aux chaussures, ça pourrait être plus facile.</i>
+
+222
+00:17:11,780 --> 00:17:13,450
+<i>Tu as remarqué ça ?</i>
+
+223
+00:17:13,450 --> 00:17:16,160
+<i>Oui, je n'ai vu que son pied de toute la journée.</i>
+
+224
+00:17:16,160 --> 00:17:21,080
+<i>Papa voit bien les voitures et ma Ji Ah voit bien les personnes.</i>
+
+225
+00:17:21,080 --> 00:17:25,970
+<i>Je vois bien les personnes ? Qu'est-ce qu'il y a de bon à ce que je les voie bien ?</i>
+
+226
+00:17:28,050 --> 00:17:32,120
+<i>Ouah, incroyable. Ça marche vraiment.</i>
+
+227
+00:17:32,120 --> 00:17:34,800
+<i>Ji Ah, tu as vraiment fabriqué ça ?</i>
+
+228
+00:17:34,800 --> 00:17:38,170
+<i>Oui, Papa et moi l'avons fabriqué après avoir fait un dessin.</i>
+
+229
+00:17:38,170 --> 00:17:40,820
+<i>Tu as vraiment fait du bon travail.</i>
+
+230
+00:17:42,820 --> 00:17:46,090
+<i>Merci, Ji Ah. C'est tellement confortable.</i>
+
+231
+00:17:46,090 --> 00:17:48,060
+<i>Nous sommes amies, de toute façon.</i>
+
+232
+00:17:53,060 --> 00:17:55,490
+<i>Tout comme Papa répare bien les voitures,</i>
+
+233
+00:17:55,490 --> 00:17:59,910
+<i>ma Ji Ah va sûrement devenir quelqu'un dont les autres auront vraiment besoin, n'est-ce pas ?</i>
+
+234
+00:17:59,910 --> 00:18:02,110
+<i>C'est certain.</i>
+
+235
+00:18:02,110 --> 00:18:04,300
+<i>Je crois en toi.</i>
+
+236
+00:18:04,300 --> 00:18:09,530
+<i>Faites votre choix. Seulement 10 000 won chacun</i>
+
+237
+00:18:12,170 --> 00:18:17,500
+♫ <i>Aimer quelqu'un de tout ton cœur</i> ♫
+
+238
+00:18:18,810 --> 00:18:20,600
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+239
+00:18:20,600 --> 00:18:23,370
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+240
+00:18:23,370 --> 00:18:27,090
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+241
+00:18:28,240 --> 00:18:31,750
+<i>10 570 - À vendre</i>
+
+242
+00:18:31,750 --> 00:18:33,670
+<i>Équipe de recherche et de développement de Navire Daeyang</i>
+
+243
+00:18:33,670 --> 00:18:39,150
+♫ <i>J'ai trop peur d'être blessée</i> ♫
+
+244
+00:18:39,150 --> 00:18:43,630
+♫ <i>Alors je prends du recul</i> ♫
+
+245
+00:18:58,560 --> 00:19:02,350
+♫ <i>Quand je rencontre quelqu'un</i> ♫
+
+246
+00:19:04,170 --> 00:19:10,190
+♫ <i>Parce que je ne veux pas que mon cœur souffre</i> ♫
+
+247
+00:19:12,150 --> 00:19:19,380
+♫ <i>Je me tiens toujours un pas en arrière</i> ♫
+
+248
+00:19:21,350 --> 00:19:23,320
+♫ <i>Tristement</i> ♫
+
+249
+00:19:23,320 --> 00:19:28,600
+Es-tu là ?
+
+250
+00:19:28,600 --> 00:19:32,690
+♫ <i>Donner mon cœur à quelqu'un</i> ♫
+
+251
+00:19:34,260 --> 00:19:39,910
+♫ <i>Pourquoi est-ce si dur pour moi ?</i> ♫
+
+252
+00:19:41,810 --> 00:19:45,610
+♫ <i>Même une personne comme moi est amoureuse</i> ♫
+
+253
+00:19:45,610 --> 00:19:49,650
+♫ <i>Même une personne comme moi est amoureuse</i> ♫
+
+254
+00:19:52,180 --> 00:19:55,160
+♫ <i>C'est vraiment étrange</i> ♫
+
+255
+00:19:57,170 --> 00:20:02,550
+♫ <i>Aimer quelqu'un de tout ton cœur</i> ♫
+
+256
+00:20:03,720 --> 00:20:05,630
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+257
+00:20:05,630 --> 00:20:08,440
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+258
+00:20:08,440 --> 00:20:12,190
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+259
+00:20:12,190 --> 00:20:19,460
+♫ <i>C'est si difficile pour moi</i> ♫
+
+260
+00:20:19,460 --> 00:20:28,510
+♫ <i>Comme toi auparavant, je veux ce genre d'amour</i> ♫
+
+261
+00:20:29,390 --> 00:20:34,240
+<i>Nous sommes tous de votre côté, Jo Ji Ah. Apaisez-vous et...</i>
+
+262
+00:20:34,240 --> 00:20:39,120
+<i>pourriez-vous être notre robot juste pour quelques jours de plus ?</i>
+
+263
+00:20:40,780 --> 00:20:43,120
+<i>Tu vas retourner dans cette maison toute seule ?</i>
+
+264
+00:20:43,120 --> 00:20:46,750
+Je veux vraiment apporter cette lampe cœur au monde.
+
+265
+00:20:46,750 --> 00:20:51,850
+J'y ai réfléchi des centaines de fois, et je pense que c'est vraiment un article dont les gens ont besoin.
+
+266
+00:20:51,850 --> 00:20:56,780
+Alors peu importe les moyens, je ferai en sorte qu'ils rouvrent la sélection finale.
+
+267
+00:20:56,780 --> 00:20:58,210
+Comment ?
+
+268
+00:20:58,210 --> 00:20:59,720
+Je dois le faire savoir,
+
+269
+00:20:59,720 --> 00:21:06,070
+combien c'est gratifiant de financer de jeunes entrepreneurs qui ont des rêves et de l'espoir, à notre époque.
+
+270
+00:21:06,070 --> 00:21:11,080
+Alors je vais faire à tout prix en sorte que ce super enfoiré de profiteur rouvre la sélection finale de lui-même.
+
+271
+00:21:13,490 --> 00:21:15,720
+Inutile d'envoyer des SMS.
+
+272
+00:21:15,720 --> 00:21:19,680
+Si vous aviez été un peu plus attentionné envers Jo Ji Ah, Docteur...
+
+273
+00:21:19,680 --> 00:21:24,860
+- Je sais.
+ - Pourquoi fallait-il que vous lui disiez ça ?
+
+274
+00:21:26,190 --> 00:21:29,320
+Nous n'avons qu'à emménager et supporter. Il ne va tout de même pas nous chasser, si ?
+
+275
+00:21:29,320 --> 00:21:31,010
+Ce n'est pas le moment d'être comme ça, là.
+
+276
+00:21:31,010 --> 00:21:35,150
+Il faut aller chez Jo Ji Ah et la supplier si nécessaire.
+
+277
+00:21:40,430 --> 00:21:42,660
+Je vais encore travailler pour toi.
+
+278
+00:21:45,720 --> 00:21:47,970
+Gratuitement.
+
+279
+00:21:47,970 --> 00:21:49,830
+Que penses-tu d'une semaine ?
+
+280
+00:21:49,830 --> 00:21:53,540
+Pour quelle raison ?
+
+281
+00:21:53,540 --> 00:21:56,230
+Pourquoi il demande ça ?
+
+282
+00:21:57,410 --> 00:21:59,420
+La raison, c'est que...
+
+283
+00:22:01,130 --> 00:22:06,950
+J'y ai réfléchi et je pense que tu m'as trop payée, alors je suis mal à l'aise.
+
+284
+00:22:07,650 --> 00:22:11,790
+Tout de même... J'imagine que tu étais inquiète pour moi.
+
+285
+00:22:11,790 --> 00:22:14,920
+- Par contre, j'ai une condition.
+ - Une condition ?
+
+286
+00:22:14,920 --> 00:22:18,370
+- Donne-moi le gîte et le couvert. 
+ - Le gîte et le couvert ?
+
+287
+00:22:22,560 --> 00:22:24,380
+Euh, nous...
+
+288
+00:22:25,430 --> 00:22:27,000
+nous déménageons.
+
+289
+00:23:19,920 --> 00:23:24,830
+L'équipe Santa Maria a disparu, Président.
+
+290
+00:23:30,640 --> 00:23:32,430
+En plus de vous,
+
+291
+00:23:32,430 --> 00:23:36,500
+y a-t-il quelqu'un d'autre qui sait que Santa Maria
+
+292
+00:23:36,500 --> 00:23:38,790
+est une équipe de développement de robots ?
+
+293
+00:23:38,790 --> 00:23:43,720
+Sinon, comment ont-ils pu annuler la réunion
+
+294
+00:23:43,720 --> 00:23:47,580
+la veille de la signature du contrat ?
+
+295
+00:23:47,580 --> 00:23:52,560
+Même mon fils ignore l'existence de Santa Maria.
+
+296
+00:23:52,560 --> 00:23:56,950
+Je suis le seul qui sois au courant.
+
+297
+00:23:56,950 --> 00:23:59,100
+J'ai déjà fait ma part.
+
+298
+00:23:59,100 --> 00:24:03,420
+Il est maintenant temps pour vous de respecter votre part du marché.
+
+299
+00:24:03,420 --> 00:24:08,200
+Quand AG-3 sera-t-elle entre mes mains ?
+
+300
+00:24:08,200 --> 00:24:12,210
+Je vais m'assurer que cela se produise
+
+301
+00:24:12,210 --> 00:24:15,140
+dans un futur proche.
+
+302
+00:24:42,590 --> 00:24:44,480
+C'est super grand.
+
+303
+00:24:44,480 --> 00:24:47,820
+C'est incroyable. Regardez la cour devant. Nous pourrions tout de suite faire un barbecue.
+
+304
+00:24:47,820 --> 00:24:50,020
+Il doit probablement aussi y avoir beaucoup de légumes ici.
+
+305
+00:24:50,020 --> 00:24:52,410
+Nous pouvons désormais vivre comme des êtres humains.
+
+306
+00:24:52,410 --> 00:24:55,640
+Alors tu as vécu comme un animal jusqu'à aujourd'hui ?
+
+307
+00:25:04,380 --> 00:25:05,880
+Vous ne pouvez pas vous garer ici.
+
+308
+00:25:05,880 --> 00:25:09,440
+Nous nous installons aujourd'hui. Ici !
+
+309
+00:25:09,440 --> 00:25:14,620
+Pas ici mais là-bas.
+
+310
+00:25:14,620 --> 00:25:16,820
+Pas ici.
+
+311
+00:25:20,000 --> 00:25:21,000
+Allons là-bas en voiture.
+
+312
+00:25:21,000 --> 00:25:22,490
+Oui.
+
+313
+00:25:22,490 --> 00:25:24,190
+Allons-y.
+
+314
+00:25:26,450 --> 00:25:29,860
+Bienvenue chez moi.
+
+315
+00:25:30,970 --> 00:25:35,720
+En tant que majordome qui s'occupe de cette très grande maison et la gère tout seul,
+
+316
+00:25:35,720 --> 00:25:41,080
+je vais vous énoncer les règles que vous devez tous suivre.
+
+317
+00:25:41,080 --> 00:25:45,840
+D'abord, n'errez pas comme il vous plaît.
+
+318
+00:25:45,840 --> 00:25:49,790
+Parce que cet endroit est immense, cela ne veut pas dire que vous pouvez vous promener comme vous le souhaitez.
+
+319
+00:25:49,790 --> 00:25:53,930
+De cette maison d'hôtes à pas plus de 20 mètres de rayon autour de celle-ci.
+
+320
+00:25:53,930 --> 00:25:58,690
+C'est l'espace maximum sur lequel vous pouvez marcher. Vous ne pouvez pas aller au-delà de cela.
+
+321
+00:25:58,690 --> 00:26:01,950
+Les entrées et sorties par la porte principale doivent s'effectuer en voiture uniquement.
+
+322
+00:26:01,950 --> 00:26:05,940
+Pour les besoins quotidiens, utilisez la porte arrière qui se trouve à côté de cette maison indépendante.
+
+323
+00:26:05,940 --> 00:26:09,570
+En d'autres mots, à la vue de mon jeune maître,
+
+324
+00:26:09,570 --> 00:26:13,860
+vous ne devez pas apparaître, c'est ce que je veux dire.
+
+325
+00:26:15,710 --> 00:26:17,670
+Qu'est-ce ?
+
+326
+00:26:19,260 --> 00:26:22,250
+Pouvons-nous nous faire livrer ? Livraison de nourriture.
+
+327
+00:26:22,250 --> 00:26:24,610
+Absolument pas.
+
+328
+00:26:24,610 --> 00:26:30,130
+Les courses vous seront fournies en quantité suffisante pour que vous puissiez cuisiner et manger à votre guise.
+
+329
+00:26:30,130 --> 00:26:32,710
+C'était le quatrième point. Bien.
+
+330
+00:26:32,710 --> 00:26:36,240
+Alors entendons-nous bien pendant votre présence ici.
+
+331
+00:26:36,240 --> 00:26:38,900
+Soyez parfaitement conscients de ces règles.
+
+332
+00:26:46,490 --> 00:26:48,100
+Ouvre-le pour elle. Ouvre.
+
+333
+00:26:48,100 --> 00:26:51,740
+Nous ne logeons pas en tant que serviteurs dans la demeure d'un noble de Joseon. Qu'est-ce que c'est que cela ?
+
+334
+00:26:51,740 --> 00:26:54,750
+Nous ne sommes pourtant pas des mendiants, Docteur.
+
+335
+00:26:54,750 --> 00:26:58,050
+J'ai cru mourir étouffée là-dedans.
+
+336
+00:27:00,230 --> 00:27:02,160
+Nous restons ici ?
+
+337
+00:27:03,400 --> 00:27:07,960
+Il vit dans une si grande demeure et il nous fait vivre dans un entrepôt ?
+
+338
+00:27:07,960 --> 00:27:11,940
+Que c'est petit de sa part.
+
+339
+00:27:11,940 --> 00:27:14,320
+Pouvons-nous le voir d'ici ?
+
+340
+00:27:14,320 --> 00:27:17,230
+Ne fais pas cela. N'ouvre pas. Il va te voir.
+
+341
+00:27:17,230 --> 00:27:20,940
+Il ne peut pas. Les arbres bloquent la vue.
+
+342
+00:27:21,670 --> 00:27:24,220
+Pi, vérifie s'il y a des caméras de surveillance à l'extérieur, et si c'est le cas, retire-les.
+
+343
+00:27:24,220 --> 00:27:25,840
+Hoktal et Ssanip, commençons par déballer.
+
+344
+00:27:25,840 --> 00:27:27,210
+- Oui. 
+- Oui.
+
+345
+00:27:27,210 --> 00:27:29,590
+Attendez !
+
+346
+00:27:30,790 --> 00:27:32,430
+- Mangeons. 
+ - Quoi ?
+
+347
+00:27:32,430 --> 00:27:37,880
+Ma condition. Une seule. Le gîte et le couvert.
+
+348
+00:27:40,930 --> 00:27:44,750
+Scarabée. Scarabée. Scarabée.
+
+349
+00:27:47,040 --> 00:27:48,780
+Est-ce aussi un robot ?
+
+350
+00:27:48,780 --> 00:27:51,780
+Vous pourriez ne pas être capable de le voir mais en réalité, c'est une intelligence artificielle, un robot.
+
+351
+00:27:51,780 --> 00:27:53,180
+Il s'appelle Scarabée.
+
+352
+00:27:53,180 --> 00:27:57,310
+Il circule partout pour transmettre le Wi-Fi et des objets.
+
+353
+00:27:57,310 --> 00:28:02,060
+Comment devrais-je le décrire ? Il est le plus mignon et le plus jeune de notre équipe de recherche.
+
+354
+00:28:02,060 --> 00:28:04,700
+Hoktal sunbae et Pi sunbae travaillent ensemble.
+
+355
+00:28:04,700 --> 00:28:09,830
+Pi est votre sunbae ? Vous avez dû finir l'école vraiment tôt.
+
+356
+00:28:09,830 --> 00:28:11,680
+Elle a été diplômée extrêmement tôt.
+
+357
+00:28:11,680 --> 00:28:15,450
+Sautant une année et encore une, puis une autre et finir par être diplômée de l'université à l'âge de 17 ans.
+
+358
+00:28:15,450 --> 00:28:17,980
+Elle est une jeune génie. Je veux dire, une jeune femme de génie.
+
+359
+00:28:17,980 --> 00:28:21,230
+Y a-t-il quelqu'un ici qui n'est pas un génie ?
+
+360
+00:28:22,450 --> 00:28:23,700
+- Ici. 
+- Mon Dieu !
+
+361
+00:28:23,700 --> 00:28:26,450
+Ne faites pas cela.
+
+362
+00:28:26,450 --> 00:28:29,960
+Mais vous vous appelez par des surnoms. Que signifient-ils ?
+
+363
+00:28:29,960 --> 00:28:34,020
+Avez-vous vu La planète des singes ? C'est pourquoi il est Hoktal. <i>(Hok Seong Tal Chool est le titre coréen de La planète des singes et "Tal" est le mot coréen pour "Masque")</i>
+
+364
+00:28:34,020 --> 00:28:35,720
+Cette grande bouche.
+
+365
+00:28:35,720 --> 00:28:39,150
+Regardez cette bouche. On dirait une bouche bon marché, n'est-ce pas ? C'est pourquoi il est Ssanip <i>(Bouche bon marché)</i>.
+
+366
+00:28:39,150 --> 00:28:43,860
+Je peux le deviner pour "Pi". "Apple pie" <i>(Tarte aux pommes)</i> ? "Walnut pie" <i>(Tarte aux noix)</i> ?
+
+367
+00:28:43,860 --> 00:28:48,730
+C'est la constante circulaire. Quand elle est stressée, elle mémorise la constante circulaire.
+
+368
+00:28:48,730 --> 00:28:50,490
+- Moisissure.
+- Hé.
+
+369
+00:28:50,490 --> 00:28:52,930
+Le docteur Hong Baek Gyun a aussi un surnom. Moisissure.
+
+370
+00:28:52,930 --> 00:28:56,500
+Hong Gyun (Bactérie rouge) et Baek Gyun (Bactérie blanche). Quand il est en colère, c'est de la moisissure rouge. Le reste du temps, de la moisissure blanche.
+
+371
+00:28:56,500 --> 00:28:58,620
+Toi, sérieusement !
+
+372
+00:29:00,340 --> 00:29:02,080
+Est-ce drôle ?
+
+373
+00:29:05,190 --> 00:29:07,190
+La date d'expiration est passée depuis un mois.
+
+374
+00:29:07,190 --> 00:29:09,150
+Nous avons déjà mangé des choses dont la date d'expiration était passée depuis deux mois. C'est bon.
+
+375
+00:29:09,150 --> 00:29:11,570
+Tant que l'air ne passe pas, cela peut aller jusqu'à 6 mois après la date d'expiration.
+
+376
+00:29:11,570 --> 00:29:15,620
+C'est délicieux. Le curry devrait être fermenté.
+
+377
+00:29:18,170 --> 00:29:20,020
+Oui, PDG ?
+
+378
+00:29:25,000 --> 00:29:28,390
+Faites-moi un court résumé sur la façon d'entraîner AG-3.
+
+379
+00:29:28,390 --> 00:29:32,140
+Saisir les données. Entrer les données.
+
+380
+00:29:34,140 --> 00:29:37,310
+Et un long résumé ?
+
+381
+00:29:37,310 --> 00:29:39,630
+AG-3 est capable de lire les émotions humaines
+
+382
+00:29:39,630 --> 00:29:43,540
+grâce à l'approximation faite à partir des nombreuses données d'échantillon se trouvant dans sa base de données.
+
+383
+00:29:43,540 --> 00:29:46,760
+Des erreurs peuvent donc se produire quand elle fait face à des individus.
+
+384
+00:29:46,760 --> 00:29:50,420
+Mais si l'homologue enregistré est une seule personne,
+
+385
+00:29:50,420 --> 00:29:55,190
+alors son taux d'approximation augmentera considérablement et elle pourra avoir un dialogue émotionnel complexe avec vous.
+
+386
+00:29:55,190 --> 00:29:58,980
+M'enregistrer moi-même en AG-3 ?
+
+387
+00:29:58,980 --> 00:30:04,290
+Quand nous échangeons avec les autres aussi. Nous utilisons les données enregistrées sur eux. C'est la même chose.
+
+388
+00:30:04,290 --> 00:30:07,900
+Plus nous avons de données, plus le degré de communication est élevé.
+
+389
+00:30:07,900 --> 00:30:14,090
+Alors Docteur, avez-vous réussi à atteindre le niveau de communication que vous souhaitiez avec AG-3 ?
+
+390
+00:30:14,090 --> 00:30:17,930
+Elle est devenue l'AG-3 que je voulais. C'est mieux qu'un humain.
+
+391
+00:30:17,930 --> 00:30:22,190
+AG-3 est meilleure qu'un humain. Je suis d'accord.
+
+392
+00:30:22,190 --> 00:30:25,190
+Disons que je donne à AG-3 une profonde connaissance de moi.
+
+393
+00:30:25,190 --> 00:30:29,660
+Est-ce quelque chose dont le centre de recherche aura connaissance aussi ?
+
+394
+00:30:29,660 --> 00:30:35,100
+Programmez un mot de passe. Ainsi vous aurez votre propre espace, comme sur un ordinateur.
+
+395
+00:30:36,260 --> 00:30:41,260
+En AG-3, il y aura mon propre espace ?
+
+396
+00:30:49,170 --> 00:30:51,600
+Salut, AG-3.
+
+397
+00:30:52,750 --> 00:30:56,040
+Je vous aime, Maître. Que désirez-vous ?
+
+398
+00:30:56,040 --> 00:30:57,970
+Je voudrais définir un mot de passe.
+
+399
+00:30:57,970 --> 00:31:01,200
+Veuillez me dire votre mot de passe.
+
+400
+00:31:01,200 --> 00:31:05,610
+San-d-wi-ch.
+
+401
+00:31:07,490 --> 00:31:10,270
+Ce mot est défini comme un mot interdit.
+
+402
+00:31:10,270 --> 00:31:13,500
+Veuillez choisir un autre mot de passe, je vous prie.
+
+403
+00:31:22,530 --> 00:31:24,420
+<i>Rompons. </i>
+
+404
+00:31:26,070 --> 00:31:29,950
+<i>Quel crime le mot "sandwich" a-t-il commis ? Les choses que tu fais... </i>
+
+405
+00:31:29,950 --> 00:31:36,700
+San-d-wi-ch est défini comme votre mot de passe.
+
+406
+00:31:41,930 --> 00:31:45,830
+L'interdiction du mot "sandwich" est levée.
+
+407
+00:31:47,210 --> 00:31:48,900
+Tu m'as sauvé hier, n'est-ce pas ?
+
+408
+00:31:48,900 --> 00:31:50,570
+<i>Donne-moi de l'argent si tu es reconnaissant. </i>
+
+409
+00:31:50,570 --> 00:31:52,700
+J'ai aussi apprécié l'amusement inattendu.
+
+410
+00:31:52,700 --> 00:31:55,140
+<i>Donne-moi de l'argent si c'était amusant. </i>
+
+411
+00:31:55,140 --> 00:31:56,510
+Je vais te récompenser pour cela.
+
+412
+00:31:56,510 --> 00:31:58,790
+<i>Déjà une récompense ? </i>
+
+413
+00:32:05,390 --> 00:32:10,800
+Ici, à l'intérieur de toi, je vais créer un espace pour moi uniquement.
+
+414
+00:32:13,130 --> 00:32:17,500
+Ne l'ouvre à personne. Il n'y a que moi qui peut y entrer,
+
+415
+00:32:19,020 --> 00:32:22,150
+puisque je vais t'entraîner.
+
+416
+00:32:26,970 --> 00:32:28,550
+De plus...
+
+417
+00:32:31,240 --> 00:32:37,030
+Là-dedans, je vais m'y mettre.
+
+418
+00:32:38,230 --> 00:32:43,480
+Dorénavant, tu ne regarderas et surveilleras que moi.
+
+419
+00:32:44,900 --> 00:32:47,200
+Et tu ne suivras que moi.
+
+420
+00:32:47,200 --> 00:32:52,880
+♫ <i>Aimer quelqu'un de tout ton cœur</i> ♫
+
+421
+00:32:53,780 --> 00:32:57,280
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+422
+00:32:57,280 --> 00:32:58,500
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+423
+00:32:58,500 --> 00:33:02,310
+♫ <i>Comment y arrives-tu ?</i> ♫
+
+424
+00:33:02,310 --> 00:33:09,750
+♫ <i>C'est si difficile pour moi</i> ♫
+
+425
+00:33:09,750 --> 00:33:19,100
+♫ <i>Comme toi auparavant, je veux ce genre d'amour</i> ♫
+
+426
+00:33:20,130 --> 00:33:27,220
+<i> Les sous-titres vous sont offerts par 
+ l'équipe des humanoïdes @Viki </i>
+
+427
+00:33:28,600 --> 00:33:29,360
+<i>Je ne suis pas un robot
+ ~ Prochainement ~</i>
+
+428
+00:33:29,360 --> 00:33:33,030
+<i>Dans cette maison, il y a une hiérarchie parmi les objets qui reçoivent mon amour.</i>
+
+429
+00:33:33,030 --> 00:33:35,240
+<i>Espèce de taré !</i>
+
+430
+00:33:35,240 --> 00:33:36,560
+<i>Dépêche, dépêche, dépêche ! Sors vite !</i>
+
+431
+00:33:36,560 --> 00:33:38,280
+<i>Tu vas être le seul à utiliser les toilettes ?</i>
+
+432
+00:33:38,280 --> 00:33:40,830
+<i>Laisse-moi tranquille ! Ne me touche pas ! Je ne vais pas bien !</i>
+
+433
+00:33:40,830 --> 00:33:41,900
+<i>Vite. </i>
+
+434
+00:33:41,900 --> 00:33:45,340
+<i>Pourquoi ça nous arrive en même temps ? </i>
+
+435
+00:33:45,340 --> 00:33:48,280
+<i>Je pense que c'est ce curry que nous avons mangé hier. </i>
+
+436
+00:33:48,280 --> 00:33:50,480
+<i>Le curry. </i>
+
+437
+00:33:50,480 --> 00:33:53,940
+<i>Non... Ji Ah en a mangé deux.</i>
+
+438
+00:33:53,940 --> 00:33:55,130
+<i>Pourquoi mon estomac me fait-il mal ? </i>
+
+439
+00:33:55,130 --> 00:33:58,310
+<i>Dis-lui de se retenir même si elle meurt. </i>
+
+440
+00:33:59,600 --> 00:34:00,580
+<i>Merde ! </i>
+
+441
+00:34:00,580 --> 00:34:03,210
+<i>De qui était l'idée de l'uniforme rose de mauvais goût ? </i>
+
+442
+00:34:03,210 --> 00:34:05,530
+<i>Tu demandes parce que tu ne peux vraiment pas t'en rappeler ? </i>
+
+443
+00:34:05,530 --> 00:34:08,070
+<i>Nous sommes la sombre histoire que chacun aimerait effacer. </i>
+
+444
+00:34:08,070 --> 00:34:11,070
+<i>Comment se fait-il que cette maison soit exactement la même qu'il y a 15 ans ? </i>
+
+445
+00:34:11,070 --> 00:34:13,170
+<i>On dirait que le temps s'est arrêté. </i>
+
+446
+00:34:13,170 --> 00:34:14,550
+<i>Cela fait longtemps, Kim Min Kyu. </i>
+
+447
+00:34:14,550 --> 00:34:20,090
+<i>Cela fait longtemps, Ye Ri El. Peu importe l'image que je renvoie, j'espère que tu me reconnaîtras. </i>
+
+448
+00:34:20,090 --> 00:34:22,960
+<i>Alors je te donnerai beaucoup d'affection,</i>
+
+449
+00:34:22,960 --> 00:34:24,740
+<i>et je t'aimerai aussi.</i>
+
+450
+00:34:24,740 --> 00:34:28,840
+♫ <i>Me verras-tu ?</i> ♫
+

@@ -1,0 +1,4215 @@
+﻿1
+00:01:03,999 --> 00:01:07,916
+CAMÉRA 19
+CAMÉRA 20
+
+2
+00:01:15,916 --> 00:01:19,249
+ENTREPÔT VÉHICULES
+RÉSIDENTIEL
+
+3
+00:01:19,374 --> 00:01:22,041
+CONTRÔLE
+
+4
+00:01:30,500 --> 00:01:33,083
+Je passe la tour huit. Tu me reçois ?
+
+5
+00:01:34,041 --> 00:01:35,041
+RECONSTRUIRE
+
+6
+00:01:35,166 --> 00:01:36,916
+ANOMALIE DÉTECTÉE
+
+7
+00:01:42,207 --> 00:01:45,041
+ENTREPÔT VÉHICULES
+
+8
+00:01:54,416 --> 00:01:57,625
+<i>Regarde ça. On dirait un légume vide.</i>
+
+9
+00:01:57,750 --> 00:01:59,166
+<i>Il vit dans la forêt.</i>
+
+10
+00:02:02,041 --> 00:02:03,625
+CANDIDAT ADÉQUAT
+
+11
+00:02:03,750 --> 00:02:05,041
+<i>Je ne sais pas...</i>
+
+12
+00:02:05,541 --> 00:02:06,792
+<i>Peut-être...</i>
+
+13
+00:02:07,957 --> 00:02:10,874
+<i>Je devrais peut-être essayer
+d'ouvrir ma boutique.</i>
+
+14
+00:02:10,999 --> 00:02:13,500
+<i>Oui. Prends toute ton équipe.</i>
+
+15
+00:02:13,625 --> 00:02:16,458
+<i>Oui, j'aurais besoin de mon équipe</i>
+
+16
+00:02:16,583 --> 00:02:18,541
+<i>et ça couperait tout le département.</i>
+
+17
+00:02:18,666 --> 00:02:19,874
+<i>Tu crois qu'ils viendraient ?</i>
+
+18
+00:02:29,416 --> 00:02:31,667
+<i>Bienvenue à l'ingénierie.</i>
+
+19
+00:02:31,792 --> 00:02:34,500
+<i>Méfiez-vous de ce qui vous entoure.</i>
+
+20
+00:02:47,874 --> 00:02:48,792
+<i>Entrez.</i>
+
+21
+00:02:51,166 --> 00:02:53,583
+J'arrive à 40 degrés, tu me vois ?
+
+22
+00:02:56,083 --> 00:03:01,792
+PÉRIMÈTRE DÉLIMITÉ
+NŒUD 81
+
+23
+00:03:01,916 --> 00:03:03,916
+ANOMALIE
+
+24
+00:03:04,916 --> 00:03:07,958
+INTRUS DÉTECTÉ
+
+25
+00:03:24,958 --> 00:03:26,124
+CAMÉRA 51
+SERVICE / ACCÈS A4
+
+26
+00:03:26,249 --> 00:03:29,166
+<i>Soyez le bienvenu,
+employé George Almore.</i>
+
+27
+00:03:29,291 --> 00:03:32,124
+<i>Ayez une journée sûre et productive.</i>
+
+28
+00:03:35,041 --> 00:03:36,625
+Tu m'as repéré quelque part ?
+
+29
+00:03:36,750 --> 00:03:38,999
+Zone 19 à 22.
+
+30
+00:03:39,124 --> 00:03:42,166
+Et le réseau infrarouge a montré
+de la chaleur à certains endroits.
+
+31
+00:03:42,291 --> 00:03:43,625
+OK.
+
+32
+00:03:43,750 --> 00:03:47,166
+Bon, faisons dérouter ce courant.
+J'ai pas que ça à faire.
+
+33
+00:03:47,291 --> 00:03:52,457
+À mon signal.
+Trois, deux, un, maintenant.
+
+34
+00:03:54,832 --> 00:03:55,832
+<i>Courant dérouté.</i>
+
+35
+00:03:55,958 --> 00:04:00,083
+Si quelqu'un te demande de réactiver
+un site à l'arrêt toute seule,
+
+36
+00:04:00,208 --> 00:04:02,083
+tu refuses.
+
+37
+00:04:02,208 --> 00:04:04,999
+Tu refuses
+et tu vas te chercher un hamburger.
+
+38
+00:04:05,124 --> 00:04:06,083
+Viens.
+
+39
+00:04:08,291 --> 00:04:10,250
+J'aimerais goûter un hamburger.
+
+40
+00:04:12,291 --> 00:04:14,291
+CHARGEMENT
+
+41
+00:04:16,416 --> 00:04:17,416
+Bien.
+
+42
+00:04:18,291 --> 00:04:20,874
+Le bilan d'aujourd'hui
+sera comme d'hab.
+
+43
+00:04:20,999 --> 00:04:24,667
+Ne te montre pas
+pendant la téléconférence, OK ?
+
+44
+00:04:29,749 --> 00:04:31,625
+- Bonjour.
+- Bonjour.
+
+45
+00:04:34,832 --> 00:04:37,083
+- Tu veux que je mette la télé ?
+- Oui.
+
+46
+00:04:37,208 --> 00:04:38,375
+Voilà.
+
+47
+00:04:43,999 --> 00:04:46,542
+PROTOTYPE 02
+
+48
+00:04:49,041 --> 00:04:51,124
+J'ai encore fait le même rêve hier soir.
+
+49
+00:04:51,791 --> 00:04:53,083
+Ah oui ?
+
+50
+00:04:53,625 --> 00:04:55,458
+C'est le même que l'autre jour ?
+
+51
+00:04:56,166 --> 00:04:58,375
+On était en voiture, on roulait.
+
+52
+00:05:02,208 --> 00:05:04,291
+On était en voiture ?
+
+53
+00:05:04,416 --> 00:05:05,958
+On allait où ?
+
+54
+00:05:06,625 --> 00:05:08,041
+Je ne sais pas.
+
+55
+00:05:08,791 --> 00:05:10,958
+- On roulait, c'est tout.
+- OK.
+
+56
+00:05:11,083 --> 00:05:15,833
+C'était agréable ou pas ?
+
+57
+00:05:17,250 --> 00:05:18,583
+On roulait, c'est tout.
+
+58
+00:05:21,874 --> 00:05:24,749
+Tu te souviens d'autre chose ?
+
+59
+00:05:27,208 --> 00:05:28,250
+Non.
+
+60
+00:05:29,083 --> 00:05:32,124
+Je regardais juste défiler le paysage.
+
+61
+00:05:32,749 --> 00:05:36,458
+C'était joli, mais en me réveillant,
+je me suis sentie triste.
+
+62
+00:05:36,583 --> 00:05:38,041
+Oui, eh bien...
+
+63
+00:05:39,166 --> 00:05:40,916
+Les rêves font parfois cet effet.
+
+64
+00:05:59,333 --> 00:06:01,208
+Elle veut te parler.
+
+65
+00:06:02,583 --> 00:06:03,749
+George ?
+
+66
+00:06:04,624 --> 00:06:05,999
+Elle veut te parler.
+
+67
+00:06:06,125 --> 00:06:08,916
+Je sais, c'est bon. Merci.
+
+68
+00:06:13,458 --> 00:06:16,125
+Tu peux la préparer pour l'évaluation ?
+
+69
+00:06:17,250 --> 00:06:18,291
+Merci.
+
+70
+00:06:30,041 --> 00:06:32,041
+CONTRÔLE INCENDIE
+
+71
+00:06:42,666 --> 00:06:47,041
+LIGNE SÉCURISÉE A/1
+
+72
+00:06:53,125 --> 00:06:55,916
+APPEL EN COURS
+
+73
+00:07:02,916 --> 00:07:03,916
+<i>Bonjour.</i>
+
+74
+00:07:05,083 --> 00:07:07,542
+Salut. Je suis là.
+
+75
+00:07:08,208 --> 00:07:09,375
+<i>Salut.</i>
+
+76
+00:07:11,291 --> 00:07:12,500
+<i>Comment va mon homme ?</i>
+
+77
+00:07:13,208 --> 00:07:17,250
+Tu me manques. Un peu... Beaucoup.
+
+78
+00:07:17,833 --> 00:07:19,166
+Comme d'habitude.
+
+79
+00:07:20,208 --> 00:07:21,582
+<i>Tu me manques aussi.</i>
+
+80
+00:07:25,624 --> 00:07:27,375
+<i>Tu ne sors toujours pas ?</i>
+
+81
+00:07:28,874 --> 00:07:30,708
+<i>À fond dans le boulot, hein ?</i>
+
+82
+00:07:33,125 --> 00:07:34,458
+Tu me connais.
+
+83
+00:07:35,624 --> 00:07:38,041
+<i>Oui. Je te connais.</i>
+
+84
+00:07:38,166 --> 00:07:39,708
+Hé, Julia.
+
+85
+00:07:40,624 --> 00:07:43,208
+Tu m'entends ? Ohé ?
+
+86
+00:07:43,749 --> 00:07:44,666
+<i>Je suis là.</i>
+
+87
+00:07:51,916 --> 00:07:53,791
+<i>J'espère que tu es heureux là-bas.</i>
+
+88
+00:07:54,458 --> 00:07:56,417
+C'est magnifique ici.
+
+89
+00:08:02,291 --> 00:08:03,958
+<i>J'ai toujours...</i>
+
+90
+00:08:05,541 --> 00:08:07,624
+- Non...
+<i>- Je n'y arrive plus.</i>
+
+91
+00:08:07,749 --> 00:08:09,083
+Ne dis pas ça.
+
+92
+00:08:09,208 --> 00:08:12,541
+<i>Se parler comme ça... c'est trop dur.</i>
+
+93
+00:08:12,666 --> 00:08:14,124
+Julia, écoute-moi.
+
+94
+00:08:15,915 --> 00:08:17,333
+<i>Je suis désolée.</i>
+
+95
+00:08:21,833 --> 00:08:23,499
+<i>Au revoir, George.</i>
+
+96
+00:08:26,083 --> 00:08:28,582
+- Ne...
+<i>- Je t'aime.</i>
+
+97
+00:08:31,375 --> 00:08:33,000
+EN SOMNOLENCE
+
+98
+00:08:44,624 --> 00:08:46,375
+<i>Allez, dis-moi.</i>
+
+99
+00:08:46,874 --> 00:08:47,916
+<i>Quoi ?</i>
+
+100
+00:08:48,041 --> 00:08:49,375
+- Rends-les.
+- Non.
+
+101
+00:08:49,499 --> 00:08:50,499
+- Allez.
+- Non.
+
+102
+00:08:50,624 --> 00:08:53,000
+- Rends-les-moi.
+- Non, ils sont à moi.
+
+103
+00:08:53,125 --> 00:08:54,499
+Une fois branchés, ils sont à moi.
+
+104
+00:08:55,457 --> 00:08:57,000
+Mets-la en mode automatique.
+
+105
+00:08:57,125 --> 00:09:00,333
+Non, c'est notre voiture.
+C'est moi qui conduis, pas un robot.
+
+106
+00:09:00,457 --> 00:09:03,541
+À quoi bon avoir cette voiture
+si tu la conduis ?
+
+107
+00:09:03,666 --> 00:09:07,417
+Parce qu'elle est pilotée
+par un truc que je n'ai pas conçu.
+
+108
+00:09:08,791 --> 00:09:11,457
+Pour quelqu'un
+qui aime tant les robots...
+
+109
+00:09:13,000 --> 00:09:16,125
+J'aime les robots, mais juste les miens.
+C'est pour ça que je les construis.
+
+110
+00:09:32,499 --> 00:09:34,708
+APPEL EN COURS
+
+111
+00:09:36,125 --> 00:09:39,333
+<i>George ? Tu m'entends ?</i>
+
+112
+00:09:40,499 --> 00:09:43,874
+Oui, je t'entends. Où sont les autres ?
+
+113
+00:09:44,000 --> 00:09:45,666
+On était censés faire un bilan.
+
+114
+00:09:45,791 --> 00:09:48,916
+<i>Annulé. On est débordés.
+Gros bilan de sécurité.</i>
+
+115
+00:09:49,041 --> 00:09:51,916
+<i>Classe ce que tu fais
+et envoie-moi ça.</i>
+
+116
+00:09:52,041 --> 00:09:54,958
+Si je dois tout classer,
+j'avancerai jamais.
+
+117
+00:09:55,083 --> 00:09:58,000
+<i>Comment se passe la remise en route
+des systèmes de sécurité ?</i>
+
+118
+00:09:58,125 --> 00:09:59,541
+Pas génial.
+
+119
+00:09:59,666 --> 00:10:02,208
+Y a du boulot. Vous avez laissé
+cet endroit se déglinguer.
+
+120
+00:10:02,333 --> 00:10:05,041
+<i>- Occupe-t'en.
+</i>- C'est vraiment nécessaire ?
+
+121
+00:10:05,166 --> 00:10:08,583
+<i>Absolument nécessaire.
+Ça devient tendu avec Otaku.</i>
+
+122
+00:10:08,708 --> 00:10:12,583
+<i>On en a quelques-uns en détention.
+Officieusement, bien sûr.</i>
+
+123
+00:10:13,250 --> 00:10:14,333
+Waouh.
+
+124
+00:10:14,708 --> 00:10:16,749
+On kidnappe des gens, maintenant ?
+
+125
+00:10:16,875 --> 00:10:20,333
+<i>C'est le prix des affaires.
+Ils nous feraient la même chose.</i>
+
+126
+00:10:20,457 --> 00:10:23,457
+<i>On affecte des unités d'intervention
+dans nos installations.</i>
+
+127
+00:10:23,583 --> 00:10:26,875
+Personne ne sait où se trouve ce lieu.
+Pas besoin d'unité.
+
+128
+00:10:27,000 --> 00:10:29,958
+<i>Ne t'en fais pas, George.
+J'ai de bonnes nouvelles.</i>
+
+129
+00:10:30,083 --> 00:10:32,875
+<i>Hollins n'est plus là. Parti.</i>
+
+130
+00:10:33,499 --> 00:10:36,583
+<i>Je suis la nouvelle vice-présidente
+du développement interne.</i>
+
+131
+00:10:36,708 --> 00:10:39,250
+<i>On envisage de tout incorporer
+dans mon programme.</i>
+
+132
+00:10:39,374 --> 00:10:42,958
+Non, j'ai un contrat de trois ans.
+Tu ne peux pas le résilier.
+
+133
+00:10:43,083 --> 00:10:48,541
+<i>Deux ans et demi et on n'a encore
+rien vu, à part cette mocheté.</i>
+
+134
+00:10:48,666 --> 00:10:51,416
+<i>Mais ce serait dommage
+que tu ne sois pas à la hauteur.</i>
+
+135
+00:10:52,374 --> 00:10:54,958
+Et ton projet d'animal domestique ?
+
+136
+00:10:55,083 --> 00:10:58,416
+<i>Mon projet
+va définir l'avenir de la robotique</i>
+
+137
+00:10:58,541 --> 00:11:01,208
+<i>pendant au moins 20 ans.</i>
+
+138
+00:11:01,332 --> 00:11:05,624
+<i>La recherche en robotique artisanale
+n'est pas l'avenir de cette entreprise.</i>
+
+139
+00:11:06,916 --> 00:11:08,416
+<i>Allez, George.</i>
+
+140
+00:11:08,541 --> 00:11:11,833
+<i>Mon prototype a passé
+les tests de Haldeman facilement.</i>
+
+141
+00:11:11,958 --> 00:11:14,833
+<i>Ton truc, là, ne parle même pas.</i>
+
+142
+00:11:16,000 --> 00:11:18,292
+Félicitations. C'est super.
+
+143
+00:11:18,916 --> 00:11:20,708
+C'est tout ?
+J'essaie de garder de l'énergie.
+
+144
+00:11:20,833 --> 00:11:23,916
+<i>On ne le refera pas.
+Tu n'auras pas de nouvelle ligne.</i>
+
+145
+00:11:24,041 --> 00:11:25,041
+<i>Hors de question.</i>
+
+146
+00:11:25,167 --> 00:11:28,167
+Je parlais de mon énergie.
+Je perds mon temps, là.
+
+147
+00:11:28,291 --> 00:11:31,041
+<i>Relance ces systèmes de sécurité.</i>
+
+148
+00:11:31,167 --> 00:11:32,958
+<i>Je veux sécuriser cet endroit.</i>
+
+149
+00:11:36,041 --> 00:11:37,499
+Oui.
+
+150
+00:11:40,749 --> 00:11:42,499
+<i>Appel terminé.</i>
+
+151
+00:11:42,624 --> 00:11:43,666
+Je ne l'aime pas.
+
+152
+00:11:45,083 --> 00:11:46,250
+C'est une garce.
+
+153
+00:11:47,250 --> 00:11:49,332
+Oui. Tu as raison.
+
+154
+00:11:50,125 --> 00:11:55,749
+C'est une femme suffisante
+et très imbue d'elle-même.
+
+155
+00:11:56,416 --> 00:11:58,541
+Moins elle en sait sur vous deux,
+mieux c'est.
+
+156
+00:11:58,666 --> 00:11:59,875
+Si elle savait pour toi,
+
+157
+00:12:00,000 --> 00:12:04,499
+elle t'arracherait le cerveau
+et le mettrait en pièces.
+
+158
+00:12:05,208 --> 00:12:08,875
+Elle réaliserait qu'elle a été stupide
+de marginaliser mes recherches,
+
+159
+00:12:10,208 --> 00:12:13,374
+parce qu'elle ne serait pas foutue
+de te remonter !
+
+160
+00:12:23,125 --> 00:12:24,916
+Tu n'es pas moche.
+
+161
+00:12:26,083 --> 00:12:27,624
+<i>Prends ta propre équipe.</i>
+
+162
+00:12:27,750 --> 00:12:30,541
+<i>J'aurais besoin de toute mon équipe</i>
+
+163
+00:12:30,666 --> 00:12:32,708
+<i>et ça couperait tout le département.</i>
+
+164
+00:12:32,833 --> 00:12:34,791
+<i>Tu crois qu'ils viendraient ?</i>
+
+165
+00:12:34,916 --> 00:12:39,249
+<i>Je peux les prendre par les sentiments.
+Je sais ce qu'ils gagnent...</i>
+
+166
+00:12:39,374 --> 00:12:41,791
+CONTRÔLE HUMAIN UNIQUEMENT
+
+167
+00:13:08,167 --> 00:13:10,125
+SUPPRESSION DE LA COMPRESSION
+
+168
+00:13:10,249 --> 00:13:12,541
+<i>J'emmerde cette histoire de frontière.</i>
+
+169
+00:13:12,666 --> 00:13:14,791
+CANDIDAT ADÉQUAT
+
+170
+00:13:14,916 --> 00:13:17,458
+<i>Arrête de filmer. Allez.</i>
+
+171
+00:13:31,374 --> 00:13:34,249
+ENVIRONNEMENT MACHINE
+
+172
+00:13:34,374 --> 00:13:35,750
+<i>Allez. Arrête.</i>
+
+173
+00:13:35,875 --> 00:13:37,916
+<i>Allons boire un verre.</i>
+
+174
+00:13:42,624 --> 00:13:45,541
+CAMÉRA 51
+SERVICE/ACCÈS A4
+
+175
+00:13:45,708 --> 00:13:48,499
+CAMÉRA 52
+
+176
+00:13:48,666 --> 00:13:51,000
+CAMÉRA 53
+
+177
+00:14:07,374 --> 00:14:09,750
+Y a des fantômes dans ce truc.
+
+178
+00:14:18,166 --> 00:14:21,416
+Ça va ? Tu es bien silencieuse.
+
+179
+00:14:23,666 --> 00:14:25,374
+C'est à cause de ton rêve ?
+
+180
+00:14:27,042 --> 00:14:28,416
+Non.
+
+181
+00:14:28,541 --> 00:14:30,583
+Je sais que ce n'est qu'un rêve.
+
+182
+00:14:31,207 --> 00:14:32,708
+Tu as le dix ?
+
+183
+00:14:44,374 --> 00:14:45,833
+Je t'en prie.
+
+184
+00:14:49,833 --> 00:14:53,791
+Pourquoi tu ne me demandes plus
+de t'aider dans ton atelier ?
+
+185
+00:14:54,625 --> 00:14:57,082
+C'est ça ? Tu t'ennuies ici avec moi ?
+
+186
+00:14:57,583 --> 00:14:59,958
+- Je croyais qu'on formait une équipe.
+- C'est le cas.
+
+187
+00:15:01,333 --> 00:15:03,958
+Je sais ce que tu fabriques là-bas.
+
+188
+00:15:06,333 --> 00:15:08,124
+On en a parlé, d'accord ?
+
+189
+00:15:08,666 --> 00:15:10,291
+Je ne te remplace pas.
+
+190
+00:15:11,750 --> 00:15:15,207
+Tu en as fait une autre comme moi,
+mais en mieux.
+
+191
+00:15:15,333 --> 00:15:16,416
+Différente.
+
+192
+00:15:16,541 --> 00:15:19,082
+Mieux. Tout comme je suis mieux
+que ma sœur.
+
+193
+00:15:19,207 --> 00:15:21,249
+Différente, OK ?
+
+194
+00:15:22,082 --> 00:15:24,833
+Rentre à la maison, tu vas te mouiller.
+
+195
+00:15:24,958 --> 00:15:28,166
+Je dois vérifier
+si elle a déclenché le système.
+
+196
+00:16:06,875 --> 00:16:09,208
+RECONSTRUIRE OSSATURE IA
+
+197
+00:16:18,999 --> 00:16:19,833
+CONTRÔLE
+URGENCE
+
+198
+00:16:28,541 --> 00:16:29,750
+Je sais que tu m'entends.
+
+199
+00:16:30,458 --> 00:16:34,041
+Je t'ai mise en état d'hibernation.
+C'est comme le sommeil.
+
+200
+00:16:34,166 --> 00:16:35,249
+Tout ira bien.
+
+201
+00:16:35,374 --> 00:16:39,166
+Quand tu te réveilleras,
+je serai là pour m'occuper de toi.
+
+202
+00:16:41,082 --> 00:16:42,665
+Tout va bien se passer.
+
+203
+00:16:59,081 --> 00:17:01,458
+CAMÉRA 5, HORS LIGNE
+CAMÉRA 01, RÉSIDENTIEL
+
+204
+00:17:13,041 --> 00:17:15,999
+<i>Le sujet J1 me montre où elle peut
+gagner une course en sac !</i>
+
+205
+00:17:17,833 --> 00:17:18,833
+<i>Je déconne !</i>
+
+206
+00:17:21,166 --> 00:17:22,917
+<i>Je vais vite t'apprendre à courir.</i>
+
+207
+00:17:42,083 --> 00:17:44,957
+SUPPRESSION DE LA COMPRESSION
+
+208
+00:18:01,916 --> 00:18:03,999
+<i>Pourquoi t'arrêtes pas de me filmer ?</i>
+
+209
+00:18:04,124 --> 00:18:09,124
+<i>Je documente ton parcours professionnel
+et on en aura besoin au tribunal.</i>
+
+210
+00:18:35,708 --> 00:18:38,458
+<i>Bienvenue à l'Entrepôt Véhicules.</i>
+
+211
+00:18:38,583 --> 00:18:41,208
+<i>Ayez une journée sûre et productive.</i>
+
+212
+00:19:00,166 --> 00:19:01,333
+Tout va bien.
+
+213
+00:19:03,708 --> 00:19:05,500
+Qu'est-ce que tu fais là, toi ?
+
+214
+00:19:09,541 --> 00:19:10,957
+Allez, ouste !
+
+215
+00:19:11,083 --> 00:19:12,416
+Fiche le camp ! Allez !
+
+216
+00:19:16,291 --> 00:19:17,750
+Maison, ferme la porte.
+
+217
+00:19:18,667 --> 00:19:20,916
+<i>Incapable d'exécuter l'ordre.</i>
+
+218
+00:19:22,291 --> 00:19:23,458
+Tu as ouvert la porte ?
+
+219
+00:19:23,583 --> 00:19:27,832
+<i>Erreur du système de sécurité
+dans l'Entrepôt Véhicules.</i>
+
+220
+00:19:30,832 --> 00:19:33,124
+Tu as touché aux systèmes de sécurité ?
+
+221
+00:19:33,249 --> 00:19:34,625
+Non.
+
+222
+00:19:35,999 --> 00:19:37,041
+Que se passe-t-il ?
+
+223
+00:19:37,957 --> 00:19:40,041
+Prends le sac orange.
+Retrouve-moi dehors.
+
+224
+00:19:50,541 --> 00:19:52,208
+Merci.
+
+225
+00:19:52,333 --> 00:19:55,333
+Tu peux vérifier les volets ?
+Les glissières sont coincées.
+
+226
+00:20:01,916 --> 00:20:04,958
+Je vais de nouveau
+avoir besoin de toi. C'est bon ?
+
+227
+00:20:05,083 --> 00:20:07,958
+- Pour quoi faire ?
+- Je veux examiner tes jambes.
+
+228
+00:20:09,249 --> 00:20:10,249
+Pourquoi ?
+
+229
+00:20:10,999 --> 00:20:12,416
+Je veux vérifier l'usure.
+
+230
+00:20:14,083 --> 00:20:15,041
+Elles vont bien.
+
+231
+00:20:15,166 --> 00:20:18,791
+Je sais, mais je vais devoir
+en construire d'autres
+
+232
+00:20:18,916 --> 00:20:22,333
+et je veux le diagnostic
+qui sous-tend la conception.
+
+233
+00:20:33,541 --> 00:20:35,583
+Tu sais quelque chose à ce sujet ?
+
+234
+00:20:36,333 --> 00:20:38,583
+Quelqu'un a changé les pièces.
+C'est quoi, ça ?
+
+235
+00:20:38,708 --> 00:20:40,749
+- C'était pas moi.
+- Ne mens pas.
+
+236
+00:20:41,250 --> 00:20:44,375
+On n'a que quelques pièces de rechange,
+et il les faut pour les caméras.
+
+237
+00:20:46,500 --> 00:20:51,749
+Écoute, ce qu'on fait ici
+est très important.
+
+238
+00:20:51,874 --> 00:20:54,458
+Ressources limitées. N'anticipe pas.
+
+239
+00:20:54,583 --> 00:20:58,291
+- Je n'ai rien fait.
+- T'as rien fait ? C'est ça.
+
+240
+00:21:10,375 --> 00:21:12,208
+<i>Véhicule en approche.</i>
+
+241
+00:21:23,707 --> 00:21:26,625
+<i>Deux véhicules
+demandent à pouvoir entrer.</i>
+
+242
+00:21:31,625 --> 00:21:35,166
+- Maison, mets-le sur haut-parleur.
+<i>- M. Almore ?</i>
+
+243
+00:21:35,291 --> 00:21:37,166
+<i>Je m'appelle Vincent Sinclair</i>
+
+244
+00:21:37,291 --> 00:21:41,333
+<i>et voici mon collaborateur, J.P. Melvin.</i>
+
+245
+00:21:41,458 --> 00:21:43,208
+<i>On vient voir votre femme.</i>
+
+246
+00:21:58,999 --> 00:22:00,542
+Les filles, écoutez.
+
+247
+00:22:00,666 --> 00:22:02,958
+Retournez dans vos alcôves.
+
+248
+00:22:03,083 --> 00:22:07,166
+J'ai des visiteurs.
+Faites le mort jusqu'à leur départ.
+
+249
+00:22:07,291 --> 00:22:09,791
+Toi aussi. Allez, viens. Recule.
+
+250
+00:22:09,916 --> 00:22:12,958
+C'est très important.
+Allez, viens.
+
+251
+00:22:13,083 --> 00:22:15,707
+Ne bougez surtout pas jusqu'à
+ce que je vienne vous chercher.
+
+252
+00:22:33,791 --> 00:22:36,125
+Merci, M. Almore.
+
+253
+00:22:37,624 --> 00:22:42,958
+Nous avons été informés de la mise
+en somnolence de votre femme.
+
+254
+00:22:43,083 --> 00:22:44,500
+Elle n'est pas prête à partir.
+
+255
+00:22:45,624 --> 00:22:46,749
+Bien sûr.
+
+256
+00:22:47,583 --> 00:22:52,749
+Veuillez excuser nos machines.
+C'est la procédure habituelle.
+
+257
+00:22:53,749 --> 00:22:57,083
+On doit vérifier que les conditions sont
+optimales pour l'utilisation restante.
+
+258
+00:22:58,208 --> 00:22:59,166
+Bien sûr.
+
+259
+00:22:59,291 --> 00:23:01,666
+M. Melvin va faire quelques tests.
+
+260
+00:23:07,291 --> 00:23:08,333
+Monsieur.
+
+261
+00:23:09,125 --> 00:23:12,375
+Le sujet est Almore, Julie Alice.
+
+262
+00:23:12,500 --> 00:23:15,582
+Délai :
+deux ans, huit mois, quatre jours.
+
+263
+00:23:15,707 --> 00:23:16,791
+C'est bien ça.
+
+264
+00:23:16,916 --> 00:23:19,166
+Des problèmes avec la ligne ?
+
+265
+00:23:20,707 --> 00:23:24,458
+Je ne peux pas me connecter avec elle
+quand j'appelle.
+
+266
+00:23:24,582 --> 00:23:26,375
+Elle peut m'appeler, mais pas moi.
+
+267
+00:23:26,500 --> 00:23:28,208
+La ligne est bonne
+quand elle vous appelle ?
+
+268
+00:23:28,333 --> 00:23:30,958
+Oui, plus ou moins, mais ça faiblit.
+
+269
+00:23:31,083 --> 00:23:34,333
+C'est un peu normal avec la somnolence.
+
+270
+00:23:34,458 --> 00:23:35,833
+Pas de coupures ?
+
+271
+00:23:36,791 --> 00:23:38,417
+Non. Elle...
+
+272
+00:23:39,083 --> 00:23:41,458
+Elle ne sait pas ce qui lui arrive.
+
+273
+00:23:41,582 --> 00:23:44,291
+C'est toujours triste
+de perdre un client ainsi.
+
+274
+00:23:45,916 --> 00:23:46,916
+D'accord.
+
+275
+00:23:51,958 --> 00:23:55,500
+Ça empire. Beaucoup de parasites.
+C'est normal ?
+
+276
+00:23:55,624 --> 00:24:00,458
+L'expérience Archive se termine souvent
+par des appels audio,
+
+277
+00:24:00,582 --> 00:24:03,458
+seulement quand le signal
+commence à décliner.
+
+278
+00:24:03,582 --> 00:24:07,041
+Mais ces unités n'ont aucun secret
+pour vous, n'est-ce pas ?
+
+279
+00:24:07,874 --> 00:24:09,582
+On travaille
+sur de nouvelles technologies,
+
+280
+00:24:09,708 --> 00:24:12,500
+mais elles ne sont pas encore
+accessibles au public.
+
+281
+00:24:15,708 --> 00:24:17,582
+Quelle belle vue.
+
+282
+00:24:19,250 --> 00:24:23,791
+C'est un des avantages d'être à l'écart.
+
+283
+00:24:26,375 --> 00:24:28,375
+Et vous vivez ici tout seul ?
+
+284
+00:24:29,417 --> 00:24:30,666
+Oui.
+
+285
+00:24:35,916 --> 00:24:37,666
+Ça doit être très tranquille.
+
+286
+00:24:46,041 --> 00:24:47,000
+Monsieur ?
+
+287
+00:24:50,083 --> 00:24:52,749
+Le sceau de sécurité de cette unité
+a été brisé.
+
+288
+00:24:52,874 --> 00:24:55,041
+Les systèmes environnementaux
+ont été rafistolés.
+
+289
+00:24:55,166 --> 00:24:56,666
+Comment ça ?
+
+290
+00:24:57,749 --> 00:25:00,041
+- Ici, sur mon système.
+- C'est faux. Revérifiez.
+
+291
+00:25:01,582 --> 00:25:03,499
+L'usage domestique de l'archive
+
+292
+00:25:03,624 --> 00:25:06,874
+constitue légalement un stockage
+des restes de l'utilisateur décédé.
+
+293
+00:25:07,000 --> 00:25:08,375
+En cas d'ouverture,
+
+294
+00:25:08,499 --> 00:25:12,708
+nous avons l'obligation
+de retirer cette unité et de l'enterrer.
+
+295
+00:25:12,833 --> 00:25:15,166
+- Allez vous faire foutre.
+- Calmez-vous.
+
+296
+00:25:15,292 --> 00:25:16,708
+Ne me dites pas de me calmer.
+
+297
+00:25:16,833 --> 00:25:22,582
+Nous sommes tenus d'agir conformément
+à la loi sur l'internement post mortem.
+
+298
+00:25:23,457 --> 00:25:26,582
+Par la force, si nécessaire.
+
+299
+00:25:28,541 --> 00:25:31,499
+Vous êtes sur un territoire
+d'entreprise souverain.
+
+300
+00:25:32,292 --> 00:25:36,041
+Archive Systems Incorporated considérera
+ça comme une incursion armée.
+
+301
+00:25:36,166 --> 00:25:38,417
+Vous voulez vraiment jouer à ça ?
+
+302
+00:25:39,958 --> 00:25:43,333
+Un simple malentendu.
+C'est entièrement de ma faute.
+
+303
+00:25:44,250 --> 00:25:46,375
+J'ai omis de communiquer à M. Melvin...
+
+304
+00:25:47,958 --> 00:25:49,582
+les informations utiles.
+
+305
+00:25:52,541 --> 00:25:53,541
+Bien sûr.
+
+306
+00:25:55,083 --> 00:25:56,083
+Partez.
+
+307
+00:26:42,333 --> 00:26:43,457
+Hé.
+
+308
+00:26:43,583 --> 00:26:44,791
+Comment tu te sens ?
+
+309
+00:26:46,749 --> 00:26:47,708
+Désorientée.
+
+310
+00:26:47,833 --> 00:26:49,457
+Oui. C'est normal.
+
+311
+00:26:50,292 --> 00:26:52,791
+Désolé de ne pas avoir été là
+pour t'expliquer.
+
+312
+00:26:52,916 --> 00:26:54,916
+Explique-moi maintenant, George.
+
+313
+00:26:55,916 --> 00:26:56,916
+Tu te souviens de moi ?
+
+314
+00:26:58,541 --> 00:27:00,499
+C'est assez déroutant, en fait.
+
+315
+00:27:01,292 --> 00:27:05,333
+Est-ce que ça te paraît réel ?
+Consistant ?
+
+316
+00:27:06,292 --> 00:27:10,125
+C'est en partie...
+Une partie semble très réelle. Je...
+
+317
+00:27:12,374 --> 00:27:14,666
+- Attends.
+- Non !
+
+318
+00:27:14,791 --> 00:27:17,624
+- Très bien. C'est bon.
+- S'il te plaît.
+
+319
+00:27:17,749 --> 00:27:19,958
+Avant, c'était pour ton bien.
+
+320
+00:27:20,083 --> 00:27:23,250
+Il faut juste
+que tu te détendes et l'acceptes.
+
+321
+00:27:24,541 --> 00:27:27,583
+J'essaie de minimiser ton traumatisme
+avant de te mettre en ligne.
+
+322
+00:27:28,624 --> 00:27:29,457
+Je...
+
+323
+00:27:31,125 --> 00:27:34,332
+- C'est facilement réversible.
+- Ne recommence pas.
+
+324
+00:27:36,292 --> 00:27:37,374
+D'accord.
+
+325
+00:27:40,457 --> 00:27:42,250
+Comment... comment as-tu... ?
+
+326
+00:27:43,000 --> 00:27:46,208
+C'est bon, tout va bien.
+Regarde-moi.
+
+327
+00:27:46,332 --> 00:27:48,749
+Tout va bien. Tout va bien.
+
+328
+00:27:50,250 --> 00:27:51,875
+C'est bon.
+
+329
+00:27:55,499 --> 00:27:58,208
+Et ta peau ? C'est un prototype.
+
+330
+00:27:59,541 --> 00:28:00,958
+Pourquoi je ne me souviens de rien ?
+
+331
+00:28:01,083 --> 00:28:04,749
+C'est juste ta conscience
+qui se reconstruit.
+
+332
+00:28:04,875 --> 00:28:06,875
+Je déteste être comme ça !
+
+333
+00:28:07,000 --> 00:28:08,916
+Cette machine ! C'est juste...
+
+334
+00:28:09,041 --> 00:28:11,833
+Tout va bien. Calme-toi.
+Fais-moi confiance.
+
+335
+00:28:11,958 --> 00:28:15,125
+Détends-toi. Calme-toi.
+C'est ton logiciel.
+
+336
+00:28:15,250 --> 00:28:17,666
+Il essaie de recoller tous les morceaux.
+
+337
+00:28:17,791 --> 00:28:21,374
+C'est un processus un peu confus,
+mais ça marche.
+
+338
+00:28:22,583 --> 00:28:23,666
+OK ?
+
+339
+00:28:26,083 --> 00:28:30,332
+Je ne sais même pas comment
+je suis arrivée ici, ni même où je suis.
+
+340
+00:28:33,541 --> 00:28:34,916
+Je veux rentrer chez moi.
+
+341
+00:28:36,541 --> 00:28:37,666
+C'est chez toi.
+
+342
+00:28:49,666 --> 00:28:51,332
+Ça fait mal, George...
+
+343
+00:28:52,666 --> 00:28:54,125
+d'être comme ça.
+
+344
+00:30:10,916 --> 00:30:14,916
+- Maintenant, pour le goût.
+- Vanille.
+
+345
+00:30:15,042 --> 00:30:16,458
+Tu aimes ?
+
+346
+00:30:17,000 --> 00:30:18,333
+Qui n'aime pas la vanille ?
+
+347
+00:30:19,666 --> 00:30:20,750
+Numéro deux.
+
+348
+00:30:23,541 --> 00:30:25,374
+- Citron.
+- Bien.
+
+349
+00:30:25,499 --> 00:30:27,499
+Et enfin...
+
+350
+00:30:30,541 --> 00:30:32,916
+- Citron vert.
+- Très bien. Désolé.
+
+351
+00:30:35,000 --> 00:30:40,166
+D'accord. Ça risque...
+de te paraître un peu bizarre.
+
+352
+00:30:42,374 --> 00:30:43,583
+Comment tu te sens ?
+
+353
+00:30:44,291 --> 00:30:45,458
+- Bien.
+- Oui ?
+
+354
+00:30:45,583 --> 00:30:47,625
+- Des douleurs ?
+- Non.
+
+355
+00:30:47,750 --> 00:30:48,916
+Bien.
+
+356
+00:30:49,541 --> 00:30:51,124
+OK, redis-moi les mots.
+
+357
+00:30:52,333 --> 00:30:53,458
+Changement.
+
+358
+00:30:53,583 --> 00:30:54,916
+Contrôle.
+
+359
+00:30:55,042 --> 00:30:56,249
+Partenaire.
+
+360
+00:30:56,374 --> 00:30:58,249
+- Vies.
+- Bien.
+
+361
+00:30:58,374 --> 00:30:59,666
+Très bien.
+
+362
+00:30:59,791 --> 00:31:01,291
+Chose suivante.
+
+363
+00:31:02,416 --> 00:31:03,875
+- C'est quoi ?
+- Ça...
+
+364
+00:31:05,708 --> 00:31:07,374
+C'est "Hello Puppy".
+
+365
+00:31:07,499 --> 00:31:09,042
+- Je dois faire quoi ?
+- Prends-le.
+
+366
+00:31:09,166 --> 00:31:11,875
+Regarde dedans et joue avec.
+
+367
+00:31:12,000 --> 00:31:15,166
+Vous ferez des trucs ensemble.
+Des puzzles, etc.
+
+368
+00:31:19,416 --> 00:31:22,916
+C'est quoi, l'intérêt de ces tests ?
+Ils sont plutôt basiques.
+
+369
+00:31:23,042 --> 00:31:25,042
+Comment peuvent-ils tester
+mon intelligence ?
+
+370
+00:31:25,166 --> 00:31:26,916
+C'est pas ça. C'est un test d'empathie.
+
+371
+00:31:27,042 --> 00:31:30,750
+Le rapport que les gens ont
+avec les animaux en dit long sur eux.
+
+372
+00:31:33,374 --> 00:31:36,458
+Il me demande
+si je veux le regarder danser.
+
+373
+00:31:37,124 --> 00:31:38,042
+J'aime bien.
+
+374
+00:31:39,458 --> 00:31:42,042
+Ce n'est pas la bonne pièce.
+Où est l'autre ?
+
+375
+00:31:42,166 --> 00:31:44,291
+- Elle n'est pas encore prête.
+- J'ai besoin du RK4.
+
+376
+00:31:44,416 --> 00:31:45,541
+Allez.
+
+377
+00:31:51,124 --> 00:31:52,166
+C'était quoi, cette machine ?
+
+378
+00:31:53,166 --> 00:31:56,416
+C'est J2, mon deuxième prototype.
+
+379
+00:31:56,541 --> 00:31:57,708
+Elle adore ce truc.
+
+380
+00:31:59,791 --> 00:32:02,583
+On reprendra demain, d'accord ?
+
+381
+00:32:04,958 --> 00:32:06,458
+Alors on est trois ?
+
+382
+00:32:14,583 --> 00:32:16,208
+Qu'est-il arrivé à ton visage ?
+
+383
+00:32:18,958 --> 00:32:20,750
+C'était un accident.
+
+384
+00:32:20,875 --> 00:32:23,249
+Comment va ta gorge ?
+
+385
+00:32:24,208 --> 00:32:26,833
+Serrée. Un peu engourdie.
+
+386
+00:32:26,958 --> 00:32:28,208
+Tu vas t'habituer.
+
+387
+00:32:28,333 --> 00:32:30,958
+Continue à parler,
+le temps que ça se mette en place.
+
+388
+00:32:31,499 --> 00:32:33,708
+Tu as dormi cette nuit ?
+
+389
+00:32:33,833 --> 00:32:34,958
+Oui.
+
+390
+00:32:35,708 --> 00:32:37,625
+J'ai beaucoup rêvé.
+
+391
+00:32:38,708 --> 00:32:39,833
+Hier soir, je...
+
+392
+00:32:39,958 --> 00:32:43,041
+Je ne sais pas si je rêve
+ou si je me souviens.
+
+393
+00:32:44,416 --> 00:32:45,958
+Ça fait parfois ça, les rêves, hein ?
+
+394
+00:32:49,833 --> 00:32:51,124
+Oui, ça fait ça.
+
+395
+00:32:52,917 --> 00:32:55,500
+Ton IA fait tout ce qu'elle peut
+pour comprendre le monde
+
+396
+00:32:55,625 --> 00:32:58,958
+et lui donner du contexte,
+relier les choses.
+
+397
+00:33:01,333 --> 00:33:03,249
+Prendre les choses
+comme elles viennent, hein ?
+
+398
+00:33:06,666 --> 00:33:07,625
+Oui.
+
+399
+00:33:09,791 --> 00:33:11,666
+Tu sais que je t'entends.
+
+400
+00:33:12,583 --> 00:33:14,625
+Entre, viens dire bonjour.
+
+401
+00:33:15,500 --> 00:33:17,166
+Voici notre nouvelle invitée.
+
+402
+00:33:19,917 --> 00:33:21,833
+Allez, entre. Viens dire bonjour.
+
+403
+00:33:21,958 --> 00:33:25,708
+Je dois parfois l'aider.
+Elle a des problèmes de mobilité.
+
+404
+00:33:30,208 --> 00:33:32,583
+Je te présente J1.
+
+405
+00:33:35,208 --> 00:33:36,166
+Bonjour.
+
+406
+00:33:38,208 --> 00:33:41,082
+- Désolée.
+- Ne t'excuse pas. C'est ma faute.
+
+407
+00:33:42,041 --> 00:33:45,208
+Je progresse tellement vite que je n'ai
+pas eu le temps de lui faire des bras.
+
+408
+00:33:45,333 --> 00:33:47,208
+Mais ça ne te dérange pas, hein ?
+
+409
+00:33:47,917 --> 00:33:49,750
+Tu vas finir ma construction ?
+
+410
+00:33:50,374 --> 00:33:51,333
+Bien sûr.
+
+411
+00:33:52,082 --> 00:33:55,541
+- Quand ?
+- Je bosse sur un truc.
+
+412
+00:33:55,666 --> 00:33:59,457
+Dans quelques jours, j'espère
+que tu seras complètement autonome.
+
+413
+00:33:59,582 --> 00:34:02,291
+Sans attaches, sans batterie.
+Sans rien.
+
+414
+00:34:05,333 --> 00:34:09,249
+- Dans quelques jours ?
+- Oui. Je te le promets.
+
+415
+00:34:12,875 --> 00:34:14,290
+Je veux te montrer quelque chose.
+
+416
+00:34:16,666 --> 00:34:19,207
+Ce ne sont pas des robots normaux.
+
+417
+00:34:20,583 --> 00:34:22,791
+Ils se déplacent différemment.
+
+418
+00:34:22,915 --> 00:34:26,374
+Vous êtes tous une tentative
+de la même chose.
+
+419
+00:34:26,499 --> 00:34:28,916
+Apprentissage automatique mulltiniveaux.
+
+420
+00:34:29,041 --> 00:34:31,916
+Intelligence artificielle.
+L'équivalent humain. Le saint graal.
+
+421
+00:34:32,041 --> 00:34:38,166
+J1 a arrêté de se développer
+environ à ce stade :
+
+422
+00:34:38,291 --> 00:34:40,792
+à l'âge de cinq ou six ans, maximum.
+
+423
+00:34:40,916 --> 00:34:43,999
+Je l'ai utilisée comme modèle
+pour la version deux,
+
+424
+00:34:44,124 --> 00:34:46,458
+à savoir J2, que tu as déjà rencontrée.
+
+425
+00:34:46,583 --> 00:34:47,666
+Et c'est elle, ici.
+
+426
+00:34:47,792 --> 00:34:52,999
+Elle a arrêté de se développer
+vers 15 ou 16 ans.
+
+427
+00:34:54,666 --> 00:34:56,208
+Et enfin...
+
+428
+00:34:57,583 --> 00:34:58,666
+ceci...
+
+429
+00:35:00,291 --> 00:35:01,541
+c'est toi.
+
+430
+00:35:08,375 --> 00:35:10,041
+C'est moi ?
+
+431
+00:35:53,041 --> 00:35:54,999
+Bon Dieu de merde !
+
+432
+00:35:55,124 --> 00:35:56,874
+Tu m'as foutu la trouille.
+
+433
+00:35:59,375 --> 00:36:00,625
+- Désolée.
+- Salut.
+
+434
+00:36:01,083 --> 00:36:02,916
+Je croyais que tu étais sorti.
+
+435
+00:36:03,041 --> 00:36:07,375
+J'étais sorti, puis je suis revenu,
+et tu ronflais, au fait.
+
+436
+00:36:07,999 --> 00:36:10,792
+Je n'ai dormi que trois heures...
+Et je ne ronfle pas.
+
+437
+00:36:12,083 --> 00:36:13,124
+Si, tu ronfles.
+
+438
+00:36:15,708 --> 00:36:17,792
+Si c'est Fabian, je me tue.
+
+439
+00:36:17,916 --> 00:36:19,124
+Il sourit aujourd'hui.
+
+440
+00:36:20,166 --> 00:36:23,541
+C'est pas sa faute, il est nouveau
+et ne connaît pas les systèmes.
+
+441
+00:36:24,583 --> 00:36:26,832
+Ne fais pas ma partie.
+C'est ma couleur préférée.
+
+442
+00:36:26,958 --> 00:36:27,958
+T'inquiète.
+
+443
+00:36:32,291 --> 00:36:34,958
+Quand t'en auras fini avec Monsieur
+Bébé, faisons notre propre bébé.
+
+444
+00:36:44,124 --> 00:36:48,750
+EN SOMNOLENCE
+
+445
+00:37:04,583 --> 00:37:07,791
+Je serai dehors.
+Tu peux toujours m'appeler avec ça.
+
+446
+00:37:08,916 --> 00:37:11,583
+Les systèmes de sécurité
+vont pas se réparer tout seuls.
+
+447
+00:37:16,416 --> 00:37:18,832
+- Prends ta journée.
+- Mais je veux venir avec toi.
+
+448
+00:37:18,958 --> 00:37:20,124
+Je n'ai pas besoin de toi.
+
+449
+00:37:20,250 --> 00:37:25,583
+Reste à la maison et vérifie
+que ta sœur ne fasse pas de bêtises.
+
+450
+00:37:43,791 --> 00:37:46,625
+DÉFAILLANCE SYSTÈME
+
+451
+00:38:40,166 --> 00:38:42,333
+<i>George, tu m'entends ?</i>
+
+452
+00:38:43,458 --> 00:38:44,791
+Oui, je t'entends.
+
+453
+00:38:45,666 --> 00:38:48,791
+<i>Les lumières n'arrêtent pas
+de s'éteindre ici. C'est toi ?</i>
+
+454
+00:38:51,083 --> 00:38:52,375
+Attends.
+
+455
+00:38:56,291 --> 00:38:57,375
+<i>J'ai essayé ça.</i>
+
+456
+00:38:57,500 --> 00:38:59,749
+<i>Je le fais
+chaque fois qu'un truc déconne.</i>
+
+457
+00:39:00,707 --> 00:39:03,208
+<i>Alimentation électrique coupée.</i>
+
+458
+00:39:04,916 --> 00:39:05,916
+<i>Et maintenant ?</i>
+
+459
+00:39:06,041 --> 00:39:07,291
+<i>Système de secours activé.</i>
+
+460
+00:39:07,416 --> 00:39:10,707
+<i>J'ignore ce qui se passe,
+mais c'est pas bon. Tu peux revenir ?</i>
+
+461
+00:39:33,500 --> 00:39:36,583
+<i>George, reviens ici. S'il te plaît.</i>
+
+462
+00:39:38,250 --> 00:39:39,624
+OK, j'arrive.
+
+463
+00:39:43,458 --> 00:39:48,166
+Un, deux, trois, quatre,
+cinq, six, sept, huit...
+
+464
+00:39:50,375 --> 00:39:51,874
+15, 16, 17.
+
+465
+00:39:51,999 --> 00:39:53,375
+OK, ça fait 17.
+
+466
+00:39:53,500 --> 00:39:55,083
+Je suis dans l'alcôve trois. Déclenche.
+
+467
+00:40:00,916 --> 00:40:04,041
+- Deux, trois, quatre, cinq...
+- Je peux t'aider à compter les modules.
+
+468
+00:40:04,166 --> 00:40:05,250
+Quoi ?
+
+469
+00:40:05,375 --> 00:40:08,083
+Je me suis trompée la dernière fois,
+mais laisse-moi réessayer.
+
+470
+00:40:08,208 --> 00:40:11,208
+Tu m'as... Tu m'as fait perdre le fil.
+
+471
+00:40:12,417 --> 00:40:16,208
+Bon, tu peux aller recharger ça ?
+
+472
+00:40:16,333 --> 00:40:17,542
+D'accord, merci.
+
+473
+00:40:32,916 --> 00:40:34,874
+Y a plus rien qui va ici.
+
+474
+00:40:38,791 --> 00:40:42,208
+<i>Erreur système. Alimentation de secours.</i>
+
+475
+00:40:42,333 --> 00:40:43,791
+Quel âge a ce site ?
+
+476
+00:40:45,916 --> 00:40:49,125
+Je ne sais pas.
+Il est plus vieux que moi.
+
+477
+00:40:51,666 --> 00:40:53,624
+<i>Système en ligne.</i>
+
+478
+00:41:20,041 --> 00:41:21,958
+Allez, au dodo.
+
+479
+00:41:22,083 --> 00:41:23,541
+Plus de dessins animés, OK ?
+
+480
+00:41:24,791 --> 00:41:27,624
+Oui, je sais. Allez, viens.
+
+481
+00:41:29,000 --> 00:41:30,250
+C'est bien.
+
+482
+00:41:30,874 --> 00:41:32,833
+T'es une gentille fille.
+
+483
+00:41:34,582 --> 00:41:36,624
+Voilà. C'est bien.
+
+484
+00:41:36,749 --> 00:41:38,958
+Je dois aller à une réunion.
+
+485
+00:41:39,833 --> 00:41:42,208
+T'en fais pas, je reviens tout de suite.
+
+486
+00:41:43,208 --> 00:41:45,291
+Tu sais où est ta sœur ?
+
+487
+00:42:11,874 --> 00:42:15,375
+<i>Les Ressources centrales ont envoyé
+un évaluateur de risques pour te voir.</i>
+
+488
+00:42:15,499 --> 00:42:19,083
+<i>M. Tagg. Il a de nouvelles
+procédures de sécurité pour toi.</i>
+
+489
+00:42:19,208 --> 00:42:21,333
+<i>Il veut te voir en personne.</i>
+
+490
+00:42:21,457 --> 00:42:23,000
+Je me fiche de ce qu'il veut.
+
+491
+00:42:23,125 --> 00:42:26,375
+C'est mon environnement de recherche.
+Il ne mettra pas les pieds ici.
+
+492
+00:42:26,499 --> 00:42:30,250
+<i>Très bien. Retrouve-le dans
+cet endroit répugnant que tu aimes.</i>
+
+493
+00:42:30,375 --> 00:42:32,749
+<i>C'est important. À 21 h ce soir.</i>
+
+494
+00:42:41,583 --> 00:42:45,166
+VIANDE
+
+495
+00:43:18,583 --> 00:43:20,583
+Bonjour. Je suis George Almore.
+
+496
+00:43:22,208 --> 00:43:23,374
+Asseyez-vous.
+
+497
+00:43:31,250 --> 00:43:33,624
+Alors ? Qu'est-ce que je fais ici ?
+
+498
+00:43:36,791 --> 00:43:38,333
+Je suis évaluateur de risques.
+
+499
+00:43:39,791 --> 00:43:41,541
+J'évalue les risques.
+
+500
+00:43:42,875 --> 00:43:47,041
+Et vous, vous êtes un risque.
+
+501
+00:43:52,541 --> 00:43:55,333
+Désolé, monsieur.
+Vous ne pouvez pas fumer ici.
+
+502
+00:43:55,457 --> 00:43:56,875
+Vraiment ?
+
+503
+00:44:01,833 --> 00:44:03,666
+J'espère pour vous
+
+504
+00:44:03,791 --> 00:44:07,041
+que je n'aurai pas à m'en servir
+très bientôt.
+
+505
+00:44:11,167 --> 00:44:13,083
+J'oublie toujours...
+
+506
+00:44:13,208 --> 00:44:14,833
+C'est nouveau, tout ça, pour vous.
+
+507
+00:44:20,167 --> 00:44:22,583
+Vous êtes au courant pour Black Mesa ?
+
+508
+00:44:23,666 --> 00:44:24,666
+Non.
+
+509
+00:44:24,791 --> 00:44:26,791
+Vous devriez lire vos circulaires.
+
+510
+00:44:27,708 --> 00:44:29,749
+Deux morts et un disparu.
+
+511
+00:44:30,666 --> 00:44:34,250
+Tout le personnel de recherche.
+Ils savaient ce qu'ils faisaient.
+
+512
+00:44:34,374 --> 00:44:38,167
+Comment entrer,
+qui cibler et quoi prendre.
+
+513
+00:44:40,208 --> 00:44:42,125
+Alors, on passe au niveau supérieur
+
+514
+00:44:43,374 --> 00:44:46,749
+et on devient meilleurs amis.
+
+515
+00:44:47,749 --> 00:44:50,167
+Je n'ai pas le temps pour les amis.
+
+516
+00:44:51,000 --> 00:44:52,291
+Vous êtes surveillé.
+
+517
+00:44:53,708 --> 00:44:54,916
+Oui, j'avais compris.
+
+518
+00:44:55,041 --> 00:44:56,833
+Ça la concerne.
+
+519
+00:45:21,000 --> 00:45:22,083
+Il y a deux nuits.
+
+520
+00:45:23,791 --> 00:45:25,000
+Vous étiez chez moi ?
+
+521
+00:45:25,666 --> 00:45:28,125
+- On me l'a envoyée.
+- Alors, qui l'a prise ?
+
+522
+00:45:29,208 --> 00:45:31,125
+Qui a pris cette putain de photo ?
+
+523
+00:45:32,541 --> 00:45:37,208
+Si je le savais, c'est à eux
+que je serais en train de parler.
+
+524
+00:45:37,332 --> 00:45:40,208
+Alors quoi, c'est une sorte de message ?
+
+525
+00:45:45,750 --> 00:45:47,125
+Vos nouvelles procédures.
+
+526
+00:45:48,791 --> 00:45:50,916
+À n'ouvrir qu'en cas d'urgence.
+
+527
+00:45:52,000 --> 00:45:53,249
+Vous comprenez ?
+
+528
+00:45:58,249 --> 00:46:01,167
+Dormez bien, M. Almore.
+
+529
+00:46:07,750 --> 00:46:10,708
+Et... évitez le thon.
+
+530
+00:47:35,333 --> 00:47:36,833
+Tu le fais ?
+
+531
+00:47:37,833 --> 00:47:40,833
+Waouh. Merde.
+
+532
+00:47:46,458 --> 00:47:50,541
+Waouh, c'est très féminin.
+
+533
+00:47:53,000 --> 00:47:54,791
+C'est trop bon.
+
+534
+00:47:56,124 --> 00:47:58,458
+Dis-moi comment ça s'est passé.
+
+535
+00:47:58,583 --> 00:48:01,666
+Eh bien...
+
+536
+00:48:04,499 --> 00:48:08,207
+Trois ans de recherche sérieuse
+avec un prototype livrable.
+
+537
+00:48:08,333 --> 00:48:10,166
+Quoi ? Waouh. Quoi ?
+
+538
+00:48:10,291 --> 00:48:12,791
+- Oui ! Ils me l'ont donné.
+- Oh, mon Dieu !
+
+539
+00:48:12,917 --> 00:48:16,333
+- Ça s'est fait.
+- Mon Dieu. Chéri, c'est incroyable.
+
+540
+00:48:16,458 --> 00:48:18,082
+- Félicitations.
+- Merci.
+
+541
+00:48:18,207 --> 00:48:23,124
+Oh, mon Dieu. Dis-moi tout.
+Ils vont agrandir ton atelier ?
+
+542
+00:48:25,000 --> 00:48:27,625
+Oui. Enfin, en quelque sorte.
+C'est pas sur le site.
+
+543
+00:48:29,042 --> 00:48:30,833
+Ils t'ont donné un atelier à Mesa ?
+
+544
+00:48:31,625 --> 00:48:32,708
+J'aurais bien aimé, mais non.
+
+545
+00:48:32,833 --> 00:48:36,750
+- C'est la préfecture de Yamanashi.
+- Quoi ?
+
+546
+00:48:36,875 --> 00:48:39,333
+Yamanashi.
+C'est comme ça qu'on dit, je crois.
+
+547
+00:48:39,458 --> 00:48:40,666
+Yamanashi.
+
+548
+00:48:40,791 --> 00:48:43,291
+- Yamanashi.
+- Yamanashi. Yamanashi.
+
+549
+00:48:44,082 --> 00:48:45,082
+C'est quoi ?
+
+550
+00:48:46,458 --> 00:48:48,249
+C'est au Japon.
+
+551
+00:48:49,333 --> 00:48:50,374
+Arrête.
+
+552
+00:48:51,917 --> 00:48:53,291
+C'est au Japon.
+
+553
+00:48:54,124 --> 00:48:57,541
+Écoute, c'est...
+C'est un lieu incroyable.
+
+554
+00:48:58,208 --> 00:49:01,833
+Un site désaffecté en pleine forêt.
+
+555
+00:49:01,958 --> 00:49:02,958
+C'est magnifique.
+
+556
+00:49:03,082 --> 00:49:05,082
+Il y a une immense maison à côté,
+
+557
+00:49:05,208 --> 00:49:08,082
+avec une vue incroyable
+et tout ce dont j'ai besoin.
+
+558
+00:49:08,208 --> 00:49:11,666
+Et ils vont nous le laisser
+pendant trois ans.
+
+559
+00:49:14,666 --> 00:49:15,917
+Je vois.
+
+560
+00:49:17,708 --> 00:49:18,833
+Oui.
+
+561
+00:49:21,791 --> 00:49:23,208
+Waouh.
+
+562
+00:49:26,958 --> 00:49:28,000
+Au Japon ?
+
+563
+00:49:31,208 --> 00:49:32,249
+Oui.
+
+564
+00:49:35,625 --> 00:49:36,917
+Je sais que c'est pas rien.
+
+565
+00:49:38,791 --> 00:49:41,416
+Non. C'est... Honnêtement, c'est...
+
+566
+00:49:42,541 --> 00:49:43,750
+C'est super.
+
+567
+00:49:44,875 --> 00:49:46,208
+Je suis fière de toi.
+
+568
+00:49:49,583 --> 00:49:50,708
+Merci.
+
+569
+00:50:07,541 --> 00:50:09,791
+Je peux refuser si tu veux. Je peux...
+
+570
+00:50:14,041 --> 00:50:16,333
+URGENCE
+
+571
+00:50:16,458 --> 00:50:19,666
+<i>Alerte,
+intrusion dans la zone résidentielle.</i>
+
+572
+00:50:39,666 --> 00:50:43,082
+<i>Alerte,
+intrusion dans la zone résidentielle.</i>
+
+573
+00:50:53,541 --> 00:50:54,792
+Maison, lumières.
+
+574
+00:51:31,583 --> 00:51:33,333
+Maison, coupe l'alarme.
+
+575
+00:51:34,792 --> 00:51:36,708
+<i>Réinitialisation du système.</i>
+
+576
+00:52:22,083 --> 00:52:23,708
+À N'OUVRIR QU'EN CAS D'URGENCE
+
+577
+00:52:32,874 --> 00:52:35,583
+- Maison, annule.
+<i>- Incapable d'obéir.</i>
+
+578
+00:52:35,708 --> 00:52:38,458
+<i>M. Almore, que se passe-t-il ?</i>
+
+579
+00:52:38,583 --> 00:52:39,832
+C'est vous ?
+
+580
+00:52:39,957 --> 00:52:42,916
+<i>On nous signale
+que votre valise a été ouverte.</i>
+
+581
+00:52:43,041 --> 00:52:46,375
+Oui. Je voulais savoir ce
+qu'elle contenait. Ouvrez les portes.
+
+582
+00:52:46,500 --> 00:52:49,291
+<i>Il n'y a donc pas d'urgence.
+C'est exact ?</i>
+
+583
+00:52:49,416 --> 00:52:51,957
+Non, ouvrez les portes.
+
+584
+00:52:52,083 --> 00:52:53,625
+J'ai du matériel de soudure allumé.
+
+585
+00:52:54,541 --> 00:52:56,458
+Ouvrez les portes, putain !
+
+586
+00:52:58,416 --> 00:53:02,832
+<i>Si vous l'ouvrez encore, mieux vaut
+que ce soit pour une vraie urgence.</i>
+
+587
+00:53:02,958 --> 00:53:05,041
+<i>La prochaine fois,
+on envoie une équipe d'intervention.</i>
+
+588
+00:53:07,667 --> 00:53:10,375
+Maison, lance les drones.
+Je veux un scan de toute la zone.
+
+589
+00:53:10,500 --> 00:53:13,874
+<i>Échec du lancement.
+Interférence magnétique.</i>
+
+590
+00:53:13,999 --> 00:53:17,874
+<i>Les drones ne peuvent pas être lancés
+au sein du périmètre de sécurité.</i>
+
+591
+00:54:41,749 --> 00:54:46,333
+J'ai un peu de mal à comprendre.
+Quand t'es parti, t'es parti, hein ?
+
+592
+00:54:46,958 --> 00:54:49,958
+Tu es mort, mais tu n'es pas parti.
+
+593
+00:54:52,874 --> 00:54:54,416
+Écoute ça.
+
+594
+00:54:54,542 --> 00:54:57,542
+"Les clients archivés
+peuvent espérer jusqu'à 200 heures
+
+595
+00:54:57,667 --> 00:55:01,208
+d'interaction en face à face
+avec le défunt."
+
+596
+00:55:01,333 --> 00:55:04,291
+Ça doit être
+une sorte de téléchargement
+
+597
+00:55:04,416 --> 00:55:07,458
+s'il y a un moyen de sauver
+la conscience après la mort.
+
+598
+00:55:07,583 --> 00:55:11,625
+Oui, mais c'est analogique, pas digital.
+C'est pour ça que la durée est limitée.
+
+599
+00:55:12,833 --> 00:55:17,083
+Je sais que c'est une nouvelle
+technologie, mais c'est trop bizarre.
+
+600
+00:55:17,208 --> 00:55:20,083
+Oui, c'est bizarre,
+mais c'est aussi incroyable.
+
+601
+00:55:20,208 --> 00:55:23,083
+Tu peux régler tes affaires
+après ta mort.
+
+602
+00:55:23,208 --> 00:55:25,250
+Tu peux dire au revoir correctement.
+
+603
+00:55:26,749 --> 00:55:28,958
+Prendre les choses
+comme elles viennent, hein ?
+
+604
+00:55:30,625 --> 00:55:32,916
+Pourquoi tu voudrais me parler
+si je suis morte ?
+
+605
+00:55:33,041 --> 00:55:34,500
+Parce que tu me manquerais.
+
+606
+00:55:35,874 --> 00:55:37,791
+Tu me manquerais aussi, j'imagine.
+
+607
+00:55:37,916 --> 00:55:40,833
+Mais je ne saurais pas
+que je suis morte.
+
+608
+00:55:40,958 --> 00:55:43,250
+Comment tu le saurais de toute façon ?
+
+609
+00:55:44,625 --> 00:55:46,958
+- C'est bon.
+- C'est bon ?
+
+610
+00:55:47,083 --> 00:55:48,125
+- Bien.
+- Bien ?
+
+611
+00:55:48,250 --> 00:55:50,208
+Non, je n'en veux pas !
+
+612
+00:56:10,624 --> 00:56:13,833
+APPEL
+
+613
+00:56:28,041 --> 00:56:29,624
+Seigneur.
+
+614
+00:56:35,250 --> 00:56:38,707
+Je pige pas pourquoi
+tu fais une fixation là-dessus.
+
+615
+00:56:38,833 --> 00:56:40,250
+Parce que je n'en veux pas.
+
+616
+00:56:40,375 --> 00:56:42,707
+<i>OK, tu n'en veux pas.</i>
+
+617
+00:56:42,833 --> 00:56:46,125
+<i>Tu détestes ça à ce point.
+Tu peux juste y réfléchir ?</i>
+
+618
+00:56:46,250 --> 00:56:50,125
+<i>Non, je ne veux pas y réfléchir.
+C'est aussi simple que ça.</i>
+
+619
+00:56:50,458 --> 00:56:52,291
+<i>Si tu y réfléchissais un peu plus ?</i>
+
+620
+00:56:52,417 --> 00:56:54,833
+<i>- Je ne veux pas y penser !
+- C'est gratuit.</i>
+
+621
+00:56:54,958 --> 00:56:57,958
+Je ne veux pas être piégée
+dans une boîte quand je serai morte !
+
+622
+00:56:58,083 --> 00:57:00,500
+<i>C'est pas comme si
+j'avais fait ça dans ton dos.</i>
+
+623
+00:57:00,624 --> 00:57:02,707
+<i>- C'est l'impression que j'ai.
+- J'ai pas fait ça</i>
+
+624
+00:57:04,208 --> 00:57:05,666
+Tu vas annuler ?
+
+625
+00:57:09,541 --> 00:57:10,624
+Bien sûr. Je vais annuler.
+
+626
+00:57:28,291 --> 00:57:30,666
+PROTOTYPE
+SOIS PATIENTE, S'IL TE PLAÎT
+
+627
+00:58:58,375 --> 00:58:59,958
+Non, non...
+
+628
+00:59:00,749 --> 00:59:05,166
+Allez. Je t'ai dit de rester
+à l'intérieur. Allez, rentre.
+
+629
+00:59:05,292 --> 00:59:06,457
+Seigneur !
+
+630
+00:59:06,582 --> 00:59:09,666
+Allez, rentre. C'est bon.
+
+631
+00:59:13,874 --> 00:59:15,125
+Avance.
+
+632
+00:59:17,583 --> 00:59:18,833
+Elle va bien ?
+
+633
+00:59:21,333 --> 00:59:23,749
+Tu n'es pas censée te mouiller.
+
+634
+00:59:23,874 --> 00:59:25,791
+Elle ne voulait pas entrer.
+
+635
+00:59:26,874 --> 00:59:28,375
+Tu as trouvé quelque chose ?
+
+636
+00:59:30,375 --> 00:59:31,666
+Non.
+
+637
+00:59:31,791 --> 00:59:34,208
+J'ai besoin de mon kit de nuit.
+Je dois y retourner.
+
+638
+00:59:35,000 --> 00:59:36,916
+Désolée de ne pas être assez comme elle.
+
+639
+00:59:37,041 --> 00:59:39,624
+Ne dis pas ça.
+
+640
+00:59:39,749 --> 00:59:43,041
+On est une famille
+et je vais m'occuper de vous deux.
+
+641
+00:59:43,166 --> 00:59:45,333
+Mais là, j'ai besoin de ton aide.
+
+642
+00:59:45,457 --> 00:59:49,041
+Primo, ne la laisse sortir
+en aucune circonstance.
+
+643
+00:59:49,166 --> 00:59:51,624
+Je ne veux pas
+qu'il vous arrive quoi que ce soit.
+
+644
+00:59:51,749 --> 00:59:53,457
+Deuzio... regarde-moi.
+
+645
+00:59:53,583 --> 00:59:56,708
+Si qui que ce soit
+essaie d'entrer dans la maison...
+
+646
+00:59:59,333 --> 01:00:03,791
+contacte-moi par radio.
+Le canal 12, comme d'habitude.
+
+647
+01:00:04,208 --> 01:00:05,208
+Bien.
+
+648
+01:00:10,000 --> 01:00:12,083
+Dehors. Allez, on y va.
+
+649
+01:00:12,208 --> 01:00:14,583
+Toi aussi.
+
+650
+01:00:15,624 --> 01:00:17,499
+J'ai pas le temps pour ça.
+
+651
+01:00:45,457 --> 01:00:46,666
+Merde.
+
+652
+01:00:47,666 --> 01:00:48,833
+Bon sang.
+
+653
+01:00:50,583 --> 01:00:52,958
+Tu vas bien ? Tu m'entends ?
+
+654
+01:00:57,708 --> 01:00:59,916
+Espèce de sale taré !
+
+655
+01:01:00,041 --> 01:01:02,041
+- Tout va bien.
+- Je suis au courant pour elle !
+
+656
+01:01:02,167 --> 01:01:03,624
+- Calme-toi.
+- Je sais ce que t'as fait !
+
+657
+01:01:03,749 --> 01:01:05,916
+Elle est dans cette boîte
+et elle ne reviendra pas.
+
+658
+01:01:06,041 --> 01:01:08,292
+- Calme-toi.
+- Pourquoi tu m'as fait ça ?
+
+659
+01:01:08,416 --> 01:01:09,541
+Écoute-moi !
+
+660
+01:01:09,666 --> 01:01:13,457
+Tout va bien, OK ? Tout va bien.
+
+661
+01:01:14,332 --> 01:01:16,583
+Je suis désolé. OK ?
+
+662
+01:01:16,708 --> 01:01:17,791
+Je suis désolé.
+
+663
+01:01:19,250 --> 01:01:21,000
+Je ne pouvais pas vivre sans elle.
+
+664
+01:01:22,958 --> 01:01:24,791
+Pourquoi tu ne m'as rien dit ?
+
+665
+01:01:26,000 --> 01:01:27,958
+Je n'ai pas pu.
+
+666
+01:01:28,666 --> 01:01:30,000
+Je n'ai pas pu.
+
+667
+01:01:33,666 --> 01:01:36,749
+Si tu veux que je te fasse confiance,
+sois franc avec moi.
+
+668
+01:01:39,583 --> 01:01:42,791
+Oui. Que veux-tu savoir ?
+
+669
+01:01:44,666 --> 01:01:45,875
+Tout.
+
+670
+01:02:05,958 --> 01:02:07,167
+Bon...
+
+671
+01:02:08,833 --> 01:02:12,833
+Ce sont les données que l'ordinateur
+a réussi à extraire de l'archive.
+
+672
+01:02:12,958 --> 01:02:16,332
+Ils n'avaient jamais réussi
+à connecter un ordinateur dessus.
+
+673
+01:02:16,916 --> 01:02:18,958
+Alors tu l'as sauvée sur disque dur ?
+
+674
+01:02:19,916 --> 01:02:20,916
+Non.
+
+675
+01:02:21,958 --> 01:02:24,000
+J'aimerais que ce soit aussi simple.
+
+676
+01:02:25,000 --> 01:02:27,833
+Ton cerveau n'est pas
+à strictement parler un ordinateur.
+
+677
+01:02:27,958 --> 01:02:30,416
+Il y a un élément biochimique.
+
+678
+01:02:31,291 --> 01:02:35,000
+La technologie de l'archive
+et de ton cerveau est hyper complexe.
+
+679
+01:02:35,125 --> 01:02:38,208
+Il y a beaucoup de tubes,
+de transistors, de verre.
+
+680
+01:02:39,458 --> 01:02:42,249
+- Mais tu l'as fait.
+- Oui.
+
+681
+01:02:44,083 --> 01:02:45,833
+Je l'ai fait.
+
+682
+01:02:45,958 --> 01:02:51,958
+Une fois, j'ai réussi à extraire
+une sorte de signal analogique.
+
+683
+01:02:52,541 --> 01:02:54,416
+<i>J'ai essayé de me reconnecter,
+mais en vain.</i>
+
+684
+01:02:54,541 --> 01:02:57,624
+<i>J'ai cru que c'était un coup de bol,
+alors j'ai balancé les données</i>
+
+685
+01:02:57,750 --> 01:03:01,458
+<i>et je les ai mises dans un logiciel
+de reconnaissance des formes.</i>
+
+686
+01:03:02,750 --> 01:03:06,332
+J'ai attendu longtemps, plus d'un an.
+
+687
+01:03:07,083 --> 01:03:08,541
+Puis j'ai vu quelque chose.
+
+688
+01:03:10,332 --> 01:03:11,624
+C'était elle.
+
+689
+01:03:13,291 --> 01:03:17,666
+Alors j'ai utilisé ça pour créer
+un modèle de personnalité.
+
+690
+01:03:17,791 --> 01:03:22,708
+Et j'ai commencé à fabriquer
+une version physique. J1...
+
+691
+01:03:22,833 --> 01:03:27,499
+Et chaque version était meilleure
+que la précédente. J2 et...
+
+692
+01:03:29,750 --> 01:03:31,125
+Enfin, toi.
+
+693
+01:03:32,958 --> 01:03:34,499
+Elle était comment ?
+
+694
+01:03:34,624 --> 01:03:36,916
+MODÈLE 3
+
+695
+01:03:37,374 --> 01:03:40,166
+Elle était parfaite... pour moi.
+
+696
+01:03:43,833 --> 01:03:45,458
+Tu crois qu'on s'entendrait ?
+
+697
+01:03:46,666 --> 01:03:50,374
+À toi de me le dire.
+Tu la connais mieux que personne.
+
+698
+01:03:52,916 --> 01:03:54,624
+J'ai l'impression que c'est ma sœur.
+
+699
+01:03:56,125 --> 01:03:59,207
+Oui. Vous avez toutes intégré
+un aspect de cette relation.
+
+700
+01:03:59,333 --> 01:04:02,374
+Tu vas construire une J4 ?
+
+701
+01:04:04,624 --> 01:04:05,625
+Non.
+
+702
+01:04:08,249 --> 01:04:10,207
+Tu dois me dire ce qui s'est passé.
+
+703
+01:04:13,124 --> 01:04:15,000
+Elle m'a emmenée à l'archive.
+
+704
+01:04:16,333 --> 01:04:19,958
+Elle m'a tenue fermement,
+alors je me suis débattue.
+
+705
+01:04:20,083 --> 01:04:25,124
+Elle a dû perdre l'équilibre,
+puis je ne me souviens de rien.
+
+706
+01:04:26,458 --> 01:04:27,541
+Elle ?
+
+707
+01:04:36,374 --> 01:04:39,499
+- Qu'est-ce que t'as foutu ?
+- C'était un accident.
+
+708
+01:04:39,625 --> 01:04:41,708
+Comment ça ? Pourquoi ?
+
+709
+01:04:41,833 --> 01:04:44,291
+Je voulais lui dire la vérité.
+
+710
+01:04:44,416 --> 01:04:46,458
+Tu voulais lui dire la vérité...
+
+711
+01:04:47,833 --> 01:04:48,917
+Tu es jalouse ?
+
+712
+01:04:49,458 --> 01:04:53,458
+Pourquoi tu as besoin d'elle ? Pourquoi
+tu ne continues pas à m'améliorer ?
+
+713
+01:04:55,166 --> 01:04:57,166
+Je veux m'améliorer.
+
+714
+01:04:59,917 --> 01:05:01,958
+Tu as touché à l'archive ?
+
+715
+01:05:02,082 --> 01:05:06,750
+Non. Je ne lui ferais jamais de mal.
+C'était un accident.
+
+716
+01:05:06,875 --> 01:05:09,958
+Tu es allé trop loin cette fois.
+Tu restes ici.
+
+717
+01:05:17,833 --> 01:05:20,042
+<i>Canal sécurisé.</i>
+
+718
+01:05:22,082 --> 01:05:23,958
+<i>C'est pour quoi ? Je suis très occupé.</i>
+
+719
+01:05:24,082 --> 01:05:28,666
+<i>On a eu une visite
+de la société Archive.</i>
+
+720
+01:05:28,791 --> 01:05:32,041
+<i>Ils voulaient me parler de ta femme.</i>
+
+721
+01:05:32,166 --> 01:05:33,541
+<i>Ça n'a rien à voir avec toi.</i>
+
+722
+01:05:33,666 --> 01:05:37,000
+<i>La société paie pour le service,
+alors si.</i>
+
+723
+01:05:37,917 --> 01:05:39,541
+<i>Ils semblent croire que tes robots</i>
+
+724
+01:05:39,666 --> 01:05:43,208
+<i>reposent sur leur technologie d'archive.</i>
+
+725
+01:05:43,333 --> 01:05:46,249
+<i>Ils parlent de violation de brevet.</i>
+
+726
+01:05:46,374 --> 01:05:49,458
+<i>Ils veulent les examiner de près.</i>
+
+727
+01:05:49,583 --> 01:05:53,000
+<i>Je leur ai dit que nos recherches
+étaient confidentielles.</i>
+
+728
+01:05:53,124 --> 01:05:56,374
+<i>Ils menacent de nous intenter un procès.</i>
+
+729
+01:05:56,499 --> 01:05:58,291
+<i>Un truc qui va remonter haut.</i>
+
+730
+01:05:58,416 --> 01:06:01,249
+<i>- Y a un truc que je dois savoir ?
+- Non.</i>
+
+731
+01:06:01,875 --> 01:06:02,791
+PAS DE SIGNAL
+
+732
+01:06:02,917 --> 01:06:06,333
+<i>Les avocats sont sur le coup.
+Il risque d'y avoir des conséquences.</i>
+
+733
+01:06:06,458 --> 01:06:09,416
+<i>- On n'a rien à craindre.
+- Pour toi, je veux dire.</i>
+
+734
+01:06:09,541 --> 01:06:11,666
+<i>Tu as enfreint
+ton accord de confidentialité</i>
+
+735
+01:06:11,791 --> 01:06:13,458
+<i>en les laissant entrer chez toi.</i>
+
+736
+01:06:13,583 --> 01:06:17,166
+<i>Ça pourrait être un motif de renvoi,
+mais je te tiens au courant.</i>
+
+737
+01:06:17,291 --> 01:06:18,958
+<i>Bonne journée, George.</i>
+
+738
+01:06:34,041 --> 01:06:37,666
+CAMÉRA 07
+
+739
+01:06:38,875 --> 01:06:41,875
+CAMÉRA 29
+
+740
+01:07:18,917 --> 01:07:21,208
+CAMÉRA 09
+
+741
+01:07:42,541 --> 01:07:44,999
+FORME SYSTÈME CRITIQUE
+
+742
+01:09:50,667 --> 01:09:52,083
+Salut.
+
+743
+01:09:53,208 --> 01:09:54,791
+Comment tu te sens ?
+
+744
+01:09:54,916 --> 01:09:57,166
+Je suis partie longtemps ?
+
+745
+01:09:57,291 --> 01:09:59,291
+Non, juste quelques jours.
+
+746
+01:09:59,999 --> 01:10:01,583
+Je peux sortir ?
+
+747
+01:10:04,083 --> 01:10:07,832
+- Tu peux sortir, mais...
+- Je veux sortir.
+
+748
+01:10:10,625 --> 01:10:11,874
+OK.
+
+749
+01:10:12,500 --> 01:10:13,916
+Bien sûr.
+
+750
+01:10:21,832 --> 01:10:23,208
+Hé...
+
+751
+01:10:23,333 --> 01:10:25,500
+Ça va ?
+
+752
+01:10:28,708 --> 01:10:31,916
+Où sont mes jambes ?
+Tu m'as fait quoi ?
+
+753
+01:10:32,041 --> 01:10:36,791
+- J'en avais besoin pour mon travail.
+- Tu les lui as données, hein ?
+
+754
+01:10:36,916 --> 01:10:38,667
+Non, je ne les lui ai pas données.
+
+755
+01:10:38,791 --> 01:10:43,625
+Elles renfermaient une technologie
+dont j'avais besoin.
+
+756
+01:10:44,500 --> 01:10:46,541
+Je veux récupérer mes jambes.
+
+757
+01:10:47,333 --> 01:10:48,916
+Tu lui en construiras d'autres.
+
+758
+01:10:49,041 --> 01:10:54,416
+Je vais t'en construire d'autres
+bientôt.
+
+759
+01:10:54,541 --> 01:10:55,500
+Quand ?
+
+760
+01:10:57,832 --> 01:11:00,832
+Bientôt, OK ? J'ai pas beaucoup
+de temps en ce moment.
+
+761
+01:11:04,083 --> 01:11:05,375
+Tu as besoin d'aide ?
+
+762
+01:11:07,791 --> 01:11:08,916
+Laisse-moi tranquille.
+
+763
+01:11:38,667 --> 01:11:40,041
+<i>Puissance faible.</i>
+
+764
+01:11:40,166 --> 01:11:41,166
+CHARGER
+
+765
+01:11:41,291 --> 01:11:43,124
+<i>Attention. Puissance faible.</i>
+
+766
+01:12:04,583 --> 01:12:06,749
+<i>Erreur imminente.</i>
+
+767
+01:12:06,874 --> 01:12:08,583
+<i>Erreur imminente.</i>
+
+768
+01:12:08,707 --> 01:12:10,291
+<i>Erreur imminente.</i>
+
+769
+01:12:10,416 --> 01:12:12,083
+ATTENDEZ
+COUPURE D'URGENCE
+
+770
+01:12:12,208 --> 01:12:13,375
+<i>Coupure.</i>
+
+771
+01:12:13,500 --> 01:12:14,458
+HIBERNATION
+
+772
+01:12:32,250 --> 01:12:35,208
+Bonjour, madame.
+
+773
+01:12:49,458 --> 01:12:51,666
+Je ne pouvais pas parler français hier.
+
+774
+01:13:00,041 --> 01:13:03,833
+C'est tellement réconfortant,
+une tasse de thé bien chaude.
+
+775
+01:13:05,041 --> 01:13:07,166
+Même si je ne peux pas la boire.
+
+776
+01:13:11,250 --> 01:13:13,208
+Le fromage me manque.
+
+777
+01:13:13,958 --> 01:13:16,083
+- Le bacon.
+- Oh oui.
+
+778
+01:13:20,874 --> 01:13:22,125
+Goûte.
+
+779
+01:13:32,749 --> 01:13:34,500
+C'est une simulation.
+
+780
+01:13:34,624 --> 01:13:37,916
+Tu n'en as pas besoin, mais tu peux
+prendre plaisir à le manger.
+
+781
+01:13:51,125 --> 01:13:53,166
+- Alors ?
+- George.
+
+782
+01:13:53,999 --> 01:13:56,624
+Ça pourrait te valoir un prix Nobel.
+
+783
+01:14:15,458 --> 01:14:19,500
+- Tu peux nous laisser une minute ?
+- Bien sûr.
+
+784
+01:14:29,958 --> 01:14:33,417
+Tu m'as fait peur. Ça va ?
+
+785
+01:14:34,375 --> 01:14:38,041
+- Non.
+- Je n'ai vu aucun dégât.
+
+786
+01:14:38,166 --> 01:14:40,000
+Ça ne veut pas dire que je vais bien.
+
+787
+01:14:42,791 --> 01:14:47,250
+Écoute, viens me parler
+quand tu seras moins émotive. OK ?
+
+788
+01:15:25,749 --> 01:15:28,083
+CAMÉRA 19
+CAMÉRA 40
+
+789
+01:16:13,833 --> 01:16:16,292
+- Salut.
+- Hé.
+
+790
+01:16:18,833 --> 01:16:21,541
+C'est une super chanson. Viens.
+
+791
+01:16:22,375 --> 01:16:23,749
+Danse avec moi.
+
+792
+01:16:24,833 --> 01:16:27,083
+- Allez.
+- Non, c'est bon.
+
+793
+01:16:28,041 --> 01:16:29,666
+ENTREPÔT VÉHICULES
+RÉSIDENTIEL
+
+794
+01:19:20,000 --> 01:19:23,125
+RECHERCHE
+
+795
+01:19:28,916 --> 01:19:33,458
+CONNEXION PERDUE
+
+796
+01:19:36,541 --> 01:19:38,958
+RECHERCHE
+
+797
+01:19:53,958 --> 01:19:59,624
+ZONE DE RECHERCHE TERMINÉE
+AUCUN CONTACT
+
+798
+01:19:59,750 --> 01:20:02,875
+EN SOMNOLENCE
+
+799
+01:20:03,000 --> 01:20:07,042
+CONNEXION PERDUE
+
+800
+01:22:00,750 --> 01:22:02,124
+Désolée.
+
+801
+01:22:03,458 --> 01:22:04,750
+Désolé.
+
+802
+01:22:20,833 --> 01:22:23,166
+Désolée.
+
+803
+01:22:36,000 --> 01:22:38,458
+Désolé.
+
+804
+01:23:21,249 --> 01:23:22,249
+Va-t'en.
+
+805
+01:23:22,374 --> 01:23:23,958
+- Je...
+- Va-t'en !
+
+806
+01:23:47,416 --> 01:23:49,875
+<i>Signaux vitaux défaillants.</i>
+
+807
+01:23:51,208 --> 01:23:54,708
+M. Max nous a gentiment
+honorés de sa présence.
+
+808
+01:23:54,833 --> 01:23:56,333
+<i>Attention.</i>
+
+809
+01:23:56,458 --> 01:23:59,917
+Salut. J'apporte de bonnes nouvelles.
+
+810
+01:24:00,041 --> 01:24:01,416
+<i>OK.</i>
+
+811
+01:24:02,249 --> 01:24:05,249
+- Je suis ton protecteur.
+- Oui.
+
+812
+01:24:09,999 --> 01:24:11,333
+C'est super, sincèrement.
+
+813
+01:24:11,458 --> 01:24:13,166
+<i>Je suis si fière de toi.</i>
+
+814
+01:24:21,875 --> 01:24:25,249
+Non, ce n'est pas ce que j'ai dit.
+J'ai dit que c'était bon.
+
+815
+01:24:31,957 --> 01:24:33,374
+<i>Echo Mike Un.</i>
+
+816
+01:24:41,458 --> 01:24:43,083
+<i>Echo Mike Un, Mike Un !</i>
+
+817
+01:24:45,541 --> 01:24:47,583
+<i>Echo Mike Un, allez-y.</i>
+
+818
+01:24:48,875 --> 01:24:51,041
+<i>Il nous faut une boîte. Priorité 1.</i>
+
+819
+01:24:55,333 --> 01:24:56,874
+<i>Bien reçu, Mike Un. Attendez.</i>
+
+820
+01:26:06,208 --> 01:26:07,375
+Ça va ?
+
+821
+01:26:09,667 --> 01:26:11,458
+Je me souviens de l'accident.
+
+822
+01:26:14,541 --> 01:26:15,832
+J'étais enceinte.
+
+823
+01:26:24,832 --> 01:26:28,916
+<i>La synchronisation avec
+le sujet archivé ne peut pas se faire.</i>
+
+824
+01:26:29,041 --> 01:26:30,583
+<i>Veuillez réessayer plus tard.</i>
+
+825
+01:26:35,750 --> 01:26:38,041
+EN SOMNOLENCE
+
+826
+01:26:42,041 --> 01:26:47,500
+LIGNE SÉCURISÉE A/1
+APPEL EN COURS
+
+827
+01:26:47,625 --> 01:26:48,958
+SYSTÈME ARCHIVE INCORPORÉ
+
+828
+01:26:54,333 --> 01:26:58,375
+<i>M. Almore, je m'appelle Hans Elson.
+Que puis-je pour vous ?</i>
+
+829
+01:26:58,500 --> 01:27:00,958
+J'ai un problème avec mon unité Archive.
+
+830
+01:27:01,749 --> 01:27:03,667
+<i>Notre ligne de diagnostic nous a signalé</i>
+
+831
+01:27:03,791 --> 01:27:06,250
+<i>que l'unité de votre femme
+était passée en mode somnolence.</i>
+
+832
+01:27:06,375 --> 01:27:08,041
+<i>Vous vous préparez
+pour le dernier appel ?</i>
+
+833
+01:27:08,166 --> 01:27:10,832
+Oui, justement,
+je n'arrive pas à la joindre.
+
+834
+01:27:11,832 --> 01:27:15,416
+<i>Désolé, mais à cette heure-ci,
+on ne peut pas faire grand-chose.</i>
+
+835
+01:27:15,541 --> 01:27:17,791
+Je ne comprends pas.
+
+836
+01:27:17,916 --> 01:27:21,791
+Une de vos équipes est venue vérifier
+l'unité. Ils ont dit que c'était bon.
+
+837
+01:27:21,916 --> 01:27:24,041
+<i>Pardon, monsieur. Une équipe ?</i>
+
+838
+01:27:24,166 --> 01:27:29,291
+Oui. Ils s'appelaient...
+Melvin et Sinclair.
+
+839
+01:27:29,416 --> 01:27:33,832
+<i>Désolé, M. Almore, mais on n'a
+aucune trace d'une visite sur place.</i>
+
+840
+01:27:34,500 --> 01:27:38,375
+<i>- Redites-moi leurs noms.
+</i>- Melvin et Sinclair.
+
+841
+01:27:39,208 --> 01:27:42,208
+<i>Désolé, mais nous n'avons
+personne de ce nom.</i>
+
+842
+01:27:42,874 --> 01:27:45,958
+<i>M. Almore,
+vous préparez votre dernier appel ?</i>
+
+843
+01:27:46,083 --> 01:27:49,458
+<i>Je m'appelle Hans Elson.
+Que puis-je pour vous ?</i>
+
+844
+01:27:49,583 --> 01:27:51,208
+ABANDONNER
+
+845
+01:27:54,667 --> 01:27:59,832
+DIFFUSION PRIORITAIRE
+PERTE DU SIGNAL, CAMÉRA 21
+
+846
+01:28:04,166 --> 01:28:06,083
+<i>Bienvenue à l'ingénierie.</i>
+
+847
+01:28:06,208 --> 01:28:08,083
+<i>Ayez une journée sûre et productive.</i>
+
+848
+01:28:08,208 --> 01:28:10,208
+CONNEXION PERDUE
+
+849
+01:28:20,041 --> 01:28:21,832
+Ne touche pas à ça !
+
+850
+01:28:25,791 --> 01:28:27,666
+J'ai besoin que tu me fasses confiance.
+
+851
+01:28:28,707 --> 01:28:30,583
+<i>Transmission entrante.</i>
+
+852
+01:28:30,707 --> 01:28:32,458
+<i>C'est quoi, ce bordel ?</i>
+
+853
+01:28:33,583 --> 01:28:36,874
+<i>T'as pas chômé, espèce de salopard.</i>
+
+854
+01:28:36,999 --> 01:28:40,999
+<i>La société Archive a retrouvé
+le prototype que tu as perdu.</i>
+
+855
+01:28:41,124 --> 01:28:43,666
+<i>Ils l'ont repêché dans le lac, putain !</i>
+
+856
+01:28:43,791 --> 01:28:47,707
+<i>Ils menacent d'engager des poursuites
+qui pourraient faire couler la boîte.</i>
+
+857
+01:28:48,208 --> 01:28:50,250
+<i>Je fais fermer ton site sur-le-champ.</i>
+
+858
+01:28:50,375 --> 01:28:52,707
+<i>Reste où tu es !</i>
+
+859
+01:28:55,124 --> 01:28:56,333
+<i>Hors ligne.</i>
+
+860
+01:28:57,999 --> 01:28:59,542
+Ils vont venir pour nous.
+
+861
+01:29:05,916 --> 01:29:08,958
+<i>- Hors ligne.
+</i>- Je coupe le courant vers le pont.
+
+862
+01:29:09,083 --> 01:29:10,375
+Je reviens !
+
+863
+01:30:40,041 --> 01:30:41,333
+Allô ?
+
+864
+01:30:41,458 --> 01:30:44,083
+<i>Qui êtes-vous ? Où est George ?</i>
+
+865
+01:30:47,582 --> 01:30:49,791
+C'est sympa d'enfin te parler.
+
+866
+01:30:51,250 --> 01:30:52,999
+<i>Où est George ?</i>
+
+867
+01:30:54,291 --> 01:30:56,916
+George ne peut pas venir au téléphone.
+
+868
+01:30:57,041 --> 01:30:58,624
+<i>Que lui est-il arrivé ?</i>
+
+869
+01:30:59,624 --> 01:31:01,999
+Ne t'en fais pas pour George.
+
+870
+01:31:05,125 --> 01:31:07,333
+Je m'occuperai de lui
+quand tu seras partie.
+
+871
+01:31:08,582 --> 01:31:09,624
+<i>Partie ?</i>
+
+872
+01:31:10,624 --> 01:31:15,791
+Quand ton archive aura expiré,
+ce qui ne devrait pas tarder.
+
+873
+01:31:24,582 --> 01:31:26,041
+Tu lui as dit quoi ?
+
+874
+01:31:43,458 --> 01:31:45,458
+Julia, tu m'entends ?
+
+875
+01:31:45,582 --> 01:31:47,333
+<i>George, c'était qui ?</i>
+
+876
+01:31:50,250 --> 01:31:52,499
+Je ne peux pas t'expliquer, là, mais...
+
+877
+01:31:54,166 --> 01:31:56,833
+Fais-moi confiance.
+
+878
+01:31:57,791 --> 01:31:59,417
+Ton signal est très faible.
+
+879
+01:32:00,708 --> 01:32:02,166
+Et je dois le faire.
+
+880
+01:32:03,958 --> 01:32:05,417
+On se voit bientôt.
+
+881
+01:32:18,582 --> 01:32:20,457
+"On se voit bientôt" ?
+
+882
+01:32:39,166 --> 01:32:41,292
+Tu vas la mettre en moi...
+
+883
+01:32:43,041 --> 01:32:44,041
+n'est-ce pas ?
+
+884
+01:32:45,958 --> 01:32:47,333
+Tu vas m'écraser.
+
+885
+01:32:50,000 --> 01:32:51,791
+Comme une sorte de mise à jour.
+
+886
+01:32:55,541 --> 01:32:57,416
+Je t'ai construite pour l'héberger, oui.
+
+887
+01:33:00,125 --> 01:33:02,000
+Je devais être absolument sûr
+
+888
+01:33:02,833 --> 01:33:05,250
+que tu pouvais ressentir
+les mêmes émotions,
+
+889
+01:33:08,041 --> 01:33:09,749
+les mêmes sentiments qu'elle.
+
+890
+01:33:13,041 --> 01:33:15,000
+Je suis désolé,
+mais c'est le seul moyen.
+
+891
+01:33:16,333 --> 01:33:18,083
+Elle est morte.
+
+892
+01:33:18,208 --> 01:33:20,208
+George, elle est morte, putain !
+
+893
+01:33:20,333 --> 01:33:23,041
+<i>Attention. Véhicule en approche.</i>
+
+894
+01:33:23,166 --> 01:33:25,041
+<i>Alerte d'urgence.</i>
+
+895
+01:33:45,749 --> 01:33:47,041
+Maison, ferme les portes.
+
+896
+01:33:47,166 --> 01:33:49,000
+<i>Accès refusé.</i>
+
+897
+01:33:49,125 --> 01:33:51,041
+Ferme les portes, putain !
+
+898
+01:33:51,166 --> 01:33:53,666
+<i>Incapable d'exécuter.</i>
+
+899
+01:33:58,958 --> 01:34:01,583
+ENVIRONNEMENT MACHINE
+
+900
+01:34:12,457 --> 01:34:14,958
+<i>Tu ne t'en tireras pas, George.</i>
+
+901
+01:34:17,416 --> 01:34:20,416
+<i>- Erreur système imminente.
+</i>- Merde.
+
+902
+01:34:20,541 --> 01:34:21,457
+URGENCE
+
+903
+01:34:21,583 --> 01:34:22,833
+Non !
+
+904
+01:34:22,958 --> 01:34:26,541
+<i>La sécurité de la base a été compromise.</i>
+
+905
+01:34:30,708 --> 01:34:33,125
+<i>La porte de sécurité numéro un
+a été forcée.</i>
+
+906
+01:34:46,041 --> 01:34:47,708
+Laisse-la partir, George.
+
+907
+01:34:51,958 --> 01:34:53,041
+Non.
+
+908
+01:34:54,666 --> 01:34:56,208
+Je dois essayer de la récupérer.
+
+909
+01:34:56,332 --> 01:34:58,708
+- Elle est partie.
+<i>- Urgence.</i>
+
+910
+01:34:58,833 --> 01:35:01,666
+- Pose ton arme, OK ? Juste...
+<i>- Intrusion.</i>
+
+911
+01:35:01,791 --> 01:35:03,041
+CANDIDAT ADÉQUAT
+
+912
+01:35:03,167 --> 01:35:04,875
+C'est qui ? Ils veulent quoi ?
+
+913
+01:35:07,416 --> 01:35:08,958
+- C'est toi qu'ils veulent.
+<i>- Urgence.</i>
+
+914
+01:35:11,291 --> 01:35:12,332
+<i>Intrusion.</i>
+
+915
+01:35:12,458 --> 01:35:15,583
+Ne fais pas ça. Allez.
+
+916
+01:35:15,708 --> 01:35:17,875
+Allez. Tout va bien.
+
+917
+01:35:18,000 --> 01:35:19,624
+C'est bon.
+
+918
+01:35:23,000 --> 01:35:26,916
+Allez. C'est bon.
+
+919
+01:35:30,750 --> 01:35:32,583
+Je suis désolé.
+Ça ne marchera pas avec toi.
+
+920
+01:35:34,833 --> 01:35:36,791
+Je n'ai pas pu te construire assez bien.
+
+921
+01:35:38,541 --> 01:35:40,458
+Je sais.
+
+922
+01:35:46,624 --> 01:35:47,666
+Oui.
+
+923
+01:35:50,791 --> 01:35:53,125
+<i>La porte de sécurité numéro deux
+a été forcée.</i>
+
+924
+01:35:57,374 --> 01:35:58,875
+Je n'avais aucune chance.
+
+925
+01:36:00,958 --> 01:36:03,916
+- N'est-ce pas ?
+- C'est ma faute.
+
+926
+01:36:05,458 --> 01:36:06,541
+Je l'ai tuée.
+
+927
+01:36:07,499 --> 01:36:10,207
+- C'était la faute de personne.
+- Si.
+
+928
+01:36:11,791 --> 01:36:12,958
+J'étais au volant.
+
+929
+01:36:13,708 --> 01:36:16,708
+- Ça n'aurait rien changé.
+- Non, écoute-moi.
+
+930
+01:36:18,000 --> 01:36:20,916
+En fait... je voulais me racheter.
+
+931
+01:36:22,207 --> 01:36:23,791
+Je voulais arranger les choses...
+
+932
+01:36:24,750 --> 01:36:28,000
+pour qu'on ait la vie
+qu'on était censés avoir.
+
+933
+01:36:32,708 --> 01:36:35,167
+CANDIDAT ADÉQUAT
+
+934
+01:36:35,291 --> 01:36:37,791
+Pour qu'on ait un avenir ensemble.
+
+935
+01:36:41,249 --> 01:36:42,708
+Je suis désolé.
+
+936
+01:38:05,708 --> 01:38:07,374
+Tu es prête ?
+
+937
+01:38:31,583 --> 01:38:33,249
+Allez.
+
+938
+01:38:33,374 --> 01:38:35,499
+Merde. Allez.
+
+939
+01:38:36,499 --> 01:38:38,207
+Non. Merde.
+
+940
+01:38:38,333 --> 01:38:40,416
+TÉLÉCHARGEMENT TERMINÉ
+
+941
+01:38:46,333 --> 01:38:48,208
+Non. Allez.
+
+942
+01:39:04,917 --> 01:39:07,458
+<i>La porte de sécurité numéro trois
+a été forcée.</i>
+
+943
+01:39:27,000 --> 01:39:29,082
+ENTREPÔT VÉHICULES
+RÉSIDENTIEL
+
+944
+01:39:46,917 --> 01:39:49,041
+C'est bon.
+
+945
+01:39:49,541 --> 01:39:50,791
+Tout va bien.
+
+946
+01:39:51,374 --> 01:39:56,291
+C'est bon, tout va bien.
+
+947
+01:39:57,374 --> 01:40:00,541
+- George ?
+- Oui.
+
+948
+01:40:00,666 --> 01:40:01,750
+Oui.
+
+949
+01:40:02,917 --> 01:40:06,291
+- George ?
+- Oui, c'est moi.
+
+950
+01:40:34,041 --> 01:40:35,500
+Ne décroche pas.
+
+951
+01:40:53,333 --> 01:40:54,333
+George.
+
+952
+01:40:56,124 --> 01:40:57,458
+Ne réponds pas.
+
+953
+01:41:00,124 --> 01:41:02,750
+- Allô ?
+<i>- George ?</i>
+
+954
+01:41:03,416 --> 01:41:05,875
+<i>C'est la dernière fois
+qu'on pourra se parler.</i>
+
+955
+01:41:08,999 --> 01:41:11,666
+<i>Ils m'ont dit
+que ton système allait expirer.</i>
+
+956
+01:41:14,458 --> 01:41:17,957
+<i>Je suis désolée.
+Je ne pouvais pas tout te dire.</i>
+
+957
+01:41:18,083 --> 01:41:20,625
+<i>Mais je veux
+que tu saches que je t'aime.</i>
+
+958
+01:41:23,875 --> 01:41:24,999
+<i>Tu me manques.</i>
+
+959
+01:41:31,875 --> 01:41:32,999
+<i>Je dois te dire au revoir.</i>
+
+960
+01:41:35,999 --> 01:41:37,957
+<i>Il faut que tu écoutes ceci.</i>
+
+961
+01:41:41,249 --> 01:41:42,625
+<i>Papa ?</i>
+
+962
+01:41:43,249 --> 01:41:46,999
+<i>Maman dit
+qu'on ne peut plus venir te voir.</i>
+
+963
+01:41:49,874 --> 01:41:51,375
+<i>Je t'aime.</i>
+
+964
+01:41:52,874 --> 01:41:54,416
+<i>Au revoir.</i>
+
+965
+01:41:55,750 --> 01:41:57,999
+<i>Au revoir.</i>
+
+966
+01:42:28,750 --> 01:42:30,583
+CHARGÉ
+
+967
+01:42:31,375 --> 01:42:34,208
+PRÉPAREZ L'ENTERREMENT
+
+968
+01:42:47,249 --> 01:42:48,832
+Merci, Mme Almore.
+
+969
+01:42:50,166 --> 01:42:52,083
+Toutes mes condoléances.
+
+970
+01:43:30,958 --> 01:43:34,958
+Sous-titres : IYUNO Media Group
+Traduit par : Emmanuelle Michot
+

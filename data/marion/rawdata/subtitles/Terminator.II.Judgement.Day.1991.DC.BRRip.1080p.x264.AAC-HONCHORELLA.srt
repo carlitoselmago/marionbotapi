@@ -1,0 +1,4460 @@
+1
+00:01:02,070 --> 00:01:06,649
+<i>Los Angeles, l'an 2029</i>
+
+2
+00:01:18,047 --> 00:01:23,006
+<i>3 milliards de morts
+le 29 août 1997.</i>
+
+3
+00:01:23,970 --> 00:01:26,010
+<i>Les rescapés de la guerre nucléaire,</i>
+
+4
+00:01:26,264 --> 00:01:28,756
+<i>qui fut nommée
+"Guerre du Jugement Dernier",</i>
+
+5
+00:01:29,143 --> 00:01:31,931
+<i>ne survécurent que pour affronter
+un nouveau cauchemar :</i>
+
+6
+00:01:32,189 --> 00:01:34,265
+<i>La guerre contre les machines.</i>
+
+7
+00:02:52,531 --> 00:02:55,948
+<i>L'ordinateur qui contrôlait
+ces machines, Skynet,</i>
+
+8
+00:02:56,370 --> 00:02:58,944
+<i>envoya deux Terminators
+remonter le temps.</i>
+
+9
+00:02:59,289 --> 00:03:03,336
+<i>Leur mission : éliminer le chef
+de la Résistance Humaine,</i>
+
+10
+00:03:03,545 --> 00:03:05,871
+<i>John Connor, mon fils.</i>
+
+11
+00:03:10,220 --> 00:03:14,349
+<i>Le 1er Terminator avait été
+programmé pour me frapper en 1984,</i>
+
+12
+00:03:14,558 --> 00:03:16,349
+<i>juste avant la naissance de John.</i>
+
+13
+00:03:17,060 --> 00:03:18,341
+<i>Il échoua.</i>
+
+14
+00:03:19,063 --> 00:03:23,357
+<i>Le second devait frapper John
+durant son enfance.</i>
+
+15
+00:03:27,740 --> 00:03:31,868
+<i>Tout comme avant, la Résistance
+put envoyer un guerrier solitaire</i>
+
+16
+00:03:32,078 --> 00:03:34,035
+<i>pour protéger John.</i>
+
+17
+00:03:34,295 --> 00:03:38,000
+<i>Restait à savoir lequel des deux
+atteindrait John le premier...</i>
+
+18
+00:03:47,260 --> 00:03:50,951
+<i>LE JUGEMENT DERNIER</i>
+
+19
+00:07:52,547 --> 00:07:55,502
+Je veux tes vêtements,
+tes bottes et ta moto.
+
+20
+00:08:04,562 --> 00:08:06,519
+Tu n'as pas dit "s'il te plaît".
+
+21
+00:08:22,499 --> 00:08:23,531
+Qu'il me lâche !
+
+22
+00:08:45,734 --> 00:08:46,648
+Enlevez-le !
+
+23
+00:09:07,635 --> 00:09:08,916
+Prends-la.
+
+24
+00:09:35,626 --> 00:09:38,035
+Je ne te laisserai pas
+lui piquer sa bécane.
+
+25
+00:09:38,838 --> 00:09:40,630
+Descends, ou je te bute.
+
+26
+00:09:52,001 --> 00:09:53,626
+Arrête-toi !
+
+27
+00:10:53,592 --> 00:10:55,550
+Voiture 31-D, code 6,
+
+28
+00:10:55,845 --> 00:10:58,052
+au croisement
+de la 6e et de Santa Fé...
+
+29
+00:10:58,597 --> 00:11:00,556
+Il y a des perturbations électriques.
+
+30
+00:12:12,122 --> 00:12:14,496
+<i>RECHERCHE D'INFO :
+CONNOR, JOHN.</i>
+
+31
+00:12:21,277 --> 00:12:23,484
+<i>Sexe masculin.
+Blanc. 10 ans.</i>
+
+32
+00:12:23,780 --> 00:12:25,440
+<i>Vol à la tire. Vandalisme.</i>
+
+33
+00:12:25,699 --> 00:12:27,822
+<i>Mère : Connor, S.
+Père : inconnu.</i>
+
+34
+00:12:28,035 --> 00:12:30,907
+<i>Tuteurs : Voight, Todd et Janelle.
+19828, S. Almond Ave.</i>
+
+35
+00:12:39,005 --> 00:12:39,706
+John ?
+
+36
+00:12:40,007 --> 00:12:42,962
+Va nettoyer la porcherie
+qui te sert de chambre.
+
+37
+00:12:54,524 --> 00:12:56,565
+Tes parents adoptifs sont des chieurs.
+
+38
+00:12:57,361 --> 00:12:59,983
+J'en ai assez, de ce gosse.
+
+39
+00:13:00,198 --> 00:13:02,155
+Il ne me répond même plus.
+
+40
+00:13:02,868 --> 00:13:04,990
+Bouge un peu, et viens m'aider !
+
+41
+00:13:05,870 --> 00:13:06,985
+Todd !
+
+42
+00:13:08,874 --> 00:13:11,199
+Il n'a pas rangé sa chambre
+depuis un mois.
+
+43
+00:13:12,378 --> 00:13:15,332
+Alors, c'est une urgence !
+Bon, j'y vais.
+
+44
+00:13:25,060 --> 00:13:28,430
+Magne-toi le train !
+Fais ce que ta mère a dit.
+
+45
+00:13:29,398 --> 00:13:31,356
+Ce n'est pas ma mère, Todd.
+
+46
+00:13:38,492 --> 00:13:40,568
+<i>ASILE DE PESCADERO</i>
+
+47
+00:13:58,635 --> 00:14:00,256
+Le cas suivant est intéressant.
+
+48
+00:14:00,601 --> 00:14:02,890
+Je la suis depuis des années...
+
+49
+00:14:03,104 --> 00:14:05,891
+C'est une femme de 29 ans
+qui souffre...
+
+50
+00:14:07,442 --> 00:14:09,933
+de troubles affectifs
+de nature schizoïde.
+
+51
+00:14:10,153 --> 00:14:15,066
+Le tableau classique : passages
+à l'acte, délire de persécution.
+
+52
+00:14:21,562 --> 00:14:24,906
+La structure de son délire
+est tout à fait singulière :
+
+53
+00:14:25,172 --> 00:14:27,663
+elle prétend qu'une machine
+"Terminator"
+
+54
+00:14:27,883 --> 00:14:29,426
+- à l'apparence humaine -
+
+55
+00:14:29,608 --> 00:14:31,246
+a remonté le temps
+
+56
+00:14:31,536 --> 00:14:33,428
+- pour la tuer.
+- Original !
+
+57
+00:14:33,639 --> 00:14:36,594
+Et aussi que le père de son fils,
+
+58
+00:14:36,976 --> 00:14:39,764
+un soldat,
+a été envoyé pour la protéger.
+
+59
+00:14:40,147 --> 00:14:41,938
+Il venait du futur, lui aussi.
+
+60
+00:14:42,149 --> 00:14:46,278
+De l'an 2029, si je me souviens bien.
+
+61
+00:14:47,100 --> 00:14:49,010
+Nous y sommes.
+
+62
+00:14:50,021 --> 00:14:50,886
+Bonjour, Sarah.
+
+63
+00:14:55,610 --> 00:14:57,402
+Bonjour, Dr Silberman.
+
+64
+00:14:57,988 --> 00:14:59,187
+Comment va votre genou ?
+
+65
+00:15:01,284 --> 00:15:02,565
+Bien, Sarah.
+
+66
+00:15:04,286 --> 00:15:08,748
+Elle m'a enfoncé mon stylo dans
+le genou, il y a quelques semaines.
+
+67
+00:15:10,182 --> 00:15:12,305
+Nombreuses tentatives d'évasion.
+
+68
+00:15:21,911 --> 00:15:23,453
+Continuons.
+
+69
+00:15:24,324 --> 00:15:27,527
+Les patients n'ont pas
+à chambouler leur chambre.
+
+70
+00:15:27,745 --> 00:15:31,139
+- Faites-lui prendre sa Thorazine.
+- Comptez sur moi.
+
+71
+00:15:43,888 --> 00:15:45,845
+L'heure du médicament, Connor.
+
+72
+00:15:48,852 --> 00:15:51,640
+Tu dois être sage,
+pour le bilan de cet après-midi.
+
+73
+00:15:52,273 --> 00:15:55,524
+Je ne le prendrai pas, Dougie.
+Je ne veux pas d'ennuis.
+
+74
+00:15:55,777 --> 00:15:57,022
+Quels ennuis ?
+
+75
+00:16:03,667 --> 00:16:05,043
+Envoie le jus !
+
+76
+00:16:15,431 --> 00:16:17,139
+Dernière chance, chérie.
+
+77
+00:16:23,191 --> 00:16:24,733
+Fais de beaux rêves.
+
+78
+00:16:34,161 --> 00:16:36,201
+<i>"Protéger et servir"</i>
+
+79
+00:16:54,895 --> 00:16:56,852
+Êtes-vous le tuteur de John Connor ?
+
+80
+00:16:57,565 --> 00:17:00,186
+Oui, M. l'agent.
+Qu'a-t-il encore fait ?
+
+81
+00:17:00,735 --> 00:17:02,193
+Pourrais-je lui parler ?
+
+82
+00:17:02,402 --> 00:17:05,190
+S'il était là ! Il a filé ce matin.
+
+83
+00:17:05,402 --> 00:17:06,697
+Allez savoir où il traîne !
+
+84
+00:17:06,822 --> 00:17:08,694
+Avez-vous une photo de John ?
+
+85
+00:17:09,121 --> 00:17:10,156
+Bien sûr... Attendez.
+
+86
+00:17:12,950 --> 00:17:14,575
+Il s'agit de quoi ?
+
+87
+00:17:15,620 --> 00:17:17,697
+Je dois lui poser quelques questions.
+
+88
+00:17:19,924 --> 00:17:23,008
+Il a une bonne tête...
+Vous permettez que je la garde ?
+
+89
+00:17:26,765 --> 00:17:30,383
+Un grand type à moto.
+Il y a un rapport ?
+
+90
+00:17:34,773 --> 00:17:36,565
+Ne vous inquiétez pas.
+
+91
+00:17:38,069 --> 00:17:39,896
+Merci de votre coopération.
+
+92
+00:17:42,116 --> 00:17:44,405
+Introduisez votre carte volée...
+
+93
+00:17:50,534 --> 00:17:51,909
+<i>PROGRAMME
+D'IDENTIFICATION</i>
+
+94
+00:17:55,131 --> 00:17:56,543
+Tu te magnes, oui ?
+
+95
+00:17:57,133 --> 00:17:58,083
+Allez, petit !
+
+96
+00:18:01,429 --> 00:18:03,304
+Code secret : 9003.
+
+97
+00:18:03,516 --> 00:18:04,974
+Qui t'a appris ce coup-là ?
+
+98
+00:18:05,184 --> 00:18:07,142
+Ma mère. Ma vraie mère.
+
+99
+00:18:08,521 --> 00:18:11,974
+Retrait : 1 800 balles.
+
+100
+00:18:12,193 --> 00:18:13,413
+Allez, petit !
+
+101
+00:18:15,731 --> 00:18:17,013
+Ça a marché !
+
+102
+00:18:19,069 --> 00:18:20,528
+De l'argent facile !
+
+103
+00:18:24,366 --> 00:18:25,696
+C'était du gâteau.
+
+104
+00:18:30,873 --> 00:18:32,202
+C'est elle ?
+
+105
+00:18:33,835 --> 00:18:35,377
+Elle doit être super cool.
+
+106
+00:18:35,921 --> 00:18:37,878
+C'est une givrée complète.
+
+107
+00:18:38,257 --> 00:18:40,749
+Elle est à l'asile de Pescadero.
+
+108
+00:18:42,811 --> 00:18:45,683
+Elle a voulu faire sauter l'usine
+d'ordinateurs. On l'a arrêtée.
+
+109
+00:18:46,566 --> 00:18:47,811
+Tu déconnes !
+
+110
+00:18:48,603 --> 00:18:50,395
+C'est une vraie ratée.
+
+111
+00:18:51,148 --> 00:18:53,391
+Allez, on va claquer du fric.
+
+112
+00:19:20,057 --> 00:19:21,385
+Sarah.
+
+113
+00:19:22,810 --> 00:19:24,470
+Sarah, réveille-toi.
+
+114
+00:19:32,153 --> 00:19:33,482
+Kyle...
+
+115
+00:19:36,451 --> 00:19:37,481
+Tu es mort...
+
+116
+00:19:38,119 --> 00:19:39,578
+Où est notre fils ?
+
+117
+00:19:40,810 --> 00:19:42,969
+Ils me l'ont pris.
+
+118
+00:19:43,230 --> 00:19:44,973
+Il est devenu la cible.
+
+119
+00:19:45,940 --> 00:19:48,396
+- Je sais.
+- Il est seul, tu dois le protéger !
+
+120
+00:19:48,652 --> 00:19:49,981
+Je sais.
+
+121
+00:19:51,030 --> 00:19:53,236
+Comment veux-tu que je fasse ?
+
+122
+00:19:53,637 --> 00:19:55,677
+Il ne me croit même plus.
+
+123
+00:19:56,516 --> 00:19:59,551
+- Je l'ai perdu.
+- Tu es forte, Sarah.
+
+124
+00:19:59,894 --> 00:20:02,219
+Bien plus forte
+que tu ne l'as jamais cru.
+
+125
+00:20:03,524 --> 00:20:05,351
+Debout, soldat.
+
+126
+00:20:07,069 --> 00:20:09,608
+Je t'aime, Sarah.
+Je t'aimerai toujours.
+
+127
+00:20:12,326 --> 00:20:14,900
+- Moi aussi.
+- Je serai toujours à tes côtés.
+
+128
+00:20:19,376 --> 00:20:21,250
+N'oublie pas le message.
+
+129
+00:20:22,754 --> 00:20:24,214
+Le futur n'est pas fixé.
+
+130
+00:20:25,758 --> 00:20:28,961
+Il n'y a pas de fatalité.
+Tout dépend de nous.
+
+131
+00:20:49,702 --> 00:20:50,866
+Reste avec moi.
+
+132
+00:20:51,955 --> 00:20:54,660
+Il ne reste
+guère de temps au monde, Sarah.
+
+133
+00:21:02,258 --> 00:21:03,918
+Kyle, ne t'en va pas !
+
+134
+00:21:16,192 --> 00:21:17,235
+Kyle !
+
+135
+00:22:29,902 --> 00:22:31,611
+<i>C'est comme un gigantesque</i>
+
+136
+00:22:31,820 --> 00:22:33,280
+<i>stroboscope</i>
+
+137
+00:22:33,990 --> 00:22:35,948
+<i>qui me brûle les yeux...</i>
+
+138
+00:22:40,331 --> 00:22:42,953
+<i>Pourtant, j'arrive à voir.</i>
+
+139
+00:22:53,973 --> 00:22:56,428
+<i>Vous connaissez ce rêve,
+c'est toujours le même.</i>
+
+140
+00:22:57,475 --> 00:22:59,932
+<i>- Alors pourquoi...
+- Continuez.</i>
+
+141
+00:23:04,651 --> 00:23:07,439
+<i>Les enfants ressemblent
+à du papier brûlé...</i>
+
+142
+00:23:08,989 --> 00:23:10,105
+<i>Noirs.</i>
+
+143
+00:23:11,282 --> 00:23:12,507
+<i>Immobiles.</i>
+
+144
+00:23:14,829 --> 00:23:17,285
+<i>Ensuite l'onde de choc
+les atteint...</i>
+
+145
+00:23:26,676 --> 00:23:29,631
+<i>et ils s'effritent
+comme des feuilles mortes.</i>
+
+146
+00:23:31,181 --> 00:23:33,305
+<i>Les rêves de cataclysme,</i>
+
+147
+00:23:33,517 --> 00:23:35,641
+<i>de fin du monde,
+sont chose commune.</i>
+
+148
+00:23:38,357 --> 00:23:41,312
+<i>Ce n'est pas un rêve, abruti,
+c'est la réalité !</i>
+
+149
+00:23:42,528 --> 00:23:43,988
+<i>Je sais le jour où ça arrivera.</i>
+
+150
+00:23:44,198 --> 00:23:46,321
+<i>Je suis sûr
+que ça vous semble très réel.</i>
+
+151
+00:23:46,534 --> 00:23:48,989
+<i>Le 29 août 1997,</i>
+
+152
+00:23:49,203 --> 00:23:51,825
+<i>ça vous semblera vachement réel
+à vous aussi !</i>
+
+153
+00:23:52,708 --> 00:23:57,500
+<i>Et il faudra se mettre beaucoup
+d'écran total pour ne pas cramer !</i>
+
+154
+00:23:58,546 --> 00:24:01,168
+<i>Vous vous croyez vivants
+et en sécurité...</i>
+
+155
+00:24:01,383 --> 00:24:03,341
+<i>Mais vous êtes déjà morts.
+Tout le monde !</i>
+
+156
+00:24:03,553 --> 00:24:06,175
+<i>Lui, vous... Vous êtes déjà morts.</i>
+
+157
+00:24:06,390 --> 00:24:08,846
+<i>Tout ce qu'il y a ici est foutu.</i>
+
+158
+00:24:09,227 --> 00:24:13,225
+<i>Vous seul vivez dans un rêve.
+Je sais que c'est vrai.</i>
+
+159
+00:24:13,898 --> 00:24:15,524
+<i>C'est vrai !</i>
+
+160
+00:24:26,412 --> 00:24:28,037
+Je me sens bien mieux.
+
+161
+00:24:29,583 --> 00:24:30,698
+Plus lucide.
+
+162
+00:24:31,419 --> 00:24:34,041
+Oui, votre attitude s'est nettement
+
+163
+00:24:34,588 --> 00:24:36,381
+améliorée, ces derniers temps.
+
+164
+00:24:46,019 --> 00:24:48,095
+Ça m'aide, d'avoir un but.
+
+165
+00:24:49,106 --> 00:24:51,064
+D'avoir un espoir.
+
+166
+00:24:51,776 --> 00:24:52,854
+Et lequel ?
+
+167
+00:24:55,112 --> 00:24:58,732
+Vous disiez que si mon état
+s'était amélioré après six mois,
+
+168
+00:24:59,617 --> 00:25:02,869
+je serais transférée
+dans un service plus ouvert
+
+169
+00:25:03,289 --> 00:25:05,081
+où je pourrais recevoir des visites.
+
+170
+00:25:08,128 --> 00:25:10,086
+Six mois ont passé,
+
+171
+00:25:11,632 --> 00:25:13,874
+et j'espérais pouvoir voir mon fils.
+
+172
+00:25:14,970 --> 00:25:16,250
+Je comprends.
+
+173
+00:25:19,975 --> 00:25:24,436
+Revenons à ce que vous disiez
+sur ces machines "Terminators"...
+
+174
+00:25:25,147 --> 00:25:27,436
+Vous avez cessé de dire
+qu'elles existent.
+
+175
+00:25:28,485 --> 00:25:30,277
+Elles n'existent pas.
+
+176
+00:25:30,988 --> 00:25:32,447
+Je le sais, maintenant.
+
+177
+00:25:32,824 --> 00:25:37,451
+Vous disiez en avoir écrasé une
+dans une presse hydraulique...
+
+178
+00:25:39,457 --> 00:25:42,270
+Si c'était vrai,
+il y aurait eu des preuves.
+
+179
+00:25:42,835 --> 00:25:44,958
+On aurait retrouvé des traces.
+
+180
+00:25:45,338 --> 00:25:46,619
+Je comprends.
+
+181
+00:25:47,507 --> 00:25:50,960
+<i>Vous ne prétendez plus
+que la société a étouffé l'affaire ?</i>
+
+182
+00:25:53,347 --> 00:25:55,803
+<i>Non, dans quel but ?</i>
+
+183
+00:26:09,199 --> 00:26:10,314
+M. Dyson...
+
+184
+00:26:11,202 --> 00:26:14,653
+Le service des recherches
+sur matériaux va...
+
+185
+00:26:15,373 --> 00:26:16,489
+M. Dyson...
+
+186
+00:26:16,875 --> 00:26:21,501
+Le service va lancer d'autres tests.
+Vous devez signer...
+
+187
+00:26:22,882 --> 00:26:23,830
+Il faut signer.
+
+188
+00:26:24,049 --> 00:26:25,330
+Allons-y.
+
+189
+00:26:27,846 --> 00:26:32,176
+Je suis nouveau, ici. Vous pouvez
+m'expliquer ? Si vous savez !
+
+190
+00:26:32,393 --> 00:26:33,507
+Si je sais quoi ?
+
+191
+00:26:33,728 --> 00:26:36,136
+D'où ça vient...
+
+192
+00:26:36,356 --> 00:26:39,523
+Je leur ai aussi demandé.
+Vous savez ce qu'ils ont répondu ?
+
+193
+00:26:39,857 --> 00:26:41,370
+"Pas de questions !"
+
+194
+00:26:47,745 --> 00:26:49,536
+Bonjour, M. Dyson...
+
+195
+00:26:50,774 --> 00:26:52,195
+Introduisez votre clé.
+
+196
+00:26:52,583 --> 00:26:55,537
+Gauche à 3... 2... 1... Tournez !
+
+197
+00:26:59,383 --> 00:27:01,376
+- Ça va, la famille ?
+- Bien.
+
+198
+00:27:30,210 --> 00:27:31,918
+Alors, docteur...
+
+199
+00:27:33,506 --> 00:27:35,415
+Ai-je montré
+des signes d'amélioration ?
+
+200
+00:27:36,801 --> 00:27:39,756
+Sarah, il y a un problème...
+
+201
+00:27:40,640 --> 00:27:42,597
+Vous êtes très intelligente.
+
+202
+00:27:43,309 --> 00:27:45,101
+Vous dites
+ce que j'ai envie d'entendre.
+
+203
+00:27:46,313 --> 00:27:50,357
+Mais vous n'y croyez pas.
+Si je vous mets en service ouvert,
+
+204
+00:27:50,650 --> 00:27:52,773
+vous tenterez encore
+de vous échapper.
+
+205
+00:27:58,159 --> 00:28:00,448
+Vous devez me laisser voir mon fils.
+
+206
+00:28:01,830 --> 00:28:02,945
+Je vous en prie.
+
+207
+00:28:04,834 --> 00:28:06,114
+Je vous en prie !
+
+208
+00:28:07,504 --> 00:28:10,458
+Il est en grand danger.
+Il est perdu, sans moi.
+
+209
+00:28:11,508 --> 00:28:13,216
+Pourrais-je téléphoner ?
+
+210
+00:28:13,511 --> 00:28:15,967
+Je crains que non.
+Pas pour le moment.
+
+211
+00:28:18,183 --> 00:28:22,809
+Je dois recommander au conseil
+de vous garder encore ici 6 mois.
+
+212
+00:28:26,442 --> 00:28:28,814
+Je te crèverai, salaud !
+
+213
+00:28:34,243 --> 00:28:36,616
+10 cm3 de penthotal immédiatement.
+
+214
+00:28:38,140 --> 00:28:39,512
+Vous ne savez pas ce que vous faites !
+
+215
+00:28:39,791 --> 00:28:41,037
+Des sangles !
+
+216
+00:28:43,504 --> 00:28:45,544
+Vous ne savez pas ce que vous faites !
+
+217
+00:28:50,553 --> 00:28:52,213
+Une citoyenne modèle !
+
+218
+00:29:14,373 --> 00:29:15,287
+<i>CIBLE REPÉRÉE</i>
+
+219
+00:29:31,602 --> 00:29:34,272
+Vous l'avez loupé.
+Il était là il y a 15 min.
+
+220
+00:29:34,813 --> 00:29:37,269
+Il n'allait pas à la Galleria ?
+
+221
+00:29:38,136 --> 00:29:39,251
+La Galleria ?
+
+222
+00:30:25,315 --> 00:30:27,439
+Je vais chercher des pièces,
+je reviens.
+
+223
+00:30:43,921 --> 00:30:45,795
+Vous connaissez John Connor ?
+
+224
+00:30:49,969 --> 00:30:51,381
+Tu connais ce garçon ?
+
+225
+00:30:52,347 --> 00:30:53,805
+Non, connais pas.
+
+226
+00:31:00,481 --> 00:31:01,810
+Pas maintenant !
+
+227
+00:31:02,192 --> 00:31:04,648
+T'as un flic aux basques.
+
+228
+00:31:10,034 --> 00:31:11,150
+Tire-toi, vite !
+
+229
+00:31:17,254 --> 00:31:18,379
+J'ai vu le gars que vous cherchiez...
+
+230
+00:32:01,556 --> 00:32:02,505
+Baisse-toi.
+
+231
+00:33:33,284 --> 00:33:34,316
+Allez !
+
+232
+00:38:55,160 --> 00:38:56,440
+Temps mort !
+
+233
+00:38:56,661 --> 00:38:59,782
+Arrête ta bécane. Pause. Arrête-toi !
+
+234
+00:39:14,431 --> 00:39:17,635
+Surtout, ne le prends pas mal,
+mais tu es un Terminator, hein ?
+
+235
+00:39:17,852 --> 00:39:21,304
+Oui. Des Systèmes Cyberdyne.
+Modèle 101.
+
+236
+00:39:33,037 --> 00:39:34,496
+La vache !
+
+237
+00:39:36,499 --> 00:39:38,077
+Tu es vraiment réel !
+
+238
+00:39:44,216 --> 00:39:48,084
+Tu es une machine à l'intérieur,
+et vivant à l'extérieur ?
+
+239
+00:39:48,638 --> 00:39:52,850
+Un organisme cybernétique.
+Squelette en métal et tissus vivants.
+
+240
+00:40:07,910 --> 00:40:09,535
+C'est dément !
+
+241
+00:40:10,247 --> 00:40:11,705
+Accroche-toi, John.
+
+242
+00:40:15,586 --> 00:40:19,371
+Tu n'es pas ici pour me tuer,
+j'ai déjà compris ça.
+
+243
+00:40:20,133 --> 00:40:21,509
+Alors de quoi s'agit-il ?
+
+244
+00:40:21,926 --> 00:40:23,920
+J'ai pour mission de te protéger.
+
+245
+00:40:26,182 --> 00:40:27,012
+Qui t'a envoyé ?
+
+246
+00:40:28,435 --> 00:40:29,383
+Toi.
+
+247
+00:40:29,603 --> 00:40:34,431
+Dans 35 ans, tu me programmeras
+pour te protéger maintenant.
+
+248
+00:40:35,568 --> 00:40:36,848
+Très fort.
+
+249
+00:40:59,861 --> 00:41:02,815
+Et l'autre type est
+un Terminator comme toi ?
+
+250
+00:41:03,073 --> 00:41:06,774
+Pas comme moi. Un T-1000.
+Un prototype plus avancé.
+
+251
+00:41:08,328 --> 00:41:09,953
+Plus avancé que toi ?
+
+252
+00:41:10,164 --> 00:41:12,620
+Oui, en poly-alliage mimétique.
+
+253
+00:41:13,502 --> 00:41:14,497
+Ça veut dire quoi ?
+
+254
+00:41:14,753 --> 00:41:16,164
+Il est fait en métal liquide.
+
+255
+00:41:17,985 --> 00:41:18,837
+Où va-t-on ?
+
+256
+00:41:19,091 --> 00:41:22,259
+Il faut sortir de la ville,
+éviter la police.
+
+257
+00:41:23,013 --> 00:41:25,800
+Je veux passer chez moi
+prendre des affaires.
+
+258
+00:41:26,016 --> 00:41:29,683
+Négatif. Le T-1000 essaiera
+de t'intercepter là-bas.
+
+259
+00:41:29,938 --> 00:41:32,643
+- Tu es sûr ?
+- C'est ce que je ferais.
+
+260
+00:41:44,871 --> 00:41:46,663
+Todd et Janelle sont des chieurs,
+
+261
+00:41:48,542 --> 00:41:50,168
+mais je dois les prévenir.
+
+262
+00:41:51,295 --> 00:41:52,838
+T'aurais pas une pièce ?
+
+263
+00:42:02,058 --> 00:42:03,339
+Janelle, c'est moi.
+
+264
+00:42:04,894 --> 00:42:06,472
+Tout va bien ?
+
+265
+00:42:06,729 --> 00:42:08,972
+- Vous allez bien ?
+- Oui, ça va.
+
+266
+00:42:09,399 --> 00:42:11,357
+- Et toi, ça va ?
+- Bien.
+
+267
+00:42:12,403 --> 00:42:15,855
+John, il est tard.
+Je commençais à m'inquiéter...
+
+268
+00:42:16,074 --> 00:42:19,076
+Dépêche-toi de rentrer,
+il y a du ragoût.
+
+269
+00:42:20,246 --> 00:42:22,702
+C'est louche, elle est trop gentille.
+
+270
+00:42:24,251 --> 00:42:25,033
+Où es-tu ?
+
+271
+00:42:25,252 --> 00:42:28,040
+Qu'est-ce qu'il a à gueuler,
+ce chien ?
+
+272
+00:42:29,090 --> 00:42:31,048
+Ferme-la, gros tas !
+
+273
+00:42:31,425 --> 00:42:32,921
+Le chien aboie beaucoup.
+
+274
+00:42:33,220 --> 00:42:35,259
+John doit nous débarrasser
+de ce clebs.
+
+275
+00:42:39,351 --> 00:42:41,724
+Chéri, il est tard.
+Je suis inquiète.
+
+276
+00:42:41,938 --> 00:42:43,729
+Il y est déjà ?
+
+277
+00:42:45,149 --> 00:42:46,063
+Ça va, chéri ?
+
+278
+00:42:46,610 --> 00:42:48,235
+Très bien.
+
+279
+00:42:48,445 --> 00:42:50,237
+Tu es sûr que ça va ?
+
+280
+00:42:50,684 --> 00:42:52,063
+Comment s'appelle le chien ?
+
+281
+00:42:52,283 --> 00:42:53,232
+Max.
+
+282
+00:42:53,952 --> 00:42:56,076
+Qu'est-ce qu'il a, Wolfy ?
+
+283
+00:42:56,621 --> 00:42:58,745
+Je l'entends aboyer... Il va bien ?
+
+284
+00:42:59,125 --> 00:43:01,414
+Wolfy va bien, chéri. Très bien.
+
+285
+00:43:02,963 --> 00:43:04,421
+Où es-tu ?
+
+286
+00:43:05,965 --> 00:43:08,005
+Tes parents adoptifs sont morts.
+
+287
+00:43:45,512 --> 00:43:46,971
+Attends une minute...
+
+288
+00:43:47,180 --> 00:43:51,475
+Ce truc est capable d'imiter
+tout ce qu'il touche ?
+
+289
+00:43:51,686 --> 00:43:54,142
+Tout ce qu'il peut analyser
+par contact.
+
+290
+00:43:55,023 --> 00:43:59,485
+Sois sérieux ! Il pourrait se déguiser
+en paquet de cigarettes ?
+
+291
+00:44:00,196 --> 00:44:01,774
+Non, en objets
+de taille similaire.
+
+292
+00:44:02,365 --> 00:44:04,322
+Et une bombe, pour m'avoir ?
+
+293
+00:44:04,700 --> 00:44:09,161
+C'est trop complexe... Il y a
+de la chimie, des pièces mobiles...
+
+294
+00:44:09,372 --> 00:44:12,493
+Mais il peut prendre
+des formes métalliques stables.
+
+295
+00:44:12,666 --> 00:44:13,320
+Par exemple ?
+
+296
+00:44:13,711 --> 00:44:15,336
+Des couteaux... Des armes blanches.
+
+297
+00:45:55,322 --> 00:45:56,926
+<i>Messages de Maman</i>
+
+298
+00:46:13,064 --> 00:46:15,188
+Elles ont été prises
+par une caméra de surveillance
+
+299
+00:46:15,400 --> 00:46:18,521
+au commissariat central
+de West Highland, en 1984.
+
+300
+00:46:20,240 --> 00:46:22,862
+Ce soir-là,
+il a tué 17 policiers.
+
+301
+00:46:24,912 --> 00:46:26,371
+Des hommes mariés.
+
+302
+00:46:28,415 --> 00:46:29,696
+Avec des enfants.
+
+303
+00:46:31,419 --> 00:46:33,661
+Celles-ci ont été prises à Reseda,
+
+304
+00:46:34,256 --> 00:46:35,370
+aujourd'hui même.
+
+305
+00:46:37,258 --> 00:46:40,711
+Nous savons que
+vous connaissez cet homme.
+
+306
+00:46:44,100 --> 00:46:46,722
+Je vous annonce
+que votre fils a disparu,
+
+307
+00:46:47,939 --> 00:46:50,062
+que ses parents adoptifs
+ont été tués...
+
+308
+00:46:50,609 --> 00:46:52,233
+Nous savons qu'il est dans le coup.
+
+309
+00:46:53,445 --> 00:46:56,731
+Ça ne signifie rien pour vous ?
+Vous vous en fichez ?
+
+310
+00:47:01,537 --> 00:47:03,031
+Nous perdons notre temps.
+
+311
+00:47:03,790 --> 00:47:04,904
+Partons.
+
+312
+00:47:05,458 --> 00:47:06,917
+Désolé, messieurs.
+
+313
+00:47:07,961 --> 00:47:12,209
+Elle est de plus en plus
+déconnectée de la réalité.
+
+314
+00:47:12,467 --> 00:47:14,674
+Elle ne peut pas vous aider.
+
+315
+00:47:14,928 --> 00:47:18,214
+Si elle nous révèle quelque chose,
+je vous appelle.
+
+316
+00:47:20,143 --> 00:47:22,930
+Douglas, ramenez-la à sa chambre.
+
+317
+00:47:25,649 --> 00:47:27,440
+Allons-y, ma belle.
+
+318
+00:47:29,820 --> 00:47:33,106
+On a vécu au Nicaragua,
+des endroits comme ça...
+
+319
+00:47:34,826 --> 00:47:38,326
+Ma mère a vécu tout un temps
+avec un ancien béret vert.
+
+320
+00:47:38,624 --> 00:47:39,946
+Elle jouait aux armes.
+
+321
+00:47:40,166 --> 00:47:41,957
+Puis elle a eu d'autres mecs.
+
+322
+00:47:43,169 --> 00:47:45,791
+Elle aurait suivi n'importe quel type
+qui lui aurait montré
+
+323
+00:47:46,006 --> 00:47:48,378
+comment faire de moi
+un grand chef militaire !
+
+324
+00:47:50,344 --> 00:47:51,970
+Puis elle s'est fait boucler.
+
+325
+00:47:52,180 --> 00:47:56,131
+On m'a dit :
+"Ta mère est folle, tu savais pas ?"
+
+326
+00:47:58,186 --> 00:48:01,971
+Tout ce qu'elle m'avait appris
+à croire s'écroulait.
+
+327
+00:48:02,859 --> 00:48:04,650
+Je l'ai détestée pour ça.
+
+328
+00:48:08,198 --> 00:48:10,275
+Mais ce qu'elle avait dit était vrai.
+
+329
+00:48:12,036 --> 00:48:13,495
+Elle savait.
+
+330
+00:48:16,083 --> 00:48:17,826
+Personne ne l'a crue.
+
+331
+00:48:20,212 --> 00:48:21,494
+Pas même moi.
+
+332
+00:48:24,159 --> 00:48:25,671
+Il faut la sortir de là-bas.
+
+333
+00:48:25,845 --> 00:48:29,005
+Négatif. La meilleure chance
+de réussite du T-1000
+
+334
+00:48:29,347 --> 00:48:32,219
+serait de copier Sarah Connor
+et de t'attendre à sa place.
+
+335
+00:48:32,727 --> 00:48:34,387
+Qu'est-ce qu'elle deviendrait ?
+
+336
+00:48:34,729 --> 00:48:37,351
+Les sujets qui ont été copiés
+sont terminés.
+
+337
+00:48:37,732 --> 00:48:39,891
+Alors il faut y aller tout de suite !
+
+338
+00:48:40,903 --> 00:48:42,860
+Négatif. Ce n'est pas
+une mission prioritaire.
+
+339
+00:48:43,072 --> 00:48:45,065
+Va te faire foutre !
+Elle l'est pour moi !
+
+340
+00:48:47,077 --> 00:48:50,862
+Qu'est-ce qui te prend ?
+Au secours !
+
+341
+00:48:51,248 --> 00:48:52,827
+Ceci n'aide en rien notre mission.
+
+342
+00:48:53,085 --> 00:48:55,291
+C'est un dingue ! Au secours !
+
+343
+00:48:56,337 --> 00:48:58,460
+On me kidnappe !
+
+344
+00:48:58,736 --> 00:48:59,539
+Lâche-moi !
+
+345
+00:49:04,406 --> 00:49:05,686
+Pourquoi as-tu fait ça ?
+
+346
+00:49:06,408 --> 00:49:07,736
+Tu me l'as demandé.
+
+347
+00:49:17,212 --> 00:49:19,086
+Tu fais tout ce que je t'ordonne ?
+
+348
+00:49:19,590 --> 00:49:21,382
+C'est un des paramètres
+de ma mission.
+
+349
+00:49:22,761 --> 00:49:23,876
+Prouve-le.
+
+350
+00:49:24,930 --> 00:49:26,044
+Mets-toi sur un pied.
+
+351
+00:49:32,104 --> 00:49:34,393
+Cool, j'ai un Terminator à moi !
+
+352
+00:49:37,110 --> 00:49:38,225
+Ça va, petit ?
+
+353
+00:49:38,651 --> 00:49:39,849
+Casse-toi, guignol.
+
+354
+00:49:40,403 --> 00:49:41,398
+On se barre.
+
+355
+00:49:42,951 --> 00:49:44,231
+Va chier, merdeux !
+
+356
+00:49:45,290 --> 00:49:46,404
+Merdeux ?
+
+357
+00:49:48,908 --> 00:49:50,402
+Pose ta jambe.
+
+358
+00:49:51,161 --> 00:49:54,448
+Tu m'as appelé "merdeux", moi ?
+
+359
+00:49:56,166 --> 00:49:58,124
+Attrape-le. J'y crois pas !
+
+360
+00:50:01,672 --> 00:50:04,627
+Qui se sent merdeux, maintenant ?
+Pauvre crétin !
+
+361
+00:50:14,392 --> 00:50:15,234
+Range cette arme !
+
+362
+00:50:17,025 --> 00:50:18,056
+Vous, tirez-vous !
+
+363
+00:50:18,276 --> 00:50:20,399
+Viens, on se casse !
+
+364
+00:50:27,118 --> 00:50:28,910
+Mais enfin, tu allais le tuer !
+
+365
+00:50:29,288 --> 00:50:31,080
+Bien sûr. Je suis un Terminator.
+
+366
+00:50:33,459 --> 00:50:35,748
+Écoute-moi attentivement :
+
+367
+00:50:36,463 --> 00:50:39,085
+tu n'es plus un Terminator.
+
+368
+00:50:40,135 --> 00:50:41,415
+C'est compris ?
+
+369
+00:50:42,137 --> 00:50:44,260
+Tu ne peux pas tuer les gens
+comme ça !
+
+370
+00:50:44,515 --> 00:50:45,261
+Pourquoi ?
+
+371
+00:50:46,476 --> 00:50:48,433
+"Pourquoi ?"
+Parce que tu ne peux pas.
+
+372
+00:50:48,812 --> 00:50:49,427
+Pourquoi ?
+
+373
+00:50:49,979 --> 00:50:52,268
+Tu ne peux pas. Aie confiance.
+
+374
+00:50:58,488 --> 00:51:01,609
+Je vais aller chercher ma mère,
+
+375
+00:51:02,494 --> 00:51:05,116
+et je t'ordonne de m'aider.
+
+376
+00:53:32,502 --> 00:53:34,459
+Vous avez une Sarah Connor, ici ?
+
+377
+00:53:35,005 --> 00:53:37,875
+Vous êtes en retard,
+ils sont là depuis une heure.
+
+378
+00:53:39,343 --> 00:53:41,301
+Je vous ouvre.
+
+379
+00:53:43,348 --> 00:53:44,972
+Voilà vos copains.
+
+380
+00:54:05,840 --> 00:54:07,250
+Ç'a été très productif !
+
+381
+00:54:49,224 --> 00:54:50,503
+Gwen, un café ?
+
+382
+00:54:50,725 --> 00:54:52,184
+Non merci.
+
+383
+00:54:52,727 --> 00:54:54,008
+Plutôt une bière.
+
+384
+00:55:20,449 --> 00:55:22,629
+- J'ai un carré d'as !
+- Bravo, Lewis.
+
+385
+00:55:23,263 --> 00:55:25,067
+C'est mon jour de chance.
+
+386
+00:58:16,145 --> 00:58:17,916
+Vous m'avez cassé le bras !
+
+387
+00:58:18,300 --> 00:58:22,084
+Il y a 215 os dans le corps humain.
+Ça fait un.
+
+388
+00:58:22,471 --> 00:58:23,930
+Maintenant, ne bougez plus.
+
+389
+00:58:29,396 --> 00:58:30,939
+Qu'allez-vous faire ?
+
+390
+00:58:34,737 --> 00:58:36,361
+Pourquoi s'arrête-t-on ?
+
+391
+00:58:38,073 --> 00:58:41,360
+Tu dois me promettre
+de ne plus tuer personne.
+
+392
+00:58:42,078 --> 00:58:43,538
+- Bon.
+- Juré ?
+
+393
+00:58:44,748 --> 00:58:45,862
+Quoi ?
+
+394
+00:58:46,082 --> 00:58:49,286
+Lève la main, et dis :
+"Je jure de ne plus tuer personne."
+
+395
+00:58:50,421 --> 00:58:52,544
+Je jure de ne plus tuer personne.
+
+396
+00:58:53,841 --> 00:58:55,253
+Bon. Allons-y.
+
+397
+00:59:01,596 --> 00:59:05,521
+Les heures de visite sont de
+10 h à 16 h, du lundi au vendredi.
+
+398
+00:59:09,568 --> 00:59:10,637
+Qu'est-ce que tu fais ?
+
+399
+00:59:11,154 --> 00:59:13,278
+Salaud ! Tu m'as tiré dessus !
+
+400
+00:59:26,630 --> 00:59:28,124
+Il survivra.
+
+401
+00:59:43,150 --> 00:59:44,478
+La salope !
+
+402
+00:59:46,653 --> 00:59:49,738
+- Tâchons de rester calmes.
+- Ouvre, ou il est mort.
+
+403
+00:59:50,032 --> 00:59:51,990
+Pas question, Connor. Relâche-le.
+
+404
+00:59:52,201 --> 00:59:54,325
+- Ouvre.
+- Jamais.
+
+405
+00:59:54,770 --> 00:59:56,055
+Doucement, Sarah...
+
+406
+00:59:56,707 --> 00:59:59,827
+Ça ne marchera pas.
+Je vous crois incapable de faire ça.
+
+407
+01:00:00,044 --> 01:00:04,505
+Pour moi, tout le monde
+est déjà mort. Alors, magnez-vous !
+
+408
+01:00:05,124 --> 01:00:06,592
+Ouvrez la porte !
+
+409
+01:00:14,185 --> 01:00:15,015
+Reculez !
+
+410
+01:00:15,519 --> 01:00:18,724
+Reculez, ou je lui injecte
+cette saleté. Je ne rigole pas !
+
+411
+01:00:20,734 --> 01:00:21,766
+Ne bougez pas !
+
+412
+01:00:23,529 --> 01:00:24,478
+Lâchez ça.
+
+413
+01:00:24,739 --> 01:00:25,653
+Obéis.
+
+414
+01:00:27,033 --> 01:00:28,314
+Entrez dans le bureau.
+
+415
+01:00:28,702 --> 01:00:31,489
+Au sol, face contre terre.
+Pas toi ! Ouvre la porte.
+
+416
+01:00:35,377 --> 01:00:36,491
+À terre !
+
+417
+01:00:36,879 --> 01:00:37,993
+Face au mur !
+
+418
+01:00:54,732 --> 01:00:56,274
+Attrapez-la !
+
+419
+01:01:33,110 --> 01:01:34,392
+Elle l'a cassée dedans !
+
+420
+01:01:40,411 --> 01:01:42,154
+Magnez-vous !
+
+421
+01:02:14,575 --> 01:02:15,523
+Maman, attends !
+
+422
+01:02:16,160 --> 01:02:16,942
+Maman !
+
+423
+01:02:28,341 --> 01:02:29,670
+- Aide-la !
+- Reste ici.
+
+424
+01:02:29,926 --> 01:02:32,050
+- Vite !
+- Il va nous tuer.
+
+425
+01:02:32,426 --> 01:02:33,551
+Il va tous nous tuer !
+
+426
+01:02:36,601 --> 01:02:37,550
+Il va nous tuer...
+
+427
+01:02:59,962 --> 01:03:02,168
+Maman, ça va ?
+Maman !
+
+428
+01:03:07,054 --> 01:03:08,845
+Venez avec moi
+si vous voulez vivre.
+
+429
+01:03:09,265 --> 01:03:11,934
+N'aie pas peur, maman,
+il est là pour nous aider.
+
+430
+01:03:36,504 --> 01:03:37,369
+Courez !
+
+431
+01:04:09,918 --> 01:04:12,243
+Mais bordel, qu'est-ce qui se passe ?
+
+432
+01:04:27,230 --> 01:04:28,179
+Assis !
+
+433
+01:05:05,108 --> 01:05:06,352
+Descends !
+
+434
+01:05:07,945 --> 01:05:08,940
+Allez !
+
+435
+01:05:45,905 --> 01:05:46,901
+Je suis à sec.
+
+436
+01:05:53,878 --> 01:05:54,745
+Donne !
+
+437
+01:05:55,005 --> 01:05:55,649
+Tiens.
+
+438
+01:05:58,430 --> 01:05:59,124
+Recharge.
+
+439
+01:06:09,306 --> 01:06:10,040
+Le dernier.
+
+440
+01:06:46,342 --> 01:06:46,958
+Chargé.
+
+441
+01:07:02,163 --> 01:07:03,269
+Prenez le volant.
+
+442
+01:07:56,799 --> 01:07:59,006
+Il n'est pas là.
+Personne ne nous suit.
+
+443
+01:07:59,219 --> 01:07:59,835
+Tu vas bien ?
+
+444
+01:08:03,307 --> 01:08:04,422
+Tu y vois assez ?
+
+445
+01:08:05,893 --> 01:08:06,842
+Je vois tout.
+
+446
+01:08:07,091 --> 01:08:09,499
+<i>AMÉLIORATION DE L'IMAGE</i>
+
+447
+01:08:10,132 --> 01:08:11,140
+Cool.
+
+448
+01:08:15,267 --> 01:08:16,727
+Approche !
+
+449
+01:08:22,863 --> 01:08:24,435
+Je t'ai dit que ça allait !
+
+450
+01:08:25,613 --> 01:08:28,365
+Tu n'aurais jamais dû
+venir là-bas.
+
+451
+01:08:29,516 --> 01:08:31,655
+Je te croyais
+plus futé que ça !
+
+452
+01:08:31,871 --> 01:08:33,275
+Tu as failli te faire tuer.
+
+453
+01:08:34,624 --> 01:08:36,248
+À quoi pensais-tu ?
+
+454
+01:08:37,459 --> 01:08:41,589
+Tu ne dois pas risquer ta vie.
+Pas même pour moi, tu comprends ?
+
+455
+01:08:41,798 --> 01:08:43,043
+Tu es trop important.
+
+456
+01:08:43,759 --> 01:08:45,253
+Tu comprends ça ?
+
+457
+01:08:51,643 --> 01:08:55,143
+Il fallait que je te sorte de là.
+Pardon.
+
+458
+01:08:56,607 --> 01:08:58,766
+Je sais très bien
+me débrouiller seule.
+
+459
+01:09:06,285 --> 01:09:07,565
+Qu'as-tu aux yeux ?
+
+460
+01:09:09,789 --> 01:09:10,904
+Rien.
+
+461
+01:09:21,302 --> 01:09:23,094
+Alors, racontez-moi.
+
+462
+01:09:34,122 --> 01:09:35,051
+Ça va ?
+
+463
+01:09:35,266 --> 01:09:36,209
+Bien.
+
+464
+01:09:38,655 --> 01:09:41,443
+Tu as une jolie moto !
+
+465
+01:10:03,852 --> 01:10:05,810
+Attention, tête d'engrenage !
+
+466
+01:10:13,697 --> 01:10:16,651
+Tu es sûr de ce que tu fais ?
+
+467
+01:10:16,964 --> 01:10:19,636
+J'ai des fichiers détaillés
+sur l'anatomie humaine.
+
+468
+01:10:20,705 --> 01:10:21,985
+Je n'en doute pas.
+
+469
+01:10:22,874 --> 01:10:25,662
+Ça fait de vous
+un tueur encore plus efficace ?
+
+470
+01:10:26,045 --> 01:10:26,827
+Exact.
+
+471
+01:10:33,082 --> 01:10:34,903
+Ça te fait mal
+quand on te tire dessus ?
+
+472
+01:10:36,139 --> 01:10:39,509
+Je ressens les dommages.
+Appelons ces informations "douleurs".
+
+473
+01:10:41,896 --> 01:10:44,981
+John, donne-moi plus de lumière.
+Vous allez cicatriser ?
+
+474
+01:10:46,318 --> 01:10:49,853
+Tant mieux. Il faut passer pour
+un humain pour pouvoir nous aider.
+
+475
+01:10:50,573 --> 01:10:53,528
+Combien de temps vis-tu ?
+Ou ta durée, je ne sais pas.
+
+476
+01:10:53,910 --> 01:10:56,532
+120 ans, avec ma pile actuelle.
+
+477
+01:10:56,831 --> 01:11:00,698
+Peux-tu apprendre des choses
+qui n'ont pas été programmées ?
+
+478
+01:11:02,421 --> 01:11:06,882
+Pour faire plus humain,
+moins con, quoi !
+
+479
+01:11:11,264 --> 01:11:14,348
+J'ai une unité centrale neuronale
+auto-évolutive.
+
+480
+01:11:14,601 --> 01:11:17,887
+Skynet en bride des fonctions
+lorsqu'on est seul.
+
+481
+01:11:20,442 --> 01:11:22,648
+Faut pas
+que vous réfléchissiez...
+
+482
+01:11:22,945 --> 01:11:23,893
+Non.
+
+483
+01:11:25,864 --> 01:11:27,525
+On peut le réinitialiser ?
+
+484
+01:11:46,221 --> 01:11:49,139
+Dévissez les deux cylindres
+vers la gauche.
+
+485
+01:11:56,400 --> 01:11:57,431
+Allez-y !
+
+486
+01:12:06,036 --> 01:12:07,945
+Ouvrez le couvercle du port.
+
+487
+01:12:11,083 --> 01:12:13,077
+Tirez et brisez le scellé.
+
+488
+01:12:17,091 --> 01:12:20,460
+Bien. Retirez le bloc antichoc.
+
+489
+01:12:24,557 --> 01:12:26,350
+Le processeur est au fond.
+
+490
+01:12:27,853 --> 01:12:29,811
+Vous le voyez ?
+- Oui.
+
+491
+01:12:30,231 --> 01:12:32,270
+Pincez le corps du processeur.
+
+492
+01:12:34,068 --> 01:12:34,850
+Tirez !
+
+493
+01:13:12,947 --> 01:13:14,525
+Tu vois le commutateur ?
+
+494
+01:13:14,866 --> 01:13:16,064
+Non ! Non !
+
+495
+01:13:17,536 --> 01:13:18,699
+Dégage, John !
+
+496
+01:13:18,996 --> 01:13:19,992
+Ne le tue pas !
+
+497
+01:13:20,999 --> 01:13:23,324
+C'est une machine, John.
+
+498
+01:13:23,668 --> 01:13:26,835
+D'accord, mais on en a besoin.
+
+499
+01:13:27,423 --> 01:13:29,214
+Écoute-moi bien, toi !
+
+500
+01:13:30,009 --> 01:13:31,551
+On s'en sortira sans lui.
+
+501
+01:13:32,136 --> 01:13:33,630
+C'est la seule preuve qu'on ait
+
+502
+01:13:33,888 --> 01:13:36,047
+du future, de la guerre,
+de tout ça.
+
+503
+01:13:36,641 --> 01:13:37,756
+Peut-être.
+
+504
+01:13:40,562 --> 01:13:42,104
+Je lui fais pas confiance.
+
+505
+01:13:42,815 --> 01:13:44,190
+C'est mon ami.
+
+506
+01:13:48,197 --> 01:13:50,867
+On n'aura jamais plus
+une telle occasion ! Dégage !
+
+507
+01:13:51,116 --> 01:13:53,608
+N'oublie que je suis supposé
+devenir un grand chef militaire !
+
+508
+01:13:53,870 --> 01:13:56,907
+Tu pourrais écouter mes idées
+de chef de temps à autre !
+
+509
+01:14:00,460 --> 01:14:04,506
+Car, si ma mère le fait pas,
+qui est-ce qui m'écoutera ?
+
+510
+01:14:19,817 --> 01:14:22,499
+D'accord... fais comme tu sens.
+
+511
+01:14:30,120 --> 01:14:31,745
+Il y a eu un ennui ?
+
+512
+01:14:32,247 --> 01:14:33,576
+Aucun ennui.
+
+513
+01:14:35,418 --> 01:14:36,497
+Pas encore.
+
+514
+01:15:10,500 --> 01:15:11,960
+Tu apprends, là !
+
+515
+01:15:24,684 --> 01:15:27,306
+Nous devons nous éloigner
+de cette ville.
+
+516
+01:15:31,441 --> 01:15:32,901
+Foncez vers le sud.
+
+517
+01:15:41,620 --> 01:15:44,989
+Dépassez pas le 100.
+Sinon on risque un contrôle.
+
+518
+01:15:45,418 --> 01:15:46,242
+Affirmatif.
+
+519
+01:15:49,462 --> 01:15:51,919
+Il faut que tu écoutes
+comment les gens parlent.
+
+520
+01:15:52,133 --> 01:15:55,585
+Ne dis pas "affirmatif",
+ou des conneries de ce genre.
+
+521
+01:15:55,804 --> 01:15:57,762
+Il faut dire "No problemo".
+
+522
+01:15:58,472 --> 01:16:01,759
+Et si quelqu'un te gonfle,
+dis-lui "Va chier".
+
+523
+01:16:02,235 --> 01:16:06,216
+Et si tu veux t'en débarrasser,
+dis "Hasta la vista, baby !"
+
+524
+01:16:09,652 --> 01:16:11,445
+Oui. Ou bien "Dégage, nullos".
+
+525
+01:16:11,917 --> 01:16:16,082
+Si quelqu'un s'énerve,
+tu dis "Calmos !" Après, tu mélanges.
+
+526
+01:16:16,965 --> 01:16:19,088
+Calmos, nullos.
+
+527
+01:16:20,135 --> 01:16:21,927
+Extra ! Tu as tout compris.
+
+528
+01:16:22,472 --> 01:16:23,752
+No problemo.
+
+529
+01:16:34,818 --> 01:16:37,903
+- T'as du blé ?
+- Deux cents dollars.
+
+530
+01:16:38,365 --> 01:16:39,740
+Je te file la moitié.
+
+531
+01:16:40,242 --> 01:16:41,356
+Maman !
+
+532
+01:16:42,870 --> 01:16:44,614
+Achète à manger !
+
+533
+01:16:47,000 --> 01:16:48,624
+Aucun sens de l'humour.
+
+534
+01:16:54,634 --> 01:16:56,378
+À propos...
+
+535
+01:16:56,845 --> 01:16:58,588
+Tu pourrais te dérider un peu...
+
+536
+01:16:59,264 --> 01:17:02,965
+Ton air grave finit par lasser.
+T'as toujours un air de taré.
+
+537
+01:17:03,519 --> 01:17:05,179
+Tu pourrais sourire !
+
+538
+01:17:05,605 --> 01:17:06,635
+Sourire ?
+
+539
+01:17:06,897 --> 01:17:09,223
+Eh bien, oui, sourire...
+
+540
+01:17:09,860 --> 01:17:10,855
+Regarde...
+
+541
+01:17:12,029 --> 01:17:14,354
+C'est super sympa chez vous.
+
+542
+01:17:14,699 --> 01:17:17,819
+- Ça va les affaires ?
+- Lâche-moi, tu veux !
+
+543
+01:17:19,288 --> 01:17:20,948
+D'accord, c'est raté.
+
+544
+01:17:23,125 --> 01:17:25,533
+Tu vois le type, là ?
+Eh bien, il sourit.
+
+545
+01:17:45,776 --> 01:17:49,609
+Bien... Entraîne-toi
+devant un miroir quand tu peux.
+
+546
+01:17:57,247 --> 01:17:58,706
+Tu veux mes frites ?
+
+547
+01:18:09,262 --> 01:18:10,542
+Un coup de main ?
+
+548
+01:18:12,933 --> 01:18:14,593
+- Tu es mort !
+- C'est pas vrai !
+
+549
+01:18:14,852 --> 01:18:16,263
+- Pas vrai !
+- Si ! Tu es mort.
+
+550
+01:18:16,521 --> 01:18:18,313
+- Je suis le plus fort.
+- Je t'ai tué.
+
+551
+01:18:18,732 --> 01:18:22,184
+Je suis plus fort que les balles.
+
+552
+01:18:23,154 --> 01:18:25,277
+On ne s'en sortira pas, hein ?
+
+553
+01:18:28,283 --> 01:18:29,197
+Les hommes.
+
+554
+01:18:32,414 --> 01:18:34,206
+C'est dans votre nature
+de vous détruire.
+
+555
+01:18:37,086 --> 01:18:38,462
+Quelle cata !
+
+556
+01:18:38,671 --> 01:18:40,830
+Arrêtez, ou je vous étrangle !
+
+557
+01:18:43,427 --> 01:18:46,133
+Je dois savoir comment Skynet
+a été mis au point.
+
+558
+01:18:46,690 --> 01:18:47,781
+Qui en est le responsable ?
+
+559
+01:18:47,974 --> 01:18:51,141
+Le responsable direct
+s'appelle Miles Bennet Dyson.
+
+560
+01:18:52,229 --> 01:18:53,178
+Qui est-ce ?
+
+561
+01:18:53,397 --> 01:18:56,848
+Le directeur des projets spéciaux
+chez Cyberdyne Systems.
+
+562
+01:19:00,200 --> 01:19:01,695
+Et pourquoi lui ?
+
+563
+01:19:01,994 --> 01:19:05,779
+Dans quelques mois, il créera
+un microprocesseur révolutionnaire.
+
+564
+01:19:06,500 --> 01:19:07,614
+Ensuite ?
+
+565
+01:19:08,836 --> 01:19:13,130
+Cyberdyne deviendra le 1er
+fournisseur d'ordinateurs militaires.
+
+566
+01:19:14,342 --> 01:19:18,636
+Les bombardiers furtifs
+pourront voler sans pilote
+
+567
+01:19:18,847 --> 01:19:21,802
+avec des capacités
+opérationnelles parfaites.
+
+568
+01:19:22,686 --> 01:19:24,642
+Skynet sera subventionné
+par la Défense.
+
+569
+01:19:24,854 --> 01:19:27,808
+Le système entrera en fonction
+le 4 août 1997.
+
+570
+01:19:28,358 --> 01:19:31,146
+L'homme disparaîtra de
+la chaîne décisionnelle stratégique.
+
+571
+01:19:31,362 --> 01:19:33,936
+Skynet améliorera ses capacités
+de façon exponentielle.
+
+572
+01:19:34,198 --> 01:19:38,327
+Il accédera à la conscience
+le 29 août à 2 h 14 du matin.
+
+573
+01:19:39,538 --> 01:19:42,160
+Prises de panique, les autorités
+tenteront de le débrancher.
+
+574
+01:19:43,209 --> 01:19:45,001
+Skynet ripostera.
+
+575
+01:19:45,878 --> 01:19:48,584
+Il lancera ses missiles sur la Russie.
+
+576
+01:19:48,799 --> 01:19:51,337
+Pourquoi la Russie ?
+Ce sont nos amis, maintenant.
+
+577
+01:19:51,719 --> 01:19:55,799
+Skynet aura prévu que la
+contre-attaque russe détruira ce pays.
+
+578
+01:19:56,265 --> 01:19:57,676
+Mon Dieu...
+
+579
+01:20:00,813 --> 01:20:02,093
+Que savez-vous sur Dyson ?
+
+580
+01:20:04,400 --> 01:20:06,357
+J'ai des fichiers détaillés.
+
+581
+01:20:07,738 --> 01:20:09,362
+Je veux tout savoir.
+
+582
+01:20:10,741 --> 01:20:14,027
+À quoi il ressemble,
+où il vit... Tout.
+
+583
+01:20:26,384 --> 01:20:27,795
+Miles ?
+
+584
+01:20:30,389 --> 01:20:32,132
+Miles ?
+
+585
+01:20:49,667 --> 01:20:53,273
+- Tu vas bosser tout ton dimanche ?
+- Je suis désolé, mais ce truc
+
+586
+01:20:53,702 --> 01:20:55,531
+m'empêche de dormir.
+
+587
+01:20:56,080 --> 01:20:59,747
+Miles, t'avais promis aux enfants
+de les emmener à Aqualand !
+
+588
+01:21:01,462 --> 01:21:03,122
+Je ne peux pas.
+
+589
+01:21:03,715 --> 01:21:05,174
+J'approche du but.
+
+590
+01:21:18,607 --> 01:21:19,984
+Ce sera une bombe !
+
+591
+01:21:20,235 --> 01:21:23,188
+- C'est une unité neuronale...
+- Tu me l'as déjà dit.
+
+592
+01:21:23,696 --> 01:21:26,733
+C'est une unité neuronale.
+Elle pense et apprend comme nous,
+
+593
+01:21:27,034 --> 01:21:29,442
+elle est supraconductrice
+à température ambiante.
+
+594
+01:21:29,704 --> 01:21:32,954
+Les autres ordinateurs sont
+des calculettes en comparaison.
+
+595
+01:21:35,961 --> 01:21:38,962
+J'aimerais tout de même savoir
+pourquoi c'est si important ?
+
+596
+01:21:39,214 --> 01:21:41,836
+J'ai l'impression
+de devenir folle parfois !
+
+597
+01:21:44,346 --> 01:21:46,137
+Je suis à ça du but.
+
+598
+01:21:47,563 --> 01:21:48,447
+Approche.
+
+599
+01:21:51,112 --> 01:21:53,567
+Imagine un avion de ligne
+dont le pilote
+
+600
+01:21:54,032 --> 01:21:56,321
+ne se fatigue pas,
+ne fait pas d'erreur
+
+601
+01:21:56,576 --> 01:21:58,154
+et n'est jamais malade.
+
+602
+01:22:00,664 --> 01:22:02,159
+Le voici !
+
+603
+01:22:03,293 --> 01:22:06,045
+Pourquoi s'est-on marié ?
+Pourquoi avons-nous des enfants ?
+
+604
+01:22:06,296 --> 01:22:09,915
+T'as pas besoin de nous !
+Ton cœur et ta tête sont là !
+
+605
+01:22:11,469 --> 01:22:13,877
+Mais elle ne t'aime pas
+comme nous on t'aime.
+
+606
+01:22:22,189 --> 01:22:23,388
+Je suis désolé.
+
+607
+01:22:24,109 --> 01:22:25,271
+Sincèrement.
+
+608
+01:22:25,526 --> 01:22:28,197
+Tu veux bien passer du temps
+avec tes autres bébés ?
+
+609
+01:22:31,909 --> 01:22:34,447
+- Aqualand !
+- Super !
+
+610
+01:23:03,404 --> 01:23:04,780
+Attendez dans la voiture.
+
+611
+01:23:43,735 --> 01:23:45,111
+Tu es nerveuse, Connor.
+
+612
+01:23:47,323 --> 01:23:48,817
+Toi aussi.
+
+613
+01:24:06,345 --> 01:24:07,625
+Le grand John !
+
+614
+01:24:11,350 --> 01:24:13,308
+Ça va, Enrique... Il est avec moi.
+
+615
+01:24:13,519 --> 01:24:15,975
+C'est mon oncle Bob.
+
+616
+01:24:16,690 --> 01:24:18,481
+Oncle Bob, voici Enrique.
+
+617
+01:24:19,026 --> 01:24:20,305
+Oncle Bob, hein ?
+
+618
+01:24:30,122 --> 01:24:31,367
+Un petit coup ?
+
+619
+01:24:36,389 --> 01:24:37,495
+"Oncle Bob" ?
+
+620
+01:24:38,548 --> 01:24:41,122
+Sarah, tu es devenue célèbre !
+
+621
+01:24:41,385 --> 01:24:44,221
+On ne parle que de vous à la télé...
+Toi, John et votre costaud.
+
+622
+01:24:45,224 --> 01:24:47,513
+Les flics deviennent dingues
+à vous chercher.
+
+623
+01:24:51,230 --> 01:24:55,014
+Il me faut mon matériel, des fringues,
+de la bouffe et un van.
+
+624
+01:24:55,651 --> 01:24:57,146
+Et pourquoi pas mes plombages ?
+
+625
+01:24:57,737 --> 01:24:59,529
+Vite, Enrique.
+
+626
+01:25:00,908 --> 01:25:02,865
+Vous deux, corvée d'armes.
+
+627
+01:25:03,911 --> 01:25:04,693
+Allons-y.
+
+628
+01:25:25,603 --> 01:25:27,395
+Une chose est sûre avec ma mère,
+
+629
+01:25:29,775 --> 01:25:31,399
+tout est toujours planifié.
+
+630
+01:25:42,674 --> 01:25:43,489
+Excellent !
+
+631
+01:25:54,136 --> 01:25:57,588
+C'est mon meilleur van,
+mais le démarreur est foutu.
+
+632
+01:25:57,808 --> 01:25:59,599
+Vous avez le temps de le réparer ?
+
+633
+01:25:59,810 --> 01:26:02,930
+Oui. J'attendrai la nuit
+pour traverser la frontière.
+
+634
+01:26:03,314 --> 01:26:04,643
+Enrique...
+
+635
+01:26:04,899 --> 01:26:06,524
+C'est dangereux pour toi, ici.
+
+636
+01:26:07,193 --> 01:26:09,068
+- Pars cette nuit, d'accord ?
+- Bien sûr.
+
+637
+01:26:11,073 --> 01:26:14,442
+Passe quand tu veux
+foutre la merde dans ma vie !
+
+638
+01:26:19,666 --> 01:26:22,204
+J'ai grandi dans des lieux
+comme celui-ci.
+
+639
+01:26:22,962 --> 01:26:25,002
+Je croyais que c'était
+l'univers de tout le monde.
+
+640
+01:26:26,382 --> 01:26:28,708
+Se déplacer en hélicoptère.
+
+641
+01:26:30,178 --> 01:26:31,887
+Manier la dynamite...
+
+642
+01:26:34,017 --> 01:26:36,175
+Mais lorsqu'on a interné maman,
+
+643
+01:26:36,644 --> 01:26:39,017
+on m'a mis
+dans une école normale.
+
+644
+01:26:39,982 --> 01:26:42,390
+Les autres gosses
+jouaient encore au Nintendo.
+
+645
+01:26:57,084 --> 01:26:58,710
+Tu n'as jamais peur ?
+
+646
+01:26:59,171 --> 01:27:00,285
+Non !
+
+647
+01:27:04,468 --> 01:27:05,797
+Même pas de la mort ?
+
+648
+01:27:06,804 --> 01:27:07,801
+Non.
+
+649
+01:27:12,896 --> 01:27:16,015
+Ça provoque aucune
+émotion en toi ?
+
+650
+01:27:17,191 --> 01:27:20,940
+Non. Je dois être opérationnel
+jusqu'à la fin de la mission.
+
+651
+01:27:26,578 --> 01:27:28,949
+- C'est pas important.
+- Mouais...
+
+652
+01:27:29,497 --> 01:27:31,454
+Moi aussi,
+je dois rester opérationnel.
+
+653
+01:27:31,791 --> 01:27:33,701
+"Je suis trop important !"
+
+654
+01:27:49,478 --> 01:27:51,057
+Ça te ressemble bien.
+
+655
+01:28:02,828 --> 01:28:05,449
+Ma mère se mettait
+presque toujours avec des barjots.
+
+656
+01:28:06,207 --> 01:28:10,501
+Mais l'un d'eux était très cool.
+Il m'a appris la mécanique.
+
+657
+01:28:11,213 --> 01:28:12,327
+Tiens ça.
+
+658
+01:28:13,549 --> 01:28:15,506
+Maman l'a dégoûté !
+
+659
+01:28:16,051 --> 01:28:20,513
+À force de parler du Jugement
+Dernier et de mon avenir de chef...
+
+660
+01:28:21,390 --> 01:28:23,183
+Elle n'avait que ça en tête.
+
+661
+01:28:24,773 --> 01:28:25,725
+Clé dynamométrique.
+
+662
+01:28:30,152 --> 01:28:32,192
+J'aurais aimé connaître
+mon vrai père.
+
+663
+01:28:32,737 --> 01:28:34,019
+Tu le rencontreras.
+
+664
+01:28:34,574 --> 01:28:35,854
+Oui, il paraît.
+
+665
+01:28:36,868 --> 01:28:39,027
+Quand j'aurai 45 ans.
+
+666
+01:28:40,747 --> 01:28:43,369
+Je le renverrai en 1984.
+
+667
+01:28:44,585 --> 01:28:45,699
+La vache...
+
+668
+01:28:47,421 --> 01:28:49,544
+Dire qu'il n'est pas encore né !
+
+669
+01:28:51,926 --> 01:28:53,385
+Ça fait mal à la tête !
+
+670
+01:28:56,432 --> 01:28:57,546
+L'autre boulon.
+
+671
+01:29:05,776 --> 01:29:08,564
+Maman et lui n'ont passé
+qu'une nuit ensemble.
+
+672
+01:29:09,285 --> 01:29:11,399
+Je crois qu'elle l'aime toujours.
+
+673
+01:29:11,789 --> 01:29:13,742
+Je la vois parfois pleurer...
+
+674
+01:29:14,786 --> 01:29:18,571
+Elle s'en cache. Elle dit
+qu'elle a une poussière dans l'œil...
+
+675
+01:29:23,672 --> 01:29:25,047
+Pourquoi pleurez-vous ?
+
+676
+01:29:26,342 --> 01:29:27,622
+Les hommes ?
+
+677
+01:29:27,843 --> 01:29:30,465
+Je ne sais pas... On pleure.
+
+678
+01:29:31,515 --> 01:29:33,306
+Quand ça fait mal.
+
+679
+01:29:40,192 --> 01:29:41,650
+C'est la douleur ?
+
+680
+01:29:43,028 --> 01:29:44,819
+Non, c'est différent.
+
+681
+01:29:45,363 --> 01:29:49,148
+On peut aller bien physiquement,
+mais on souffre. Tu piges ?
+
+682
+01:29:51,955 --> 01:29:52,986
+Bravo, mon pote !
+
+683
+01:29:53,707 --> 01:29:54,655
+No problemo.
+
+684
+01:29:55,067 --> 01:29:56,105
+Tope là !
+
+685
+01:29:58,828 --> 01:30:00,786
+Tends la main comme ça.
+
+686
+01:30:02,165 --> 01:30:06,460
+Allez, tope là ! Fais pareil.
+
+687
+01:30:11,176 --> 01:30:13,464
+Oui, c'est bien. En haut.
+
+688
+01:30:14,679 --> 01:30:15,794
+En bas.
+
+689
+01:30:16,775 --> 01:30:17,548
+Trop lent !
+
+690
+01:30:20,770 --> 01:30:22,810
+Je rigolais. Essaie encore.
+
+691
+01:30:23,154 --> 01:30:25,147
+Bien. Maintenant, à toi.
+
+692
+01:30:28,695 --> 01:30:33,027
+<i>En voyant John avec ce robot,
+tout devint clair à mes yeux :</i>
+
+693
+01:30:33,702 --> 01:30:36,158
+<i>Le Terminator ne renoncerait jamais.</i>
+
+694
+01:30:36,372 --> 01:30:40,156
+<i>Il ne l'abandonnerait jamais,
+ne lui ferait jamais de mal,</i>
+
+695
+01:30:40,710 --> 01:30:43,830
+<i>il ne crierait pas, ne se saoulerait
+pas, ne le frapperait pas,</i>
+
+696
+01:30:44,047 --> 01:30:46,373
+<i>et ne serait jamais trop occupé
+pour jouer avec lui.</i>
+
+697
+01:30:47,217 --> 01:30:52,010
+<i>Il serait toujours là,
+et mourrait pour le protéger.</i>
+
+698
+01:30:53,724 --> 01:30:56,845
+<i>De tous les semblants de père
+qui s'étaient succédé,</i>
+
+699
+01:30:57,187 --> 01:31:01,352
+<i>cette chose, ce robot était
+le seul à être à la hauteur.</i>
+
+700
+01:31:02,235 --> 01:31:06,020
+<i>Dans un monde malade,
+c'était le choix le plus sain.</i>
+
+701
+01:34:17,587 --> 01:34:19,913
+<i>PAS DE FATALITÉ</i>
+
+702
+01:34:39,988 --> 01:34:43,606
+Vous devez l'emmener vers le sud.
+Elle vous rattrapera demain.
+
+703
+01:34:43,826 --> 01:34:45,107
+Après la frontière.
+
+704
+01:34:46,185 --> 01:34:47,481
+Maman... attends !
+
+705
+01:35:03,016 --> 01:35:04,640
+"Pas de fatalité"...
+
+706
+01:35:06,060 --> 01:35:09,097
+"Il n'y a pas de fatalité.
+Tout dépend de nous."
+
+707
+01:35:10,274 --> 01:35:11,898
+Mon père lui avait dit ça.
+
+708
+01:35:14,861 --> 01:35:18,813
+Je le lui avais fait mémoriser
+pour qu'il lui passe le message.
+
+709
+01:35:20,702 --> 01:35:21,817
+Laisse tomber.
+
+710
+01:35:24,206 --> 01:35:25,832
+Tout ça veut dire
+
+711
+01:35:26,208 --> 01:35:28,001
+que l'avenir n'est pas fixé.
+
+712
+01:35:28,878 --> 01:35:31,500
+Il n'y a de destin
+que ce que nous en faisons.
+
+713
+01:35:32,550 --> 01:35:34,839
+Elle veut changer l'avenir.
+
+714
+01:35:35,553 --> 01:35:37,013
+Oui, je suppose.
+
+715
+01:35:38,556 --> 01:35:40,015
+Oh, merde !
+
+716
+01:35:40,297 --> 01:35:41,175
+Dyson !
+
+717
+01:35:41,393 --> 01:35:43,849
+Oui, c'est forcément ça.
+
+718
+01:35:44,063 --> 01:35:45,522
+Miles Dyson...
+
+719
+01:35:46,040 --> 01:35:50,015
+Elle est partie le descendre !
+En route, vite !
+
+720
+01:35:50,320 --> 01:35:51,814
+Dépêche-toi !
+
+721
+01:36:02,558 --> 01:36:04,377
+Ceci est tactiquement dangereux.
+
+722
+01:36:04,850 --> 01:36:05,725
+Plus vite !
+
+723
+01:36:05,938 --> 01:36:09,705
+Le T-1000 a les mêmes fichiers
+que moi. Il sait ce que je sais.
+
+724
+01:36:09,926 --> 01:36:11,883
+Il pourrait anticiper
+notre mouvement.
+
+725
+01:36:12,095 --> 01:36:13,555
+Il faut qu'on l'arrête à temps.
+
+726
+01:36:14,765 --> 01:36:16,888
+La mort de Dyson permettrait
+d'éviter la guerre.
+
+727
+01:36:17,101 --> 01:36:18,382
+Je m'en fiche !
+
+728
+01:36:19,103 --> 01:36:23,184
+Tu n'as toujours pas compris
+pourquoi il ne faut pas tuer ?
+
+729
+01:36:26,195 --> 01:36:30,359
+Toi tu te fiches de mourir, mais
+tout le monde n'est pas comme ça !
+
+730
+01:36:31,076 --> 01:36:34,410
+Nous, on a des sentiments,
+on peut souffrir, on a peur.
+
+731
+01:36:37,124 --> 01:36:39,912
+Tu dois apprendre ça,
+je t'assure, c'est important.
+
+732
+01:37:18,422 --> 01:37:20,831
+Danny, je t'ai dit d'aller au lit.
+
+733
+01:37:21,385 --> 01:37:23,508
+Encore une minute, maman.
+
+734
+01:37:40,781 --> 01:37:45,575
+Danny, il est tard.
+Brosse-toi les dents, et va au lit.
+
+735
+01:38:27,838 --> 01:38:28,786
+Papa !
+
+736
+01:38:29,506 --> 01:38:31,333
+Danny, baisse-toi ! Va-t'en !
+
+737
+01:38:41,056 --> 01:38:41,961
+Oh, mon Dieu !
+
+738
+01:38:49,278 --> 01:38:51,070
+Emmène Danny, et partez ! Courez !
+
+739
+01:38:51,447 --> 01:38:52,397
+Courez !
+
+740
+01:39:15,976 --> 01:39:17,305
+Personne ne bouge !
+
+741
+01:39:18,253 --> 01:39:19,393
+Touchez pas mon papa.
+
+742
+01:39:19,647 --> 01:39:21,023
+À terre, pauvre conne !
+
+743
+01:39:21,316 --> 01:39:22,774
+Couche-toi par terre !
+
+744
+01:39:24,320 --> 01:39:25,185
+Écarte-toi !
+
+745
+01:39:25,487 --> 01:39:26,947
+Ne lui faites pas de mal.
+
+746
+01:39:28,491 --> 01:39:30,283
+Couche-toi par terre... Vite !
+
+747
+01:39:32,830 --> 01:39:34,987
+Laissez partir l'enfant.
+
+748
+01:39:35,332 --> 01:39:36,707
+La ferme ! La ferme !
+
+749
+01:39:38,502 --> 01:39:40,708
+Tout est de ta faute, salaud !
+
+750
+01:39:41,005 --> 01:39:42,286
+C'est ta faute !
+
+751
+01:39:43,675 --> 01:39:45,466
+Je ne te laisserai pas faire ça.
+
+752
+01:40:37,404 --> 01:40:38,863
+On arrive trop tard.
+
+753
+01:40:44,068 --> 01:40:44,987
+Occupe-toi d'eux.
+
+754
+01:40:49,084 --> 01:40:50,365
+Regarde-moi, maman.
+
+755
+01:40:53,257 --> 01:40:54,371
+Regarde-moi.
+
+756
+01:40:56,927 --> 01:40:58,208
+J'y étais presque.
+
+757
+01:40:59,097 --> 01:41:00,555
+Presque.
+
+758
+01:41:10,609 --> 01:41:14,738
+Ça va s'arranger.
+On trouvera un moyen.
+
+759
+01:41:16,616 --> 01:41:17,898
+Je te promets.
+
+760
+01:41:21,622 --> 01:41:23,746
+Tu voulais m'en empêcher ?
+
+761
+01:41:25,293 --> 01:41:26,574
+Oui.
+
+762
+01:41:29,965 --> 01:41:31,839
+Je t'aime, John.
+
+763
+01:41:33,803 --> 01:41:35,760
+Depuis toujours.
+
+764
+01:41:37,307 --> 01:41:38,422
+Je sais.
+
+765
+01:41:45,984 --> 01:41:47,693
+Perforation sans gravité.
+
+766
+01:41:49,655 --> 01:41:51,233
+Fracture simple. Appuyez ici.
+
+767
+01:41:52,492 --> 01:41:54,284
+La pression stoppera l'hémorragie.
+
+768
+01:42:05,423 --> 01:42:06,419
+Qui êtes-vous ?
+
+769
+01:42:07,634 --> 01:42:08,796
+Montre-lui.
+
+770
+01:42:11,732 --> 01:42:15,517
+Danny...
+Viens me montrer ta chambre.
+
+771
+01:42:57,787 --> 01:43:00,408
+Écoutez-moi attentivement.
+
+772
+01:43:06,129 --> 01:43:09,581
+<i>Dyson écouta toutes les explications
+du Terminator :</i>
+
+773
+01:43:10,300 --> 01:43:13,088
+<i>Skynet, le Jugement Dernier,</i>
+
+774
+01:43:14,305 --> 01:43:16,263
+<i>L'avenir tel qu'il se présentait...</i>
+
+775
+01:43:18,143 --> 01:43:22,438
+<i>Il devait assumer la mort
+de 3 milliards d'êtres humains.</i>
+
+776
+01:43:23,816 --> 01:43:25,442
+<i>Il le prit très bien.</i>
+
+777
+01:43:27,655 --> 01:43:29,447
+Je crois que je vais vomir...
+
+778
+01:43:45,258 --> 01:43:46,966
+Comment pouvions-nous savoir ?
+
+779
+01:43:51,682 --> 01:43:52,798
+C'est ça...
+
+780
+01:43:54,186 --> 01:43:56,309
+Comment pouviez-vous savoir ?
+
+781
+01:43:57,522 --> 01:44:00,726
+Des gens comme vous
+ont construit la bombe H.
+
+782
+01:44:01,527 --> 01:44:02,807
+Des gens comme vous
+
+783
+01:44:03,696 --> 01:44:05,155
+L'ont conçue...
+
+784
+01:44:09,035 --> 01:44:11,158
+Vous vous croyez si créatifs !
+
+785
+01:44:12,540 --> 01:44:15,328
+Vous ne savez pas ce que c'est
+de vraiment créer.
+
+786
+01:44:15,710 --> 01:44:17,335
+De créer la vie.
+
+787
+01:44:17,847 --> 01:44:20,800
+On la sent grandir en soi...
+Tout ce que vous savez créer,
+
+788
+01:44:21,100 --> 01:44:22,891
+c'est la mort et la destruction !
+
+789
+01:44:24,555 --> 01:44:27,639
+Je propose qu'on soit
+un peu plus constructif, d'accord ?
+
+790
+01:44:28,225 --> 01:44:29,932
+Il faut quand même
+empêcher ça, non ?
+
+791
+01:44:30,727 --> 01:44:31,842
+Mais je pensais...
+
+792
+01:44:33,064 --> 01:44:37,014
+On va changer tout ça, non ?
+
+793
+01:44:37,402 --> 01:44:40,854
+Oui ! Il est exclu
+que j'achève le microprocesseur.
+
+794
+01:44:41,073 --> 01:44:45,237
+C'est fini. Je me retire.
+Je quitte Cyberdyne demain.
+
+795
+01:44:45,578 --> 01:44:47,323
+Ça ne suffit pas.
+
+796
+01:44:47,831 --> 01:44:49,413
+Personne ne doit poursuivre
+ce travail.
+
+797
+01:44:49,916 --> 01:44:51,032
+Exact.
+
+798
+01:44:51,586 --> 01:44:52,866
+Bon, alors...
+
+799
+01:44:54,089 --> 01:44:57,375
+Il faut aller au labo et
+détruire les fichiers, les disques...
+
+800
+01:44:57,760 --> 01:44:59,383
+Et tout ce que j'ai ici.
+
+801
+01:45:00,930 --> 01:45:02,044
+Tout.
+
+802
+01:45:02,598 --> 01:45:03,878
+Je m'en fiche.
+
+803
+01:45:05,935 --> 01:45:06,639
+La puce !
+
+804
+01:45:07,188 --> 01:45:08,942
+- Vous savez, pour la puce ?
+- Quelle puce ?
+
+805
+01:45:09,149 --> 01:45:10,189
+Dans la chambre forte.
+
+806
+01:45:10,400 --> 01:45:11,943
+Celle d'un autre robot, comme vous.
+
+807
+01:45:12,152 --> 01:45:14,062
+L'unité centrale
+du premier Terminator.
+
+808
+01:45:14,322 --> 01:45:16,528
+Saloperie... Je le savais !
+
+809
+01:45:16,825 --> 01:45:19,315
+Ils nous disaient de ne pas demander
+d'où elle provenait.
+
+810
+01:45:19,577 --> 01:45:21,736
+Bande de menteurs !
+
+811
+01:45:21,997 --> 01:45:23,702
+Effrayant...
+D'un perfectionnement fou.
+
+812
+01:45:23,874 --> 01:45:25,951
+Elle a été écrasée.
+Elle ne marche plus.
+
+813
+01:45:26,598 --> 01:45:27,579
+Mais ça nous a donné
+
+814
+01:45:27,837 --> 01:45:30,624
+des idées, des voies
+de recherches insoupçonnées.
+
+815
+01:45:33,176 --> 01:45:34,885
+Tous mes travaux
+sont basés là-dessus.
+
+816
+01:45:35,512 --> 01:45:36,758
+Il faut la détruire.
+
+817
+01:45:39,267 --> 01:45:41,640
+Vous pouvez nous introduire là-bas ?
+Passer la sécurité ?
+
+818
+01:45:42,354 --> 01:45:44,643
+Je pense que oui. Quand ?
+
+819
+01:45:49,281 --> 01:45:50,219
+Maintenant ?
+
+820
+01:45:54,368 --> 01:45:56,990
+<i>L'avenir, qui m'était toujours
+apparu clairement,</i>
+
+821
+01:45:57,204 --> 01:45:59,992
+<i>devenait comme une autoroute
+s'enfonçant dans la nuit...</i>
+
+822
+01:46:00,374 --> 01:46:02,996
+<i>Nous entrions à présent
+en territoire inconnu,</i>
+
+823
+01:46:03,211 --> 01:46:05,999
+<i>faisant l'Histoire
+à chacun de nos pas.</i>
+
+824
+01:46:44,259 --> 01:46:44,903
+Carl...
+
+825
+01:46:45,666 --> 01:46:46,710
+C'est bien ça ?
+
+826
+01:46:47,879 --> 01:46:50,350
+Des amis de passage... Je pensais...
+
+827
+01:46:51,435 --> 01:46:53,095
+Leur faire visiter les étages...
+
+828
+01:46:53,771 --> 01:46:56,475
+Vous connaissez le règlement
+qui régit les visites :
+
+829
+01:46:56,940 --> 01:46:58,684
+j'ai besoin d'une autorisation écrite.
+
+830
+01:46:59,836 --> 01:47:00,549
+J'insiste.
+
+831
+01:47:02,485 --> 01:47:03,628
+N'y pensez même pas !
+
+832
+01:47:14,962 --> 01:47:16,243
+Venez, c'est bon.
+
+833
+01:47:17,798 --> 01:47:20,753
+Il faut actionner deux clés
+pour ouvrir la chambre forte.
+
+834
+01:47:20,969 --> 01:47:23,591
+L'une des deux est dans un coffret
+au poste de sécurité.
+
+835
+01:47:25,099 --> 01:47:26,261
+Gibbons ?
+
+836
+01:47:29,645 --> 01:47:33,940
+Enfin, on n'abandonne pas
+son poste comme ça !
+
+837
+01:47:39,490 --> 01:47:40,735
+Oh, merde !
+
+838
+01:47:58,595 --> 01:48:00,340
+Ma carte devrait pouvoir l'ouvrir...
+
+839
+01:48:05,346 --> 01:48:07,362
+- Qu'est-ce qu'il y a ?
+- Merde !
+
+840
+01:48:07,856 --> 01:48:09,648
+L'alerte a été déclenchée.
+
+841
+01:48:16,200 --> 01:48:20,151
+Ça neutralise tous les codes
+du bâtiment. Plus rien n'ouvrira.
+
+842
+01:48:21,539 --> 01:48:22,999
+Il faut renoncer.
+
+843
+01:48:26,878 --> 01:48:28,159
+On ira jusqu'au bout.
+
+844
+01:48:32,833 --> 01:48:34,629
+Commencez par le labo,
+
+845
+01:48:34,888 --> 01:48:35,884
+je vais ouvrir ce truc.
+
+846
+01:48:36,140 --> 01:48:38,014
+C'est le type du centre commercial.
+
+847
+01:48:38,225 --> 01:48:40,349
+Oui, c'est lui et la femme.
+
+848
+01:48:42,230 --> 01:48:45,185
+Envoyez-nous le maximum
+de forces disponibles !
+
+849
+01:48:47,904 --> 01:48:51,190
+Mon code personnel d'accès au labo
+marche peut-être encore...
+
+850
+01:48:55,649 --> 01:48:56,413
+C'est refusé.
+
+851
+01:48:56,674 --> 01:48:58,162
+Laissez-moi essayer le mien.
+
+852
+01:49:03,211 --> 01:49:05,003
+John... explosion !
+
+853
+01:49:17,895 --> 01:49:20,434
+N'entrez pas, l'incendie a déclenché
+
+854
+01:49:20,732 --> 01:49:21,936
+une dispersion d'halon...
+
+855
+01:49:29,408 --> 01:49:31,531
+Il faut attendre
+que le gaz se dissipe.
+
+856
+01:49:34,414 --> 01:49:35,280
+Enfilez ça.
+
+857
+01:49:49,766 --> 01:49:51,759
+Mettons-nous au boulot.
+
+858
+01:50:13,377 --> 01:50:16,414
+<i>À toutes les unités du secteur...</i>
+
+859
+01:50:16,631 --> 01:50:21,258
+<i>Une effraction est en cours au
+2111 Kramer St, chez Cyberdyne...</i>
+
+860
+01:50:21,469 --> 01:50:22,928
+<i>Suspect N°1 : une femme blanche</i>
+
+861
+01:50:23,138 --> 01:50:26,589
+<i>répondant au nom de Connor, Sarah,</i>
+
+862
+01:50:26,808 --> 01:50:31,388
+<i>échappée de l'asile de Pescadero.
+Suspect N°2 : un homme blanc...</i>
+
+863
+01:50:35,610 --> 01:50:38,980
+Tous les disques,
+dans la pièce, là-bas.
+
+864
+01:50:39,782 --> 01:50:41,443
+Derrière mon bureau.
+
+865
+01:50:41,660 --> 01:50:44,115
+L'unité centrale est à gauche.
+
+866
+01:50:44,371 --> 01:50:46,660
+On les détruira ensemble.
+
+867
+01:51:00,347 --> 01:51:01,546
+Je peux...
+
+868
+01:51:02,308 --> 01:51:03,637
+Excusez-moi...
+
+869
+01:51:06,021 --> 01:51:07,765
+Je peux l'emprunter ?
+
+870
+01:51:17,769 --> 01:51:19,762
+J'ai bossé des années à ça !
+
+871
+01:51:24,278 --> 01:51:26,271
+Veuillez préciser !
+
+872
+01:51:26,531 --> 01:51:28,155
+<i>2 111, Kramer St.</i>
+
+873
+01:51:28,408 --> 01:51:31,078
+<i>Les suspects sont armés
+et sont très dangereux.</i>
+
+874
+01:52:20,969 --> 01:52:22,214
+<i>CODE D'ACCÈS : 7256</i>
+
+875
+01:52:23,889 --> 01:52:27,009
+Extra ! 7... 2... 5... 6...
+
+876
+01:52:34,318 --> 01:52:35,693
+De l'argent facile !
+
+877
+01:52:44,581 --> 01:52:46,740
+Oh, là... C'est pas bon.
+
+878
+01:52:47,012 --> 01:52:48,187
+Pas bon du tout.
+
+879
+01:52:52,255 --> 01:52:53,715
+Où en est-on ?
+
+880
+01:52:53,924 --> 01:52:57,875
+Le minuteur est en place.
+Encore un baril. Deux minutes.
+
+881
+01:52:59,765 --> 01:53:01,009
+Comment va-t-on...
+
+882
+01:53:02,017 --> 01:53:04,343
+- tout faire sauter ?
+- Par télécommande.
+
+883
+01:53:05,187 --> 01:53:06,183
+Du gâteau !
+
+884
+01:53:07,215 --> 01:53:08,684
+- On a de la visite.
+- La police ?
+
+885
+01:53:09,443 --> 01:53:10,225
+Combien ?
+
+886
+01:53:10,778 --> 01:53:12,058
+Ils sont tous venus.
+
+887
+01:53:12,716 --> 01:53:14,488
+Allez-y. Je termine ici.
+
+888
+01:53:15,951 --> 01:53:16,899
+Venez !
+
+889
+01:53:18,287 --> 01:53:19,910
+Je m'occupe de la police.
+
+890
+01:53:20,121 --> 01:53:21,345
+Tu as juré !
+
+891
+01:53:24,627 --> 01:53:25,907
+Aie confiance.
+
+892
+01:53:39,269 --> 01:53:40,930
+Vous, là-haut...
+
+893
+01:53:41,147 --> 01:53:42,938
+Jetez votre arme !
+
+894
+01:53:47,654 --> 01:53:48,935
+C'est un mini-canon !
+
+895
+01:54:55,733 --> 01:54:58,189
+<i>PERTES EN VIES HUMAINES : 0</i>
+
+896
+01:55:22,096 --> 01:55:26,047
+On tourne ensemble vers la gauche.
+
+897
+01:55:38,074 --> 01:55:40,648
+Pour les sortir,
+il faut briser les cartouches.
+
+898
+01:55:48,294 --> 01:55:51,544
+On tient Skynet par les couilles !
+Allez, on se tire !
+
+899
+01:56:20,290 --> 01:56:22,413
+- Prêt à rouler ?
+- Prêt.
+
+900
+01:56:25,963 --> 01:56:28,086
+Il faut y aller.
+
+901
+01:56:28,800 --> 01:56:30,757
+Prends ça, ils vont lancer des gaz.
+
+902
+01:56:31,969 --> 01:56:33,346
+Allez vers la porte.
+
+903
+01:56:33,555 --> 01:56:34,884
+Donnez-moi le détonateur.
+
+904
+01:56:59,288 --> 01:57:00,280
+Maman !
+
+905
+01:57:49,018 --> 01:57:51,058
+C'est la pièce stérile.
+Il n'y a pas d'issue.
+
+906
+01:58:01,588 --> 01:58:02,204
+Couche-toi !
+
+907
+01:58:37,045 --> 01:58:39,833
+Je ne sais pas si je tiendrai
+encore longtemps.
+
+908
+01:58:44,721 --> 01:58:45,670
+Reculez !
+
+909
+01:58:46,055 --> 01:58:47,431
+Tout le monde dehors !
+
+910
+01:58:47,725 --> 01:58:49,302
+Magnez-vous !
+
+911
+01:59:25,381 --> 01:59:26,793
+<i>C'est la guerre, ici !</i>
+
+912
+02:00:07,306 --> 02:00:09,762
+Restez ici, je reviens.
+
+913
+02:00:18,235 --> 02:00:20,358
+Couchez-vous par terre,
+face contre le sol.
+
+914
+02:00:23,491 --> 02:00:24,654
+Allongez-vous à terre !
+
+915
+02:00:27,329 --> 02:00:28,954
+Allez, butez-le.
+
+916
+02:01:48,757 --> 02:01:49,706
+Tiens ça.
+
+917
+02:02:23,631 --> 02:02:24,247
+Allez-y !
+
+918
+02:03:03,386 --> 02:03:04,002
+Merde !
+
+919
+02:03:17,944 --> 02:03:19,403
+Dehors !
+
+920
+02:03:40,220 --> 02:03:42,545
+Quoiqu'il arrive, garde ce gilet.
+
+921
+02:03:42,806 --> 02:03:43,651
+Compris ?
+
+922
+02:04:00,160 --> 02:04:01,192
+Un hélicoptère !
+
+923
+02:04:01,481 --> 02:04:02,360
+C'est lui.
+
+924
+02:05:03,918 --> 02:05:05,543
+John, reste couché !
+
+925
+02:05:31,743 --> 02:05:32,597
+Maman !
+
+926
+02:06:20,549 --> 02:06:22,174
+Bon Dieu !
+
+927
+02:06:22,468 --> 02:06:23,749
+Est-ce que ça va ?
+
+928
+02:06:30,394 --> 02:06:32,186
+Vite, maman, il faut sortir.
+
+929
+02:06:34,941 --> 02:06:36,186
+Prends ça.
+
+930
+02:06:40,364 --> 02:06:41,193
+Vous êtes blessés ?
+
+931
+02:06:54,714 --> 02:06:55,286
+Merde !
+
+932
+02:06:57,589 --> 02:06:58,542
+Il nous faut votre véhicule.
+
+933
+02:06:59,081 --> 02:07:00,078
+Vite !
+
+934
+02:07:26,375 --> 02:07:28,500
+- Je saigne.
+- Comprime bien.
+
+935
+02:07:30,743 --> 02:07:31,778
+Ça devrait aller.
+
+936
+02:07:37,888 --> 02:07:39,087
+Il gagne du terrain.
+
+937
+02:07:41,852 --> 02:07:42,682
+Plus vite !
+
+938
+02:07:42,894 --> 02:07:44,519
+Je suis au maximum.
+
+939
+02:07:44,855 --> 02:07:46,231
+J'irais plus vite en courant !
+
+940
+02:07:57,227 --> 02:07:58,468
+Il arrive par la droite.
+
+941
+02:08:00,916 --> 02:08:02,035
+Attention !
+
+942
+02:08:25,278 --> 02:08:27,188
+- Prends le volant.
+- Où vas-tu ?
+
+943
+02:08:34,897 --> 02:08:35,613
+Sors ici.
+
+944
+02:08:46,761 --> 02:08:47,377
+Merde !
+
+945
+02:08:50,829 --> 02:08:51,853
+Accrochez-vous !
+
+946
+02:09:38,207 --> 02:09:39,186
+Ne t'arrête pas.
+
+947
+02:09:47,508 --> 02:09:48,412
+Va tout droit.
+
+948
+02:09:52,045 --> 02:09:52,662
+Baisse-toi.
+
+949
+02:10:07,729 --> 02:10:09,224
+Fichons le camp d'ici.
+
+950
+02:10:15,197 --> 02:10:18,068
+Tout le monde dehors, vite !
+
+951
+02:11:35,207 --> 02:11:37,745
+Hasta la vista, baby.
+
+952
+02:12:27,207 --> 02:12:28,449
+On a peu de temps.
+
+953
+02:12:51,379 --> 02:12:52,660
+Allons-y.
+
+954
+02:12:53,632 --> 02:12:55,175
+Allez, vite !
+
+955
+02:12:55,509 --> 02:12:57,301
+Il faut se tirer d'ici.
+
+956
+02:13:20,701 --> 02:13:21,726
+Vite !
+
+957
+02:13:34,566 --> 02:13:35,519
+Debout !
+
+958
+02:14:07,279 --> 02:14:08,109
+Par ici.
+
+959
+02:14:36,962 --> 02:14:37,828
+Attendez !
+
+960
+02:14:38,130 --> 02:14:40,586
+Attendez !
+Non, il fait trop chaud.
+
+961
+02:14:40,841 --> 02:14:41,921
+Revenons en arrière.
+
+962
+02:14:50,436 --> 02:14:52,513
+- Vite, courez !
+- Il faut rester ensemble.
+
+963
+02:14:52,894 --> 02:14:54,472
+John, il faut que tu partes.
+
+964
+02:14:55,815 --> 02:14:56,680
+Va-t'en !
+
+965
+02:15:16,838 --> 02:15:18,797
+<i>MODE RECHERCHE</i>
+
+966
+02:16:11,318 --> 02:16:12,599
+Monte.
+
+967
+02:16:22,457 --> 02:16:24,165
+Je te tiens. Viens.
+
+968
+02:16:59,249 --> 02:17:01,705
+Attrape la chaîne.
+
+969
+02:17:02,920 --> 02:17:05,127
+Descends.
+
+970
+02:17:16,186 --> 02:17:17,561
+Viens, maman.
+
+971
+02:17:17,771 --> 02:17:19,052
+Maman !
+
+972
+02:17:19,773 --> 02:17:20,853
+Viens !
+
+973
+02:17:21,942 --> 02:17:22,939
+Maman !
+
+974
+02:18:13,503 --> 02:18:14,783
+Je sais que ça fait mal.
+
+975
+02:18:35,486 --> 02:18:37,313
+Appelez John immédiatement.
+
+976
+02:18:39,532 --> 02:18:40,814
+Va te faire foutre.
+
+977
+02:21:25,225 --> 02:21:27,348
+<i>BATTERIE DE SECOURS</i>
+
+978
+02:21:52,757 --> 02:21:54,880
+John... Au secours !
+
+979
+02:22:21,458 --> 02:22:22,406
+Maman !
+
+980
+02:22:24,461 --> 02:22:25,742
+Aide-moi !
+
+981
+02:22:29,062 --> 02:22:30,142
+Pousse-toi, John.
+
+982
+02:22:33,763 --> 02:22:34,567
+Tire !
+
+983
+02:25:05,273 --> 02:25:07,065
+Lève-toi. Allez...
+
+984
+02:25:09,612 --> 02:25:10,893
+Oh, la vache !
+
+985
+02:25:11,472 --> 02:25:13,183
+J'ai besoin de vacances.
+
+986
+02:25:27,633 --> 02:25:28,913
+Il est mort ?
+
+987
+02:25:30,094 --> 02:25:31,257
+Terminé.
+
+988
+02:25:35,141 --> 02:25:36,387
+Ça va fondre, là-dedans ?
+
+989
+02:25:39,699 --> 02:25:41,242
+Oui. Lance-le.
+
+990
+02:25:48,917 --> 02:25:50,461
+Et le microprocesseur.
+
+991
+02:26:05,688 --> 02:26:06,968
+C'est fini.
+
+992
+02:26:14,198 --> 02:26:15,693
+Il reste un microprocesseur.
+
+993
+02:26:20,538 --> 02:26:22,496
+Il doit aussi être détruit.
+
+994
+02:26:28,214 --> 02:26:29,329
+Tenez.
+
+995
+02:26:29,882 --> 02:26:31,591
+Je ne peux pas m'auto-terminer.
+
+996
+02:26:32,051 --> 02:26:34,341
+Vous devez me descendre
+dans la cuve.
+
+997
+02:26:47,194 --> 02:26:48,854
+Je suis désolé, John.
+
+998
+02:26:49,071 --> 02:26:51,148
+Non, ça s'arrangera...
+Reste avec nous !
+
+999
+02:26:52,325 --> 02:26:55,777
+- Je dois partir.
+- Ne fais pas ça, non !
+
+1000
+02:26:56,163 --> 02:26:57,539
+Je dois disparaître, John.
+
+1001
+02:26:59,458 --> 02:27:00,622
+Non, attends !
+
+1002
+02:27:00,871 --> 02:27:02,199
+Tu n'as pas besoin de faire ça.
+
+1003
+02:27:02,504 --> 02:27:03,536
+Désolé.
+
+1004
+02:27:04,757 --> 02:27:06,797
+Ne fais pas ça... Ne t'en va pas.
+
+1005
+02:27:07,260 --> 02:27:08,754
+Tout doit finir ici.
+
+1006
+02:27:10,097 --> 02:27:13,300
+Je t'ordonne de rester !
+Je te l'ordonne !
+
+1007
+02:27:13,554 --> 02:27:15,050
+Je te l'ordonne !
+
+1008
+02:27:21,359 --> 02:27:23,317
+Maintenant, je sais
+pourquoi vous pleurez.
+
+1009
+02:27:25,865 --> 02:27:28,403
+Mais c'est une chose
+que je ne pourrai jamais faire.
+
+1010
+02:28:02,949 --> 02:28:04,278
+Adieu.
+
+1011
+02:29:44,117 --> 02:29:47,971
+<i>Le 29 Août 1997 s'en est allé.</i>
+
+1012
+02:29:48,460 --> 02:29:50,365
+<i>Rien de plus ne s'est passé.</i>
+
+1013
+02:29:50,490 --> 02:29:55,376
+<i>Michael Jackson vient d'avoir 40 ans.
+Il n'y a pas eu de jugement dernier.</i>
+
+1014
+02:29:55,773 --> 02:29:58,501
+<i>Les gens vont au travail
+comme toujours,</i>
+
+1015
+02:29:58,674 --> 02:30:00,505
+<i>rient, se plaignent,</i>
+
+1016
+02:30:00,630 --> 02:30:03,321
+<i>regardent la TV, font l'amour.</i>
+
+1017
+02:30:04,131 --> 02:30:06,426
+<i>Je voulais courir dans
+la rue en criant...</i>
+
+1018
+02:30:06,551 --> 02:30:08,436
+<i>pour les attraper tous
+et leur dire :</i>
+
+1019
+02:30:08,561 --> 02:30:13,028
+<i>"Chaque jour est un don.
+Vivez le pleinement"</i>
+
+1020
+02:30:14,098 --> 02:30:16,700
+<i>Au lieu de cela
+j'étais alcoolique.</i>
+
+1021
+02:30:17,009 --> 02:30:19,138
+<i>C'était il y a 30 ans.</i>
+
+1022
+02:30:19,408 --> 02:30:22,084
+<i>Mais le futur sombre
+qui n'ai jamais venu...</i>
+
+1023
+02:30:22,209 --> 02:30:27,477
+<i>existe encore et toujours pour moi,
+comme les traces d'un rêve.</i>
+
+1024
+02:30:30,540 --> 02:30:34,169
+<i>John ne se bat pas comme prévu
+dans cette guerre.</i>
+
+1025
+02:30:34,458 --> 02:30:37,100
+<i>Ici, sur le champ de bataille
+du Sénat,</i>
+
+1026
+02:30:37,225 --> 02:30:39,540
+<i>ses armes prennent tout leur sens,</i>
+
+1027
+02:30:40,353 --> 02:30:42,158
+apportant de l'espoir.
+
+1028
+02:30:44,342 --> 02:30:46,440
+Mes lacets, grand mère.
+
+1029
+02:30:53,609 --> 02:30:55,691
+- Comme ça ?
+- Merci, grand mère.
+
+1030
+02:30:59,792 --> 02:31:04,280
+<i>C'est le Terminator qui
+m'a redonné l'espoir.</i>
+
+1031
+02:31:06,035 --> 02:31:10,205
+<i>Si une machine, un Terminator,
+a pu découvrir la valeur de la vie...</i>
+
+1032
+02:31:11,503 --> 02:31:14,089
+<i>Peut-être le pouvons-nous aussi.</i>
+
