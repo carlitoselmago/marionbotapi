@@ -93,7 +93,7 @@ src_vocab_size = tgt_vocab_size = src_vocab_size + 2
 
 vocabulary_size = src_vocab_size
 
-num_epochs = 150
+num_epochs = 50
 
 
 
