@@ -93,7 +93,7 @@ src_vocab_size = tgt_vocab_size = src_vocab_size + 2
 
 vocabulary_size = src_vocab_size
 
-num_epochs = 50
+num_epochs = 150
 
 
 
@@ -102,10 +102,10 @@ model_ = Seq2seq(
     decoder_seq_length = decoder_seq_length,
     cell_enc=tf.keras.layers.GRUCell,
     cell_dec=tf.keras.layers.GRUCell,
-    #n_layer=3,
-    n_layer=6,
-    #n_units=256,
-    n_units=1000,
+    n_layer=3,
+    #n_layer=4,
+    n_units=256,
+    #n_units=700,
     embedding_layer=tl.layers.Embedding(vocabulary_size=vocabulary_size, embedding_size=emb_dim),
     )
 
