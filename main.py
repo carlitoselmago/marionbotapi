@@ -8,6 +8,8 @@ model.compile(loss='mse', optimizer='rmsprop')
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 
+#based on https://github.com/tensorlayer/seq2seq-chatbot
+
 import tensorflow as tf
 import tensorlayer as tl
 import numpy as np
@@ -43,20 +45,23 @@ def initial_setup(data_corpus):
     return metadata, trainX, trainY, testX, testY, validX, validY
 
 def inference(seed, top_n):
-    model_.eval()
-    seed_id = [word2idx.get(w, unk_id) for w in seed.split(" ")]
-    #print("seed_id",seed_id)
-    sentence_id = model_(inputs=[[seed_id]], seq_length=decoder_seq_length, start_token=start_id, top_n = top_n)
-    #print("sentence_id",sentence_id)
-    #print("#####")
-    #print("")
-    sentence = []
-    for w_id in sentence_id[0]:
-        w = idx2word[w_id]
-        if w == 'end_id':
-            break
-        sentence = sentence + [w]
-    return sentence
+    try:
+        model_.eval()
+        seed_id = [word2idx.get(w, unk_id) for w in seed.split(" ")]
+        #print("seed_id",seed_id)
+        sentence_id = model_(inputs=[[seed_id]], seq_length=decoder_seq_length, start_token=start_id, top_n = top_n)
+        #print("sentence_id",sentence_id)
+        #print("#####")
+        #print("")
+        sentence = []
+        for w_id in sentence_id[0]:
+            w = idx2word[w_id]
+            if w == 'end_id':
+                break
+            sentence = sentence + [w]
+        return sentence
+    except:
+        return False
 
 #if __name__ == "__main__":
 data_corpus = "marion"
@@ -93,7 +98,7 @@ src_vocab_size = tgt_vocab_size = src_vocab_size + 2
 
 vocabulary_size = src_vocab_size
 
-num_epochs = 150
+num_epochs = 50
 
 
 
@@ -167,6 +172,9 @@ if __name__ == '__main__':
             top_n = 3
             for i in range(top_n):
                 sentence = inference(seed, top_n)
-                print(" >", ' '.join(sentence))
+                if sentence:
+                    print(" >", ' '.join(sentence))
+                else:
+                    print("could not create sentence thru inference")
 
         tl.files.save_npz(model_.all_weights, name='model.npz')

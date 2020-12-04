@@ -1,7 +1,9 @@
 /saved/
+*.srt
 *.txt
 *.h5
 *.npz
+*.npy
 =1.6
 
 # Byte-compiled / optimized / DLL files
