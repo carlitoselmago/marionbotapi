@@ -4800,7 +4800,4 @@ RETOUR MARCHANDISE 405,56
 01:37:17,656 --> 01:37:22,370
 Votre remboursement s'élève à 485,05 $.
 
-1135
-01:44:42,643 --> 01:44:44,645
-Sous-titres : Jean-Marie Rabeyrin
 

@@ -1,7 +1,6 @@
 1
 00:02:35,414 --> 00:02:40,414
-<font color="#00ffff">Subtitles by sub.Trader
-subscene.com</font>
+Bomjour
 
 2
 00:02:49,583 --> 00:02:54,083
@@ -4304,8 +4303,4 @@ Notre gamin est adulte maintenant.
 01:23:40,000 --> 01:23:42,667
 Je peux encore avoir une crêpe?
 
-953
-01:23:44,693 --> 01:23:49,693
-<font color="#00ffff">Subtitles by sub.Trader
-subscene.com</font>
 

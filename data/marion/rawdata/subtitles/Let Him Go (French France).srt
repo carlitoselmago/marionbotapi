@@ -1,7 +1,6 @@
 1
 00:00:43,677 --> 00:00:48,677
-<font color="#00ffff">Subtitles by sub.Trader
-subscene.com</font>
+OK.
 
 2
 00:01:17,619 --> 00:01:18,704
@@ -4358,20 +4357,4 @@ Tu devrais rentrer.
 01:46:23,050 --> 01:46:24,301
 Au revoir.
 
-1036
-01:49:34,418 --> 01:49:39,418
-<font color="#00ffff">Subtitles by sub.Trader
-subscene.com</font>
-
-1037
-01:49:40,247 --> 01:49:43,750
-L'UN DES NÔTRES
-
-1038
-01:53:46,243 --> 01:53:48,704
-Sous-titres : Belinda Milosev
-
-1039
-01:53:49,079 --> 01:53:51,540
-Sous-titrage TITRAFILM
 

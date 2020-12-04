@@ -1160,8 +1160,4 @@ Je vais me mettre en mode veille pour la recharge.
 00:28:41,920 --> 00:28:43,810
 Toi ! Encore ?
 
-289
-00:28:43,810 --> 00:28:48,220
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

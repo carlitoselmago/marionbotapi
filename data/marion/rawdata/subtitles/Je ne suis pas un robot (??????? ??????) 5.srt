@@ -1,7 +1,6 @@
 1
 00:00:06,280 --> 00:00:11,320
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
+non
 
 2
 00:00:11,320 --> 00:00:14,960
@@ -1673,6 +1672,4 @@ Mais elle n'a pas de cœur.
 
 412
 00:32:47,400 --> 00:32:54,360
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-
+oh

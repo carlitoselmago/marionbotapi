@@ -1,7 +1,6 @@
 ﻿﻿1
 00:00:00,062 --> 00:00:02,507
-Sous-titres par Corentin_Codeur
-www.OpenSubtitles.org
+Bonjour
 
 2
 00:00:05,867 --> 00:00:08,841
@@ -3695,8 +3694,3 @@ Hmm.
 812
 01:00:38,493 --> 01:00:41,956
 Bienvenue, M. Alderson.
-
-813
-01:00:42,020 --> 01:00:47,020
-Sous-titres par CorentinCodeur
-www.OpenSubtitles.org

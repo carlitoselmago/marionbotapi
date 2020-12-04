@@ -5175,8 +5175,3 @@ et a été accusée de fraude.
 01:19:59,828 --> 01:20:05,664
 <i>Le prix de ses tableaux ? 25 000 $.</i>
 <i>Attendez qu'elle ait 12 ans.</i>
-
-1149
-01:20:05,901 --> 01:20:07,926
-Adaptation : Nathalie Sappey
-

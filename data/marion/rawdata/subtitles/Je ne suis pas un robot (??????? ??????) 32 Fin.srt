@@ -1,7 +1,6 @@
 1
 00:00:06,910 --> 00:00:10,640
 Ah, d'un coup j'ai mal à la tête. 
-<i>~ Dernier épisode ~</i>
 
 2
 00:00:10,640 --> 00:00:13,970
@@ -1215,9 +1214,4 @@ pour embrasser quelqu'un.
 298
 00:26:00,260 --> 00:26:06,990
 ♫ <i>J'aimerais être dans tes bras et dire ton nom</i> ♫
-
-299
-00:26:07,010 --> 00:26:15,310
-<i> Les sous-titres vous ont été offerts par 
- l'équipe des humanoïdes @Viki </i>
 

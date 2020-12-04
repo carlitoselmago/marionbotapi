@@ -1,8 +1,6 @@
 1
 00:00:07,190 --> 00:00:14,210
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-
+<Ok
 2
 00:00:27,820 --> 00:00:34,840
 C'est le timing parfait pour embrasser quelqu'un.

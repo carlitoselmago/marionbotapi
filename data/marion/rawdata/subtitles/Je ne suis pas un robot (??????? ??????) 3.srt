@@ -1,6 +1,6 @@
 1
 00:00:07,820 --> 00:00:09,230
-<i>~ Épisode 3 ~</i>
+non
 
 2
 00:00:14,790 --> 00:00:17,270
@@ -1450,8 +1450,4 @@ Oui, c'est ce genre de robot dont j'ai besoin.
 00:28:10,560 --> 00:28:16,170
 Bien... Devrais-je former un robot ?
 
-362
-00:28:16,170 --> 00:28:20,630
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

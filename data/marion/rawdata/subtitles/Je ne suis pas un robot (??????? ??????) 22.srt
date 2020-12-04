@@ -1,7 +1,6 @@
 1
 00:00:07,150 --> 00:00:15,640
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
+Bonjour
 
 2
 00:00:15,640 --> 00:00:18,500

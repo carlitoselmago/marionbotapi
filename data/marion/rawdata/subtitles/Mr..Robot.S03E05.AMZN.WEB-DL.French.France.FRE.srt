@@ -2338,9 +2338,3 @@ Ceci est une urgence.
 521
 00:44:52,607 --> 00:44:53,608
 Veuillez rester à votre étage.
-
-522
-00:44:53,775 --> 00:44:54,776
-Traduction :
- Jessica Mechouar
-

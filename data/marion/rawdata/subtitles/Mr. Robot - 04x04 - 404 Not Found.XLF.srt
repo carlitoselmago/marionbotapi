@@ -2639,9 +2639,3 @@ Je ne peux pas te laisser mourir.
 627
 00:46:51,685 --> 00:46:53,944
 Je vais juste marcher.
-
-628
-00:48:57,466 --> 00:49:04,066
-Sous-titre par Corentin_Codeur
-www.corenin-codeur.tk
-

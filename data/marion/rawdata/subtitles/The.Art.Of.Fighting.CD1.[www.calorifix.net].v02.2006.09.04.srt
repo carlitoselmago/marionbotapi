@@ -1,20 +1,18 @@
 1
 00:00:00,000 --> 00:00:00,000
-23.976 FPS
+Bonjour
 
 2
 00:00:00,001 --> 00:00:03,000
-www.calorifix.net
-The Art Of Fighting (v.02)
+Bonjour
 
 3
 00:00:03,001 --> 00:00:06,000
-Traduction : harrypotter130581
-Correction : Pouh, MôT
+Bonjour
 
 4
 00:00:29,562 --> 00:00:34,329
-<i>CJ Entertainment présente</i>
+Bonjour
 
 5
 00:00:41,374 --> 00:00:44,070

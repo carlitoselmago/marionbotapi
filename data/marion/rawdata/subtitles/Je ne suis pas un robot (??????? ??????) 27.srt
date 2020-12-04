@@ -1,7 +1,6 @@
 1
 00:00:06,940 --> 00:00:12,000
 <i>Ce soir, pendant une heure, la chute de 70 étoiles filantes est enfin attendue. 
-<i>~ Épisode 27 ~</i></i>
 
 2
 00:00:12,000 --> 00:00:17,030
@@ -1592,8 +1591,4 @@ Mon souhait vient de se réaliser.
 00:33:09,500 --> 00:33:11,560
 Qu'est-ce que c'était ?
 
-395
-00:33:27,190 --> 00:33:34,190
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

@@ -3120,7 +3120,4 @@ Tu n'es pas seul.
 Je te vois, maintenant.
 
 751
-00:56:26,926 --> 00:56:28,844
-<i>Sous-titre :</i>
-Corentin_Codeur
-
+ok

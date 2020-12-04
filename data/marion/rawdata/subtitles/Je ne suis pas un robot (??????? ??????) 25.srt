@@ -1,6 +1,6 @@
 1
 00:00:07,310 --> 00:00:09,380
-<i>~ Épisode 25 ~</i>
+Ok
 
 2
 00:00:10,740 --> 00:00:12,420
@@ -958,9 +958,4 @@ je reviendrai te voir tous les jours.
 237
 00:32:12,670 --> 00:32:22,020
 ♫ <i>J'ai pu professer mon amour pour toi</i> ♫
-
-238
-00:32:22,020 --> 00:32:25,190
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

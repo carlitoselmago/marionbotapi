@@ -2366,12 +2366,4 @@ Au secours !
 00:46:29,078 --> 00:46:29,953
 À l'aide !
 
-568
-00:46:31,288 --> 00:46:32,163
-À l'aide !
-
-569
-00:47:11,036 --> 00:47:12,954
-Sous-titre par Corentin_Codeur
-www.corentin-codeur.tk
 

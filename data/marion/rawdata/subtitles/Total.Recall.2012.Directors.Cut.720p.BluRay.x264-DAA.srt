@@ -5079,16 +5079,3 @@ Tu vas bien ?
 1192
 02:02:08,223 --> 02:02:09,463
 Tu es sûr ?
-
-1193
-02:02:15,630 --> 02:02:16,540
-Visa d'exploitation n° 134 074
-
-1194
-02:02:16,598 --> 02:02:17,576
-Sous-titres : Géraldine le Pelletier
-
-1195
-02:02:17,632 --> 02:02:18,576
-Sous-titrage : L.V.T - Paris
-

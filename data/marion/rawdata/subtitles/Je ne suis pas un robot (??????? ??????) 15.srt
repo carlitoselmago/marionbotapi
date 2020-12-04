@@ -1352,8 +1352,4 @@ Avez-vous l'intention d'accepter ses sentiments ?
 00:29:56,530 --> 00:30:01,010
 Quels que soient les changements dans son apparence ?
 
-337
-00:30:02,150 --> 00:30:09,130
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

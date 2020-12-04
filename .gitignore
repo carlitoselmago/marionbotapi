@@ -4,6 +4,9 @@
 *.h5
 *.npz
 *.npy
+*.pkl
+*.ssa
+*.sub
 =1.6
 
 # Byte-compiled / optimized / DLL files

@@ -1,7 +1,6 @@
 1
 00:00:06,720 --> 00:00:09,780
 Doucement, doucement. Tu peux le faire. 
- <i>~ Épisode 7 ~</i>
 
 2
 00:00:09,780 --> 00:00:12,200
@@ -1699,9 +1698,4 @@ J'ai entendu dire quelque part que nager est bon pour les douleurs musculaires.
 415
 00:33:05,140 --> 00:33:08,970
 Mais cette lumière-là est allumée depuis un moment déjà. Qu'est-ce que c'est ?
-
-416
-00:33:15,240 --> 00:33:22,140
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

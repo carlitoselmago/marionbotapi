@@ -1,10 +1,10 @@
 ﻿1
 00:00:04,891 --> 00:00:08,904
-<i> Les sous-titres vous sont offerts par l'équipe des Pingouins en PLS @ viki.com</i>
+Bonjour
 
 2
 00:00:09,890 --> 00:00:13,170
-<i>Tale of the Nine-Tailed</i>
+Bonjour
 
 3
 00:00:13,170 --> 00:00:15,030

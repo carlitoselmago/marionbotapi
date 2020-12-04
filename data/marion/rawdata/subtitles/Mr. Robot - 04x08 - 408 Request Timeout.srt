@@ -2157,8 +2157,3 @@ Je n'y arrive pas.
 00:44:15,708 --> 00:44:17,622
 Je n'y arrive pas.
 
-535
-00:44:28,748 --> 00:44:36,224
-Sous-titre Corentin_Codeur
-www.corentin-codeur.tk
-

@@ -1,11 +1,10 @@
 1
 00:00:07,260 --> 00:00:10,520
-<i>~ Épisode 29 ~</i>
+OK
 
 2
 00:00:12,190 --> 00:00:20,180
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
+OK
 
 3
 00:00:24,390 --> 00:00:27,010
@@ -1399,9 +1398,3 @@ N'aie pas peur.
 00:36:20,450 --> 00:36:24,250
 - AG-3, on va te protéger.
  - Ouvrez la porte !
-
-346
-00:36:25,200 --> 00:36:32,210
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-

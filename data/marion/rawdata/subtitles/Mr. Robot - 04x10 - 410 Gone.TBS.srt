@@ -2221,7 +2221,4 @@ Je me débrouille.
 <i>Préparation pour le décollage</i>.
 
 531
-00:45:25,806 --> 00:45:27,683
-Sous-titre par Corentin_Codeur
-www.corentin-codeur.tk
-
+ok

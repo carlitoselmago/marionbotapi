@@ -1,12 +1,10 @@
 ﻿1
 00:00:00,200 --> 00:00:06,000
-D'après les sous-titres anglais de Netflix
-Traduction française par SataniaG
+Bonjour
 
 2
 00:00:11,406 --> 00:00:13,825
-<i>[Episode 9]</i>
-
+Bonjour
 3
 00:00:29,490 --> 00:00:32,540
 Son écriture ressemble à celle de Do San.

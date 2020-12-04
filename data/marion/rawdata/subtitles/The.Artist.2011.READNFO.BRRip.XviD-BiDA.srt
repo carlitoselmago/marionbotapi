@@ -1,7 +1,6 @@
 1
 00:04:09,917 --> 00:04:12,711
-<i>Merci de garder le silence</i>
-<i>derrière l'écran</i>
+Bonjour
 
 2
 00:09:55,470 --> 00:09:59,850

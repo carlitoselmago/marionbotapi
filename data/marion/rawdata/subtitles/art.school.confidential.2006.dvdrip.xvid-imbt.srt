@@ -1,11 +1,11 @@
 1
 00:01:07,667 --> 00:01:09,032
-<i>Je suis un gÃ©nie.</i>
+<i>Je suis un génie.</i>
 
 2
 00:01:10,503 --> 00:01:13,529
 <i>Je suis le plus grand artiste</i>
-<i>du 20e siÃ¨cle.</i>
+<i>du 20e siècle.</i>
 
 3
 00:01:14,908 --> 00:01:17,035
@@ -13,7 +13,7 @@
 
 4
 00:01:17,911 --> 00:01:20,106
-J'ai quasiment inventÃ© l'art moderne.
+J'ai quasiment inventé l'art moderne.
 
 5
 00:01:20,713 --> 00:01:22,977
@@ -22,12 +22,12 @@ sont bizarres et abstraits,
 
 6
 00:01:23,683 --> 00:01:27,312
-mÃªme si je peux peindre
-de faÃ§on figurative, si je veux.
+même si je peux peindre
+de façon figurative, si je veux.
 
 7
 00:01:28,188 --> 00:01:30,816
-Et mÃªme si je suis un nain chauve,
+Et même si je suis un nain chauve,
 
 8
 00:01:31,491 --> 00:01:34,358
@@ -35,7 +35,7 @@ je couche avec plein de belles nanas,
 
 9
 00:01:34,794 --> 00:01:36,591
-tellement je suis gÃ©nial.
+tellement je suis génial.
 
 10
 00:01:41,501 --> 00:01:43,833
@@ -55,8 +55,8 @@ Pas mal.
 
 14
 00:02:05,892 --> 00:02:09,726
-Un jour, si tu deviens cÃ©lÃ¨bre,
-Ã§a vaudra une fortune.
+Un jour, si tu deviens célèbre,
+ça vaudra une fortune.
 
 15
 00:02:12,966 --> 00:02:14,695
@@ -68,7 +68,7 @@ Vise une nana dans tes cordes.
 
 17
 00:02:18,338 --> 00:02:19,703
-Merde, voilÃ  Stoob.
+Merde, voilà Stoob.
 
 18
 00:02:20,440 --> 00:02:21,873
@@ -81,7 +81,7 @@ du cours d'Erikson.
 
 20
 00:02:24,677 --> 00:02:25,905
-Il m'a trouvÃ© douÃ©.
+Il m'a trouvé doué.
 
 21
 00:02:26,279 --> 00:02:27,268
@@ -105,11 +105,11 @@ C'est une brochure de fac, ducon.
 
 26
 00:02:36,055 --> 00:02:37,955
-T'as dÃ©jÃ  vu des profs Ã  poil ?
+T'as déjà vu des profs à poil ?
 
 27
 00:02:38,658 --> 00:02:40,558
-C'est un modÃ¨le, primate !
+C'est un modèle, primate !
 
 28
 00:02:42,662 --> 00:02:43,959
@@ -121,7 +121,7 @@ Je sais pas...
 
 30
 00:02:56,342 --> 00:02:58,037
-C'est trop beau pour Ãªtre vrai.
+C'est trop beau pour être vrai.
 
 31
 00:03:03,383 --> 00:03:04,407
@@ -129,18 +129,18 @@ Non ?
 
 32
 00:05:12,845 --> 00:05:17,043
-Oui, Ã§a s'inspire
+Oui, ça s'inspire
 du crime du campus, mais...
 
 33
 00:05:17,717 --> 00:05:21,551
-C'est carrÃ©ment pas
-un documentaire chiant ! T'inquiÃ¨te.
+C'est carrément pas
+un documentaire chiant ! T'inquiète.
 
 34
 00:05:22,155 --> 00:05:25,386
 Y aura des tonnes d'action !
-Tu dÃ©connes ?
+Tu déconnes ?
 
 35
 00:05:26,926 --> 00:05:28,086
@@ -154,16 +154,16 @@ Et vous ?
 37
 00:05:31,597 --> 00:05:34,065
 Stylisme.
-Et lui, cinÃ©ma, apparemment.
+Et lui, cinéma, apparemment.
 
 38
 00:05:34,467 --> 00:05:36,901
-Je rÃªve.
+Je rêve.
 Tu te fous de ma gueule.
 
 39
 00:05:38,004 --> 00:05:39,232
-Quelle misÃ¨re...
+Quelle misère...
 
 40
 00:05:39,439 --> 00:05:40,303
@@ -175,8 +175,8 @@ Ma copine me manque terriblement.
 
 42
 00:05:43,676 --> 00:05:47,737
-A 100 Â°%. Tu regretteras pas.
-Moi aussi, je t'adore, pÃ©pÃ© !
+A 100 °%. Tu regretteras pas.
+Moi aussi, je t'adore, pépé !
 
 43
 00:05:49,382 --> 00:05:51,111
@@ -192,7 +192,7 @@ Jerome.
 
 46
 00:05:54,554 --> 00:05:55,350
-Ton nom, dÃ©jÃ  ?
+Ton nom, déjà ?
 
 47
 00:05:55,555 --> 00:05:56,317
@@ -200,7 +200,7 @@ Matthew.
 
 48
 00:05:56,556 --> 00:05:59,150
-Putain, dÃ©lire !
+Putain, délire !
 Je vais faire mon film !
 
 49
@@ -209,26 +209,26 @@ Fantastique.
 
 50
 00:06:05,465 --> 00:06:06,432
-Vous Ãªtes nouveaux ?
+Vous êtes nouveaux ?
 
 51
 00:06:08,067 --> 00:06:09,534
-- Et toi, 2e annÃ©e ?
+- Et toi, 2e année ?
 - 3e.
 
 52
 00:06:09,769 --> 00:06:12,329
-Si vous m'Ã©coutez,
-Ã§a se passera bien.
+Si vous m'écoutez,
+ça se passera bien.
 
 53
 00:06:12,672 --> 00:06:14,299
-T'es encore en citÃ© U ?
+T'es encore en cité U ?
 
 54
 00:06:17,143 --> 00:06:20,442
-Y a plein de 3e annÃ©e, en citÃ© U.
-Ã‡a te dÃ©frise ?
+Y a plein de 3e année, en cité U.
+Ça te défrise ?
 
 55
 00:06:43,002 --> 00:06:45,562
@@ -242,7 +242,7 @@ Jamais vu autant de jolies filles.
 57
 00:06:50,009 --> 00:06:53,137
 C'est que dalle.
-T'aurais vu la derniÃ¨re rÃ©colte.
+T'aurais vu la dernière récolte.
 
 58
 00:06:53,346 --> 00:06:55,473
@@ -255,7 +255,7 @@ Quels meurtres ?
 
 60
 00:06:56,916 --> 00:06:57,780
-Tu dÃ©connes ?
+Tu déconnes ?
 
 61
 00:06:58,117 --> 00:07:01,575
@@ -272,12 +272,12 @@ Tu te fous de moi ?
 
 64
 00:07:07,560 --> 00:07:10,358
-Ã‡a te dit rien,
+Ça te dit rien,
 l'Etrangleur de Strathmore ?
 
 65
 00:07:10,563 --> 00:07:13,225
-Il a tuÃ© il y a 10 jours.
+Il a tué il y a 10 jours.
 T'es de province ?
 
 66
@@ -311,26 +311,26 @@ Genre gros titres !
 
 73
 00:07:31,250 --> 00:07:32,308
-Je t'Ã©coute.
+Je t'écoute.
 
 74
 00:07:34,921 --> 00:07:38,049
-AprÃ¨s le premier meurtre,
+Après le premier meurtre,
 un certain Richard Natwick...
 
 75
 00:07:38,858 --> 00:07:41,418
-<i>Peinture 2e annÃ©e.</i>
+<i>Peinture 2e année.</i>
 
 76
 00:07:41,961 --> 00:07:44,555
 <i>Il fait des conneries de tableaux</i>
-<i>"Ã  mots".</i>
+<i>"à mots".</i>
 
 77
 00:07:44,764 --> 00:07:48,222
-<i>Pendant une expo Ã  la fac,</i>
-<i>des flics en civil viennent enquÃªter.</i>
+<i>Pendant une expo à la fac,</i>
+<i>des flics en civil viennent enquêter.</i>
 
 78
 00:07:48,434 --> 00:07:49,366
@@ -342,8 +342,8 @@ un certain Richard Natwick...
 
 80
 00:07:50,870 --> 00:07:54,203
-<i>Ils sont pas habituÃ©s</i>
-<i>aux dÃ©lires pseudo-artistiques.</i>
+<i>Ils sont pas habitués</i>
+<i>aux délires pseudo-artistiques.</i>
 
 81
 00:07:57,376 --> 00:07:59,071
@@ -351,7 +351,7 @@ T'as pas fini de te pencher !
 
 82
 00:07:59,378 --> 00:08:04,213
-Des profs pÃ¨tent un plomb,
+Des profs pètent un plomb,
 et il devient un martyr.
 
 83
@@ -360,8 +360,8 @@ L'art n'est pas un crime !
 
 84
 00:08:08,821 --> 00:08:12,757
-Il a Ã©tÃ© innocentÃ©.
-Les flics Ã©taient tout merdeux.
+Il a été innocenté.
+Les flics étaient tout merdeux.
 
 85
 00:08:12,959 --> 00:08:13,926
@@ -369,12 +369,12 @@ Et lui ?
 
 86
 00:08:14,126 --> 00:08:16,117
-AprÃ¨s son quart d'heure de gloire,
+Après son quart d'heure de gloire,
 
 87
 00:08:16,395 --> 00:08:19,592
-il s'est blessÃ©
-pendant une performance dÃ©jantÃ©e.
+il s'est blessé
+pendant une performance déjantée.
 
 88
 00:08:21,701 --> 00:08:22,668
@@ -382,7 +382,7 @@ Envoie le jus !
 
 89
 00:08:24,837 --> 00:08:28,898
-Faut que tu lises mon scÃ©nar.
+Faut que tu lises mon scénar.
 Tout y est. C'est dingue !
 
 90
@@ -391,12 +391,12 @@ Y a pas de journaux, en banlieue ?
 
 91
 00:08:36,516 --> 00:08:39,349
-Si Ã§a se trouve,
+Si ça se trouve,
 le tueur habite en banlieue.
 
 92
 00:08:39,552 --> 00:08:41,281
-Les flics sont larguÃ©s.
+Les flics sont largués.
 
 93
 00:08:50,062 --> 00:08:51,324
@@ -408,8 +408,8 @@ Oui. Dessin et peinture.
 
 95
 00:08:53,432 --> 00:08:57,801
-Mortel ! Il paraÃ®t que vous matez
-des tonnes de femelles Ã  poil.
+Mortel ! Il paraît que vous matez
+des tonnes de femelles à poil.
 
 96
 00:08:59,071 --> 00:09:01,835
@@ -417,20 +417,20 @@ Leslie, sors-nous le grand jeu.
 
 97
 00:09:02,241 --> 00:09:03,435
-PremiÃ¨re pose.
+Première pose.
 
 98
 00:09:04,977 --> 00:09:06,638
-On ne traÃ®ne pas.
+On ne traîne pas.
 
 99
 00:09:11,083 --> 00:09:12,175
-PremiÃ¨re pose.
+Première pose.
 
 100
 00:09:15,087 --> 00:09:18,716
 Je n'ai pas de sage conseil
-Ã  vous communiquer,
+à vous communiquer,
 
 101
 00:09:18,958 --> 00:09:21,222
@@ -438,7 +438,7 @@ sauf ces quatre mots :
 
 102
 00:09:21,460 --> 00:09:25,055
-Ã©vitez les attentes utopiques.
+évitez les attentes utopiques.
 
 103
 00:09:25,264 --> 00:09:26,891
@@ -451,16 +451,16 @@ inscrivez-vous en finance,
 
 105
 00:09:31,003 --> 00:09:32,493
-multimÃ©dia,
+multimédia,
 
 106
 00:09:32,972 --> 00:09:35,440
-tout sauf une Ã©cole d'art.
+tout sauf une école d'art.
 
 107
 00:09:35,975 --> 00:09:38,808
 Et n'oubliez pas :
-un Ã©tudiant sur cent
+un étudiant sur cent
 
 108
 00:09:39,011 --> 00:09:42,344
@@ -494,7 +494,7 @@ un tournant radical,
 
 115
 00:10:30,096 --> 00:10:31,723
-avec cette sÃ©rie.
+avec cette série.
 
 116
 00:10:34,834 --> 00:10:35,801
@@ -502,15 +502,15 @@ En janvier ?
 
 117
 00:10:40,306 --> 00:10:41,933
-Oui, Ã§a devrait Ãªtre possible.
+Oui, ça devrait être possible.
 
 118
 00:10:42,274 --> 00:10:45,107
-Il doit me rester des disponibilitÃ©s.
+Il doit me rester des disponibilités.
 
 119
 00:10:59,125 --> 00:11:00,615
-C'est trÃ¨s joli.
+C'est très joli.
 
 120
 00:11:00,826 --> 00:11:02,157
@@ -518,12 +518,12 @@ Je dois y aller.
 
 121
 00:11:20,346 --> 00:11:23,804
-Pourquoi, en 1Ã¨re annÃ©e,
-y a toujours les mÃªmes ?
+Pourquoi, en 1ère année,
+y a toujours les mêmes ?
 
 122
 00:11:25,651 --> 00:11:27,243
-Le vÃ©gÃ©tarien illuminÃ©...
+Le végétarien illuminé...
 
 123
 00:11:28,487 --> 00:11:29,920
@@ -535,7 +535,7 @@ la lesbienne agressive...
 
 125
 00:11:36,195 --> 00:11:37,856
-Et le lÃ¨che-cul.
+Et le lèche-cul.
 
 126
 00:11:38,230 --> 00:11:41,131
@@ -555,7 +555,7 @@ Et "maman".
 
 130
 00:11:49,508 --> 00:11:53,000
-Je suis enfin sur le point de mÃ»rir...
+Je suis enfin sur le point de mûrir...
 
 131
 00:11:53,546 --> 00:11:55,343
@@ -563,17 +563,17 @@ sur le plan artistique.
 
 132
 00:11:56,348 --> 00:12:00,785
-Son petit dernier a quittÃ© le nid,
-alors elle explore sa crÃ©ativitÃ©.
+Son petit dernier a quitté le nid,
+alors elle explore sa créativité.
 
 133
 00:12:01,854 --> 00:12:03,651
-Comment tu sais tout Ã§a ?
+Comment tu sais tout ça ?
 
 134
 00:12:03,989 --> 00:12:07,516
 Parce que je suis
-un clichÃ© vivant, comme eux :
+un cliché vivant, comme eux :
 
 135
 00:12:07,893 --> 00:12:10,191
@@ -590,7 +590,7 @@ Et moi ?
 
 138
 00:12:17,636 --> 00:12:19,467
-Je t'ai pas encore cernÃ©.
+Je t'ai pas encore cerné.
 
 139
 00:12:27,913 --> 00:12:29,380
@@ -618,11 +618,11 @@ fiche...
 
 145
 00:12:56,575 --> 00:12:58,372
-que vous soyez lÃ  ou pas.
+que vous soyez là ou pas.
 
 146
 00:13:00,079 --> 00:13:01,546
-PrÃªt pour le four.
+Prêt pour le four.
 
 147
 00:13:04,984 --> 00:13:06,645
@@ -630,11 +630,11 @@ Dis-moi si je me trompe :
 
 148
 00:13:07,319 --> 00:13:09,549
-t'as jamais tirÃ© ton coup au lycÃ©e,
+t'as jamais tiré ton coup au lycée,
 
 149
 00:13:09,755 --> 00:13:11,017
-alors t'es lÃ 
+alors t'es là
 
 150
 00:13:11,223 --> 00:13:13,851
@@ -661,7 +661,7 @@ Lance-toi.
 
 155
 00:13:25,638 --> 00:13:27,196
-C'est "chatte Ã  volontÃ©", ici.
+C'est "chatte à volonté", ici.
 
 156
 00:13:27,740 --> 00:13:29,367
@@ -669,8 +669,8 @@ Je veux pas n'importe qui.
 
 157
 00:13:35,014 --> 00:13:38,950
-Elle est lÃ , la belle artiste beatnik
-dont tu rÃªves.
+Elle est là, la belle artiste beatnik
+dont tu rêves.
 
 158
 00:13:41,353 --> 00:13:42,377
@@ -683,12 +683,12 @@ Simple comme bonjour.
 
 160
 00:13:46,759 --> 00:13:49,091
-Tu veux une leÃ§on ?
+Tu veux une leçon ?
 Viens avec papa.
 
 161
 00:14:02,274 --> 00:14:05,710
-Salut. Tu me prÃªtes ton crayon ?
+Salut. Tu me prêtes ton crayon ?
 
 162
 00:14:06,545 --> 00:14:07,705
@@ -700,7 +700,7 @@ Pour quoi faire ?
 
 164
 00:14:09,748 --> 00:14:10,942
-Oublie. C'Ã©tait con.
+Oublie. C'était con.
 
 165
 00:14:14,053 --> 00:14:15,987
@@ -712,22 +712,22 @@ Laisse-moi les photographier.
 
 167
 00:14:30,035 --> 00:14:32,060
-Ã‡a te dit, une pizza ?
+Ça te dit, une pizza ?
 
 168
 00:14:46,785 --> 00:14:50,448
-Le problÃ¨me,
-c'est que ces beatniks sont givrÃ©es.
+Le problème,
+c'est que ces beatniks sont givrées.
 
 169
 00:14:52,424 --> 00:14:56,087
 Il te faut
-une gentille ingÃ©nue banlieusarde.
+une gentille ingénue banlieusarde.
 
 170
 00:14:56,295 --> 00:14:58,661
-Une 1Ã¨re annÃ©e,
-pas encore dÃ©pravÃ©e.
+Une 1ère année,
+pas encore dépravée.
 
 171
 00:15:03,269 --> 00:15:05,829
@@ -740,13 +740,13 @@ et des chauves-souris.
 
 173
 00:15:10,209 --> 00:15:14,612
-Dis pas de bÃªtises, Piment.
+Dis pas de bêtises, Piment.
 J'ai pas peur d'un petit serpent.
 
 174
 00:15:15,814 --> 00:15:18,248
-A la rÃ©flexion,
-elles sont toutes givrÃ©es.
+A la réflexion,
+elles sont toutes givrées.
 
 175
 00:15:18,450 --> 00:15:21,942
@@ -755,12 +755,12 @@ qu'on n'en parle plus.
 
 176
 00:15:29,862 --> 00:15:31,625
-Tu m'aides Ã  l'ouvrir ?
+Tu m'aides à l'ouvrir ?
 
 177
 00:15:33,632 --> 00:15:38,797
 J'ai pas le sida.
-J'ai fait 40 tests, j'en suis sÃ»re.
+J'ai fait 40 tests, j'en suis sûre.
 
 178
 00:15:42,374 --> 00:15:46,003
@@ -772,24 +772,24 @@ C'est mon mec.
 
 180
 00:15:49,982 --> 00:15:51,472
-Tu dÃ©connes ?
+Tu déconnes ?
 
 181
 00:15:54,520 --> 00:15:56,488
-T'as jamais baisÃ© ?
+T'as jamais baisé ?
 
 182
 00:15:57,489 --> 00:16:00,822
-Ã‡a s'est pas fait.
-Je mets la barre trÃ¨s haut.
+Ça s'est pas fait.
+Je mets la barre très haut.
 
 183
 00:16:02,494 --> 00:16:04,155
-On va dÃ©pouiller les putes.
+On va dépouiller les putes.
 
 184
 00:16:04,396 --> 00:16:07,058
-Faut rÃ©gler Ã§a avant que ce soit pire.
+Faut régler ça avant que ce soit pire.
 
 185
 00:16:07,266 --> 00:16:09,393
@@ -797,7 +797,7 @@ Et si des troubles psychologiques
 
 186
 00:16:09,635 --> 00:16:12,297
-t'empÃªchaient
+t'empêchaient
 de t'assumer sexuellement ?
 
 187
@@ -806,7 +806,7 @@ Possible.
 
 188
 00:16:15,240 --> 00:16:17,003
-Vous savez dÃ©pouiller les putes ?
+Vous savez dépouiller les putes ?
 
 189
 00:16:18,677 --> 00:16:22,477
@@ -815,12 +815,12 @@ tu baises la pute, tu t'endors,
 
 190
 00:16:22,715 --> 00:16:26,811
-et au rÃ©veil, y a toujours le fric,
+et au réveil, y a toujours le fric,
 plus un pourboire !
 
 191
 00:16:27,252 --> 00:16:29,049
-C'est le deal du siÃ¨cle.
+C'est le deal du siècle.
 
 192
 00:16:32,224 --> 00:16:36,684
@@ -842,7 +842,7 @@ Je m'en doutais...
 
 196
 00:16:50,809 --> 00:16:52,902
-Putes Ã  crack, call-girls,
+Putes à crack, call-girls,
 
 197
 00:16:53,112 --> 00:16:54,272
@@ -850,7 +850,7 @@ strip-teaseuses...
 
 198
 00:16:54,480 --> 00:16:57,381
-On pourrait dÃ©pouiller
+On pourrait dépouiller
 des strip-teaseuses...
 
 199
@@ -859,15 +859,15 @@ Qu'est-ce que l'art ?
 
 200
 00:17:13,298 --> 00:17:14,663
-Ã‡a, c'est de l'art ?
+Ça, c'est de l'art ?
 
 201
 00:17:15,701 --> 00:17:16,725
-Et Ã§a ?
+Et ça ?
 
 202
 00:17:18,737 --> 00:17:19,726
-Et Ã§a ?
+Et ça ?
 
 203
 00:17:19,938 --> 00:17:20,700
@@ -875,7 +875,7 @@ C'est qui ?
 
 204
 00:17:24,343 --> 00:17:25,935
-Pas Ã§a. C'est une erreur.
+Pas ça. C'est une erreur.
 
 205
 00:17:28,247 --> 00:17:30,477
@@ -887,17 +887,17 @@ La 9e de Beethoven<i>. Guernica.</i>
 
 207
 00:17:34,720 --> 00:17:37,712
-Ces Å“uvres touchent
+Ces œuvres touchent
 toujours autant le public
 
 208
 00:17:37,923 --> 00:17:39,948
-qu'Ã  l'Ã©poque de leur crÃ©ation.
+qu'à l'époque de leur création.
 
 209
 00:17:40,159 --> 00:17:44,061
 Qu'est-ce qui immortalise
-une Å“uvre d'art ? Quelles qualitÃ©s ?
+une œuvre d'art ? Quelles qualités ?
 
 210
 00:17:46,432 --> 00:17:49,629
@@ -906,12 +906,12 @@ que des hommes blancs morts.
 
 211
 00:17:49,868 --> 00:17:51,233
-J'ai remarquÃ© aussi.
+J'ai remarqué aussi.
 
 212
 00:17:51,437 --> 00:17:55,635
-Ils n'Ã©taient pas encore morts,
-en crÃ©ant ces Å“uvres.
+Ils n'étaient pas encore morts,
+en créant ces œuvres.
 
 213
 00:17:55,841 --> 00:17:57,001
@@ -921,7 +921,7 @@ le patriarcat.
 214
 00:17:57,276 --> 00:18:01,144
 Soyons clairs : l'histoire de l'art,
-c'est l'affirmation de la masculinitÃ©.
+c'est l'affirmation de la masculinité.
 
 215
 00:18:01,346 --> 00:18:02,313
@@ -929,7 +929,7 @@ Quelle connerie.
 
 216
 00:18:02,514 --> 00:18:04,778
-Tout est rÃ©gi
+Tout est régi
 par un principe darwinien.
 
 217
@@ -942,11 +942,11 @@ le seul moyen de s'accoupler.
 
 219
 00:18:09,388 --> 00:18:11,856
-Je ne suis pas le premier Ã  dire
+Je ne suis pas le premier à dire
 
 220
 00:18:12,057 --> 00:18:14,821
-qu'une majoritÃ© d'artistes est...
+qu'une majorité d'artistes est...
 
 221
 00:18:15,060 --> 00:18:16,584
@@ -954,7 +954,7 @@ disons...
 
 222
 00:18:16,795 --> 00:18:19,286
-victime de dÃ©ficiences physiologiques.
+victime de déficiences physiologiques.
 
 223
 00:18:28,006 --> 00:18:29,769
@@ -966,7 +966,7 @@ Ne hurlez pas.
 
 225
 00:18:32,144 --> 00:18:33,839
-Tu vas Ã©couter
+Tu vas écouter
 Marvin Bushmiller ?
 
 226
@@ -975,20 +975,20 @@ Oui, et toi ?
 
 227
 00:18:35,047 --> 00:18:36,344
-Oui, mais tÃ´t.
+Oui, mais tôt.
 
 228
 00:18:36,648 --> 00:18:38,673
-Ã‡a fait bizarre qu'il soit connu.
+Ça fait bizarre qu'il soit connu.
 
 229
 00:18:38,884 --> 00:18:41,114
 Je le voyais tout le temps ici,
-en 1Ã¨re annÃ©e.
+en 1ère année.
 
 230
 00:18:41,320 --> 00:18:44,847
-Juste aprÃ¨s son expo chez Bob,
+Juste après son expo chez Bob,
 il a fait la une d'<i>Artforum.</i>
 
 231
@@ -1006,11 +1006,11 @@ M. Bushmiller,
 234
 00:18:51,797 --> 00:18:54,698
 le <i>New York Times</i>
-compare votre Å“uvre
+compare votre œuvre
 
 235
 00:18:54,900 --> 00:18:57,664
-Ã  "une expÃ©dition aux limites
+à "une expédition aux limites
 
 236
 00:18:57,870 --> 00:19:00,065
@@ -1018,7 +1018,7 @@ d'une technoculture en plein essor".
 
 237
 00:19:00,305 --> 00:19:04,537
-Que deviendra l'art au 21 e siÃ¨cle ?
+Que deviendra l'art au 21 e siècle ?
 
 238
 00:19:06,311 --> 00:19:07,335
@@ -1050,7 +1050,7 @@ Beaucoup de choses.
 244
 00:19:27,166 --> 00:19:29,896
 Que les professeurs sont
-de vieux ratÃ©s
+de vieux ratés
 
 245
 00:19:30,102 --> 00:19:32,627
@@ -1059,7 +1059,7 @@ pour avoir une mutuelle.
 
 246
 00:19:33,572 --> 00:19:35,665
-ExceptÃ© notre hÃ´te, bien sÃ»r.
+Excepté notre hôte, bien sûr.
 
 247
 00:19:36,141 --> 00:19:37,768
@@ -1067,13 +1067,13 @@ Je me disais aussi...
 
 248
 00:19:39,978 --> 00:19:44,074
-David s'intÃ©ressait plus
-Ã  la chair fraÃ®che qu'Ã  sa santÃ©.
+David s'intéressait plus
+à la chair fraîche qu'à sa santé.
 
 249
 00:19:48,587 --> 00:19:50,851
 Que conseilleriez-vous
-Ã  un jeune artiste... ?
+à un jeune artiste... ?
 
 250
 00:19:51,390 --> 00:19:52,357
@@ -1082,7 +1082,7 @@ Ta gueule.
 251
 00:19:52,558 --> 00:19:54,924
 Vous n'avez
-qu'une question Ã  poser :
+qu'une question à poser :
 
 252
 00:19:55,127 --> 00:19:58,255
@@ -1091,15 +1091,15 @@ comment faire pour devenir moi.
 253
 00:19:59,498 --> 00:20:02,695
 Ecoutez bien,
-je vais vous donner la rÃ©ponse.
+je vais vous donner la réponse.
 
 254
 00:20:03,802 --> 00:20:06,464
-Pour Ãªtre un grand artiste,
+Pour être un grand artiste,
 
 255
 00:20:07,372 --> 00:20:10,398
-il suffit d'Ãªtre
+il suffit d'être
 
 256
 00:20:10,609 --> 00:20:11,940
@@ -1107,7 +1107,7 @@ un grand artiste.
 
 257
 00:20:12,144 --> 00:20:14,044
-Ã‡a ne s'apprend pas.
+Ça ne s'apprend pas.
 
 258
 00:20:14,246 --> 00:20:16,578
@@ -1116,7 +1116,7 @@ Rentrez chez vous.
 
 259
 00:20:17,282 --> 00:20:19,045
-Pourquoi vous Ãªtes un connard ?
+Pourquoi vous êtes un connard ?
 
 260
 00:20:23,155 --> 00:20:24,452
@@ -1133,7 +1133,7 @@ car c'est ma vraie nature.
 
 263
 00:20:32,030 --> 00:20:33,463
-Comme vous tous, peut-Ãªtre.
+Comme vous tous, peut-être.
 
 264
 00:20:33,665 --> 00:20:36,634
@@ -1146,17 +1146,17 @@ Voici ce qui nous distingue :
 
 266
 00:20:39,104 --> 00:20:42,699
-j'ai acquis la libertÃ©
+j'ai acquis la liberté
 d'exprimer ma vraie nature.
 
 267
 00:20:43,709 --> 00:20:47,270
 Qu'y a-t-il de plus beau
-que vÃ©ritÃ© et libertÃ© ?
+que vérité et liberté ?
 
 268
 00:20:59,057 --> 00:21:01,184
-Encore un jour Ã  tirer...
+Encore un jour à tirer...
 
 269
 00:21:01,426 --> 00:21:02,518
@@ -1165,7 +1165,7 @@ Bonjour, Larry.
 270
 00:21:04,429 --> 00:21:09,662
 Dis-moi, seriez-vous libres
-le 18 janvier au soir, toi et LoÃ¯s ?
+le 18 janvier au soir, toi et Loïs ?
 
 271
 00:21:10,535 --> 00:21:11,797
@@ -1173,29 +1173,29 @@ J'en sais rien.
 
 272
 00:21:12,170 --> 00:21:15,264
-Je prÃ©pare une petite expo.
+Je prépare une petite expo.
 
 273
 00:21:15,507 --> 00:21:18,340
-Lorenzo Massengale me harcÃ¨le
+Lorenzo Massengale me harcèle
 
 274
 00:21:19,845 --> 00:21:23,474
-pour que j'installe mes derniÃ¨res toiles
+pour que j'installe mes dernières toiles
 dans son nouvel espace.
 
 275
 00:21:23,682 --> 00:21:27,140
 Je me disais
-que vous aimeriez Ãªtre invitÃ©s.
+que vous aimeriez être invités.
 
 276
 00:21:28,453 --> 00:21:30,978
-Je suis pris, ce soir-lÃ , Sandiford.
+Je suis pris, ce soir-là, Sandiford.
 
 277
 00:21:36,895 --> 00:21:39,125
-Je suis passÃ© chez Broadway Bob.
+Je suis passé chez Broadway Bob.
 
 278
 00:21:39,398 --> 00:21:40,558
@@ -1203,17 +1203,17 @@ De rien.
 
 279
 00:21:41,566 --> 00:21:44,000
-Je croyais que c'Ã©tait
+Je croyais que c'était
 une galerie d'art.
 
 280
 00:21:44,236 --> 00:21:47,535
-C'est un cÃ©lÃ¨bre trou Ã  rats
+C'est un célèbre trou à rats
 tenu par un chieur
 
 281
 00:21:47,739 --> 00:21:49,331
-qui se vante d'avoir lancÃ©
+qui se vante d'avoir lancé
 
 282
 00:21:49,541 --> 00:21:52,942
@@ -1222,7 +1222,7 @@ sortis de Strathmore.
 
 283
 00:21:53,779 --> 00:21:55,337
-Mais le cafÃ© est bon.
+Mais le café est bon.
 
 284
 00:21:56,982 --> 00:21:58,540
@@ -1231,7 +1231,7 @@ Lorenzo, c'est Sandi.
 285
 00:21:59,251 --> 00:22:03,551
 Je voulais m'assurer
-que vous aviez reÃ§u les diapos.
+que vous aviez reçu les diapos.
 
 286
 00:22:04,856 --> 00:22:07,825
@@ -1240,7 +1240,7 @@ je commence mon cours.
 
 287
 00:22:08,393 --> 00:22:12,727
-Je vous appellerai aprÃ¨s.
+Je vous appellerai après.
 Merci, au revoir.
 
 288
@@ -1258,7 +1258,7 @@ d'une cigarette.
 
 291
 00:24:11,550 --> 00:24:14,110
-Bien sÃ»r.
+Bien sûr.
 Cinq minutes de pause.
 
 292
@@ -1267,7 +1267,7 @@ Je vais aux chiottes.
 
 293
 00:24:23,161 --> 00:24:24,492
-Je t'emprunte Ã§a.
+Je t'emprunte ça.
 
 294
 00:24:56,161 --> 00:24:57,822
@@ -1280,11 +1280,11 @@ Tu la connais ? C'est qui ?
 296
 00:25:00,932 --> 00:25:04,663
 T'excite pas.
-C'est du cinq Ã©toiles, mon ami.
+C'est du cinq étoiles, mon ami.
 
 297
 00:25:05,437 --> 00:25:06,768
-HÃ©, les pÃ©dÃ©s !
+Hé, les pédés !
 
 298
 00:25:07,472 --> 00:25:09,406
@@ -1296,7 +1296,7 @@ On a un ticket.
 
 300
 00:25:12,077 --> 00:25:13,510
-Elle est Ã©tudiante ?
+Elle est étudiante ?
 
 301
 00:25:13,745 --> 00:25:15,576
@@ -1310,7 +1310,7 @@ de notre vie.
 303
 00:25:33,131 --> 00:25:36,589
 Jimmy, c'est Bardo.
-Je veux te prÃ©senter quelqu'un.
+Je veux te présenter quelqu'un.
 
 304
 00:25:48,146 --> 00:25:50,171
@@ -1318,8 +1318,8 @@ J'ai une bouteille de Slivovitz.
 
 305
 00:25:50,482 --> 00:25:53,576
-40 degrÃ©s, fabriquÃ©e en Pologne,
-importÃ©e par...
+40 degrés, fabriquée en Pologne,
+importée par...
 
 306
 00:26:04,229 --> 00:26:05,719
@@ -1328,15 +1328,15 @@ Messieurs, bienvenue.
 307
 00:26:08,934 --> 00:26:11,994
 Vous m'interrompez
-pendant l'une de mes Ã©missions.
+pendant l'une de mes émissions.
 
 308
 00:26:12,871 --> 00:26:13,963
-Je te prÃ©sente Jerome.
+Je te présente Jerome.
 
 309
 00:26:14,806 --> 00:26:17,138
-EnchantÃ©. Merci de nous recevoir.
+Enchanté. Merci de nous recevoir.
 
 310
 00:26:17,742 --> 00:26:18,902
@@ -1381,7 +1381,7 @@ Qui aimes-tu ?
 
 320
 00:27:21,373 --> 00:27:22,965
-Ton peintre prÃ©fÃ©rÃ© ?
+Ton peintre préféré ?
 
 321
 00:27:29,614 --> 00:27:30,945
@@ -1393,7 +1393,7 @@ Je vois.
 
 323
 00:27:32,384 --> 00:27:33,715
-TrÃ¨s bien.
+Très bien.
 
 324
 00:27:34,619 --> 00:27:36,280
@@ -1406,7 +1406,7 @@ Pipi-caca-sso.
 326
 00:27:39,691 --> 00:27:43,252
 Le sale nabot qui n'a jamais pondu
-une seule idÃ©e originale.
+une seule idée originale.
 
 327
 00:27:47,899 --> 00:27:49,025
@@ -1414,15 +1414,15 @@ Tu rigoles ?
 
 328
 00:27:50,902 --> 00:27:53,029
-Jimmy est diplÃ´mÃ© de Strathmore.
+Jimmy est diplômé de Strathmore.
 
 329
 00:27:54,139 --> 00:27:55,538
-Tu vois oÃ¹ Ã§a m'a menÃ© !
+Tu vois où ça m'a mené !
 
 330
 00:27:57,942 --> 00:28:00,877
-Un jour, tout cela pourrait Ãªtre Ã  toi.
+Un jour, tout cela pourrait être à toi.
 
 331
 00:28:02,047 --> 00:28:04,174
@@ -1430,39 +1430,39 @@ Tu vas cartonner, je le sens.
 
 332
 00:28:05,583 --> 00:28:09,019
-Mais rÃ©vise le suÃ§age de bite
-et le lÃ©chage de cul.
+Mais révise le suçage de bite
+et le léchage de cul.
 
 333
 00:28:09,220 --> 00:28:12,678
-Sinon, tu pourrais Ã©chouer
-dans un trou Ã  rats,
+Sinon, tu pourrais échouer
+dans un trou à rats,
 
 334
 00:28:14,626 --> 00:28:19,063
-Ã  repousser ton suicide
+à repousser ton suicide
 dans le maigre espoir de voir un jour
 
 335
 00:28:19,431 --> 00:28:21,956
-une superbe Ã©pidÃ©mie mortelle
+une superbe épidémie mortelle
 
 336
 00:28:22,233 --> 00:28:25,828
 infliger d'abominables souffrances
-Ã  ton odieuse espÃ¨ce.
+à ton odieuse espèce.
 
 337
 00:28:31,976 --> 00:28:33,102
-Ã‡a te fait sourire ?
+Ça te fait sourire ?
 
 338
 00:28:34,379 --> 00:28:36,279
-C'est Ã§a, rigole, petit rigolo !
+C'est ça, rigole, petit rigolo !
 
 339
 00:28:37,015 --> 00:28:39,609
-Je vais t'Ã©triper par le trou du cul !
+Je vais t'étriper par le trou du cul !
 
 340
 00:28:39,818 --> 00:28:42,844
@@ -1475,11 +1475,11 @@ Rideau.
 
 342
 00:28:58,803 --> 00:29:00,668
-Je retourne Ã  ma masturbation.
+Je retourne à ma masturbation.
 
 343
 00:29:08,513 --> 00:29:09,946
-Jimmy est gÃ©nial, non ?
+Jimmy est génial, non ?
 
 344
 00:29:12,317 --> 00:29:13,375
@@ -1491,7 +1491,7 @@ Les autoportraits...
 
 346
 00:29:25,930 --> 00:29:27,625
-DÃ¨s lundi,
+Dès lundi,
 
 347
 00:29:27,832 --> 00:29:30,960
@@ -1509,15 +1509,15 @@ Quelle galerie ?
 
 350
 00:29:36,241 --> 00:29:39,005
-A cet Ã©tage, au bout du couloir.
+A cet étage, au bout du couloir.
 
 351
 00:29:39,344 --> 00:29:40,470
-PrÃ¨s des toilettes ?
+Près des toilettes ?
 
 352
 00:29:44,549 --> 00:29:47,814
-CommenÃ§ons. Un commentaire ?
+Commençons. Un commentaire ?
 
 353
 00:29:49,187 --> 00:29:50,814
@@ -1529,12 +1529,12 @@ Moi aussi.
 
 355
 00:29:53,491 --> 00:29:56,688
-Elle a essayÃ© d'aller
-au-delÃ  d'elle-mÃªme.
+Elle a essayé d'aller
+au-delà d'elle-même.
 
 356
 00:29:56,961 --> 00:29:59,486
-Ã‡a Ã©voque plutÃ´t
+Ça évoque plutôt
 le dessin en tant qu'acte.
 
 357
@@ -1544,7 +1544,7 @@ qui attirent votre attention ?
 
 358
 00:30:15,046 --> 00:30:17,640
-Autre chose Ã  dire
+Autre chose à dire
 sur le travail de Flower ?
 
 359
@@ -1557,15 +1557,15 @@ Rien.
 
 361
 00:30:29,427 --> 00:30:30,553
-Qu'as-tu en tÃªte ?
+Qu'as-tu en tête ?
 
 362
 00:30:34,566 --> 00:30:36,193
-Nous sommes tout ouÃ¯e.
+Nous sommes tout ouïe.
 
 363
 00:30:41,372 --> 00:30:44,205
-On dirait une imitation bÃ¢clÃ©e
+On dirait une imitation bâclée
 de Cy Twombly
 
 364
@@ -1574,7 +1574,7 @@ qu'elle aurait faite en 2 mn.
 
 365
 00:30:49,414 --> 00:30:50,711
-C'est dÃ©bile !
+C'est débile !
 
 366
 00:30:50,915 --> 00:30:53,383
@@ -1582,7 +1582,7 @@ Imparfait veut pas dire nul.
 
 367
 00:30:53,585 --> 00:30:55,553
-Au moins, il y a de l'humanitÃ©.
+Au moins, il y a de l'humanité.
 
 368
 00:30:55,920 --> 00:30:57,182
@@ -1599,29 +1599,29 @@ Alors que celui de Flower
 
 371
 00:31:03,027 --> 00:31:05,291
-est plein d'espiÃ¨glerie et...
+est plein d'espièglerie et...
 
 372
 00:31:07,031 --> 00:31:08,794
-oui, d'humanitÃ©.
+oui, d'humanité.
 
 373
 00:31:09,901 --> 00:31:12,096
-C'est si gÃ©nial que Ã§a, l'humanitÃ© ?
+C'est si génial que ça, l'humanité ?
 
 374
 00:31:12,904 --> 00:31:16,305
 Les humains sont des cons,
-une espÃ¨ce Ã  Ã©radiquer !
+une espèce à éradiquer !
 
 375
 00:31:16,541 --> 00:31:17,769
 C'est quoi,
-ton problÃ¨me ?
+ton problème ?
 
 376
 00:31:21,646 --> 00:31:22,578
-Ã‡a suffit.
+Ça suffit.
 
 377
 00:31:22,780 --> 00:31:26,272
@@ -1631,16 +1631,16 @@ Impossible d'y couper.
 378
 00:31:26,484 --> 00:31:30,215
 Flower, ce n'est pas la peine
-de pleurer pour Ã§a.
+de pleurer pour ça.
 
 379
 00:31:46,371 --> 00:31:48,168
-Je suis d'accord avec toi Ã  100 %.
+Je suis d'accord avec toi à 100 %.
 
 380
 00:31:50,775 --> 00:31:53,903
 La race humaine
-devrait Ãªtre Ã©radiquÃ©e.
+devrait être éradiquée.
 
 381
 00:31:55,013 --> 00:31:56,981
@@ -1660,16 +1660,16 @@ Voici donc la galerie du couloir.
 
 385
 00:32:13,564 --> 00:32:15,794
-Venez Ã  ma soirÃ©e d'ouverture,
+Venez à ma soirée d'ouverture,
 ce soir.
 
 386
 00:32:16,901 --> 00:32:19,461
-T'as vraiment Ã©tÃ© con, en cours.
+T'as vraiment été con, en cours.
 
 387
 00:32:26,377 --> 00:32:28,777
-On va Ã  son "ouverture" ?
+On va à son "ouverture" ?
 
 388
 00:32:30,148 --> 00:32:31,376
@@ -1677,8 +1677,8 @@ Elle a son expo ?
 
 389
 00:32:31,649 --> 00:32:35,312
-Ã‡a veut rien dire.
-N'importe quel dÃ©bile peut s'inscrire.
+Ça veut rien dire.
+N'importe quel débile peut s'inscrire.
 
 390
 00:32:41,693 --> 00:32:42,853
@@ -1698,7 +1698,7 @@ Tu la connais ?
 
 394
 00:33:21,466 --> 00:33:24,492
-C'Ã©tait notre modÃ¨le,
+C'était notre modèle,
 tu te souviens ?
 
 395
@@ -1707,7 +1707,7 @@ Mais tu sais comment elle s'appelle ?
 
 396
 00:33:30,875 --> 00:33:32,433
-T'es vraiment un enfoirÃ©.
+T'es vraiment un enfoiré.
 
 397
 00:33:33,211 --> 00:33:36,840
@@ -1716,7 +1716,7 @@ sur mes photos ?
 
 398
 00:33:41,619 --> 00:33:42,950
-Elle est trÃ¨s rÃ©ussie.
+Elle est très réussie.
 
 399
 00:33:50,361 --> 00:33:51,385
@@ -1733,16 +1733,16 @@ comme les autres minettes ?
 
 402
 00:33:57,235 --> 00:33:58,964
-Ã‡a vient d'une vieille BD.
+Ça vient d'une vieille BD.
 
 403
 00:34:00,872 --> 00:34:03,636
-Encore une rÃ©fÃ©rence ironique
-Ã  la pop culture.
+Encore une référence ironique
+à la pop culture.
 
 404
 00:34:04,675 --> 00:34:05,903
-Ne la lÃ¢che pas.
+Ne la lâche pas.
 
 405
 00:34:07,445 --> 00:34:08,537
@@ -1754,12 +1754,12 @@ C'est pas ton ami ?
 
 407
 00:34:10,882 --> 00:34:11,906
-SÃ»rement pas !
+Sûrement pas !
 
 408
 00:34:19,424 --> 00:34:23,724
 Tu es dans le cours de Sandi.
-J'oublie les visages, dÃ©solÃ©e.
+J'oublie les visages, désolée.
 
 409
 00:34:24,328 --> 00:34:26,091
@@ -1767,12 +1767,12 @@ C'est rien. Jerome.
 
 410
 00:34:26,798 --> 00:34:28,561
-J'ai pensÃ© Ã  toi, aujourd'hui.
+J'ai pensé à toi, aujourd'hui.
 
 411
 00:34:28,766 --> 00:34:32,964
-Une photo de Marie-ThÃ©rÃ¨se Walter
-m'a rappelÃ© ton portrait de moi.
+Une photo de Marie-Thérèse Walter
+m'a rappelé ton portrait de moi.
 
 412
 00:34:37,175 --> 00:34:39,143
@@ -1796,17 +1796,17 @@ Quoi ? J'aime bien tes photos.
 
 417
 00:34:54,492 --> 00:34:55,516
-C'Ã©tait inutile.
+C'était inutile.
 
 418
 00:34:55,827 --> 00:34:58,489
-Je voulais t'Ã©viter
-d'Ãªtre coincÃ©e par ce tarÃ©.
+Je voulais t'éviter
+d'être coincée par ce taré.
 
 419
 00:35:00,932 --> 00:35:04,595
 Je dois y aller.
-Je fais la tournÃ©e des expos.
+Je fais la tournée des expos.
 
 420
 00:35:07,939 --> 00:35:10,772
@@ -1823,7 +1823,7 @@ Je connais. Un vieux du pop art.
 
 423
 00:35:17,248 --> 00:35:18,647
-Il est gÃ©nial.
+Il est génial.
 
 424
 00:35:20,952 --> 00:35:23,921
@@ -1840,13 +1840,13 @@ Je t'en prie.
 
 427
 00:35:31,829 --> 00:35:34,024
-Je dÃ©teste prendre le mÃ©tro
+Je déteste prendre le métro
 toute seule.
 
 428
 00:35:34,232 --> 00:35:37,065
 Surtout avec ce barjo
-qui Ã©trangle tout le monde.
+qui étrangle tout le monde.
 
 429
 00:35:46,711 --> 00:35:48,872
@@ -1859,7 +1859,7 @@ Alors ?
 431
 00:35:52,116 --> 00:35:56,314
 Je crois que j'en ai vendu deux petits.
-Ceux que tu dÃ©testes.
+Ceux que tu détestes.
 
 432
 00:35:56,787 --> 00:36:00,518
@@ -1877,19 +1877,19 @@ Papa, Jerome.
 435
 00:36:04,929 --> 00:36:07,523
 Un grand fan.
-Je voulais te le prÃ©senter.
+Je voulais te le présenter.
 
 436
 00:36:07,765 --> 00:36:09,460
-Je te prÃ©sente Donald Baumgarten.
+Je te présente Donald Baumgarten.
 
 437
 00:36:12,270 --> 00:36:14,830
-Je suis un fan. EnchantÃ©.
+Je suis un fan. Enchanté.
 
 438
 00:36:15,039 --> 00:36:16,199
-Moi de mÃªme.
+Moi de même.
 
 439
 00:36:16,941 --> 00:36:19,569
@@ -1908,15 +1908,15 @@ et on est en retard.
 
 442
 00:36:33,124 --> 00:36:35,718
-Grandir avec un pÃ¨re pareil...
+Grandir avec un père pareil...
 
 443
 00:36:36,661 --> 00:36:39,221
-C'est un peintre cÃ©lÃ¨bre.
+C'est un peintre célèbre.
 
 444
 00:36:40,064 --> 00:36:42,089
-Pas si cÃ©lÃ¨bre que Ã§a.
+Pas si célèbre que ça.
 
 445
 00:36:43,067 --> 00:36:44,762
@@ -1924,7 +1924,7 @@ C'est navrant.
 
 446
 00:36:45,536 --> 00:36:49,028
-Il aurait dÃ» laisser tomber
+Il aurait dû laisser tomber
 il y a 30 ans. Je meurs de faim.
 
 447
@@ -1937,7 +1937,7 @@ Tu connais "Broadway Bob's" ?
 
 449
 00:36:57,748 --> 00:37:00,012
-Tu es modÃ¨le pour l'argent ?
+Tu es modèle pour l'argent ?
 
 450
 00:37:00,751 --> 00:37:02,048
@@ -1949,12 +1949,12 @@ C'est bien lui ?
 
 452
 00:37:06,824 --> 00:37:10,760
-Il est tout le temps lÃ .
+Il est tout le temps là.
 C'est la table des post-minimalistes.
 
 453
 00:37:11,295 --> 00:37:13,263
-C'est l'endroit des premiÃ¨res expos.
+C'est l'endroit des premières expos.
 
 454
 00:37:13,464 --> 00:37:16,524
@@ -1963,11 +1963,11 @@ de Strathmore vers le monde.
 
 455
 00:37:17,068 --> 00:37:18,729
-Comment ils sÃ©lectionnent ?
+Comment ils sélectionnent ?
 
 456
 00:37:19,103 --> 00:37:20,593
-Ils vont aux Ã©valuations.
+Ils vont aux évaluations.
 
 457
 00:37:22,106 --> 00:37:23,733
@@ -1983,11 +1983,11 @@ Jerome, Broadway Bob.
 
 460
 00:37:31,716 --> 00:37:33,547
-Bob connaÃ®t tout le monde.
+Bob connaît tout le monde.
 
 461
 00:37:35,186 --> 00:37:39,145
-Tous les peintres ont commencÃ© ici.
+Tous les peintres ont commencé ici.
 
 462
 00:37:40,024 --> 00:37:42,857
@@ -1996,11 +1996,11 @@ entre autres.
 
 463
 00:37:43,094 --> 00:37:45,494
-Une fois cÃ©lÃ¨bres, ils m'oublient.
+Une fois célèbres, ils m'oublient.
 
 464
 00:37:47,598 --> 00:37:49,623
-ArrÃªtez d'importuner mes clients !
+Arrêtez d'importuner mes clients !
 
 465
 00:37:49,834 --> 00:37:50,926
@@ -2016,7 +2016,7 @@ Content de t'avoir vue.
 
 468
 00:37:57,875 --> 00:37:59,467
-Salue ton pÃ¨re pour moi.
+Salue ton père pour moi.
 
 469
 00:38:02,546 --> 00:38:04,810
@@ -2029,11 +2029,11 @@ qui font la manche.
 
 471
 00:38:06,550 --> 00:38:07,949
-Ã‡a gÃªne mes clients.
+Ça gêne mes clients.
 
 472
 00:38:08,152 --> 00:38:11,781
-Ce mÃ´me est pas un tueur.
+Ce môme est pas un tueur.
 Regardez ce type !
 
 473
@@ -2042,7 +2042,7 @@ Cassez-vous !
 
 474
 00:38:13,691 --> 00:38:15,784
-- Ton cafÃ© est pourri.
+- Ton café est pourri.
 - Va chez Starbucks.
 
 475
@@ -2092,16 +2092,16 @@ Ils sont super.
 
 486
 00:38:49,560 --> 00:38:51,050
-OÃ¹ tu les dÃ©niches ?
+Où tu les déniches ?
 
 487
 00:38:52,396 --> 00:38:55,854
-Enfin, Ã§a va me permettre
+Enfin, ça va me permettre
 d'exposer chez Haberman.
 
 488
 00:38:56,701 --> 00:38:58,225
-GÃ©nial. FÃ©licitations.
+Génial. Félicitations.
 
 489
 00:38:58,436 --> 00:38:59,767
@@ -2109,7 +2109,7 @@ Saperlipopette.
 
 490
 00:39:00,371 --> 00:39:01,838
-HÃ© ! AmÃ¨ne-toi.
+Hé ! Amène-toi.
 
 491
 00:39:02,206 --> 00:39:03,036
@@ -2127,7 +2127,7 @@ Tu veux faire quoi ?
 494
 00:39:13,617 --> 00:39:16,643
 Devenir le plus grand peintre
-du 21 e siÃ¨cle.
+du 21 e siècle.
 
 495
 00:39:18,723 --> 00:39:20,987
@@ -2140,7 +2140,7 @@ Je vais rentrer.
 497
 00:39:24,128 --> 00:39:26,096
 - Quel con...
-- Non, c'est gÃ©nial.
+- Non, c'est génial.
 
 498
 00:39:27,398 --> 00:39:29,593
@@ -2148,7 +2148,7 @@ Tu pourrais devenir un grand.
 
 499
 00:39:30,468 --> 00:39:33,232
-Tu as la bonne... Ã©nergie.
+Tu as la bonne... énergie.
 
 500
 00:39:45,850 --> 00:39:47,249
@@ -2156,24 +2156,24 @@ Tu connais la nouvelle ?
 
 501
 00:39:47,451 --> 00:39:49,078
-Non. Devine oÃ¹ j'Ã©tais.
+Non. Devine où j'étais.
 
 502
 00:39:49,286 --> 00:39:50,719
-L'Etrangleur a remis Ã§a.
+L'Etrangleur a remis ça.
 
 503
 00:39:50,921 --> 00:39:54,118
-Un pauvre type, dans le mÃ©tro.
-Faut tout rÃ©Ã©crire !
+Un pauvre type, dans le métro.
+Faut tout réécrire !
 
 504
 00:39:55,493 --> 00:39:56,755
-Je sors du mÃ©tro.
+Je sors du métro.
 
 505
 00:39:56,961 --> 00:39:58,724
-T'as du pot d'Ãªtre en vie.
+T'as du pot d'être en vie.
 
 506
 00:39:58,929 --> 00:40:00,487
@@ -2185,12 +2185,12 @@ Une petite pipe ?
 
 508
 00:40:02,032 --> 00:40:05,297
-Non, j'Ã©tais avec la plus belle fille
-de l'Ã©cole.
+Non, j'étais avec la plus belle fille
+de l'école.
 
 509
 00:40:05,503 --> 00:40:07,937
-Bien jouÃ©.
+Bien joué.
 Je peux sentir ton doigt ?
 
 510
@@ -2199,7 +2199,7 @@ Regarde.
 
 511
 00:40:19,450 --> 00:40:20,974
-Sans dÃ©conner.
+Sans déconner.
 
 512
 00:40:21,385 --> 00:40:22,147
@@ -2207,20 +2207,20 @@ Pas mal.
 
 513
 00:40:23,120 --> 00:40:25,247
-Elle me trouve trÃ¨s douÃ©.
+Elle me trouve très doué.
 
 514
 00:40:25,456 --> 00:40:29,483
-Sale traÃ®tre ! Qu'est-ce que tu fous lÃ  ?
-Tu l'as sautÃ©e ?
+Sale traître ! Qu'est-ce que tu fous là ?
+Tu l'as sautée ?
 
 515
 00:40:36,634 --> 00:40:38,101
-On se connaÃ®t Ã  peine...
+On se connaît à peine...
 
 516
 00:40:38,469 --> 00:40:42,769
-Si c'Ã©tait ma nana,
+Si c'était ma nana,
 je la ramonerais jour et nuit !
 
 517
@@ -2234,16 +2234,16 @@ Le 28 novembre.
 519
 00:40:50,548 --> 00:40:55,781
 Inscrivez bien cette date
-dans votre petit cerveau embrumÃ©.
+dans votre petit cerveau embrumé.
 
 520
 00:40:55,986 --> 00:40:59,945
-C'est le jour du contrÃ´le
+C'est le jour du contrôle
 post-Thanksgiving,
 
 521
 00:41:00,157 --> 00:41:02,216
-oÃ¹ vous exhiberez vos travaux,
+où vous exhiberez vos travaux,
 
 522
 00:41:02,426 --> 00:41:05,190
@@ -2258,31 +2258,31 @@ pour vous mettre une note.
 524
 00:41:10,201 --> 00:41:15,070
 Cependant, ce ne sera
-qu'un prÃ©ambule Ã  cet autre jour :
+qu'un préambule à cet autre jour :
 
 525
 00:41:15,573 --> 00:41:17,905
-le 19 dÃ©cembre.
+le 19 décembre.
 
 526
 00:41:18,542 --> 00:41:22,171
-Le 19 dÃ©cembre
-aura lieu l'Ã©valuation finale,
+Le 19 décembre
+aura lieu l'évaluation finale,
 
 527
 00:41:22,379 --> 00:41:27,009
-oÃ¹ vous recevrez votre seule note
+où vous recevrez votre seule note
 officielle pour ce cours,
 
 528
 00:41:27,551 --> 00:41:31,578
-Ã  condition, bien sÃ»r,
-que vous n'ayez pas Ã©tÃ© tuÃ©s d'ici-lÃ .
+à condition, bien sûr,
+que vous n'ayez pas été tués d'ici-là.
 
 529
 00:41:34,592 --> 00:41:38,926
-C'est lÃ  que les gros galeristes
-dÃ©gotent les nouveaux talents.
+C'est là que les gros galeristes
+dégotent les nouveaux talents.
 
 530
 00:41:39,129 --> 00:41:41,723
@@ -2303,8 +2303,8 @@ En clair ?
 
 534
 00:41:50,341 --> 00:41:55,005
-En clair, vous Ãªtes trop jeunes
-pour vous en prÃ©occuper.
+En clair, vous êtes trop jeunes
+pour vous en préoccuper.
 
 535
 00:41:55,613 --> 00:41:58,343
@@ -2313,22 +2313,22 @@ tes devoirs ?
 
 536
 00:41:58,549 --> 00:42:01,712
-Je les trouve rÃ©ducteurs
+Je les trouve réducteurs
 et hors de propos.
 
 537
 00:42:01,919 --> 00:42:05,355
 Peu m'importent la forme,
-la lumiÃ¨re et la couleur.
+la lumière et la couleur.
 
 538
 00:42:05,556 --> 00:42:09,219
 Je m'interroge sur la nature
-de l'expÃ©rience esthÃ©tique.
+de l'expérience esthétique.
 
 539
 00:42:11,595 --> 00:42:12,857
-Ã‡a me va.
+Ça me va.
 
 540
 00:42:13,130 --> 00:42:14,620
@@ -2341,7 +2341,7 @@ la prochaine fois.
 
 542
 00:42:17,134 --> 00:42:19,602
-Et le gagnant de l'Ã©valuation
+Et le gagnant de l'évaluation
 
 543
 00:42:19,803 --> 00:42:21,771
@@ -2349,12 +2349,12 @@ aura son expo chez Bob ?
 
 544
 00:42:21,972 --> 00:42:24,031
-C'est dÃ©jÃ  arrivÃ©, oui.
+C'est déjà arrivé, oui.
 
 545
 00:42:24,241 --> 00:42:27,540
 M. Okamura dit
-qu'aucun de vos Ã©lÃ¨ves n'a gagnÃ©.
+qu'aucun de vos élèves n'a gagné.
 
 546
 00:42:30,447 --> 00:42:34,247
@@ -2363,12 +2363,12 @@ beaucoup plus d'importance que moi.
 
 547
 00:42:35,986 --> 00:42:39,649
-Il a tendance Ã  vivre par procuration
-Ã  travers ses Ã©lÃ¨ves,
+Il a tendance à vivre par procuration
+à travers ses élèves,
 
 548
 00:42:39,890 --> 00:42:42,415
-ce que je trouve plutÃ´t lamentable.
+ce que je trouve plutôt lamentable.
 
 549
 00:42:42,626 --> 00:42:43,991
@@ -2381,31 +2381,31 @@ alors ils flippent
 
 551
 00:42:46,997 --> 00:42:48,658
-de pas dÃ©crocher l'expo.
+de pas décrocher l'expo.
 
 552
 00:42:48,899 --> 00:42:53,097
-Je suis trop occupÃ©
+Je suis trop occupé
 par mes propres travaux
 
 553
 00:42:53,304 --> 00:42:56,603
-pour me mÃªler des combines
+pour me mêler des combines
 du corps enseignant.
 
 554
 00:42:56,807 --> 00:43:00,436
 C'est vrai que Marvin Bushmiller
-a percÃ© grÃ¢ce Ã  l'Ã©valuation ?
+a percé grâce à l'évaluation ?
 
 555
 00:43:20,464 --> 00:43:21,988
-Je viens prendre un cafÃ©.
+Je viens prendre un café.
 
 556
 00:43:22,199 --> 00:43:25,430
 Je pose pour le cours de Bogle
-Ã  6h30.
+à 6h30.
 
 557
 00:43:26,870 --> 00:43:28,201
@@ -2413,7 +2413,7 @@ Je peux t'accompagner ?
 
 558
 00:43:28,739 --> 00:43:30,764
-Ce que tu es poli. Bien sÃ»r.
+Ce que tu es poli. Bien sûr.
 
 559
 00:43:39,650 --> 00:43:40,981
@@ -2427,7 +2427,7 @@ Ce que tu es poli. Bien sÃ»r.
 561
 00:43:44,688 --> 00:43:47,919
 <i>Mais vous ne connaissez pas</i>
-<i>le goÃ»t du vrai bonheur,</i>
+<i>le goût du vrai bonheur,</i>
 
 562
 00:43:48,392 --> 00:43:52,055
@@ -2441,7 +2441,7 @@ Ce que tu es poli. Bien sÃ»r.
 
 564
 00:44:04,541 --> 00:44:06,941
-Alors ? Je coupe la derniÃ¨re partie ?
+Alors ? Je coupe la dernière partie ?
 
 565
 00:44:13,050 --> 00:44:14,642
@@ -2449,7 +2449,7 @@ T'en as pour longtemps ?
 
 566
 00:44:15,586 --> 00:44:16,951
-Ã‡a dÃ©pend du chef.
+Ça dépend du chef.
 
 567
 00:44:19,923 --> 00:44:21,015
@@ -2457,7 +2457,7 @@ A plus tard.
 
 568
 00:44:23,894 --> 00:44:25,521
-Te barre pas comme Ã§a !
+Te barre pas comme ça !
 
 569
 00:44:26,630 --> 00:44:28,495
@@ -2465,7 +2465,7 @@ Qu'est-ce que tu penses du film ?
 
 570
 00:44:29,566 --> 00:44:30,692
-Ã‡a va.
+Ça va.
 
 571
 00:44:31,702 --> 00:44:32,669
@@ -2473,7 +2473,7 @@ Merci.
 
 572
 00:44:33,070 --> 00:44:35,561
-Elle pige pas ces trucs-lÃ .
+Elle pige pas ces trucs-là.
 
 573
 00:44:36,140 --> 00:44:37,232
@@ -2486,7 +2486,7 @@ une histoire d'amour.
 
 575
 00:44:40,377 --> 00:44:43,369
-Les gonzesses, c'est 50 Â°% du public.
+Les gonzesses, c'est 50 °% du public.
 
 576
 00:44:51,255 --> 00:44:53,052
@@ -2499,13 +2499,13 @@ de ce cours.
 
 578
 00:45:11,608 --> 00:45:14,406
-La semaine derniÃ¨re,
-je vous ai demandÃ© d'apporter...
+La semaine dernière,
+je vous ai demandé d'apporter...
 
 579
 00:45:18,982 --> 00:45:21,610
 votre meilleur tableau,
-rÃ©cent ou pas.
+récent ou pas.
 
 580
 00:45:22,086 --> 00:45:23,610
@@ -2513,8 +2513,8 @@ Nous nous en servirons
 
 581
 00:45:23,821 --> 00:45:27,313
-pour vous aider, j'espÃ¨re,
-Ã  vous amÃ©liorer.
+pour vous aider, j'espère,
+à vous améliorer.
 
 582
 00:45:29,326 --> 00:45:31,521
@@ -2522,11 +2522,11 @@ pour vous aider, j'espÃ¨re,
 
 583
 00:45:32,963 --> 00:45:34,430
-C'est indÃ©niable.
+C'est indéniable.
 
 584
 00:45:35,833 --> 00:45:37,494
-Celui-ci est intÃ©ressant.
+Celui-ci est intéressant.
 
 585
 00:45:37,701 --> 00:45:38,929
@@ -2534,8 +2534,8 @@ Il n'est pas fini,
 
 586
 00:45:39,136 --> 00:45:43,766
-mais j'ai pensÃ© que vous aimeriez voir
-les Ã©tapes de mon processus crÃ©atif.
+mais j'ai pensé que vous aimeriez voir
+les étapes de mon processus créatif.
 
 587
 00:45:45,576 --> 00:45:46,600
@@ -2543,7 +2543,7 @@ En effet.
 
 588
 00:45:50,214 --> 00:45:51,613
-Qu'avons-nous lÃ  ?
+Qu'avons-nous là ?
 
 589
 00:46:03,994 --> 00:46:05,427
@@ -2572,11 +2572,11 @@ des salades scolaires habituelles.
 
 595
 00:46:24,014 --> 00:46:25,276
-C'est gÃ©nial.
+C'est génial.
 
 596
 00:46:25,682 --> 00:46:28,276
-Il est singuliÃ¨rement indÃ©pendant,
+Il est singulièrement indépendant,
 
 597
 00:46:28,719 --> 00:46:30,516
@@ -2588,7 +2588,7 @@ de la dynamique spatiale
 
 599
 00:46:32,723 --> 00:46:36,352
-soit intimement liÃ©
+soit intimement lié
 aux conventions de l'art pictural.
 
 600
@@ -2606,7 +2606,7 @@ de Halloween ?
 
 603
 00:47:18,168 --> 00:47:20,659
-Tu veux un punch bizarre Ã  l'orange ?
+Tu veux un punch bizarre à l'orange ?
 
 604
 00:47:21,538 --> 00:47:22,630
@@ -2615,7 +2615,7 @@ C'est gentil. Merci.
 605
 00:47:31,248 --> 00:47:34,706
 Demi-tour. Tu vas te faire doubler
-par Joe le HÃ©ros.
+par Joe le Héros.
 
 606
 00:47:34,952 --> 00:47:39,355
@@ -2628,7 +2628,7 @@ Putain...
 
 608
 00:47:45,929 --> 00:47:47,794
-On ressemble Ã  Bonnie et Clyde.
+On ressemble à Bonnie et Clyde.
 
 609
 00:47:51,101 --> 00:47:53,865
@@ -2640,7 +2640,7 @@ Super.
 
 611
 00:47:57,474 --> 00:47:59,806
-Il y a de la place, lÃ -bas. Viens.
+Il y a de la place, là-bas. Viens.
 
 612
 00:48:19,596 --> 00:48:21,621
@@ -2674,7 +2674,7 @@ dans l'innocence de son enfance,
 
 619
 00:48:38,682 --> 00:48:41,981
-sa vision est complÃ¨tement
+sa vision est complètement
 non conventionnelle.
 
 620
@@ -2687,8 +2687,8 @@ C'est nul.
 
 622
 00:48:49,993 --> 00:48:52,985
-Ã‡a ira. Ne soyons pas
-trop sÃ©vÃ¨res avec Jerome.
+Ça ira. Ne soyons pas
+trop sévères avec Jerome.
 
 623
 00:48:53,196 --> 00:48:57,326
@@ -2705,25 +2705,25 @@ avec les cordes vocales d'un autre.
 
 626
 00:49:56,026 --> 00:49:59,154
-L'Ã‰TRANGLEUR
-A ENCORE FRAPPÃ‰
+L'ÉTRANGLEUR
+A ENCORE FRAPPÉ
 
 627
 00:49:59,429 --> 00:50:03,661
-Il est gÃ©nial !
+Il est génial !
 Il choisit une victime au hasard.
 
 628
 00:50:05,602 --> 00:50:09,368
-Cette nana Ã©tait caissiÃ¨re, je crois.
+Cette nana était caissière, je crois.
 
 629
 00:50:09,773 --> 00:50:11,206
-C'est le mÃªme type ?
+C'est le même type ?
 
 630
 00:50:11,441 --> 00:50:13,102
-Ã‡a crÃ¨ve les yeux.
+Ça crève les yeux.
 
 631
 00:50:13,343 --> 00:50:16,073
@@ -2731,7 +2731,7 @@ Y a des tonnes d'indices. Primo, il...
 
 632
 00:50:16,346 --> 00:50:17,574
-Ã‡a va, je te crois.
+Ça va, je te crois.
 
 633
 00:50:17,848 --> 00:50:22,046
@@ -2745,7 +2745,7 @@ C'est un putain de miracle.
 635
 00:50:26,757 --> 00:50:30,454
 Je me casse les burnes
-Ã  trouver un personnage fÃ©minin,
+à trouver un personnage féminin,
 
 636
 00:50:30,660 --> 00:50:33,026
@@ -2763,7 +2763,7 @@ on va pas m'assassiner."
 639
 00:50:41,271 --> 00:50:44,866
 "Je veux qu'il arrive rien
-Ã  ma pÃ©tasse de luxe.
+à ma pétasse de luxe.
 
 640
 00:50:45,375 --> 00:50:48,105
@@ -2777,7 +2777,7 @@ depuis que..."
 642
 00:50:49,646 --> 00:50:53,343
 Tu me tiens en laisse,
-mais je suis plus ta pÃ©tasse."
+mais je suis plus ta pétasse."
 
 643
 00:50:58,188 --> 00:50:59,052
@@ -2785,7 +2785,7 @@ Enfin...
 
 644
 00:51:01,091 --> 00:51:03,753
-"Je suis plus ta taspÃ©."
+"Je suis plus ta taspé."
 
 645
 00:51:05,829 --> 00:51:07,592
@@ -2798,20 +2798,20 @@ Non, je le sais pas.
 647
 00:51:11,435 --> 00:51:14,996
 Le style "gangsta",
-"fils de pute" Ã  la con ?
+"fils de pute" à la con ?
 
 648
 00:51:15,439 --> 00:51:17,634
-Tu rÃ©gurgites
+Tu régurgites
 la merde hollywoodienne
 
 649
 00:51:17,841 --> 00:51:19,069
-pour la x-iÃ¨me fois !
+pour la x-ième fois !
 
 650
 00:51:19,543 --> 00:51:21,511
-T'as rien d'original Ã  dire ?
+T'as rien d'original à dire ?
 
 651
 00:51:23,013 --> 00:51:23,980
@@ -2823,7 +2823,7 @@ Alors, dis-le.
 
 653
 00:51:28,685 --> 00:51:30,380
-Ã‡a, c'est sans intÃ©rÃªt.
+Ça, c'est sans intérêt.
 
 654
 00:51:43,166 --> 00:51:44,599
@@ -2845,7 +2845,7 @@ si tu aimerais m'accompagner.
 658
 00:51:58,782 --> 00:52:01,808
 Malheureusement,
-je dois aller voir ma grand-mÃ¨re.
+je dois aller voir ma grand-mère.
 
 659
 00:52:02,018 --> 00:52:03,451
@@ -2857,11 +2857,11 @@ T'en fais pas.
 
 661
 00:52:06,823 --> 00:52:08,848
-Amuse-toi bien. A bientÃ´t.
+Amuse-toi bien. A bientôt.
 
 662
 00:52:26,343 --> 00:52:29,437
-Je vais suivre la tournÃ©e
+Je vais suivre la tournée
 du groupe de Dominick.
 
 663
@@ -2875,7 +2875,7 @@ Qui est Dominick ?
 
 665
 00:52:35,819 --> 00:52:38,515
-Un copain du grand frÃ¨re de Stacy.
+Un copain du grand frère de Stacy.
 
 666
 00:52:38,722 --> 00:52:39,586
@@ -2887,21 +2887,21 @@ T'es trop injuste !
 
 668
 00:52:41,625 --> 00:52:44,924
-Jerome fait une Ã©cole d'art
-et moi, je passe l'Ã©tÃ© ici.
+Jerome fait une école d'art
+et moi, je passe l'été ici.
 
 669
 00:52:45,128 --> 00:52:48,097
 Tu vas bosser
-dans la peinture, aprÃ¨s ?
+dans la peinture, après ?
 
 670
 00:52:49,733 --> 00:52:51,667
-Ã‡a marche pas comme Ã§a.
+Ça marche pas comme ça.
 
 671
 00:52:51,868 --> 00:52:53,995
-Quel dÃ©bile achÃ¨terait tes croÃ»tes ?
+Quel débile achèterait tes croûtes ?
 
 672
 00:52:54,204 --> 00:52:55,102
@@ -2918,8 +2918,8 @@ Tu sais quoi ?
 
 675
 00:53:00,010 --> 00:53:02,843
-DÃ©gote le champion de ton bizness
-et le lÃ¢che pas.
+Dégote le champion de ton bizness
+et le lâche pas.
 
 676
 00:53:03,380 --> 00:53:05,610
@@ -2932,12 +2932,12 @@ C'est du bizness, non ?
 
 678
 00:53:10,320 --> 00:53:14,120
-En fait, j'ai dÃ©jÃ  un contact.
+En fait, j'ai déjà un contact.
 
 679
 00:53:14,958 --> 00:53:18,291
-Le pÃ¨re de ma copine
-est assez cÃ©lÃ¨bre.
+Le père de ma copine
+est assez célèbre.
 
 680
 00:53:18,828 --> 00:53:19,692
@@ -2945,12 +2945,12 @@ Ta quoi ?
 
 681
 00:53:19,896 --> 00:53:23,332
-Hugh, tu m'aides Ã  sortir
+Hugh, tu m'aides à sortir
 les autres tartes du four ?
 
 682
 00:53:34,477 --> 00:53:36,638
-On Ã©tait sÃ»rs que t'Ã©tais homo.
+On était sûrs que t'étais homo.
 
 683
 00:53:43,587 --> 00:53:48,149
@@ -2959,7 +2959,7 @@ fait des peintures sur les chaussures.
 
 684
 00:53:48,525 --> 00:53:49,685
-Comment Ã§a s'appelle ?
+Comment ça s'appelle ?
 
 685
 00:53:50,327 --> 00:53:51,089
@@ -2981,12 +2981,12 @@ Les tennis.
 
 689
 00:54:03,873 --> 00:54:05,898
-Ã‡a s'appelle comme Ã§a, non ?
+Ça s'appelle comme ça, non ?
 
 690
 00:54:07,043 --> 00:54:11,207
 Enfin, bref, je pense que
-tu pourrais faire Ã§a, Jeremy.
+tu pourrais faire ça, Jeremy.
 
 691
 00:54:24,728 --> 00:54:26,719
@@ -2994,26 +2994,26 @@ Pas du tout.
 
 692
 00:54:27,764 --> 00:54:29,925
-A mon avis, c'Ã©tait
+A mon avis, c'était
 
 693
 00:54:30,133 --> 00:54:34,866
 ce que j'avais fait de mieux
-depuis trÃ¨s longtemps.
+depuis très longtemps.
 
 694
 00:54:38,441 --> 00:54:42,400
-Je suis juste un peu Ã©tonnÃ© que...
+Je suis juste un peu étonné que...
 
 695
 00:54:46,049 --> 00:54:49,109
 Vous avez parfaitement raison.
-De toute Ã©vidence...
+De toute évidence...
 
 696
 00:54:53,423 --> 00:54:57,257
 Helena Sandiford.
-Sandi est Ã  vous tout de suite.
+Sandi est à vous tout de suite.
 
 697
 00:54:57,927 --> 00:54:59,155
@@ -3021,7 +3021,7 @@ Merci beaucoup.
 
 698
 00:54:59,696 --> 00:55:01,163
-C'est trÃ¨s gentil...
+C'est très gentil...
 
 699
 00:55:01,765 --> 00:55:04,063
@@ -3038,7 +3038,7 @@ Pas du tout.
 702
 00:55:10,440 --> 00:55:13,773
 Je vous remercie
-d'avoir regardÃ© mes diapos.
+d'avoir regardé mes diapos.
 
 703
 00:55:15,679 --> 00:55:16,646
@@ -3058,7 +3058,7 @@ Ils sont de moi, oui.
 
 707
 00:55:41,171 --> 00:55:42,331
-Ils sont trÃ¨s beaux.
+Ils sont très beaux.
 
 708
 00:55:43,340 --> 00:55:45,137
@@ -3066,25 +3066,25 @@ Je les aime assez.
 
 709
 00:55:45,342 --> 00:55:48,573
-HÃ©las, nous sommes peu dans ce cas.
+Hélas, nous sommes peu dans ce cas.
 
 710
 00:55:50,113 --> 00:55:54,209
 Ils sont un peu "difficiles"
-au goÃ»t de certains.
+au goût de certains.
 
 711
 00:55:54,718 --> 00:55:57,710
 Depuis quand explorez-vous
-le thÃ¨me des triangles ?
+le thème des triangles ?
 
 712
 00:55:58,822 --> 00:56:00,119
-Ã‡a fait un bail.
+Ça fait un bail.
 
 713
 00:56:04,194 --> 00:56:06,025
-J'Ã©tais un prÃ©curseur.
+J'étais un précurseur.
 
 714
 00:56:08,231 --> 00:56:09,596
@@ -3092,7 +3092,7 @@ Dis-moi,
 
 715
 00:56:09,933 --> 00:56:12,629
-qu'est-ce qui t'Ã©chappe,
+qu'est-ce qui t'échappe,
 dans mon cours ?
 
 716
@@ -3101,7 +3101,7 @@ Je ne sais pas...
 
 717
 00:56:15,572 --> 00:56:17,972
-Je me sens un peu larguÃ©.
+Je me sens un peu largué.
 
 718
 00:56:19,209 --> 00:56:23,373
@@ -3114,7 +3114,7 @@ C'est de la connerie pure.
 
 720
 00:56:26,149 --> 00:56:29,846
-A ton Ã¢ge, un artiste
+A ton âge, un artiste
 n'a que faire d'avoir du style.
 
 721
@@ -3125,7 +3125,7 @@ On pourrait dire qu'il a un style.
 722
 00:56:35,892 --> 00:56:39,658
 Non, il n'a pas de style.
-Il est dans la "prÃ©sentitude".
+Il est dans la "présentitude".
 
 723
 00:56:39,863 --> 00:56:42,491
@@ -3133,12 +3133,12 @@ C'est grisant, attrayant,
 
 724
 00:56:42,699 --> 00:56:45,031
-mais Ã§a ne veut pas dire
+mais ça ne veut pas dire
 
 725
 00:56:46,069 --> 00:56:49,402
 qu'il est meilleur que toi.
-Loin de lÃ .
+Loin de là.
 
 726
 00:56:50,540 --> 00:56:52,167
@@ -3146,13 +3146,13 @@ Tu me ressembles beaucoup.
 
 727
 00:56:52,409 --> 00:56:56,573
-Il va te falloir des annÃ©es
+Il va te falloir des années
 pour atteindre ton but.
 
 728
 00:56:57,547 --> 00:57:01,950
 Tu sais combien de temps j'ai mis
-Ã  peindre comme Ã§a ?
+à peindre comme ça ?
 
 729
 00:57:06,556 --> 00:57:08,922
@@ -3160,22 +3160,22 @@ Tu sais combien de temps j'ai mis
 
 730
 00:57:10,493 --> 00:57:15,556
-Il est essentiel qu'Ã  ton Ã¢ge,
-tu commences Ã  explorer
+Il est essentiel qu'à ton âge,
+tu commences à explorer
 
 731
 00:57:15,765 --> 00:57:20,862
-les diffÃ©rentes formes d'art,
+les différentes formes d'art,
 de philosophies et de modes de vie.
 
 732
 00:57:21,571 --> 00:57:24,904
-Donc, d'aprÃ¨s vous,
+Donc, d'après vous,
 je devrais essayer plusieurs styles
 
 733
 00:57:26,242 --> 00:57:27,766
-et voir oÃ¹ Ã§a me mÃ¨ne ?
+et voir où ça me mène ?
 
 734
 00:57:33,516 --> 00:57:37,452
@@ -3184,12 +3184,12 @@ se laisser enfermer
 
 735
 00:57:37,654 --> 00:57:40,589
-dans une forme de pensÃ©e
+dans une forme de pensée
 incroyablement rigide.
 
 736
 00:57:43,626 --> 00:57:45,787
-Il faut que je fasse des expÃ©riences ?
+Il faut que je fasse des expériences ?
 
 737
 00:57:48,932 --> 00:57:50,297
@@ -3197,12 +3197,12 @@ Absolument.
 
 738
 00:57:50,600 --> 00:57:54,502
-Et je suis lÃ  pour t'aider
-Ã  faire ces expÃ©riences
+Et je suis là pour t'aider
+à faire ces expériences
 
 739
 00:57:55,004 --> 00:57:56,995
-de quelque faÃ§on que ce soit,
+de quelque façon que ce soit,
 
 740
 00:57:57,474 --> 00:58:00,238
@@ -3210,19 +3210,19 @@ en cours ou ailleurs.
 
 741
 00:58:59,335 --> 00:59:01,530
-Pour la derniÃ¨re fois, sortez !
+Pour la dernière fois, sortez !
 
 742
 00:59:07,911 --> 00:59:09,503
-Sortez de mon bÃ¢timent !
+Sortez de mon bâtiment !
 
 743
 00:59:22,258 --> 00:59:25,159
-Ils ont terminÃ©. On peut entrer.
+Ils ont terminé. On peut entrer.
 
 744
 01:00:29,792 --> 01:00:34,627
-<i>Trop expÃ©rimental. Tu t'Ã©parpilles.</i>
+<i>Trop expérimental. Tu t'éparpilles.</i>
 <i>Pas de point de vue.</i>
 
 745
@@ -3231,7 +3231,7 @@ Ils ont terminÃ©. On peut entrer.
 
 746
 01:00:38,167 --> 01:00:39,759
-<i>Sois toi-mÃªme.</i>
+<i>Sois toi-même.</i>
 
 747
 01:00:39,969 --> 01:00:41,266
@@ -3243,23 +3243,23 @@ Tu vas au vernissage de Bushmiller ?
 
 749
 01:00:53,616 --> 01:00:55,379
-Non. J'Ã©tais pas au courant.
+Non. J'étais pas au courant.
 
 750
 01:00:58,421 --> 01:01:00,412
-C'est peut-Ãªtre sur invitation.
+C'est peut-être sur invitation.
 
 751
 01:01:00,623 --> 01:01:02,955
-Ã‡a doit Ãªtre sa galerie qui organise.
+Ça doit être sa galerie qui organise.
 
 752
 01:01:03,359 --> 01:01:04,826
-Ã‡a va Ãªtre chiant.
+Ça va être chiant.
 
 753
 01:01:05,061 --> 01:01:06,289
-C'est Ã  quelle heure ?
+C'est à quelle heure ?
 
 754
 01:01:07,864 --> 01:01:08,762
@@ -3291,7 +3291,7 @@ J'ai jamais eu mieux que C, alors...
 
 761
 01:01:25,982 --> 01:01:27,006
-Ã‡a m'Ã©tonnerait.
+Ça m'étonnerait.
 
 762
 01:01:28,551 --> 01:01:33,215
@@ -3316,7 +3316,7 @@ T'as grandi en ville ?
 
 767
 01:01:47,403 --> 01:01:49,701
-Pas dans la ville mÃªme,
+Pas dans la ville même,
 
 768
 01:01:51,074 --> 01:01:53,474
@@ -3324,7 +3324,7 @@ mais je venais tout le temps.
 
 769
 01:01:54,510 --> 01:01:56,535
-J'y passais carrÃ©ment ma vie.
+J'y passais carrément ma vie.
 
 770
 01:01:58,681 --> 01:01:59,943
@@ -3344,7 +3344,7 @@ C'est quoi, ces conneries ?
 
 774
 01:02:47,463 --> 01:02:50,899
-T'inquiÃ¨te, c'est une maquette,
+T'inquiète, c'est une maquette,
 une musique provisoire...
 
 775
@@ -3358,21 +3358,21 @@ une danseuse...
 
 777
 01:02:59,442 --> 01:03:00,602
-Ã‡a vous plaÃ®t, Ã  vous ?
+Ça vous plaît, à vous ?
 
 778
 01:03:00,810 --> 01:03:03,278
-C'est du symbolisme, pÃ©pÃ©.
+C'est du symbolisme, pépé.
 
 779
 01:03:03,579 --> 01:03:07,879
-Ils sont oÃ¹, les flingues ?
-Je croyais que Ã§a canardait Ã  tout va.
+Ils sont où, les flingues ?
+Je croyais que ça canardait à tout va.
 
 780
 01:03:08,084 --> 01:03:11,281
-C'est un Ã©trangleur.
-Tu t'attendais Ã  quoi ?
+C'est un étrangleur.
+Tu t'attendais à quoi ?
 
 781
 01:03:11,654 --> 01:03:13,087
@@ -3388,20 +3388,20 @@ Tu veux qu'il tire sur les gens ?
 
 784
 01:03:20,863 --> 01:03:23,127
-J'ai payÃ© pour voir des flingues.
+J'ai payé pour voir des flingues.
 
 785
 01:03:31,307 --> 01:03:33,241
-Ã‡a ne va pas. Arrange Ã§a.
+Ça ne va pas. Arrange ça.
 
 786
 01:03:38,080 --> 01:03:39,138
-C'est fermÃ©.
+C'est fermé.
 
 787
 01:03:39,582 --> 01:03:43,484
 On m'a dit que M. Bushmiller
-organisait une fÃªte, ce soir.
+organisait une fête, ce soir.
 
 788
 01:03:43,886 --> 01:03:45,410
@@ -3422,12 +3422,12 @@ mais je serai franc.
 792
 01:03:52,395 --> 01:03:55,831
 C'est urgent. Je ne suis pas fou,
-je parlerai pas Ã  M. Bushmiller...
+je parlerai pas à M. Bushmiller...
 
 793
 01:03:56,132 --> 01:03:58,498
 Vous ne voyez pas
-que je suis occupÃ© ?
+que je suis occupé ?
 
 794
 01:04:07,009 --> 01:04:07,941
@@ -3439,7 +3439,7 @@ Il y a de la grenadine ?
 
 796
 01:04:16,118 --> 01:04:17,312
-Je dÃ©bute, dÃ©solÃ©.
+Je débute, désolé.
 
 797
 01:04:20,389 --> 01:04:21,515
@@ -3456,11 +3456,11 @@ Je voudrais...
 
 800
 01:04:41,911 --> 01:04:43,640
-Je prends Ã§a.
+Je prends ça.
 
 801
 01:04:44,547 --> 01:04:45,844
-Une Bud, Ã§a ira.
+Une Bud, ça ira.
 
 802
 01:04:47,149 --> 01:04:48,309
@@ -3472,11 +3472,11 @@ Hoegarden ou Stella Artois.
 
 804
 01:04:55,725 --> 01:04:56,817
-La premiÃ¨re.
+La première.
 
 805
 01:05:05,601 --> 01:05:07,330
-Tu as l'air occupÃ©, alors...
+Tu as l'air occupé, alors...
 
 806
 01:06:11,767 --> 01:06:14,497
@@ -3497,7 +3497,7 @@ Et pas n'importe laquelle.
 
 810
 01:06:25,781 --> 01:06:27,510
-MÃªme Ã§a, Ã§a suffit pas.
+Même ça, ça suffit pas.
 
 811
 01:06:28,818 --> 01:06:32,219
@@ -3506,21 +3506,21 @@ si t'es pas une brute
 
 812
 01:06:33,022 --> 01:06:34,614
-sans pitiÃ©.
+sans pitié.
 
 813
 01:06:40,296 --> 01:06:41,661
-Je suis dÃ©solÃ©.
+Je suis désolé.
 
 814
 01:06:44,166 --> 01:06:45,656
-L'Ã‰TRANGLEUR
-A ENCORE FRAPPÃ‰
+L'ÉTRANGLEUR
+A ENCORE FRAPPÉ
 
 815
 01:06:50,639 --> 01:06:53,039
 T'es au courant
-de son dernier chef-d'Å“uvre ?
+de son dernier chef-d'œuvre ?
 
 816
 01:06:55,011 --> 01:06:57,536
@@ -3540,7 +3540,7 @@ Quel manque de respect.
 
 820
 01:07:08,991 --> 01:07:11,016
-J'ai des victimes Ã  lui fournir.
+J'ai des victimes à lui fournir.
 
 821
 01:07:22,204 --> 01:07:23,569
@@ -3554,11 +3554,11 @@ au grand homme.
 823
 01:07:31,447 --> 01:07:35,508
 Il ne se contente pas de reproduire
-la rÃ©alitÃ©, comme tout artiste.
+la réalité, comme tout artiste.
 
 824
 01:07:35,751 --> 01:07:39,209
-Il la faÃ§onne selon ses besoins.
+Il la façonne selon ses besoins.
 
 825
 01:07:39,922 --> 01:07:43,790
@@ -3571,13 +3571,13 @@ Qui sait ?
 
 827
 01:07:47,696 --> 01:07:51,223
-Un artiste sait reconnaÃ®tre
-son sujet idÃ©al.
+Un artiste sait reconnaître
+son sujet idéal.
 
 828
 01:07:54,970 --> 01:07:58,428
-Celle-ci Ã©tait peut-Ãªtre
-une caissiÃ¨re malhonnÃªte.
+Celle-ci était peut-être
+une caissière malhonnête.
 
 829
 01:08:00,709 --> 01:08:03,678
@@ -3590,12 +3590,12 @@ Et lui...
 
 831
 01:08:09,385 --> 01:08:12,445
-c'est peut-Ãªtre sa bÃªtise
+c'est peut-être sa bêtise
 qui l'a perdu.
 
 832
 01:08:16,158 --> 01:08:18,456
-Ã‡a pend au nez de l'humanitÃ©.
+Ça pend au nez de l'humanité.
 
 833
 01:08:21,363 --> 01:08:22,591
@@ -3607,7 +3607,7 @@ Bien dit.
 
 835
 01:08:26,469 --> 01:08:28,937
-Pour arriver Ã  quelque chose,
+Pour arriver à quelque chose,
 
 836
 01:08:29,171 --> 01:08:32,572
@@ -3619,12 +3619,12 @@ Tu peux me tuer, je m'en fous.
 
 838
 01:08:37,246 --> 01:08:40,841
-C'est quand on arrive Ã  rigoler
+C'est quand on arrive à rigoler
 des malheurs du monde
 
 839
 01:08:41,083 --> 01:08:43,711
-qu'on peut commencer Ã  s'amuser.
+qu'on peut commencer à s'amuser.
 
 840
 01:08:44,253 --> 01:08:46,448
@@ -3641,7 +3641,7 @@ Allez-y.
 843
 01:09:01,804 --> 01:09:04,671
 Je vais rentrer,
-avant de vomir Ã  nouveau.
+avant de vomir à nouveau.
 
 844
 01:09:04,940 --> 01:09:05,964
@@ -3677,7 +3677,7 @@ Ta carte !
 
 852
 01:10:12,741 --> 01:10:13,673
-Tu es soÃ»l ?
+Tu es soûl ?
 
 853
 01:11:53,976 --> 01:11:55,603
@@ -3685,31 +3685,31 @@ Tiens, tiens...
 
 854
 01:11:58,047 --> 01:11:59,446
-OÃ¹ t'Ã©tais passÃ© ?
+Où t'étais passé ?
 
 855
 01:12:00,983 --> 01:12:03,247
-J'ai eu un gros passage Ã  vide.
+J'ai eu un gros passage à vide.
 
 856
 01:12:05,921 --> 01:12:08,822
-T'as qu'Ã  faire
+T'as qu'à faire
 ce que je fais toujours :
 
 857
 01:12:09,491 --> 01:12:12,324
-arrÃªte tout
+arrête tout
 et recommence au prochain semestre.
 
 858
 01:12:13,095 --> 01:12:15,825
-J'en suis bientÃ´t
-Ã  ma quatriÃ¨me tentative.
+J'en suis bientôt
+à ma quatrième tentative.
 
 859
 01:12:18,267 --> 01:12:20,735
 Une telle occasion
-ne se reprÃ©sentera pas.
+ne se représentera pas.
 
 860
 01:12:20,936 --> 01:12:23,871
@@ -3721,12 +3721,12 @@ Audrey est unique.
 
 862
 01:12:27,009 --> 01:12:28,909
-ArrÃªte avec ces conneries...
+Arrête avec ces conneries...
 
 863
 01:12:29,111 --> 01:12:32,274
 Il faut un sujet.
-C'est mon sujet idÃ©al.
+C'est mon sujet idéal.
 
 864
 01:12:32,481 --> 01:12:34,915
@@ -3734,13 +3734,13 @@ Je ne peux pas la laisser filer.
 
 865
 01:12:36,819 --> 01:12:39,253
-Deux nanas Ã  sauver.
-Y a qu'Ã  les cueillir.
+Deux nanas à sauver.
+Y a qu'à les cueillir.
 
 866
 01:12:39,455 --> 01:12:42,356
-Si je trouve une idÃ©e
-pour l'Ã©valuation,
+Si je trouve une idée
+pour l'évaluation,
 
 867
 01:12:43,192 --> 01:12:44,887
@@ -3757,7 +3757,7 @@ Faut que je trouve quelque chose.
 
 870
 01:12:49,298 --> 01:12:49,992
-EnvolÃ©es.
+Envolées.
 
 871
 01:12:53,202 --> 01:12:54,897
@@ -3773,7 +3773,7 @@ A savoir ?
 
 874
 01:13:04,947 --> 01:13:06,881
-T'es le crÃ©tin de service.
+T'es le crétin de service.
 
 875
 01:13:40,582 --> 01:13:42,106
@@ -3795,7 +3795,7 @@ c'est 15 ans d'analyse.
 
 879
 01:13:53,195 --> 01:13:56,187
-Je croyais que t'Ã©tais dingue
+Je croyais que t'étais dingue
 de... Jonah.
 
 880
@@ -3804,7 +3804,7 @@ Ecoute.
 
 881
 01:14:01,904 --> 01:14:03,963
-Quand Ã§a aura foirÃ© avec celui-lÃ ,
+Quand ça aura foiré avec celui-là,
 
 882
 01:14:05,874 --> 01:14:07,967
@@ -3812,7 +3812,7 @@ viens te consoler dans mes bras.
 
 883
 01:15:01,597 --> 01:15:04,031
-T'as rÃ©ussi Ã  dÃ©stabiliser Jonah.
+T'as réussi à déstabiliser Jonah.
 
 884
 01:15:04,566 --> 01:15:05,225
@@ -3820,8 +3820,8 @@ Quoi ?
 
 885
 01:15:05,434 --> 01:15:09,632
-Il s'est renseignÃ© sur ton boulot.
-Tu nous rÃ©serves une surprise ?
+Il s'est renseigné sur ton boulot.
+Tu nous réserves une surprise ?
 
 886
 01:15:43,205 --> 01:15:44,399
@@ -3837,12 +3837,12 @@ Tu as les mains vides.
 
 889
 01:15:53,815 --> 01:15:55,077
-Je sais, dÃ©solÃ©.
+Je sais, désolé.
 
 890
 01:15:55,284 --> 01:15:57,980
 Tu me prends vraiment
-pour une pute Ã  deux balles.
+pour une pute à deux balles.
 
 891
 01:15:59,454 --> 01:16:03,322
@@ -3867,7 +3867,7 @@ Rien.
 
 896
 01:16:11,967 --> 01:16:14,197
-- Je suis paumÃ©...
+- Je suis paumé...
 - Tu es peintre, non ?
 
 897
@@ -3876,7 +3876,7 @@ Oui.
 
 898
 01:16:15,337 --> 01:16:17,498
-Tu veux Ãªtre peintre
+Tu veux être peintre
 ou "aficionado" ?
 
 899
@@ -3886,7 +3886,7 @@ Peintre !
 900
 01:16:19,174 --> 01:16:21,642
 A quoi pense un peintre,
-d'aprÃ¨s toi ?
+d'après toi ?
 
 901
 01:16:22,177 --> 01:16:24,668
@@ -3894,17 +3894,17 @@ Aux vins fins,
 
 902
 01:16:26,181 --> 01:16:28,149
-aux grandes rÃ©ceptions,
+aux grandes réceptions,
 
 903
 01:16:29,484 --> 01:16:32,681
-Ã  son prochain discours
-de fin de soirÃ©e ?
+à son prochain discours
+de fin de soirée ?
 
 904
 01:16:42,030 --> 01:16:46,592
 Il ne vit que pour l'instant narcotique
-d'extase crÃ©atrice.
+d'extase créatrice.
 
 905
 01:16:48,837 --> 01:16:50,031
@@ -3913,7 +3913,7 @@ Un instant...
 906
 01:16:50,672 --> 01:16:53,402
 qui ne passe
-qu'une fois par dÃ©cennie.
+qu'une fois par décennie.
 
 907
 01:16:55,010 --> 01:16:56,204
@@ -3929,7 +3929,7 @@ Va te faire foutre.
 
 910
 01:17:04,186 --> 01:17:06,017
-T'as rien dans le crÃ¢ne.
+T'as rien dans le crâne.
 
 911
 01:17:09,558 --> 01:17:12,049
@@ -3955,17 +3955,17 @@ Une fois au sommet, t'es intouchable.
 
 916
 01:17:29,478 --> 01:17:32,538
-Tu les Ã©crases
+Tu les écrases
 comme des vers de terre.
 
 917
 01:17:36,918 --> 01:17:39,751
-Eteins cette saletÃ© de cigarette !
+Eteins cette saleté de cigarette !
 
 918
 01:17:39,955 --> 01:17:42,651
 Tu vas me tuer
-avec ta maudite fumÃ©e !
+avec ta maudite fumée !
 
 919
 01:17:43,058 --> 01:17:44,286
@@ -3981,7 +3981,7 @@ Je peux te parler ?
 
 922
 01:19:00,335 --> 01:19:01,825
-J'ai un aveu Ã  te faire.
+J'ai un aveu à te faire.
 
 923
 01:19:06,208 --> 01:19:07,140
@@ -4025,7 +4025,7 @@ J'ai l'impression, oui.
 
 933
 01:19:28,230 --> 01:19:30,824
-C'est Ã§a, mon aveu.
+C'est ça, mon aveu.
 
 934
 01:19:32,534 --> 01:19:33,899
@@ -4038,7 +4038,7 @@ Je croyais que tu bossais.
 936
 01:20:03,698 --> 01:20:06,030
 Je bosse.
-Je dois finir Ã§a pour lundi.
+Je dois finir ça pour lundi.
 
 937
 01:20:06,902 --> 01:20:09,427
@@ -4055,7 +4055,7 @@ Je comprends pas.
 940
 01:20:13,275 --> 01:20:17,211
 Aux Stups, tu passais pas tes loisirs
-Ã  fumer du crack.
+à fumer du crack.
 
 941
 01:20:17,913 --> 01:20:19,312
@@ -4067,11 +4067,11 @@ Son papa lui manque.
 
 943
 01:20:21,349 --> 01:20:23,374
-Tu vas me lÃ¢cher, oui ?
+Tu vas me lâcher, oui ?
 
 944
 01:20:26,388 --> 01:20:29,221
-Lonny et les autres sont lÃ .
+Lonny et les autres sont là.
 Tu vas les snober aussi ?
 
 945
@@ -4086,7 +4086,7 @@ Rembrandt ?
 947
 01:20:47,442 --> 01:20:50,639
 Au repos, pas besoin
-de t'habiller en pÃ©dale.
+de t'habiller en pédale.
 
 948
 01:20:51,947 --> 01:20:53,881
@@ -4094,7 +4094,7 @@ Content de vous voir aussi.
 
 949
 01:20:54,082 --> 01:20:55,447
-Ã‡a va durer longtemps ?
+Ça va durer longtemps ?
 
 950
 01:20:55,650 --> 01:20:57,880
@@ -4115,7 +4115,7 @@ On a agrandi tes photos.
 
 954
 01:21:06,394 --> 01:21:09,955
-Les couleurs sont les mÃªmes
+Les couleurs sont les mêmes
 que sur le gant du 1 er crime.
 
 955
@@ -4134,12 +4134,12 @@ il me l'a dit.
 
 958
 01:21:19,107 --> 01:21:20,836
-Un Ã©chantillon,
-Ã§a nous aurait aidÃ©s.
+Un échantillon,
+ça nous aurait aidés.
 
 959
 01:21:22,844 --> 01:21:25,335
-On touche pas Ã  une Å“uvre d'art.
+On touche pas à une œuvre d'art.
 
 960
 01:21:25,547 --> 01:21:28,072
@@ -4152,16 +4152,16 @@ Pardon.
 
 962
 01:21:31,052 --> 01:21:34,749
-On peut mÃªme pas l'interroger ?
+On peut même pas l'interroger ?
 Il se fout de nous !
 
 963
 01:21:34,956 --> 01:21:36,685
-On me soÃ»le encore
+On me soûle encore
 
 964
 01:21:36,925 --> 01:21:38,916
-avec le tordu que t'avais ramenÃ©.
+avec le tordu que t'avais ramené.
 
 965
 01:21:39,127 --> 01:21:40,287
@@ -4177,11 +4177,11 @@ Ecoute, Gerry...
 
 968
 01:21:50,071 --> 01:21:51,368
-Tu m'Ã©coutes ?
+Tu m'écoutes ?
 
 969
 01:21:51,573 --> 01:21:53,768
-Je sais, t'es gÃ©nial, mais moi aussi.
+Je sais, t'es génial, mais moi aussi.
 
 970
 01:21:55,010 --> 01:21:56,705
@@ -4189,12 +4189,12 @@ T'es en vacances ? Active.
 
 971
 01:21:58,313 --> 01:22:02,272
-Ce type, c'est la poule aux Å“ufs d'or,
+Ce type, c'est la poule aux œufs d'or,
 je te le garantis.
 
 972
 01:22:03,585 --> 01:22:07,783
-Ne m'Ã©coute pas, je m'en tape.
+Ne m'écoute pas, je m'en tape.
 T'avise pas de rappeler.
 
 973
@@ -4207,8 +4207,8 @@ J'ai une question.
 
 975
 01:22:36,084 --> 01:22:39,019
-C'est l'Ã©valuation
-des 1Ã¨re annÃ©e, demain.
+C'est l'évaluation
+des 1ère année, demain.
 
 976
 01:22:40,121 --> 01:22:43,887
@@ -4225,7 +4225,7 @@ Pas exactement.
 
 979
 01:22:48,897 --> 01:22:52,162
-Tu vises une rÃ©trospective
+Tu vises une rétrospective
 au Metropolitan ?
 
 980
@@ -4243,7 +4243,7 @@ C'est pour une fille ?
 983
 01:23:04,245 --> 01:23:07,681
 Tu veux obtenir le prix
-pour gagner son cÅ“ur ?
+pour gagner son cœur ?
 
 984
 01:23:12,420 --> 01:23:13,910
@@ -4266,11 +4266,11 @@ baise ailleurs ?
 988
 01:23:43,551 --> 01:23:47,078
 Non. Marie le tient par les couilles,
-c'est dÃ©solant.
+c'est désolant.
 
 989
 01:23:54,863 --> 01:23:57,388
-C'est lui, lÃ  !
+C'est lui, là !
 
 990
 01:23:58,666 --> 01:24:00,133
@@ -4288,21 +4288,21 @@ On attend quoi ?
 
 993
 01:24:08,643 --> 01:24:11,806
-OÃ¹ est Jonah ?
+Où est Jonah ?
 Il devait lui coller au cul.
 
 994
 01:25:13,675 --> 01:25:15,199
-Quelle dÃ©ception.
+Quelle déception.
 
 995
 01:25:15,844 --> 01:25:17,641
-Ã‡a craint, tes trucs.
+Ça craint, tes trucs.
 
 996
 01:25:17,879 --> 01:25:20,905
 Tous ces massacres,
-c'est "10 septembre" Ã  fond.
+c'est "10 septembre" à fond.
 
 997
 01:25:32,927 --> 01:25:34,394
@@ -4319,12 +4319,12 @@ on va te remettre sur les rails.
 
 1000
 01:26:10,231 --> 01:26:13,200
-T'as gagnÃ© le gros lot, profites-en.
+T'as gagné le gros lot, profites-en.
 
 1001
 01:26:14,602 --> 01:26:19,369
-Tu es l'Ã©lu promis Ã  la gloire et moi,
-un connard bercÃ© d'illusions.
+Tu es l'élu promis à la gloire et moi,
+un connard bercé d'illusions.
 
 1002
 01:26:19,707 --> 01:26:20,765
@@ -4340,8 +4340,8 @@ Moi, tu m'auras pas.
 
 1005
 01:26:25,346 --> 01:26:28,804
-T'as trouvÃ© le filon,
-M. le bellÃ¢tre bien lisse,
+T'as trouvé le filon,
+M. le bellâtre bien lisse,
 
 1006
 01:26:29,083 --> 01:26:32,519
@@ -4350,15 +4350,15 @@ et tu le sais.
 
 1007
 01:26:32,987 --> 01:26:35,217
-Ã‡a m'a pas empÃªchÃ© de te battre.
+Ça m'a pas empêché de te battre.
 
 1008
 01:26:35,456 --> 01:26:37,890
-Tu Ã©tais oÃ¹ ? Faut y aller.
+Tu étais où ? Faut y aller.
 
 1009
 01:26:38,493 --> 01:26:40,393
-Bouge pas. J'ai Ã  te parler.
+Bouge pas. J'ai à te parler.
 
 1010
 01:26:40,929 --> 01:26:42,396
@@ -4366,7 +4366,7 @@ Viens voir ton public.
 
 1011
 01:27:17,999 --> 01:27:19,523
-L'immeuble a cramÃ©.
+L'immeuble a cramé.
 
 1012
 01:27:20,702 --> 01:27:22,260
@@ -4374,11 +4374,11 @@ Ils sont tous morts.
 
 1013
 01:27:26,908 --> 01:27:28,933
-Un connard a mal Ã©teint une clope.
+Un connard a mal éteint une clope.
 
 1014
 01:27:35,283 --> 01:27:36,341
-Les voilÃ .
+Les voilà.
 
 1015
 01:28:02,210 --> 01:28:03,905
@@ -4386,15 +4386,15 @@ Putain, Jonah...
 
 1016
 01:28:05,580 --> 01:28:07,207
-Mikey, ramÃ¨ne-toi !
+Mikey, ramène-toi !
 
 1017
 01:28:08,016 --> 01:28:09,074
-OÃ¹ est Jonah ?
+Où est Jonah ?
 
 1018
 01:28:12,687 --> 01:28:15,155
-Ce tocard me plante lÃ  ?
+Ce tocard me plante là ?
 
 1019
 01:28:15,356 --> 01:28:16,823
@@ -4402,7 +4402,7 @@ J'ai transmis le message.
 
 1020
 01:28:24,532 --> 01:28:27,592
-Vite, Bob dÃ©teste
+Vite, Bob déteste
 qu'on soit en retard.
 
 1021
@@ -4428,33 +4428,33 @@ Coupez !
 1026
 01:29:04,072 --> 01:29:06,472
 Connard !
-T'as gÃ¢chÃ© ma meilleure prise !
+T'as gâché ma meilleure prise !
 
 1027
 01:29:07,875 --> 01:29:09,604
-J'ai le bras cassÃ©.
+J'ai le bras cassé.
 
 1028
 01:29:09,811 --> 01:29:12,541
-GÃ©nial. Je fais comment, maintenant ?
+Génial. Je fais comment, maintenant ?
 
 1029
 01:29:14,816 --> 01:29:16,215
-T'Ã©tais oÃ¹ ?
+T'étais où ?
 
 1030
 01:29:22,957 --> 01:29:24,618
-C'est quoi, ce dÃ©lire ?
+C'est quoi, ce délire ?
 
 1031
 01:29:25,293 --> 01:29:27,557
-AmÃ¨ne-toi, le caÃ¯d.
+Amène-toi, le caïd.
 Le chef veut te voir.
 
 1032
 01:29:29,664 --> 01:29:32,724
 Qu'est-ce qui te prend ?
-Tu m'Ã©coutes ?
+Tu m'écoutes ?
 
 1033
 01:29:35,169 --> 01:29:36,568
@@ -4463,15 +4463,15 @@ Je suis trop conne.
 1034
 01:29:50,451 --> 01:29:53,818
 Auriez-vous vu un portrait de moi ?
-TrÃ¨s beau...
+Très beau...
 
 1035
 01:29:54,489 --> 01:29:55,979
-Il Ã©tait lÃ .
+Il était là.
 
 1036
 01:29:56,657 --> 01:29:58,284
-J'ai tout jetÃ© derriÃ¨re.
+J'ai tout jeté derrière.
 
 1037
 01:30:00,928 --> 01:30:02,828
@@ -4487,7 +4487,7 @@ Ce n'est pas ce que vous croyez.
 
 1040
 01:30:24,252 --> 01:30:25,617
-Jerome Platz, tu es lÃ  ?
+Jerome Platz, tu es là ?
 
 1041
 01:30:52,480 --> 01:30:54,880
@@ -4495,15 +4495,15 @@ Audrey, tu ne ressens rien pour moi,
 
 1042
 01:30:56,350 --> 01:30:57,715
-mais peut-Ãªtre...
+mais peut-être...
 
 1043
 01:31:04,258 --> 01:31:06,089
-Police. DÃ©gagez.
+Police. Dégagez.
 
 1044
 01:31:07,929 --> 01:31:09,829
-Ã‡a va poser un problÃ¨me ?
+Ça va poser un problème ?
 
 1045
 01:31:13,501 --> 01:31:14,593
@@ -4511,12 +4511,12 @@ Va faire du coloriage.
 
 1046
 01:31:29,083 --> 01:31:30,107
-Je suis dÃ©solÃ©.
+Je suis désolé.
 
 1047
 01:31:30,318 --> 01:31:33,845
-J'ai mÃ©langÃ© perso et boulot.
-C'est la derniÃ¨re fois.
+J'ai mélangé perso et boulot.
+C'est la dernière fois.
 
 1048
 01:31:34,088 --> 01:31:37,751
@@ -4529,7 +4529,7 @@ Tu crains !
 
 1050
 01:31:41,095 --> 01:31:42,289
-CrÃ¨ve bien, sale flic !
+Crève bien, sale flic !
 
 1051
 01:31:42,530 --> 01:31:43,724
@@ -4538,11 +4538,11 @@ Recommence, pour voir.
 1052
 01:31:44,232 --> 01:31:48,259
 Je vais t'allumer,
-t'as pas idÃ©e, pauvre tarÃ©.
+t'as pas idée, pauvre taré.
 
 1053
 01:31:48,736 --> 01:31:52,137
-Mikey, on dÃ©gage le terrain.
+Mikey, on dégage le terrain.
 Kevin, tu montes avec lui ?
 
 1054
@@ -4551,7 +4551,7 @@ Je m'en occupe.
 
 1055
 01:32:07,655 --> 01:32:09,953
-Je savais que t'Ã©tais pas net.
+Je savais que t'étais pas net.
 
 1056
 01:32:18,165 --> 01:32:19,564
@@ -4563,15 +4563,15 @@ Mes toiles valaient quelque chose ?
 
 1058
 01:32:30,111 --> 01:32:31,669
-Peut-Ãªtre bien.
+Peut-être bien.
 
 1059
 01:32:31,879 --> 01:32:33,278
-J'aurais pu rÃ©ussir ?
+J'aurais pu réussir ?
 
 1060
 01:32:35,149 --> 01:32:36,582
-Ã‡a, je sais pas.
+Ça, je sais pas.
 
 1061
 01:32:43,391 --> 01:32:44,949
@@ -4579,7 +4579,7 @@ C'est vraiment toi ?
 
 1062
 01:33:29,437 --> 01:33:33,134
-Ã‰COLE D'ART :
+ÉCOLE D'ART :
 LE CHOC !
 
 1063
@@ -4588,8 +4588,8 @@ UN TUEUR FAIT SENSATION
 
 1064
 01:33:37,745 --> 01:33:40,077
-L'Ã‰TRANGLEUR
-HORS D'Ã‰TAT DE NUIRE
+L'ÉTRANGLEUR
+HORS D'ÉTAT DE NUIRE
 
 1065
 01:33:43,818 --> 01:33:45,945
@@ -4602,11 +4602,11 @@ C'est l'heure des visites.
 1067
 01:34:11,445 --> 01:34:15,541
 <i>Peut-on juger un artiste</i>
-<i>d'aprÃ¨s sa vie privÃ©e ?</i>
+<i>d'après sa vie privée ?</i>
 
 1068
 01:34:15,750 --> 01:34:18,844
-S'il est antisÃ©mite, comme T.S. Eliot,
+S'il est antisémite, comme T.S. Eliot,
 
 1069
 01:34:19,387 --> 01:34:22,515
@@ -4618,7 +4618,7 @@ ou si, comme ici, c'est un assassin,
 
 1071
 01:34:25,893 --> 01:34:29,124
-son Å“uvre perd-elle de sa valeur ?
+son œuvre perd-elle de sa valeur ?
 
 1072
 01:34:30,231 --> 01:34:31,323
@@ -4626,26 +4626,26 @@ Je ne crois pas.
 
 1073
 01:34:32,700 --> 01:34:36,033
-Si je veux exposer ses Å“uvres,
-libre Ã  moi.
+Si je veux exposer ses œuvres,
+libre à moi.
 
 1074
 01:34:36,270 --> 01:34:38,033
-Simple libertÃ© d'expression.
+Simple liberté d'expression.
 
 1075
 01:34:38,272 --> 01:34:41,469
-Ne pas la dÃ©fendre,
+Ne pas la défendre,
 c'est un acte nazi, selon moi.
 
 1076
 01:34:42,176 --> 01:34:44,167
-Quoi ? Je peux pas dire Ã§a ?
+Quoi ? Je peux pas dire ça ?
 
 1077
 01:34:46,047 --> 01:34:49,676
 Nous ne savions pas
-que c'Ã©tait un documentaire, et puis...
+que c'était un documentaire, et puis...
 
 1078
 01:34:51,452 --> 01:34:53,181
@@ -4653,7 +4653,7 @@ tout a pris un sens.
 
 1079
 01:34:53,821 --> 01:34:57,917
-J'aime travailler comme Ã§a :
+J'aime travailler comme ça :
 trouver ma voie en chemin.
 
 1080
@@ -4664,33 +4664,33 @@ Jerome adorait le dessin.
 1081
 01:35:05,099 --> 01:35:07,863
 C'est malheureux,
-ce qui est arrivÃ©, mais...
+ce qui est arrivé, mais...
 
 1082
 01:35:09,270 --> 01:35:11,932
-je savais qu'il serait cÃ©lÃ¨bre, un jour.
+je savais qu'il serait célèbre, un jour.
 
 1083
 01:35:12,306 --> 01:35:14,866
-Je pense aux intÃ©rÃªts de mon client.
+Je pense aux intérêts de mon client.
 
 1084
 01:35:15,309 --> 01:35:16,901
-Jerome les connaÃ®t.
+Jerome les connaît.
 
 1085
 01:35:17,111 --> 01:35:21,878
-Son intÃ©rÃªt, c'est un long sÃ©jour ici
-suivi d'un procÃ¨s Ã  rallonge.
+Son intérêt, c'est un long séjour ici
+suivi d'un procès à rallonge.
 
 1086
 01:35:22,083 --> 01:35:26,247
 J'ai de quoi le faire sortir d'ici.
-Un procÃ¨s est inutile.
+Un procès est inutile.
 
 1087
 01:35:26,454 --> 01:35:30,390
-Mais d'oÃ¹ vous sortez, putain ?
+Mais d'où vous sortez, putain ?
 Jerome a besoin d'un avocat
 
 1088
@@ -4701,11 +4701,11 @@ dans ce genre de situation.
 1089
 01:35:34,295 --> 01:35:37,389
 Je suis un proche.
-J'ai Ã©tudiÃ© avec Hugh Platz.
+J'ai étudié avec Hugh Platz.
 
 1090
 01:35:37,598 --> 01:35:42,228
-TrÃ¨s touchant. Savez-vous
+Très touchant. Savez-vous
 combien de ses toiles je peux vendre,
 
 1091
@@ -4714,8 +4714,8 @@ pendant ce temps ?
 
 1092
 01:35:47,241 --> 01:35:49,835
-Comment Ã§a va, fiston ?
-Ã‡a avance bien ?
+Comment ça va, fiston ?
+Ça avance bien ?
 
 1093
 01:35:50,344 --> 01:35:51,311
@@ -4724,7 +4724,7 @@ Oui.
 1094
 01:35:52,046 --> 01:35:55,675
 Les appels affluent.
-J'ai bloquÃ© la liste d'attente.
+J'ai bloqué la liste d'attente.
 
 1095
 01:35:55,883 --> 01:35:56,508
@@ -4733,11 +4733,11 @@ Super.
 1096
 01:35:58,619 --> 01:36:02,487
 Sache que si tu changes d'avis,
-on peut te sortir de lÃ .
+on peut te sortir de là.
 
 1097
 01:36:03,891 --> 01:36:07,327
-Je sais. Mais on en a dÃ©jÃ  parlÃ©...
+Je sais. Mais on en a déjà parlé...
 
 1098
 01:36:10,898 --> 01:36:12,422
@@ -4753,12 +4753,12 @@ Il veut vraiment te parler.
 
 1101
 01:36:20,241 --> 01:36:23,472
-Tu as regardÃ© les papiers ?
+Tu as regardé les papiers ?
 Il faut signer le jaune.
 
 1102
 01:36:25,479 --> 01:36:28,004
-Haut les cÅ“urs. On pense Ã  toi.
+Haut les cœurs. On pense à toi.
 
 1103
 01:36:30,117 --> 01:36:31,175
@@ -4775,9 +4775,10 @@ On peut y aller ?
 1106
 01:42:15,762 --> 01:42:17,730
 <i>Traduction</i> :
-MaÃ¯ Boiron
+Maï Boiron
 
 1107
 01:42:17,931 --> 01:42:19,899
 <i>Sous-titrage</i> :
 L.V.T. - Paris
+

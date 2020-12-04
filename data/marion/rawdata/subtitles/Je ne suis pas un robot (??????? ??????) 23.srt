@@ -6,7 +6,6 @@
 2
 00:00:16,220 --> 00:00:18,440
 Oh, attendez. 
-<i>~ Épisode 23 ~</i>
 
 3
 00:00:18,440 --> 00:00:20,840
@@ -1469,8 +1468,4 @@ Quel choc !
 00:31:45,030 --> 00:31:54,000
 ♫ <i>J'ai pu professer mon amour pour toi</i> ♫
 
-367
-00:31:54,000 --> 00:31:58,070
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
 

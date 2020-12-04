@@ -1706,14 +1706,4 @@ Que viens-tu de dire ?
 
 419
 00:33:07,460 --> 00:33:09,960
-J'aime...
-
-420
-00:33:14,440 --> 00:33:19,210
-AG-3.
-
-421
-00:33:19,210 --> 00:33:23,320
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-
+J'aime les artistes.

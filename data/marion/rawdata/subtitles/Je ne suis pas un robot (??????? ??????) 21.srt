@@ -1,6 +1,6 @@
 1
 00:00:08,110 --> 00:00:09,970
-<i>~ Épisode 21 ~</i>
+Ok
 
 2
 00:00:11,070 --> 00:00:13,580
@@ -1704,9 +1704,3 @@ Mais tu ne devrais pas repousser quelqu'un d'aussi désespéré.
 420
 00:36:27,100 --> 00:36:30,170
 De quoi voulez-vous me parler ?
-
-421
-00:36:36,200 --> 00:36:43,200
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-

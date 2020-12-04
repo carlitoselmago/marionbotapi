@@ -1,6 +1,6 @@
 1
 00:00:08,190 --> 00:00:10,040
-<i>~ Épisode 31 ~</i>
+OK
 
 2
 00:00:11,810 --> 00:00:17,470
@@ -1705,9 +1705,3 @@ Ah, d'un coup j'ai mal à la tête.
 421
 00:36:27,970 --> 00:36:28,650
 Hein ?
-
-422
-00:36:28,650 --> 00:36:31,800
-<i> Les sous-titres vous sont offerts par 
- l'équipe des humanoïdes @Viki </i>
-
