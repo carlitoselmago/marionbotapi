@@ -45,6 +45,7 @@ def initial_setup(data_corpus):
     return metadata, trainX, trainY, testX, testY, validX, validY
 
 def inference(seed, top_n):
+    seed=seed.lower()
     try:
         model_.eval()
         seed_id = [word2idx.get(w, unk_id) for w in seed.split(" ")]

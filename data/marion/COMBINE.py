@@ -13,7 +13,7 @@ for filename in sorted(glob.glob('ready/*.txt')):
 
     # Reading data from file
     with open(filename) as fp:
-        data = fp.read()
+        data = fp.read().lower()
         combined+=data
 
 
