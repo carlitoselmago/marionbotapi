@@ -7,6 +7,12 @@
 *.pkl
 *.ssa
 *.sub
+*.html
+*.csv
+*.pkl
+*.pickle
+transfchatbot/logs/
+
 =1.6
 
 # Byte-compiled / optimized / DLL files

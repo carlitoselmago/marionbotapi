@@ -177,5 +177,7 @@ if __name__ == '__main__':
                     print(" >", ' '.join(sentence))
                 else:
                     print("could not create sentence thru inference")
+            print("epoch #" ,epoch)
+            tl.files.save_npz(model_.all_weights, name='saved/model_e'+str(epoch)+'.npz')
 
-        tl.files.save_npz(model_.all_weights, name='model.npz')
+        tl.files.save_npz(model_.all_weights, name='saved/model.npz')

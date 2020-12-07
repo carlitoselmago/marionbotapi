@@ -15,7 +15,7 @@ limit = {
         }
 
 UNK = 'unk'
-VOCAB_SIZE = 12000#10000#6000#12000#10000#6000
+VOCAB_SIZE = 20000#10000#6000#12000#10000#6000
 
 import random
 import sys

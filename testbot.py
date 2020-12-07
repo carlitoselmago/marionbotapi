@@ -4,7 +4,7 @@ from main import *
 import time
 
 
-load_weights = tl.files.load_npz(name='saved/model.npz')
+load_weights = tl.files.load_npz(name='saved/model_e28.npz')
 tl.files.assign_weights(load_weights, model_)
 
 #model = tl.files.load_npz(path='saved', name='model_15-06-2020.npz')
@@ -18,4 +18,5 @@ def respond(input):
 while True:
     userInput=input("user# ")
     time.sleep(0.5)
-    print("bot# ",respond(userInput))
+    response=respond(userInput)
+    print("bot# ",response)
