@@ -19,7 +19,7 @@ from colorama import init
 from colorama import Fore, Back
 init()
 
-
+from config import *
 
 your_name = input('Enter your name: ')
 bot_name = input('Enter chatbot name: ')
@@ -28,25 +28,15 @@ print(f"{Back.BLUE}\n{bot_name} almost ready...{Back.RESET}")
 
 strategy = tf.distribute.get_strategy()
 
-# Maximum sentence length
-MAX_LENGTH = 30
+
 
 # For tf.data.Dataset
 BATCH_SIZE = int(64 * strategy.num_replicas_in_sync)
-BUFFER_SIZE = 20000
 
-# For Transformer
-NUM_LAYERS = 2 #6
-D_MODEL = 256 #512
-NUM_HEADS = 8
-UNITS = 512 #2048
-DROPOUT = 0.1
-
-EPOCHS = 100
 
 with open('tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
-    
+
 # Define start and end token to indicate the start and end of a sentence
 START_TOKEN, END_TOKEN = [tokenizer.vocab_size], [tokenizer.vocab_size + 1]
 
@@ -110,4 +100,3 @@ while True:
     prompt = input(f"{your_name}: ")
     print(Fore.RESET + "")
     print(f"{Fore.LIGHTMAGENTA_EX}{bot_name}: {predict(prompt, model)}{Fore.RESET}\n")
-  

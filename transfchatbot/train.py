@@ -18,26 +18,16 @@ import pickle
 import datetime
 
 
+from config import *
 
 
-# Maximum sentence length
-MAX_LENGTH = 30
 
 #GPU
 strategy = tf.distribute.get_strategy()
 
 # For tf.data.Dataset
 BATCH_SIZE = int(64 * strategy.num_replicas_in_sync)
-BUFFER_SIZE = 20000
 
-# For Transformer
-NUM_LAYERS = 6#2
-D_MODEL = 512#256
-NUM_HEADS = 8
-UNITS = 2048 #512
-DROPOUT = 0.1
-
-EPOCHS = 100
 
 tf.random.set_seed(1234)
 AUTO = tf.data.experimental.AUTOTUNE

@@ -1,0 +1,13 @@
+# Maximum sentence length
+MAX_LENGTH = 30
+
+BUFFER_SIZE = 20000
+
+# For Transformer
+NUM_LAYERS = 6#2
+D_MODEL = 512#256
+NUM_HEADS = 8
+UNITS = 2048 #512
+DROPOUT = 0.1
+
+EPOCHS = 100
