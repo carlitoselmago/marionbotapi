@@ -35,9 +35,12 @@ strategy = tf.distribute.get_strategy()
 # For tf.data.Dataset
 BATCH_SIZE = int(64 * strategy.num_replicas_in_sync)
 
-
-with open('tokenizer.pickle', 'rb') as handle:
-    tokenizer = pickle.load(handle)
+try:
+    with open('tokenizer.pickle', 'rb') as handle:
+        tokenizer = pickle.load(handle)
+except:
+    with open('app/botAIapi/marionbotapi/transfchatbot/tokenizer.pickle', 'rb') as handle:
+        tokenizer = pickle.load(handle)
 
 # Define start and end token to indicate the start and end of a sentence
 START_TOKEN, END_TOKEN = [tokenizer.vocab_size], [tokenizer.vocab_size + 1]
@@ -91,8 +94,11 @@ model = transformer(
       dropout=DROPOUT)
 
 model.compile(optimizer=optimizer, loss=loss_function, metrics=[accuracy])
-model.load_weights('saved_weights.h5')
-
+try:
+    model.load_weights('saved_weights.h5')
+except:
+    model.load_weights('app/botAIapi/marionbotapi/transfchatbot/saved_weights.h5')
+    
 if __name__ == '__main__':
     while True:
 
