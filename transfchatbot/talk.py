@@ -90,6 +90,6 @@ model.load_weights('saved_weights.h5')
 if __name__ == '__main__':
     while True:
 
-        prompt = input("you": ")
+        prompt = input("you: ")
 
         print("bot:".predict(prompt))
