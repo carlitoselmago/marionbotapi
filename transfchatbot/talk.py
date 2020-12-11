@@ -25,8 +25,10 @@ from colorama import init
 from colorama import Fore, Back
 init()
 
-from config import *
-
+try:
+    from config import *
+except:
+    from app.botAIapi.marionbotapi.transfchatbot.config import *
 
 strategy = tf.distribute.get_strategy()
 
@@ -98,7 +100,7 @@ try:
     model.load_weights('saved_weights.h5')
 except:
     model.load_weights('app/botAIapi/marionbotapi/transfchatbot/saved_weights.h5')
-    
+
 if __name__ == '__main__':
     while True:
 
