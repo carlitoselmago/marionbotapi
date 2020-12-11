@@ -459,7 +459,8 @@ def main():
     #df['Target'] = df['Target'].apply(lambda x: textPreprocess(str(x)))
     #questions, answers = df['Input'].tolist(), df['Target'].tolist()
     #FILENAME = '../data/marion/minimix.txt'
-    FILENAME = '../data/marion/COMBINED/ALL.txt'
+    #FILENAME = '../data/marion/COMBINED/ALL.txt'
+    FILENAME = 'minimix_chatdb_entretainement.txt'
 
     linesALL=open(FILENAME).read().split('\n')[:-1]
 

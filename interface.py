@@ -1,5 +1,19 @@
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
+try:
+    from main import *
+except:
+    from app.botAIapi.marionbotapi.traansfchatbot.talk import *
+import time
+
+
+def answer(input):
+    return predict(input)
+
+"""
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 try:
     from main import *
 except:
@@ -16,3 +30,4 @@ def answer(input):
     sentence = inference(input, 3)
     response=' '.join(sentence)
     return response
+"""

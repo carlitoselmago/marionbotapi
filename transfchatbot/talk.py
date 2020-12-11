@@ -21,10 +21,6 @@ init()
 
 from config import *
 
-your_name = input('Enter your name: ')
-bot_name = input('Enter chatbot name: ')
-
-print(f"{Back.BLUE}\n{bot_name} almost ready...{Back.RESET}")
 
 strategy = tf.distribute.get_strategy()
 
@@ -68,14 +64,11 @@ def evaluate(sentence, model):
 
 
 
-
-def predict(sentence,model):
-  prediction = evaluate(sentence,model)
+def predict(sentence):
+  prediction = evaluate(sentence.lower(),model)
   predicted_sentence = tokenizer.decode(
       [i for i in prediction if i < tokenizer.vocab_size])
   return predicted_sentence.lstrip()
-
-
 
 
 learning_rate = CustomSchedule(D_MODEL)
@@ -94,9 +87,9 @@ model = transformer(
 model.compile(optimizer=optimizer, loss=loss_function, metrics=[accuracy])
 model.load_weights('saved_weights.h5')
 
-print(f"{Back.BLUE}\nPlease start the conversation: {Back.RESET}")
-while True:
-    print(Fore.LIGHTYELLOW_EX + "")
-    prompt = input(f"{your_name}: ")
-    print(Fore.RESET + "")
-    print(f"{Fore.LIGHTMAGENTA_EX}{bot_name}: {predict(prompt, model)}{Fore.RESET}\n")
+if __name__ == '__main__':
+    while True:
+
+        prompt = input("you": ")
+
+        print("bot:".predict(prompt))
