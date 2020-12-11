@@ -8,7 +8,7 @@ except:
 import time
 
 
-def answer(input):
+def answer(input,oldmessages):
     return predict(input)
 
 """
