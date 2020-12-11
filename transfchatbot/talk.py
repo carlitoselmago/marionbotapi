@@ -11,10 +11,16 @@ import tensorflow as tf
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import pickle
-from train import textPreprocess
-from train import transformer
-from train import CustomSchedule
-from train import accuracy, loss_function
+try:
+    from train import textPreprocess
+    from train import transformer
+    from train import CustomSchedule
+    from train import accuracy, loss_function
+except:
+    from app.botAIapi.marionbotapi.transfchatbot.train import textPreprocess
+    from app.botAIapi.marionbotapi.transfchatbot.train import transformer
+    from app.botAIapi.marionbotapi.transfchatbot.train import CustomSchedule
+    from app.botAIapi.marionbotapi.transfchatbot.train import accuracy, loss_function
 from colorama import init
 from colorama import Fore, Back
 init()
