@@ -4,7 +4,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 try:
     from main import *
 except:
-    from app.botAIapi.marionbotapi.traansfchatbot.talk import *
+    from app.botAIapi.marionbotapi.transfchatbot.talk import *
 import time
 
 
