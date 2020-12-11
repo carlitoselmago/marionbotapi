@@ -18,7 +18,10 @@ import pickle
 import datetime
 
 
-from config import *
+try:
+    from config import *
+except:
+    from app.botAIapi.marionbotapi.transfchatbot.config import *
 
 
 
