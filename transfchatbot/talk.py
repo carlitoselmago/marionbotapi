@@ -16,19 +16,17 @@ try:
     from train import transformer
     from train import CustomSchedule
     from train import accuracy, loss_function
+    from config import *
 except:
     from app.botAIapi.marionbotapi.transfchatbot.train import textPreprocess
     from app.botAIapi.marionbotapi.transfchatbot.train import transformer
     from app.botAIapi.marionbotapi.transfchatbot.train import CustomSchedule
     from app.botAIapi.marionbotapi.transfchatbot.train import accuracy, loss_function
+    from app.botAIapi.marionbotapi.transfchatbot.config import *
 from colorama import init
 from colorama import Fore, Back
 init()
 
-try:
-    from config import *
-except:
-    from app.botAIapi.marionbotapi.transfchatbot.config import *
 
 strategy = tf.distribute.get_strategy()
 
