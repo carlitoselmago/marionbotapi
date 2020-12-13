@@ -16,13 +16,13 @@ try:
     from train import transformer
     from train import CustomSchedule
     from train import accuracy, loss_function
-    from config import *
+    from config_prod import *
 except:
     from app.botAIapi.marionbotapi.transfchatbot.train import textPreprocess
     from app.botAIapi.marionbotapi.transfchatbot.train import transformer
     from app.botAIapi.marionbotapi.transfchatbot.train import CustomSchedule
     from app.botAIapi.marionbotapi.transfchatbot.train import accuracy, loss_function
-    from app.botAIapi.marionbotapi.transfchatbot.config import *
+    from app.botAIapi.marionbotapi.transfchatbot.config_prod import *
 from colorama import init
 from colorama import Fore, Back
 init()
@@ -36,10 +36,10 @@ strategy = tf.distribute.get_strategy()
 BATCH_SIZE = int(64 * strategy.num_replicas_in_sync)
 
 try:
-    with open('tokenizer.pickle', 'rb') as handle:
+    with open('saved/tokenizer_prod.pickle', 'rb') as handle:
         tokenizer = pickle.load(handle)
 except:
-    with open('app/botAIapi/marionbotapi/transfchatbot/tokenizer.pickle', 'rb') as handle:
+    with open('app/botAIapi/marionbotapi/transfchatbot/saved/tokenizer_prod.pickle', 'rb') as handle:
         tokenizer = pickle.load(handle)
 
 # Define start and end token to indicate the start and end of a sentence
@@ -77,7 +77,7 @@ def predict(sentence):
   prediction = evaluate(sentence.lower(),model)
   predicted_sentence = tokenizer.decode(
       [i for i in prediction if i < tokenizer.vocab_size])
-  return predicted_sentence.lstrip()
+  return predicted_sentence.lstrip().capitalize() 
 
 
 learning_rate = CustomSchedule(D_MODEL)
@@ -94,14 +94,15 @@ model = transformer(
       dropout=DROPOUT)
 
 model.compile(optimizer=optimizer, loss=loss_function, metrics=[accuracy])
+
 try:
-    model.load_weights('saved_weights.h5')
+    model.load_weights('saved/saved_weights_prod.h5')
 except:
-    model.load_weights('app/botAIapi/marionbotapi/transfchatbot/saved_weights.h5')
+    model.load_weights('app/botAIapi/marionbotapi/transfchatbot/saved/saved_weights_prod.h5')
 
 if __name__ == '__main__':
     while True:
 
         prompt = input("you: ")
 
-        print("bot:".predict(prompt))
+        print("bot:"+predict(prompt))

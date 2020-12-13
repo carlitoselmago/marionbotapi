@@ -18,10 +18,7 @@ import pickle
 import datetime
 
 
-try:
-    from config import *
-except:
-    from app.botAIapi.marionbotapi.transfchatbot.config import *
+
 
 
 
@@ -515,4 +512,8 @@ def main():
 
 
 if __name__ == '__main__':
+    try:
+        from config import *
+    except:
+        from app.botAIapi.marionbotapi.transfchatbot.config import *
     main()
