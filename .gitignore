@@ -12,6 +12,7 @@
 *.pkl
 *.pickle
 transfchatbot/logs/
+transfchatbot/__pycache__/
 
 =1.6
 
