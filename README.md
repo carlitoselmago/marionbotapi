@@ -6,7 +6,7 @@ A work in progres chatbot for marionbot.ddns.net
 
 + seq2seq (multiple versions)
 + gpt2 (finetuning from english base)
-+ **transformers**: transf2.py
++ **transformers**: transf2.py (based on https://chatbotslife.com/replicate-your-friend-with-transformer-bc5efe3a1596)
 
 ## Corpus
 
