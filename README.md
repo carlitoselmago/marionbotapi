@@ -1,4 +1,11 @@
-# Marionbot
+# **** This repository is deprecated ****
+For a much cleaner and better organized version (with included web GUI) go to https://github.com/carlitoselmago/marionbot-turfu
+
+
+
+
+
+## Marionbot
 
 A work in progres chatbot for marionbot.ddns.net
 
